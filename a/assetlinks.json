@@ -1,5 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "kz.technodom.mobile",
-                 "sha256_cert_fingerprints": ["08:38:7D:BF:4F:53:B6:A0:52:51:AA:82:93:CF:DF:86:C7:4E:CD:18:1A:7D:DD:80:03:F3:0F:76:0E:C4:95:E3"] }
-  }]
