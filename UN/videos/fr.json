@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "La Guinée à la tribune de l'Assemblée générale",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/a7cx5txx4e8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "a7cx5txx4e8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Assemblée générale de l'ONU en 74 secondes - Troisième jour",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "LClumBE4FVs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "#AG74 : « Nous devons conjuguer nos efforts pour trouver des solutions »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/nOg4omIUXd0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "nOg4omIUXd0"
     }
    }
   }
