@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Дневник Генассамблеи ООН 26 сентября 2019 г.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/WvDItg10yOM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "WvDItg10yOM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Генсек ООН о предотвращении сексуальной эксплуатации",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "p_RayaZadzo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Россия: самая красивая страна",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/272aWXIPw2U/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "272aWXIPw2U"
     }
    }
   }

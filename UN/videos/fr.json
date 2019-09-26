@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Décès de Jacques Chirac, ancien président de la France",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_FKgkq_q3vk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_FKgkq_q3vk"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Le Tchad à la tribune de l'Assemblée générale",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "jktsGDiEW0Y"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Assemblée générale de l'ONU en 74 secondes - Deuxième jour",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/HHSlKvf4VeI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "HHSlKvf4VeI"
     }
    }
   }
