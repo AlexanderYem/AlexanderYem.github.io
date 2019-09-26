@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Le Maroc plaide pour une gestion humaine des migrations",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1jSdBQeilTM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1jSdBQeilTM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "La République démocratique du Congo à la tribune de l'Assemblée générale",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "4XkDaZIQldE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Le Niger à la tribune de l’Assemblée générale des Nations Unies",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ciii8k_Hy9k/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ciii8k_Hy9k"
     }
    }
   }
