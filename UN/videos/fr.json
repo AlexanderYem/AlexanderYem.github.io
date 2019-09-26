@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Le Tchad à la tribune de l'Assemblée générale",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/29iySTPNfs8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "29iySTPNfs8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Luxembourg : « la paix c’est comme une petite plante »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "HHSlKvf4VeI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Suisse : « souvent la force des grands prime sur le droit des petits »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/KJ6Uq3Ey2VA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "KJ6Uq3Ey2VA"
     }
    }
   }
