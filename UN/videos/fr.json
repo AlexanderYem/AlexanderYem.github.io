@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "La Côte d'Ivoire à la tribune de l'Assemblée générale",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wou_b8BPgsQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Wou_b8BPgsQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "AGNU : financement du développement, armes nucléaires, paix et sécurité en Afrique",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gVom72V8Do0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Le Sénégal à la tribune de l’Assemblée générale des Nations Unies",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/xflRd6IPtwA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "xflRd6IPtwA"
     }
    }
   }
