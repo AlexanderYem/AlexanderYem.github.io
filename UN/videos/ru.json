@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Джейсон Момоа",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/u2IvHMmbhnU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "u2IvHMmbhnU"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Дневник Генассамблеи ООН 27 сентября",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/aeqelIaVrNg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "aeqelIaVrNg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Лучше 10 лет переговоров, чем 1 день войны -  С.Лавров открыл в ООН выставку о А.Громыко",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "_gB3Dp1d7qo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дневник Генеральной Ассамблеи ООН - 23 сентября 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/j2JLdeOLSE8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "j2JLdeOLSE8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Речь Греты Тунберг на Саммите по климату",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Z1r5SvD4PbU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Z1r5SvD4PbU"
     }
    }
   }
