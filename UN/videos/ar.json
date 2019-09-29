@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "الخطاب الكامل لرئيس وزراء السودان، عبدالله حمدوك في مداولات الجمعية العامة للأمم المتحدة",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ayUIk1TZBm8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ayUIk1TZBm8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "رئيس الوزراء السوداني يدعو لرفع اسم بلاده من قائمة الدول الداعمة للإرهاب",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "SOAy4cXt59w"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "كلمة الرئيس اللبناني ميشال عون أمام الجمعية العامة",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/oajamj7-3vw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "oajamj7-3vw"
     }
    }
   }
