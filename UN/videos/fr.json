@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "#AGNU : clôture d'une semaine intensive de haut niveau",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/V0MVvWcy-7g/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "V0MVvWcy-7g"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Haïti à la tribune de l'Assemblée générale",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "516PJ9OsiDM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Les Comores à la tribune de l'Assemblée général de l'ONU",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tR5-Bbh1-58/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tR5-Bbh1-58"
     }
    }
   }
