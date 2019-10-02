@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 02 Oktoba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mIHfjeLBws0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mIHfjeLBws0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 01 Oktoba 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "6vHiXxx2Jlc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Rais Uhuru Kenyatta na Ujumbe wake kwa Mkutano Mkuu wa UNGA74",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/EiEuei_ai_Y/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "EiEuei_ai_Y"
     }
    }
   }

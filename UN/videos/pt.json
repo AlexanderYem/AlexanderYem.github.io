@@ -2,7 +2,33 @@
  "items": [
   {
    "snippet": {
-    "title": "Dia Internacional da Não-Violência, seca em Angola e a história de um menino sírio",
+    "title": "A história do menino sírio que voltou para a escola com a ajuda do Acnur",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZzDm4EHD8oY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ZzDm4EHD8oY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Seca em Angola afeta mais de 2 milhões de pessoas e tira crianças da escola",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/lH56Mq1QmLM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "lH56Mq1QmLM"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Dia Internacional da Não-Violência, seca em Angola e a história emocionante de um menino sírio",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/nVKY6HljOaA/hqdefault.jpg"
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "DooRByJkBmk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Na ONU, Marina Silva participa de painel coordenado por Prêmio Nobel da Paz,  Muhammad Yunus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/f3tSxM9erY8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "f3tSxM9erY8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Entrevista: ministro de Moçambique destaca prioridades do país",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QDZPNoBxwZY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QDZPNoBxwZY"
     }
    }
   }
