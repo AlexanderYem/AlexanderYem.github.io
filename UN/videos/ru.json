@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Азизбек Ашуров",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ah5d9JCN3mM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ah5d9JCN3mM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Дневник 74-ой сессии Генассамблеи ООН. Заключительный выпуск",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "MEFYzdhwQlA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дневник Генеральной Ассамблеи ООН 24 сентября 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qDxnL6Moh8g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qDxnL6Moh8g"
     }
    }
   }
