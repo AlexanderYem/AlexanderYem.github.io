@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "« L’égalité des sexes est fondamentalement une question de pouvoir »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/man_aiY70NM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "man_aiY70NM"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "« La diversité n’est pas une menace, c’est une richesse »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ABlZDBBpmgo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ABlZDBBpmgo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Réfugiés, migrants, déplacés … « Où est passée notre solidarité ? »",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "k5zTtQMf8Tc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Madagascar subit de plein fouet des conséquences du changement climatique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/kuNXUGWnvVU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "kuNXUGWnvVU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "#AGNU : clôture d'une semaine intensive de haut niveau",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/V0MVvWcy-7g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "V0MVvWcy-7g"
     }
    }
   }

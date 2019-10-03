@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 03 Oktoba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/UVEBNNISuac/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "UVEBNNISuac"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Je, ni sahihi wanaume kwenda kiliniki?",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "cmKhR0Ur3ZI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Profesa Palamagamba John Kabudi azungumza na UN, New York",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/bd1VVVzizGE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "bd1VVVzizGE"
     }
    }
   }
