@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Je, ni sahihi wanaume kwenda kiliniki?",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/HLbRLMkL_hg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "HLbRLMkL_hg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 02 Oktoba 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bd1VVVzizGE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Pata taswira ya vyombo vya habari vikirusha matangazo ya  UN",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/6vHiXxx2Jlc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "6vHiXxx2Jlc"
     }
    }
   }
