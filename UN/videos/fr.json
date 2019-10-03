@@ -2,7 +2,20 @@
  "items": [
   {
    "snippet": {
-    "title": "Burundi : la situation sécuritaire dans le pays constitue aucune menace à la paix et à la sécurité",
+    "title": "« Des droits longuement acquis sont menacés, mis à mal, détournés »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/VfFvnVwwCyE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "VfFvnVwwCyE"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Le Burundi doit être retiré de l’agenda du Conseil de sécurité des Nations Unies.",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/oonJZW-P7us/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Pt6O20s3iOo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Le Mali  à la tribune de l'Assemblée générale",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/VvAxukGlvYc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "VvAxukGlvYc"
     }
    }
   }
