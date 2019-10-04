@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mabwanyenye Afrika kulikoni?",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/0sPYN3Jge6M/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "0sPYN3Jge6M"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 03 Oktoba 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "CMwD24NPKOE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Tanzania iko tayari kuendelea kuwaweka askari wake DRC",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/cmKhR0Ur3ZI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "cmKhR0Ur3ZI"
     }
    }
   }
