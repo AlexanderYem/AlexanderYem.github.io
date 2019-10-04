@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "República Democrática do Congo comemora sobrevivente número 1000 do ebola",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/K8bq5lvQrJU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "K8bq5lvQrJU"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Os efeitos da mudança climática no Djibouti",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/gIermS_G2U0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "gIermS_G2U0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Surto de ebola, mudança climática e refugiados da Síria",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "f_gndcF5irA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mortes no Mar Mediterrâneo, violência no Haiti e o Dia Internacional das Pessoas Idosas",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/jPH9TG3tCJc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "jPH9TG3tCJc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Assembleia Geral da ONU 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/4krPmUd8fC4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "4krPmUd8fC4"
     }
    }
   }
