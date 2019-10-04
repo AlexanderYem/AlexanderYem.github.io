@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Dia Mundial dos Professores destaca importância dos jovens",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/tIMin0iOLjI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "tIMin0iOLjI"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "República Democrática do Congo comemora sobrevivente número 1000 do ebola",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "M_aqqq5IauU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU preocupada com violência  no Haiti",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/zLzWsZliC7w/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "zLzWsZliC7w"
     }
    }
   }
