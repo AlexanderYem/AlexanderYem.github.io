@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mshindi wa tuzo ya mwalimu bora zaidi-Peter Tabichi",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/pttEQ5pO15E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "pttEQ5pO15E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN Oktoba 4, 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "FlyLv3GkMl8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Uhuru Kenyatta aelezea vipaumbele vya nchi yake kwenye Baraza Kuu",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/RlbZ7X4iES4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "RlbZ7X4iES4"
     }
    }
   }
