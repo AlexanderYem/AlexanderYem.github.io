@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="https://news.un.org/en/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>UN News</title>
- <description>Global perspective, human stories</description>
- <link>https://news.un.org/en/</link>
- <atom:link rel="self" href="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
- <language>en</language>
- <image> <url>https://news.un.org/en/sites/all/themes/bootstrap_un_news/images/un-emblem-for-rss.png</url>
- <title>UN News</title>
- <link>https://news.un.org/en/</link>
- <description>Global perspective, human stories</description>
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="https://news.un.org/ru/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Новости ООН</title>
+ <description>Глобальный взгляд Человеческие судьбы</description>
+ <link>https://news.un.org/ru/</link>
+ <atom:link rel="self" href="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
+ <language>ru</language>
+ <image> <url>https://news.un.org/ru/sites/all/themes/bootstrap_un_news/images/un-emblem-for-rss.png</url>
+ <title>Новости ООН</title>
+ <link>https://news.un.org/ru/</link>
+ <description>Глобальный взгляд Человеческие судьбы</description>
  <width>144</width>
  <height>144</height>
 </image>
@@ -20,269 +20,275 @@
  <itunes:owner> <itunes:name>UN Global Communications, Digital Solutions Unit</itunes:name>
  <itunes:email>webadmin@un.org</itunes:email>
 </itunes:owner>
- <item> <title>Friday&#039;s Daily Brief: Ebola survivors top 1,000 in DR Congo, star of &#039;Roma&#039; film named Goodwill Ambassador, clean air treaty enters into force</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048592111112</link>
- <description><![CDATA[123]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-08-2019-Ebola-DR-Congo-07.jpg/image770x420cropped.jpg" length="100978" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048592</guid>
- <pubDate>Fri, 04 Oct 2019 16:44:23 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
-</item>
- <item> <title>Ground-breaking clean air protocol to guard human health and the planet, enters into force </title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048612</link>
- <description><![CDATA[European and North American countries will take a major stride in cleaning up the atmosphere next Monday, 7 October, through the implementation of an amended legally binding treaty to limit the amount of emissions polluting the air. 
+ <item> <title>В понедельник вступят в силу новые международные нормы, регулирующие выбросы черного углерода </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364472</link>
+ <description><![CDATA[В понедельник вступят в силу международные нормы, которые  ограничивают национальные выбросы так называемого черного углерода - продукта неполного сгорания угля, дизельного топлива или биотоплива. Основными источниками таких выбросов являются лесные пожары, потребление энергии в жилищном секторе, на транспорте и в промышленности. Черный углерод, или попросту сажа, не только ухудшает качество воздуха, но и ускоряет глобальное потепление. Например, попадая на лед или белый снег, сажа резко увеличивает поглощение солнечной радиации. 
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/04-10-2019_NICA-451909_Canada_air+pollution.jpg/image770x420cropped.jpg" length="77477" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048612</guid>
- <pubDate>Fri, 04 Oct 2019 16:19:25 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/05/24498/image770x420cropped.jpg" length="62684" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364472</guid>
+ <pubDate>Fri, 04 Oct 2019 16:40:28 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN expresses concern following wave of street protests in Iraq and elsewhere</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048582</link>
- <description><![CDATA[The United Nations is urging authorities in Iraq to allow citizens to exercise their right to freedom of expression after the security forces opened fire on mass anti-government protests which began earlier this week.
+ <item> <title>Эксперты ООН призвали запретить группу опасных химических веществ, которые сегодня активно используются в производстве</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364452</link>
+ <description><![CDATA[В пятницу эксперты ООН рекомендовали запретить группу широко распространенных химических веществ, представляющих серьезную угрозу здоровью человека, а также окружающей среде. Речь идет о перфторгексановой сульфоновой кислоте (ПФГСК), ее солях и родственных соединениях, которые активно используются в производстве многих потребительских товаров.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/2-10-2019_Baghdad-01.jpg/image770x420cropped.jpg" length="108232" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048582</guid>
- <pubDate>Fri, 04 Oct 2019 14:19:18 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/printer.jpg/image770x420cropped.jpg" length="55833" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364452</guid>
+ <pubDate>Fri, 04 Oct 2019 15:30:36 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>FIFA and UN kick off healthy living campaign, to harness global game’s ‘huge potential’</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048572</link>
- <description><![CDATA[At a ceremony held in Geneva on Friday, the World Health Organization (WHO) and football’s world governing body, FIFA, announced that they are teaming up to raise awareness of the benefits of a healthy lifestyle.
+ <item> <title>Главные новости дня | пятница</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364442</link>
+ <description><![CDATA[Новости ООН со всего мира - в кратком обзоре: демонстрации в Ираке, рекомендации ЮНИСЕФ по оказанию помощи детям, пострадавшим от мин на востоке Украины, новое решение Бельгии по усыновлению детей по исламскому закону, ограничение выбросов сажи.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/04-10-2019_WHO_FIFA_collaboration.jpg/image770x420cropped.jpg" length="138797" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048572</guid>
- <pubDate>Fri, 04 Oct 2019 12:45:57 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/05/31-05-2018-WMO-smog.jpg/image770x420cropped.jpg" length="54928" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364442</guid>
+ <pubDate>Fri, 04 Oct 2019 15:17:42 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN highlights milestone of 1,000 Ebola survivors in DR Congo amid complex environment of conflict and mistrust</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048562</link>
- <description><![CDATA[One thousand people have survived the Ebola outbreak in the Democratic Republic of the Congo (DRC): a testament to the strong leadership of the Congolese health authorities combined with the tireless efforts of thousands of local health workers and partners, United Nations agencies said on Friday.
+ <item> <title>Детский фонд ООН: украинские дети, подорвавшиеся на минах, должны иметь возможность получать медицинскую и психологическую помочь </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364422</link>
+ <description><![CDATA[На востоке Украины более 200 тысяч детей проживают в 20-километровой зоне по обе стороны от линии разграничения, которая усеяна минами и неразорвавшимися снарядами. Об этом говорится в новом докладе Детского фонда ООН (ЮНИСЕФ). В нем изложены рекомендации правительству Украины по разработке стратегии, призванной оказать поддержку пострадавшим.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-08-2019-Ebola-DR-Congo-05.jpg/image770x420cropped.jpg" length="78292" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048562</guid>
- <pubDate>Fri, 04 Oct 2019 11:18:01 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/05/20-05-2019-Ukraine-Schools-Shelling-UN0312582.JPG/image770x420cropped.jpg" length="154153" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364422</guid>
+ <pubDate>Fri, 04 Oct 2019 13:47:42 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN commits to help Pacific island agriculture adapt and survive climate crisis</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048552</link>
- <description><![CDATA[The UN’s Food and Agriculture Organization (FAO) pledged on Friday to work hand in hand with the people of the Pacific to improve nutrition, and mitigate the worst effects of climate change, which pose an existential threat to many island nations across the region. 
+ <item> <title>Тысяча пациентов, переживших Эболу, полностью вылечились и вернулись домой</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364412</link>
+ <description><![CDATA[Уже тысяча человек в Демократической Республике Конго вылечились от Эболы и смогли вернуться домой. Об этом в пятницу сообщили из Всемирной организации здравоохранения (ВОЗ). Грамоту тысячной «выжившей» – жительнице ДР Конго по имени Кавира – вручил лично глава ООН Антониу Гутерриш во время своей недавней поездки в страну. Сегодня женщина смогла вернуться к своим родным и близким.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/04-10-2019-Fiji.jpg/image770x420cropped.jpg" length="180474" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048552</guid>
- <pubDate>Fri, 04 Oct 2019 11:08:28 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/07/17-07-2019_Red-Cross_Ebola-DRC.jpg/image770x420cropped.jpg" length="121014" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364412</guid>
+ <pubDate>Fri, 04 Oct 2019 12:33:38 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Thursday&#039;s Daily Brief: UN chief remembers former Assembly President, Council on Africa&#039;s Great Lakes, FAO data shows stable food prices</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048522</link>
- <description><![CDATA[A recap of Thursday's stories: Guterres addresses climate emergency in op-ed; UN envoy highlights 'golden opportunity' for Africa's Great Lakes region; FAO scales up banana crop protection against disease; Data shows September food prices held steady; Somalia Partnership Forum concludes.
-
- 
+ <item> <title>В ООН приветствовали решение Бельгии предоставить визу ребенку, усыновленному по законам ислама</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364402</link>
+ <description><![CDATA[Члены Комитета ООН по правам ребенка высоко оценили решение властей Бельгии, которые прислушались к их рекомендациям и изменили правила выдачи долгосрочных виз для детей, над которыми установлено опекунство по исламскому закону «кафала». Теперь при принятии решений о визе в первую очередь учитываются интересы самого ребенка.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/23-09-2019_NICA-822089_SG_climate-summit-03.jpg/image770x420cropped.jpg" length="138210" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048522</guid>
- <pubDate>Thu, 03 Oct 2019 17:15:11 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/23-09-2019-youth-NICA821464.jpg/image770x420cropped.jpg" length="74548" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364402</guid>
+ <pubDate>Fri, 04 Oct 2019 12:06:32 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>FAO plants new efforts to protect bananas under disease threat </title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048532</link>
- <description><![CDATA[In a renewed effort to help protect banana crops in Latin America and the Caribbean, the UN Food and Agriculture Organization (FAO) has launched an emergency project to curb major plant losses threatened by a fungal disease, the agency announced on Thursday.
+ <item> <title>В Ираке при разгоне демонстраций убиты и ранены десятки человек</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364392</link>
+ <description><![CDATA[На этой неделе по Ираку прокатилась волна массовых протестов. Большинство их участников - безработные молодые люди, которые требуют соблюдения своих экономических и социальных прав.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/02/14417/image770x420cropped.jpg" length="74689" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048532</guid>
- <pubDate>Thu, 03 Oct 2019 17:10:55 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/2-10-2019_Baghdad-03.jpg/image770x420cropped.jpg" length="121284" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364392</guid>
+ <pubDate>Fri, 04 Oct 2019 10:55:05 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Can we feed the world and ensure no one goes hungry?</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048452</link>
- <description><![CDATA[Enough food is produced today to feed everyone on the planet, but hunger is on the rise in some parts of the world, and some 821 million people are considered to be “chronically undernourished”. What steps are being taken to ensure that everyone, worldwide, receives sufficient food?
+ <item> <title>ФАО: производству бананов в Латинской Америке угрожает эпидемия грибка</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364382</link>
+ <description><![CDATA[Спасти любимые многими бананы – такую цель поставили перед собой сотрудники Продовольственной и сельскохозяйственной организации. Начиная с 1990-х годов по планете распространяется фузариоз, грибковое заболевание, способное уничтожить не только урожай бананов, но и целые плантации. Потребуются «чрезвычайные меры».
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-10-2019_WFP_Cambodia_school-meals.jpg/image770x420cropped.jpg" length="107285" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048452</guid>
- <pubDate>Thu, 03 Oct 2019 16:48:27 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2014/12/20832/image770x420cropped.jpg" length="148648" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364382</guid>
+ <pubDate>Thu, 03 Oct 2019 18:04:55 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Security Council must seize &#039;golden opportunity&#039; for stability in Great Lakes region: UN envoy</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048482</link>
- <description><![CDATA[The international community must step up efforts to end instability around Africa’s Great Lakes so that millions there can benefit from its riches, the UN Special Envoy for the region told the Security Council on Thursday.
+ <item> <title>ООН: страны района Великих озер в Африке могут жить в мире  </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364372</link>
+ <description><![CDATA[Международное сообщество должно более настойчиво добиваться стабильности в районе Великих озер в Африке, чтобы миллионы местных жителей могли воспользоваться богатыми природными ресурсами региона. Об этом заявил в четверг, выступая в Совбезе, Специальный посланник ООН по району Великих озер Хуань Ся.
 ]]></description>
  <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-10-2019_UNDP_DRC_women-business.jpg/image770x420cropped.jpg" length="149233" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048482</guid>
- <pubDate>Thu, 03 Oct 2019 13:55:31 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364372</guid>
+ <pubDate>Thu, 03 Oct 2019 16:01:04 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN’s Guterres: Broad climate ‘movement’ has begun, but there’s a long way to go </title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048472</link>
- <description><![CDATA[When it comes to the climate emergency, “we have a long way to go. But the movement has begun,” UN Secretary-General António Guterres declared in a widely-distributed opinion piece on Thursday, reaffirming his concern over the threats posed by a warming world, unless more urgent action is taken. 
+ <item> <title>Генсек ООН о борьбе с изменением климата: впереди долгий путь, но движение набирает силу</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364362</link>
+ <description><![CDATA[В колонке, опубликованной в 170 средствах массовой информации мира, глава ООН Антониу Гутерриш вновь предупреждает о климатическом кризисе и необходимости принять срочные меры. Он напоминает, что миллионы молодых людей обвинили мировых лидеров в бездействии. 
 ]]></description>
  <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-10-2019_UN_Idai-Beira-02.jpg/image770x420cropped.jpg" length="109580" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048472</guid>
- <pubDate>Thu, 03 Oct 2019 12:01:09 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364362</guid>
+ <pubDate>Thu, 03 Oct 2019 15:26:33 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>New electoral law for Somalia ‘a crucial next step’ says top UN envoy, addressing Partnership Forum </title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048462</link>
- <description><![CDATA[The Somalia Partnership Forum concluded on Wednesday in the capital Mogadishu, with attendees - including the UN Special Representative for the country - taking stock of progress made, while also noting remaining challenges and agreeing on a set of priorities moving forward.
+ <item> <title>Главные новости дня | четверг</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364352</link>
+ <description><![CDATA[Новости ООН со всего мира. Кратко: Совбез ООН рассмотрел ситуацию в регионе Великих озер, в Женеве обсудили права детей в Грузии, Генсек ООН опубликовал статью о климате, ФАО встала на защиту бананов. 
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-10-2019_UNSOM_Somalia-govt.jpg/image770x420cropped.jpg" length="88910" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048462</guid>
- <pubDate>Thu, 03 Oct 2019 11:38:19 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/09/GRAPHIC-GA73-agg_main_banner.jpg/image770x420cropped.jpg" length="125770" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364352</guid>
+ <pubDate>Thu, 03 Oct 2019 13:42:49 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Wednesday&#039;s Daily Brief: African youth pivotal to silencing the guns, UNHCR prize winner announced, street clashes in Iraq, Haiti humanitarian update</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048432</link>
- <description><![CDATA[A recap of Wednesday's top stories: Kyrgyz lawyer honoured by UN refugee agency; Positive but realistic outlook in runup to Syria talks; Security Council debates how African youth can bolster peace; refugees in Mexico pursue innovative labor initiatives; UN laments violent clashes in Iraq; Roadblocks in humanitarian aid for Haiti.
+ <item> <title>Грузии рекомендовали укрепить защиту детей от сексуальной эксплуатации </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364332</link>
+ <description><![CDATA[Защитить детей от сексуальной эксплуатации, особенно в сфере туризма; предотвратить преследования несовершеннолетних в интернете и  пересмотреть законы, связанные с суррогатным материнством. Эти и другие рекомендации вынесли Грузии члены Комитета ООН по правам ребенка.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019-_UNICEF-UN0331179_Al-Hol-camp-Syria.jpg/image770x420cropped.jpg" length="88888" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048432</guid>
- <pubDate>Wed, 02 Oct 2019 17:44:18 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/2019-02-14-flags-Geneva-night.jpg/image770x420cropped.jpg" length="118930" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364332</guid>
+ <pubDate>Thu, 03 Oct 2019 11:57:01 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN condemns deadly simultaneous terrorist attacks on military camps in Mali</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048442</link>
- <description><![CDATA[The United Nations condemned on Wednesday, with “the utmost energy”, simultaneous terrorist attacks on military camps in central Mali, close to the border with Burkina Faso, that left dozens dead and scores missing.
+ <item> <title>Треть продуктов питания в мире выбрасывается. В ООН запустили глобальную кампанию по борьбе с потерей продовольствия</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364302</link>
+ <description><![CDATA[Черствый хлеб? Подгнившее с одной стороны яблоко? Заплесневевший сыр? Что делать с такими продуктами? Многие принимают решение их выбросить. По данным Всемирной продовольственной программы (ВПП), на помойке оказывается треть всех продуктов питания на планете. Глобальная экономика теряет из-за этого порядка триллиона долларов ежегодно.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/01/31413725540_c1d13cd323_o.jpg/image770x420cropped.jpg" length="75043" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048442</guid>
- <pubDate>Wed, 02 Oct 2019 17:03:17 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/10/15-10-2018-WFD-DD2.jpg/image770x420cropped.jpg" length="125466" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364302</guid>
+ <pubDate>Wed, 02 Oct 2019 17:17:57 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Mexico: Helping refugees go into business, a ‘win-win situation’, says UNHCR’s Grandi</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048422</link>
- <description><![CDATA[Through an innovative and collaborative scheme, some refugees in Mexico have started their own businesses creating what the UN refugee chief called on Wednesday “a win-win situation” for the local economy.
+ <item> <title>Главные новости дня | среда</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364262</link>
+ <description><![CDATA[Самы важные события в штаб-квартире ООН в Нью-Йорке и в мире. Кратко: юрист из Кыргызстана – лауреат премии Насена, Международный день ненасилия, глава ВОЗ посетил разрушенные ураганом Багамы, самый низкий уровень безработицы за 10 лет.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-10-2019_UNHCR-Grandi_Mexico-01.jpg/image770x420cropped.jpg" length="152699" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048422</guid>
- <pubDate>Wed, 02 Oct 2019 15:17:33 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/10/28179/image770x420cropped.jpg" length="85520" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364262</guid>
+ <pubDate>Wed, 02 Oct 2019 14:14:59 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Africa must ‘value youth’ in the drive towards lasting peace, young envoy tells Security Council </title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048412</link>
- <description><![CDATA[Recognizing the potential of African youth caught up in conflict to forge peace, is crucial for nurturing their developing identities, and could help them turn away from violence, a youth representative told the Security Council on Wednesday.  
+ <item> <title>Правозащитник Азизбек Ашуров из Кыргызстана удостоен престижной премии Нансена</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364242</link>
+ <description><![CDATA[Сегодня в Управлении Верховного комиссара ООН по делам беженцев (УВКБ) объявили лауреата престижной премии Нансена. Им стал киргизский юрист и правозащитник Азизбек Ашуров, благодаря которому Кыргызстану первым в мире удалось покончить с проблемой безгражданства.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-10-2019_UNMISS_peace-concert.jpg/image770x420cropped.jpg" length="161804" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048412</guid>
- <pubDate>Wed, 02 Oct 2019 14:43:30 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-10-2019-Nansen1.jpg/image770x420cropped.jpg" length="119014" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364242</guid>
+ <pubDate>Wed, 02 Oct 2019 12:31:10 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>WHO chief underscores need to address climate change following visit to Bahamas</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048402</link>
- <description><![CDATA[The top UN health official has called for the world to rally around The Bahamas as the country continues to emerge from the devastation caused by Hurricane Dorian one month ago.
+ <item> <title>Международный день ненасилия – 150 лет с рождения Махатмы Ганди</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364232</link>
+ <description><![CDATA[Насилие может принимать самые разные формы – от вооруженного насилия в ходе конфликтов и нарушений прав человека до ненавистнических высказываний и лишения людей возможности достойно и безбедно жить. Об этом по случаю Международного дня ненасилия, который отмечается 2 октября, напомнил глава ООН Антониу Гутерриш.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-10-2019-WHO-Bahamas.jpg/image770x420cropped.jpg" length="121326" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048402</guid>
- <pubDate>Wed, 02 Oct 2019 14:27:16 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019_Non-Violence-Day_Gandhi.jpg/image770x420cropped.jpg" length="167905" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364232</guid>
+ <pubDate>Wed, 02 Oct 2019 11:58:19 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>&#039;Tenacious&#039; Kyrgyz lawyer and statelessness champion, wins prestigious UNHCR prize</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048382</link>
- <description><![CDATA[A rights lawyer who took to horseback to help more than 10,000 stateless people gain nationality in Kyrgystan after the break-up of the Soviet Union, has been awarded the UN refugee agency’s prestigious 2019 Nansen Refugee Award.
+ <item> <title>Хотя рынок труда восстанавливается, ликвидировать бедность вряд ли удастся</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364202</link>
+ <description><![CDATA[Сегодня мировой уровень безработицы – самый низкий за последние десять лет. Об этом рассказал заместитель Генерального секретаря ООН по экономическим и социальным вопросам Лю Чжэньминь, выступая на заседании Третьего комитета Генеральной Ассамблеи. Вместе с тем он сообщил, что в мире все еще много бедняков и голодающих, а также стремительно растут масштабы экономического, гендерного и других форм неравенства.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-10-2019-Nansen2.jpg/image770x420cropped.jpg" length="139090" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048382</guid>
- <pubDate>Wed, 02 Oct 2019 12:30:40 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019-Liu-zhenmin.jpg/image770x420cropped.jpg" length="61122" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364202</guid>
+ <pubDate>Tue, 01 Oct 2019 16:05:42 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Peace icon Mahatma Gandhi’s message of ‘mutual understanding, equality’ reverberates on Day of Non-Violence</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048362</link>
- <description><![CDATA[On Wednesday, the global community marks the International Day of Non-Violence, which this year coincided with the 150th anniversary of the birth of the global peace icon who led India to independence, Mahatma Gandhi.
+ <item> <title>В Нью-Йорке начинают работу основные комитеты 74-й сессии Генеральной Ассамблеи</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364192</link>
+ <description><![CDATA[В штаб-квартире ООН в Нью-Йорке начинают работу основные комитеты 74-й сессии Генеральной Ассамблеи. Именно в них идет главная работа - обсуждаются самые актуальные вопросы и вырабатываются проекты резолюций Ассамблеи. При этом в каждом из существующих шести комитетов царит своя особая атмосфера.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics+Library/02-10-2019-UN-Stamp-Gandhi.jpg/image770x420cropped.jpg" length="155273" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048362</guid>
- <pubDate>Tue, 01 Oct 2019 22:25:09 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/12282018-NICA_781949_2.jpg/image770x420cropped.jpg" length="128547" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364192</guid>
+ <pubDate>Tue, 01 Oct 2019 15:20:21 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Countries urged to make ‘digital world’ safer for children</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048352</link>
- <description><![CDATA[Rising Internet connectivity has the potential to transform children’s lives for the better, but also makes them vulnerable to sexual abuse, online harassment and bullying, recruitment by extremist groups, and other risks, according to a new UN-backed report published on Tuesday.
+ <item> <title>Более 70 процентов детей пользуются интернетом – в ООН представили новый доклад об опасностях виртуального пространства</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364182</link>
+ <description><![CDATA[17 процентов родителей сообщают, что их дети стали жертвами кибербуллинга – издевательств в интернете. В некоторых странах этот показатель достигает 37 процентов. Каждый 5-й ребенок в возрасте от 9 до 17 лет сталкивается в виртуальном пространстве с материалами сексуального характера. Это лишь некоторые статистические данные, которые приводятся в новом докладе Комиссии ООН по широкополосной связи в интересах устойчивого развития.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/UN014974.jpg/image770x420cropped.jpg" length="88790" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048352</guid>
- <pubDate>Tue, 01 Oct 2019 17:03:51 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/2019-02-05-UNICEF-SafeInternet-UN067579.jpg/image770x420cropped.jpg" length="83031" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364182</guid>
+ <pubDate>Tue, 01 Oct 2019 13:46:28 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Tuesday’s Daily Brief: Greek island shelter crisis, only 8 per cent of UNGA speakers women, Russian alcohol laws extending lives, Older Persons Day</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048342</link>
- <description><![CDATA[Tuesday’s top stories: Greece urged to fast-track asylum-seekers as 1,000 die on the Mediterranean; just 16 women addressed UN General Assembly; less alcohol means longer lives in Russia; cholera campaign in Sudan; standing up for older people on international day.
+ <item> <title>Главные новости дня | вторник</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364172</link>
+ <description><![CDATA[Новости ООН со всего мира. Кратко: Международный день пожилых людей, переполненные лагеря беженцев на греческих островах, сокращение потребления алкоголя в России, защита детей в интернете. 
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019_Elderly-Women_Vietnam.jpg/image770x420cropped.jpg" length="111368" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048342</guid>
- <pubDate>Tue, 01 Oct 2019 14:19:54 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/05/27295/image770x420cropped.jpg" length="132531" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364172</guid>
+ <pubDate>Tue, 01 Oct 2019 13:26:30 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Athens urged to fast track asylum seekers amid island shelters crisis – UNHCR</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048312</link>
- <description><![CDATA[A spike in the number of refugees reaching Greek island reception centres is likely to worsen the situation in already “dangerously overcrowded” facilities there, the UN refugee agency said on Tuesday.
-
- 
+ <item> <title>Израиль отчитается о выполнении Пакта по экономическим, социальным и культурным правам</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364152</link>
+ <description><![CDATA[В Женеве в понедельник открылась очередная сессия Комитета по экономическим, социальным и культурным правам. Она продлится до 18 октября. За это время свои доклады членам Комитета представят Дания, Эквадор, Израиль, Сенегал, Словакия и Швейцария.
+]]></description>
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/02/26716/image770x420cropped.jpg" length="128319" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364152</guid>
+ <pubDate>Tue, 01 Oct 2019 12:42:57 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
+</item>
+ <item> <title>Беженцы на греческих островах живут в переполненных центрах, их нужно расселять</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364142</link>
+ <description><![CDATA[Сегодня в Управлении Верховного комиссара по делам беженцев (УВКБ) призвали власти Греции и другие страны Европейского союза в срочном порядке расселить искателей убежища, скопившихся в переполненных центрах на греческих островах в Эгейском море.
 ]]></description>
  <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019_UNHCR_Greece_asylum-seekers-03.jpg/image770x420cropped.jpg" length="117896" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048312</guid>
- <pubDate>Tue, 01 Oct 2019 12:35:50 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364142</guid>
+ <pubDate>Tue, 01 Oct 2019 12:13:21 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>WHO and UNICEF in campaign to protect 1.6 million in Sudan from cholera</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048322</link>
- <description><![CDATA[UN agencies are working with the authorities in Sudan to protect more than one million people from cholera, an infectious disease which can kill within hours if left untreated.
-]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019-UNICEF-Sudan-UN0323849.jpg/image770x420cropped.jpg" length="230724" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048322</guid>
- <pubDate>Tue, 01 Oct 2019 12:34:56 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
-</item>
- <item> <title>Strict alcohol laws which cut intake more than 40 per cent in Russia, linked to historically high life expectancy</title>
- <link>https://news.un.org/feed/view/en/story/2019/10/1048282</link>
- <description><![CDATA[Strict laws put in place by the Russian authorities since 2003 have resulted in a significant drop in alcohol-related deaths nationwide, a report from the World Health Organization (WHO) revealed on Tuesday.
+ <item> <title>ВОЗ: россияне стали почти в два раза меньше пить и значительно дольше жить</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364122</link>
+ <description><![CDATA[В России сократилось потребление алкоголя и благодаря этому снизилось число связанных с ним смертельных случаев. К такому выводу пришли специалисты Всемирной организации здравоохранения (ВОЗ). В своем новом докладе они утверждают, что главная причина этих позитивных изменений – меры по контролю за алкогольной продукцией, которые власти принимали с 2003 года.
 ]]></description>
  <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/01-10-2019_UNSPLASH_alcohol.jpg/image770x420cropped.jpg" length="112492" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/10/1048282</guid>
- <pubDate>Tue, 01 Oct 2019 11:08:12 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364122</guid>
+ <pubDate>Tue, 01 Oct 2019 11:24:03 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Millions of Afghans have ‘voted not just for a president, but also for democracy’, UN Assembly told</title>
- <link>https://news.un.org/feed/view/en/story/2019/09/1048272</link>
- <description><![CDATA[Just two days ago, some three million Afghans faced the threat of terrorism and headed to the polls, to “vote not just for a president, but also for democracy,” Hamdulla Mohib, Afghanistan’s National Security Adviser told the UN General Assembly on Monday, adding that no matter the outcome of the elections, “peace is and will remain the Government’s priority.”
+ <item> <title>Эксперт ООН: права пожилых людей на международном уровне никак не защищены</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/10/1364082</link>
+ <description><![CDATA[Права пожилых людей – в отличие от прав детей, женщин, людей с ограниченными возможностями, мигрантов и беженцев – практически никак не защищены на международном уровне. На сегодняшний день не существует ни одного универсального правового инструмента, созданного специально для того, чтобы отстаивать интересы этой группы людей.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019-NICA-826562-General-Debate-74-Afghanistan.jpg/image770x420cropped.jpg" length="97456" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/09/1048272</guid>
- <pubDate>Mon, 30 Sep 2019 18:40:55 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/05/14-05-2019_WHO_Healthy-Lifestyle.jpg/image770x420cropped.jpg" length="162821" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/10/1364082</guid>
+ <pubDate>Tue, 01 Oct 2019 00:50:08 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>UN General Assembly President upholds value of multilateralism in speech closing annual debate</title>
- <link>https://news.un.org/feed/view/en/story/2019/09/1048242</link>
- <description><![CDATA[The only way to guarantee peace, security and sustainable development is for countries to work together, the UN General Assembly president said in his speech on Monday concluding the annual high-level debate in the Hall.
+ <item> <title>Среди 192-х выступивших с трибуны Генеральной Ассамблеи ООН было всего 16 женщин </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364072</link>
+ <description><![CDATA[В штаб-квартире ООН в Нью-Йорке завершилась общеполитическая дискуссия на 74-й сессии Генеральной Ассамблеи ООН. С трибуны выступили более 100 глав государств и правительств, а также десятки министров иностранных дел и главы делегаций других рангов - всего 192 оратора. Но среди них было всего 16 женщин. Председатель 74-й сессии Генеральной Ассамблеи Тиджани Мухаммад-Банде призвал покончить с таким гендерным неравенством.
 ]]></description>
  <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019_NICA-826644_GA_closing-ceremony.jpg/image770x420cropped.jpg" length="118854" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/09/1048242</guid>
- <pubDate>Mon, 30 Sep 2019 17:24:21 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364072</guid>
+ <pubDate>Mon, 30 Sep 2019 16:27:10 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>‘We need to stand up now’ for the elderly: urges UN rights expert on World Day</title>
- <link>https://news.un.org/feed/view/en/story/2019/09/1048252</link>
- <description><![CDATA[In the coming decade, the number of persons aged 60 or over is projected to grow by 46 per cent, making the increase in those officially classified as elderly, one of the “most significant transformations of this century,'' the United Nations declared on Tuesday, marking the International Day of Older Persons. 
+ <item> <title>Призыв к талибам: соглашайтесь на мир или будьте готовы потерпеть поражение</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364052</link>
+ <description><![CDATA[Прошлогоднее предложение движению «Талибан» заключить мир остается в силе и сегодня. Об этом с трибуны Генеральной Ассамблеи ООН заявил советник президента страны по национальной безопасности Хамдулла Мохиб. Он рассказал делегатам Генеральной Ассамблеи об успешно прошедших президентских выборах и планах по укреплению мира и продвижению развития.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/08-08-2019-UNESCO-LICH-Mapoyo-Project-04.jpg/image770x420cropped.jpg" length="100986" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/09/1048252</guid>
- <pubDate>Mon, 30 Sep 2019 17:19:49 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019-NICA-826562-General-Debate-74-Afghanistan.jpg/image770x420cropped.jpg" length="97456" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364052</guid>
+ <pubDate>Mon, 30 Sep 2019 13:49:53 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>DPRK reports ‘little progress’ since historic June 2018 summit with US</title>
- <link>https://news.un.org/feed/view/en/story/2019/09/1048232</link>
- <description><![CDATA[Lack of progress in achieving peace on the Korean Peninsula is “entirely attributable” to the United States, a senior official from the Democratic People’s Republic of Korea (DPRK) told the UN General Assembly on Monday.
+ <item> <title>Спецпосланник ООН по Сирии: Конституционный комитет приступит к работе через месяц</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364042</link>
+ <description><![CDATA[Уже через месяц, 30 октября, 150 мужчин и женщин соберутся и начнут работу в рамках только что созданного Конституционного комитета Сирии. Об этом в понедельник на заседании Совета Безопасности объявил Специальный посланник главы ООН по Сирии Гейр Педерсен.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019-NICA-826555-General-Debate-74-DPRK.jpg/image770x420cropped.jpg" length="92911" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/09/1048232</guid>
- <pubDate>Mon, 30 Sep 2019 16:47:48 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019-Pedersen-SC-NICA826533.jpg/image770x420cropped.jpg" length="98951" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364042</guid>
+ <pubDate>Mon, 30 Sep 2019 12:20:24 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
- <item> <title>Monday&#039;s Daily Brief: Hopes rise for peace in Syria and Yemen, UNGA speeches end, Guterres saddened by India flood deaths</title>
- <link>https://news.un.org/feed/view/en/story/2019/09/1048212</link>
- <description><![CDATA['Sign of hope' for long-suffering Syrians as new committee forms; Yemen prisoner release signals hope for Yemen; Assembly President closes formal Debate; Refugees evacuated from Libya to Rwanda; Multilingualism observed on World Day.
+ <item> <title>Повстанцы-хуситы в Йемене освободили 290 пленных</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364032</link>
+ <description><![CDATA[Йеменские повстанцы-хуситы – движение «Ансар Аллах» – освободили 290 пленных. Специальный посланник ООН по Йемену Мартин Гриффитс приветствовал этот односторонний акт и призвал все стороны обеспечить безопасное возвращение заключенных в свои дома.
 ]]></description>
- <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019_UNICEF-318507_Idlib.jpg/image770x420cropped.jpg" length="133265" type="image/jpeg" />
- <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2019/09/1048212</guid>
- <pubDate>Mon, 30 Sep 2019 16:17:55 -0400</pubDate>
- <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml" />
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/30-09-2019_OCHA_Yemen-01.jpg/image770x420cropped.jpg" length="164682" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364032</guid>
+ <pubDate>Mon, 30 Sep 2019 11:14:54 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
+</item>
+ <item> <title>Генсек ООН приветствовал проведение президентских выборов в Афганистане</title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364012</link>
+ <description><![CDATA[Генеральный секретарь ООН Антониу Гутерриш приветствовал проведение президентских выборов в Афганистане. Голосование состоялось 28 сентября. Глава ООН поздравил всех афганцев, которые, несмотря на угрозу безопасности, выполнили свой гражданский долг и приняли участие в выборах.
+]]></description>
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-09-2019-Afghanistan1.jpg/image770x420cropped.jpg" length="59635" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364012</guid>
+ <pubDate>Sun, 29 Sep 2019 19:03:39 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
+</item>
+ <item> <title>Эльмар Мамедъяров: «оккупация территории Азербайджана подрывает мир и безопасность в регионе»   </title>
+ <link>https://news.un.org/feed/view/ru/story/2019/09/1364002</link>
+ <description><![CDATA[Азербайджан выступает за многосторонний подход в решении международных проблем, а также всецело поддерживает усилия ООН в области борьбы с изменением климата и выполнения Целей устойчивого развития. Выступая в Генассамблее, министр иностранных дел Азербайджана Эльмар Мамедъяров заявил о том, что Армения оккупирует пятую часть территории Азербайджана, и обвинил Ереван в «саботировании мирных переговоров» и «пренебрежении международным правом».
+]]></description>
+ <enclosure url="http://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/10/28-09-2018+Azerbaijan-UNGA-NICA.jpg/image770x420cropped.jpg" length="86095" type="image/jpeg" />
+ <guid isPermaLink="true">https://news.un.org/feed/view/ru/story/2019/09/1364002</guid>
+ <pubDate>Sat, 28 Sep 2019 19:27:42 -0400</pubDate>
+ <source url="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" />
 </item>
 </channel>
 </rss>
