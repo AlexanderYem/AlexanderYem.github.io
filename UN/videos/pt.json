@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Nova parceria da OMS com a FIFA",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZjjY-DSrJ6E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ZjjY-DSrJ6E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Dia Mundial dos Professores destaca importância dos jovens",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "nVKY6HljOaA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Internacional da Não-Violência",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/M_aqqq5IauU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "M_aqqq5IauU"
     }
    }
   }
