@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "«Война и мир» в Женеве",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/fF2bd4Opm1c/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "fF2bd4Opm1c"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Азизбек Ашуров",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "PSZUqg2XZu8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Обед для мировых лидеров",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/MEFYzdhwQlA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "MEFYzdhwQlA"
     }
    }
   }
