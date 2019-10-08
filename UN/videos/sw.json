@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN OKTOBA 8, 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/evumcl3nUS4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "evumcl3nUS4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Buriani!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "HLbRLMkL_hg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 02 Oktoba 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/mIHfjeLBws0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "mIHfjeLBws0"
     }
    }
   }
