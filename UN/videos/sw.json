@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Buriani!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/vZSlHvRMsiM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "vZSlHvRMsiM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Kwaherini ya kuonana!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "mIHfjeLBws0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 01 Oktoba 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/EEMBI8iVv8A/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "EEMBI8iVv8A"
     }
    }
   }
