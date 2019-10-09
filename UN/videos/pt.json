@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "O papel da energia nuclear na mitigação das mudanças climáticas",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/lsVZlr4DC24/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "lsVZlr4DC24"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Nova chefe do FMI assume e comunica crescimento lento em 90% do mundo",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "2pxI1Rruxro"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Nova parceria da OMS com a FIFA",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZjjY-DSrJ6E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ZjjY-DSrJ6E"
     }
    }
   }

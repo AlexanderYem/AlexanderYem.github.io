@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Burkina Faso : l'ONU se mobilise face à une situation alarmante",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/F1kFXMVLcPc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "F1kFXMVLcPc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Le Vanuatu s’engage à n'utiliser que des énergies renouvelables",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ayiW3LIKkX4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Le Togo mesure l’ampleur de la menace terrorisme",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/f4VLaPcXLMY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "f4VLaPcXLMY"
     }
    }
   }
