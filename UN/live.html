@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style type="text/css">
+		body {margin:0;padding:0;}
+        iframe {
+            padding:0;
+            margin: 0;
+            display: block;
+            width: 100%;
+            visibility: hidden;
+        }
+    </style>
+    <script language="javascript">
+		function tuneIFrame() {
+			const frame = document.getElementById("frame");
+			frame.style.height = window.innerHeight+"px";
+			frame.style.visibility = "visible";
+		}
+		window.addEventListener("resize", tuneIFrame, false);
+	</script>
+</head>
+
+<body style="background: black" onLoad="tuneIFrame()">
+<iframe id="frame" src="https://www.youtube.com/embed/GgFAPqOF0aI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</body>
+</html>
