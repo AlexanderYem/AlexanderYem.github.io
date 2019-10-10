@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Всемирный день зрения",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/yVFxeHJXyrg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "yVFxeHJXyrg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "«Война и мир» в Женеве",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "OuXA6z4pMvY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Амаль Клуни в защиту журналистов",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/PSZUqg2XZu8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "PSZUqg2XZu8"
     }
    }
   }
