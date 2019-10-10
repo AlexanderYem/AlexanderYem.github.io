@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Situação de crianças na Síria preocupa Unicef",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PEIirEJMQYk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PEIirEJMQYk"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Dia Mundial da Saúde Mental destaca combate ao suicídio",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "785yQlx6_98"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Mundial do Habitat, tributo a três soldados de paz e parceria da OMS com a Fifa",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/JIRqNH-D1uw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "JIRqNH-D1uw"
     }
    }
   }
