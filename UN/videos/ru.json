@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Туфли для школьниц в Бенине",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/sNBuFhuU90Y/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "sNBuFhuU90Y"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Всемирный день зрения",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ScJvsKA8fnE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дневник Генеральной Ассамблеи ООН 25 сентября 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/OuXA6z4pMvY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "OuXA6z4pMvY"
     }
    }
   }
