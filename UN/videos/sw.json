@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Kazi moja tu!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/MZpQAfA65TU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "MZpQAfA65TU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN Oktoba 9, 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Mciw5KI4YI4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mabwanyenye Afrika kulikoni?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/0sPYN3Jge6M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "0sPYN3Jge6M"
     }
    }
   }
