@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Manguezais: super aliados e defensores da costa",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/MoV_cnuVB3I/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "MoV_cnuVB3I"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "O papel da energia nuclear na mitigação das mudanças climáticas",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "e4_GaegUhhE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Mundial do Habitat",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/2pxI1Rruxro/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "2pxI1Rruxro"
     }
    }
   }
