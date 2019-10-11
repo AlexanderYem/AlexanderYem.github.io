@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN OKTOBA 11, 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/GDq_8bbCH5c/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "GDq_8bbCH5c"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Hata nami nilipata msongo wa mawazo- Doreen Peter Noni",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "un25bidv32M"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Msidhani Afrika hakuna demokrasia- Comoro",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Xk642JbtcXc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Xk642JbtcXc"
     }
    }
   }
