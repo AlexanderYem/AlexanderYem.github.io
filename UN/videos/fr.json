@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Les femmes et jeunes, acteurs de l’édification de sociétés pacifiques",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/aQiSWciQuW4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "aQiSWciQuW4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Burkina Faso : l'ONU se mobilise face à une situation alarmante",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "oonJZW-P7us"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Bénin : La paix et la sécurité du Sahel sont cruciales pour la stabilité de la région",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ayiW3LIKkX4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ayiW3LIKkX4"
     }
    }
   }
