@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Алексей Леонов: «А Земля-то круглая!»",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/teiM6WNQW-E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "teiM6WNQW-E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Туфли для школьниц в Бенине",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "WvDItg10yOM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Генсек ООН о предотвращении сексуальной эксплуатации",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ScJvsKA8fnE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ScJvsKA8fnE"
     }
    }
   }
