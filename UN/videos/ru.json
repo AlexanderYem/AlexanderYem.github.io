@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Опасность бедствий",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/-IkxHv3vTNM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "-IkxHv3vTNM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Алексей Леонов: «А Земля-то ведь круглая!»",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "KCs5v2CHQKk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дневник Генассамблеи ООН 26 сентября 2019 г.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/WvDItg10yOM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "WvDItg10yOM"
     }
    }
   }
