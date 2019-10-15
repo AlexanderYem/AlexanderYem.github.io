@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "نازحون سوريون يروون جانبا من معاناتهم بعد الفرار بسبب العنف",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/sio5FeS_N_c/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "sio5FeS_N_c"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "نازحون سوريون يروون قصصهم بعد الهرب من العنف والموت",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/5VrjX88zMDE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "5VrjX88zMDE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "العاملون في المجال الإنساني يحذرون من أن هجوم تركيا على سوريا قد يؤدي إلى كارثة إنسانية أخرى",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "RT752WrHRbk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "بيدرسون: اللجنة الدستورية لن تحل الأزمة لكنها ستساعد على \"تضييق الهوة\" المجتمع السوري",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/FL6FkcHGpmM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "FL6FkcHGpmM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ياسمين شريف - مديرة منظمة التعليم لاينتظر: التعليم حتمية أخلاقية وإنسانية لا تنتظر",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Cjz1zNuvq0M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Cjz1zNuvq0M"
     }
    }
   }
