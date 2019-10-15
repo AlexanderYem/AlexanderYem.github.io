@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Uma em cada três crianças com menos de cinco anos está desnutrida",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/XeZ2LX0i2zc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "XeZ2LX0i2zc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Síria: operações militares da Turquia contra combatentes curdos já deslocou mais de 160 mil pessoas",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hZW48oHdIQw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Situação de crianças na Síria, Dia Mundial de Saúde Mental e a importância dos manguezais",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/25PwDAx06B8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "25PwDAx06B8"
     }
    }
   }
