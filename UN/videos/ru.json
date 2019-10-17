@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Пироска Остлин - глава Европейского бюро ВОЗ",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/n8bTSPqLIns/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "n8bTSPqLIns"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Прогноз МВФ на 2019-2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "qWKer3RoAoQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Джейсон Момоа",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/u2IvHMmbhnU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "u2IvHMmbhnU"
     }
    }
   }
