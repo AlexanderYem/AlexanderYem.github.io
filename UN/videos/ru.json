@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Сирийские курды прибывают в Ирак",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/C6lH23V6fEc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "C6lH23V6fEc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Пироска Остлин - глава Европейского бюро ВОЗ",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ah5d9JCN3mM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дневник 74-ой сессии Генассамблеи ООН. Заключительный выпуск",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qWKer3RoAoQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qWKer3RoAoQ"
     }
    }
   }
