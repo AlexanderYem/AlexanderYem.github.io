@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Marcha \"Libres e iguales\" en Uruguay",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/j90cFaCa6p0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "j90cFaCa6p0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Ante los desastres, más vale prevenir",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "IYSuFRNHApo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Celebremos la democracia",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QF_EMKW3BW8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QF_EMKW3BW8"
     }
    }
   }
