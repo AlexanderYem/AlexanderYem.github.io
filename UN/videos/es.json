@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Día de las Naciones Unidas, 24 de octubre",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZaCoWxcAupo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ZaCoWxcAupo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Marcha \"Libres e iguales\" en Uruguay",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "tufWzo5QcxU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mensaje por el Día Internacional de los Pueblos Indígenas",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/IYSuFRNHApo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "IYSuFRNHApo"
     }
    }
   }
