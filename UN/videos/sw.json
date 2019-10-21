@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 21, Oktoba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1E3RAfHJVNU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1E3RAfHJVNU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Serikali ya Tanzania inatusaidia sana sisi vijana-Paul Siniga",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "SV3rCqySJI4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Je, Kenya inapiga hatua katika kuwashirikisha watu wenye ulemavu kuelekea kufanikisha SDGs?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/uOaG4BsoLuc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "uOaG4BsoLuc"
     }
    }
   }
