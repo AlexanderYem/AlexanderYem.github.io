@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "رسالة الأمين العام للأمم المتحدة أنطونيو غوتيريش بمناسبة يوم الأمم المتحدة",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2Yt_J9TPqYU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2Yt_J9TPqYU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "يمثل القضاء على الفقر أولوية رئيسية بالنسبة لرئيس الجمعية العامة، السيد تيجاني محمد باندي",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "sio5FeS_N_c"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "نازحون سوريون يروون قصصهم بعد الهرب من العنف والموت",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/5VrjX88zMDE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "5VrjX88zMDE"
     }
    }
   }
