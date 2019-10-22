@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "« C’est dans les espaces publics que la vie culturelle prend forme »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_Kn_xEnB1GM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_Kn_xEnB1GM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Lacroix : « Les défis actuels en Haïti ne justifient pas une présence du maintien de la paix »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "man_aiY70NM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "« La diversité n’est pas une menace, c’est une richesse »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ABlZDBBpmgo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ABlZDBBpmgo"
     }
    }
   }
