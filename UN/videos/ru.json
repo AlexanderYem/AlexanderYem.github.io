@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Представитель МИД Беларуси",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/UF6bpQuDLhw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "UF6bpQuDLhw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Сирийские курды прибывают в Ирак",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "fF2bd4Opm1c"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Азизбек Ашуров",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ah5d9JCN3mM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ah5d9JCN3mM"
     }
    }
   }
