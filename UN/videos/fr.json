@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Journée des Nations Unies : Message du Secrétaire général de l'ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/BThM3U0VpGc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "BThM3U0VpGc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "« C’est dans les espaces publics que la vie culturelle prend forme »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "TY166WE-YtQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "« L’égalité des sexes est fondamentalement une question de pouvoir »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/man_aiY70NM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "man_aiY70NM"
     }
    }
   }

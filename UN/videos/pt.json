@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU celebra o 74º aniversário",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/dr0GYmfESMw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "dr0GYmfESMw"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Guterres diz que ONU está focada nos problemas reais de pessoas reais",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/4stWXHOHarc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "4stWXHOHarc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Cessar-fogo no Iêmen, brasileira em campanha contra a fome e importância da ONU em Moçambique",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "bdyZBMxEDns"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Secretário-geral destaca eleições presidências gerais em Moçambique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NosqjOcRxjA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NosqjOcRxjA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ODSs no encontro anual do Fundo Monetário Internacional",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/RP9-R8OSel8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "RP9-R8OSel8"
     }
    }
   }
