@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 24 Oktoba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Dda1u2shANw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Dda1u2shANw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Uamuzi wa mahakama ya rufaa ni ushindi kwa watoto wa kike Tanzania-Gyumi",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "DTsqoHEckug"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Ukata wahatarisha uhai wa watu milioni 3 wanaokosa tiba dhidi ya TB",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/CXD_pXMJV8w/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "CXD_pXMJV8w"
     }
    }
   }
