@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Guterres fala sobre protestos no mundo, eleições presidenciais na Guiné-Bissau e novo estudo da OMS",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/x33hIlevvMk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "x33hIlevvMk"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Novo estudo da OMS sobre taxas de gravidez indesejada",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/JDMnJQCm7nw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "JDMnJQCm7nw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Embaixador do Brasil junto à ONU visita Guiné-Bissau sobre eleições presidenciais",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "aV-n8e6efgw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Brasileira junta-se a estilista Michael Kors em campanha contra a fome",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/dkO7ZaL30lc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "dkO7ZaL30lc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Campanha para proibir o uso de robôs assassinos",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/VMzAmb5OlaQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "VMzAmb5OlaQ"
     }
    }
   }
