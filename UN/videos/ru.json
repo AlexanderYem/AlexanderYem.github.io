@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Сирийские переселенцы",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uMg7Yolbfow/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uMg7Yolbfow"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Димаш Кудайберген в ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/J0ByCxPA754/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "J0ByCxPA754"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Мобильные клиники для выявления ВИЧ/СПИДа",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "teiM6WNQW-E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Туфли для школьниц в Бенине",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/sNBuFhuU90Y/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "sNBuFhuU90Y"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Всемирный день зрения",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/yVFxeHJXyrg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "yVFxeHJXyrg"
     }
    }
   }
