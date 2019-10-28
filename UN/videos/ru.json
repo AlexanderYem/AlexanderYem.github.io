@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Мобильные клиники для выявления ВИЧ/СПИДа",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/YlTnzvRIF2Q/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "YlTnzvRIF2Q"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Представитель МИД Беларуси",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "yVFxeHJXyrg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "«Война и мир» в Женеве",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/fF2bd4Opm1c/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "fF2bd4Opm1c"
     }
    }
   }
