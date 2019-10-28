@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Projeto digitaliza arquivos que contam a história da ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/klloAWBeKSU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "klloAWBeKSU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mais de 10 mil pessoas fogem para o Iraque após ofensiva no nordeste da Síria",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "4stWXHOHarc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Cessar-fogo no Iêmen, brasileira em campanha contra a fome e importância da ONU em Moçambique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/HgqYTo2MAvg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "HgqYTo2MAvg"
     }
    }
   }
