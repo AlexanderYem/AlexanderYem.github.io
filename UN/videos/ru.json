@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Собрание сочинений Е.М.Примакова в дар Библиотеке ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/iXdAxEXzjlg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "iXdAxEXzjlg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Сирийские переселенцы",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "-IkxHv3vTNM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Алексей Леонов: «А Земля-то ведь круглая!»",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/teiM6WNQW-E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "teiM6WNQW-E"
     }
    }
   }
