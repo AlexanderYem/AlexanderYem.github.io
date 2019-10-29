@@ -2,19 +2,6 @@
  "items": [
   {
    "snippet": {
-    "title": "Meninas e mulheres no esporte: modelos para a próxima geração.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/4JQjvT5aWUM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "4JQjvT5aWUM"
-    }
-   }
-  },
-  {
-   "snippet": {
     "title": "Morte de jornalista saudita, refugiados da Síria e história da ONU",
     "thumbnails": {
      "high": {
@@ -127,6 +114,19 @@
     },
     "resourceId": {
      "videoId": "qT7nqU3dGr4"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "ONU celebra o 74º aniversário",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/dr0GYmfESMw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "dr0GYmfESMw"
     }
    }
   }
