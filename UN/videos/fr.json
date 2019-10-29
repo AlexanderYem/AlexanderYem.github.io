@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Les femmes doivent participer aux processus de paix.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/MdiBsMWELFo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "MdiBsMWELFo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Affaire Khashoggi :  « le meurtre faisait partie d'un plan », Agnès Callamard",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "aQiSWciQuW4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Burkina Faso : l'ONU se mobilise face à une situation alarmante",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/F1kFXMVLcPc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "F1kFXMVLcPc"
     }
    }
   }
