@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/J2Sz0N4IkgE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "J2Sz0N4IkgE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 29 Oktoba 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "xPzVaeciVM0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 23 Oktoba 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/lauzPssD0aY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "lauzPssD0aY"
     }
    }
   }
