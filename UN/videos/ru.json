@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Мигранты в Эфиопии",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/YKo_I_1GSqM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "YKo_I_1GSqM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Собрание сочинений Е.М.Примакова в дар Библиотеке ООН",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "DbG-g1hx5iw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Опасность бедствий",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/-IkxHv3vTNM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "-IkxHv3vTNM"
     }
    }
   }
