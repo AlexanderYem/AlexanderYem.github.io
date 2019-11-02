@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Фотоконкурс имени Стенина - в ООН открылась выставка работ лауреатов международного конкурса",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/-2iqdP218FQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "-2iqdP218FQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Мигранты в Эфиопии",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "btw8T-fBCh8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дети переселенцев в Сирии",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/DbG-g1hx5iw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "DbG-g1hx5iw"
     }
    }
   }
