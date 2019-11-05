@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Женщина-полицейский ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NvJ8j9v3LYs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NvJ8j9v3LYs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Фотоконкурс имени Стенина - в ООН открылась выставка работ лауреатов международного конкурса",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "n8bTSPqLIns"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Прогноз МВФ на 2019-2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/btw8T-fBCh8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "btw8T-fBCh8"
     }
    }
   }
