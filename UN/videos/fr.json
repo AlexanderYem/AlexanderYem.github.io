@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "« Les villes bâtissent le monde de demain »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/FbCdpfwnABU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "FbCdpfwnABU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Fin de l'impunité pour les crimes commis contre des journalistes",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "8NU8jGIiXDM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "En Haïti, l’ONU referme la page du maintien de la paix dans un contexte difficile",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Y6D3cakKxzc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Y6D3cakKxzc"
     }
    }
   }
