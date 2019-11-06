@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 6 Novemba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Lv4mAr9YJxU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Lv4mAr9YJxU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Polisi wa Umoja wa Mataifa 2019 ni Meja Seynabou Diouf!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "eDeWQsoT-A8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 30 oktoba 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Jy7rDIZINoc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Jy7rDIZINoc"
     }
    }
   }
