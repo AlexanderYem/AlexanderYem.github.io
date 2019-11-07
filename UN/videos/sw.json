@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN Novemba 7, 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/X9GSvv_CrcI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "X9GSvv_CrcI"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Nimefika New York bila kulipa hata shilingi mia moja!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "zgsqGdh-5wM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 31 OKTOBA 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/FZ9NgcOhKXY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "FZ9NgcOhKXY"
     }
    }
   }
