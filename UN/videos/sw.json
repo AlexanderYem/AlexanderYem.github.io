@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 08 Novemba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/fQTAfw7XDZ0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "fQTAfw7XDZ0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Richard Katuma, kwenye Makao Makuu ya Umoja wa Mataifa!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bUK-e8INfZk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN Novemba 1, 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/IFtj6InOOmc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "IFtj6InOOmc"
     }
    }
   }
