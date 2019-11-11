@@ -2,6 +2,45 @@
  "items": [
   {
    "snippet": {
+    "title": "Nova fase da campanha Mares Limpos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/jrPnmB8iUS8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "jrPnmB8iUS8"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Conferência no Quênia discute população e desenvolvimento",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/XWeLQWRH2wg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "XWeLQWRH2wg"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Guterres pede contenção na Bolívia após renúncia do presidente Evo Morales",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/K6oFW7rA14g/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "K6oFW7rA14g"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU preocupada com situação na Bolívia, conferência no Quênia e Campanha Mares Limpos",
     "thumbnails": {
      "high": {
@@ -88,45 +127,6 @@
     },
     "resourceId": {
      "videoId": "pH1Zsn35d-E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Chefe da Polícia da ONU destaca ação para manter a paz",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/UMidgGR8z2g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "UMidgGR8z2g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU discute como reduzir transtornos de saúde mental de crianças e adolescentes",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/eNaUpG7b5Ac/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "eNaUpG7b5Ac"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Saúde mental de crianças, conflitos relacionados a recursos naturais e a Polícia das Nações Unidas",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tHlJPMOcfMo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tHlJPMOcfMo"
     }
    }
   }
