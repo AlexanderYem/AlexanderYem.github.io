@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Une femme en uniforme. Oui c’est possible !",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/gQKLoGjTKiQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "gQKLoGjTKiQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "RCA :  vers des élections présidentielles pacifiées et sereines",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "TOMZP3EZ9eM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Aller à l’école, c’est un droit pour les petites filles",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/yhTfpjtA0MU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "yhTfpjtA0MU"
     }
    }
   }
