@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Tombura!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/fMpgqOFwdUg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "fMpgqOFwdUg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 12 NOVEMBA 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Lv4mAr9YJxU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Polisi wa Umoja wa Mataifa 2019 ni Meja Seynabou Diouf!",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/WJ96_VN6Vgg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "WJ96_VN6Vgg"
     }
    }
   }
