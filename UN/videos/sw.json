@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 14 Novemba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_ETjm1_Ntyw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_ETjm1_Ntyw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Venezuela!!!!!!!!!!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "IHSW0mXMJF4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN Novemba 7, 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/X9GSvv_CrcI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "X9GSvv_CrcI"
     }
    }
   }

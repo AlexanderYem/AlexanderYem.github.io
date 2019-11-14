@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mali : « nous avons besoin de pain pour manger, on n'a pas besoin d'armes »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/USFW2JyNHGA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "USFW2JyNHGA"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "La Police de l’ONU change",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "vETPceEUuP8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Les femmes doivent participer aux processus de paix.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/MdiBsMWELFo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "MdiBsMWELFo"
     }
    }
   }
