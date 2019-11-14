@@ -2,7 +2,20 @@
  "items": [
   {
    "snippet": {
-    "title": "Milhares de refugiados congoleses retornam de Angola para a RD do Congo",
+    "title": "ESPECIAL: o brasileiro que foi premiado no Festival de Vídeos da ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NjoUuyv4rxw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NjoUuyv4rxw"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "ESPECIAL: Milhares de refugiados congoleses retornam de Angola para a RD do Congo",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/fJnzqx9zAt4/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "K6oFW7rA14g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU preocupada com situação na Bolívia, conferência no Quênia e Campanha Mares Limpos",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/yUle93nCJic/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "yUle93nCJic"
     }
    }
   }
