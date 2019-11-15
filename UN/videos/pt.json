@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ESPECIAL: o brasileiro que foi premiado no Festival de Vídeos da ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PCRglfZW5hc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PCRglfZW5hc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ESPECIAL: Moçambique procura aumentar resiliência a clima em mudança",
     "thumbnails": {
      "high": {
@@ -23,19 +36,6 @@
     },
     "resourceId": {
      "videoId": "b4UyF8BJgeY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ESPECIAL: o brasileiro que foi premiado no Festival de Vídeos da ONU",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NjoUuyv4rxw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NjoUuyv4rxw"
     }
    }
   },
