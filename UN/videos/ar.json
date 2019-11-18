@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "د. محمود التامر يقدم نصائح للسيدات للوقاية من سرطان الثدي",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/kGhbSJXel_E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "kGhbSJXel_E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "رياض منصور: تصويت تاريخي لصالح ولاية الأونروا دليل على التمسك بقضية اللاجئين",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ngx95Hlb9RY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "...حتي لا تتحول أخطار الطبيعة إلى كوارث",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/EINESG1bLjo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "EINESG1bLjo"
     }
    }
   }
