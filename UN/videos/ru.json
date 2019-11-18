@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Права детей - услышьте их!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/LQWCM6pF8XY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "LQWCM6pF8XY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Деревня в Южном Судане",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "UF6bpQuDLhw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Сирийские курды прибывают в Ирак",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/C6lH23V6fEc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "C6lH23V6fEc"
     }
    }
   }
