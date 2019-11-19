@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "«Молодой чемпион Земли»  Марианна Мунтяну",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uB5XK6LQbvA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uB5XK6LQbvA"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Права детей - услышьте их!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "YlTnzvRIF2Q"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Представитель МИД Беларуси",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/UF6bpQuDLhw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "UF6bpQuDLhw"
     }
    }
   }
