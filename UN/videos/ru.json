@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "30 лет Конвенции о правах ребенка. Видео из архива ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/c_ZuygN_V-g/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "c_ZuygN_V-g"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Конвенции о правах ребенка 30 лет - Генсек ООН",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uMg7Yolbfow"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Димаш Кудайберген в ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/J0ByCxPA754/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "J0ByCxPA754"
     }
    }
   }
