@@ -15,6 +15,19 @@
   },
   {
    "snippet": {
+    "title": "Kila haki kwa kila mtoto!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/-A4Q6pBJZAA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "-A4Q6pBJZAA"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 19 Novemba 2019",
     "thumbnails": {
      "high": {
@@ -54,40 +67,66 @@
   },
   {
    "snippet": {
-    "title": "Vijana na mchakato wa Beijing+25",
+    "title": "Leo mimi kesho wewe!",
     "thumbnails": {
      "high": {
-      "url": "https://i.ytimg.com/vi/bUK-e8INfZk/hqdefault.jpg"
+      "url": "https://i.ytimg.com/vi/sErICz4NgMI/hqdefault.jpg"
      }
     },
     "resourceId": {
-     "videoId": "bUK-e8INfZk"
+     "videoId": "sErICz4NgMI"
     }
    }
   },
   {
    "snippet": {
-    "title": "Profesa Palamagamba John Kabudi azungumza na UN, New York",
+    "title": "Habari za UN",
     "thumbnails": {
      "high": {
-      "url": "https://i.ytimg.com/vi/bd1VVVzizGE/hqdefault.jpg"
+      "url": "https://i.ytimg.com/vi/5fT-3oQaJCs/hqdefault.jpg"
      }
     },
     "resourceId": {
-     "videoId": "bd1VVVzizGE"
+     "videoId": "5fT-3oQaJCs"
     }
    }
   },
   {
    "snippet": {
-    "title": "\"Hatukubali waliojitawaza viranja wa zama zetu.\" Mugabe",
+    "title": "\"Kupakua vyoo kumeniwezesha kusomesha wanangu...\"",
     "thumbnails": {
      "high": {
-      "url": "https://i.ytimg.com/vi/wzlV-kzyQ4s/hqdefault.jpg"
+      "url": "https://i.ytimg.com/vi/0NoGpOVwmy0/hqdefault.jpg"
      }
     },
     "resourceId": {
-     "videoId": "wzlV-kzyQ4s"
+     "videoId": "0NoGpOVwmy0"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Habari za UN 14 Novemba 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_ETjm1_Ntyw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_ETjm1_Ntyw"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Venezuela!!!!!!!!!!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/AP_O9S98jcg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "AP_O9S98jcg"
     }
    }
   }
