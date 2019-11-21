@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "أطفال سوريون يتحدثون عن القصف الذي طال مخيم النزوح في محافظة إدلب",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/7a0jyeFj5-M/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "7a0jyeFj5-M"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "السفيران الإسرائيلي والفلسطيني يخاطبان مجلس الأمن بشأن المستوطنات",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "N4p80_guum8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "حوار مع المرشد السياحي العربي الوحيد في مقرّ الأمم المتحدة بنيويورك",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/JO5zXjnRCio/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "JO5zXjnRCio"
     }
    }
   }
