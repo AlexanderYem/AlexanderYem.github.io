@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - Protestos no Equador e na Bolívia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/AKDI4RPU2Ks/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "AKDI4RPU2Ks"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Unesco oficializa 5 de Maio como Dia Mundial da Língua Portuguesa",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "QowiQ8x66SM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Jornalista Marcos Hummel comenta o Dia Mundial da Televisão",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/gLJSi1qzcv0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "gLJSi1qzcv0"
     }
    }
   }
