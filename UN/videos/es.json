@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensaje del Secretario General en el Día de los Derechos Humanos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/l5K_4Bb1E48/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "l5K_4Bb1E48"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mensaje del Secretario General en el Día de las Personas con Discapacidad",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "oMY3gsSuGv8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "¿Qué debemos hacer para luchar contra el cambio climático?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/u1KmgbFRWm8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "u1KmgbFRWm8"
     }
    }
   }

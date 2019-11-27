@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Exposição celebra Dia Internacional de Solidariedade com o Povo Palestino",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y9k26l05oa4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Y9k26l05oa4"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Guterres discursa no Fórum de Governança da Internet em Berlim",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2BT7oU8LhO0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2BT7oU8LhO0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Dia de Solidariedade com o Povo Palestino, Guterres em Berlim e novo campeão de igualdade de gênero",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "RdDIXQWRbac"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Internacional para a Eliminação da Violência contra as Mulheres",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/88eM6DxGb70/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "88eM6DxGb70"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU News no Globo Notícia Américas - Protestos no Equador e na Bolívia",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/AKDI4RPU2Ks/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "AKDI4RPU2Ks"
     }
    }
   }
