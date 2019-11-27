@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - A disputa comercial entre EUA e China",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/OQXrLsqylFw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "OQXrLsqylFw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Exposição celebra Dia Internacional de Solidariedade com o Povo Palestino",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "d9FAnVm10vw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Guiné-Bissau aguarda resultado das eleições para presidente",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/RdDIXQWRbac/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "RdDIXQWRbac"
     }
    }
   }
