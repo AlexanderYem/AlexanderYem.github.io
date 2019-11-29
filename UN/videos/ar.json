@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "\"قطار التضامن\" ينطلق من باريس لجنيف بهدف تثقيف الأوروبيين حول أزمة اللاجئين",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/6bgsiH4iEuQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "6bgsiH4iEuQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "الهجوم الإسرائيلي الأخير على غزة جزء من التجاذب بين الطرفين",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "3R03lApN41U"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "أطفال سوريون يتحدثون عن القصف الذي طال مخيم النزوح في محافظة إدلب",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/7a0jyeFj5-M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "7a0jyeFj5-M"
     }
    }
   }
