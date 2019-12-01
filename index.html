@@ -1,4 +1,4 @@
-
+<!-- ay@justprodev.com -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,16 +7,101 @@
 <title></title>
 <meta name="generator" content="dirty hands" />
 
-<style type="text/css">
+<style typeNextSymbol="text/css">
 body {
     margin: 20px;
 }
 </style>
 
+<style typeNextSymbol="text/css">
+  html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+  }
+  body {
+    background-color: transparent;
+    transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+  }
+  #frame{
+    font-family: Merriweather;
+    font-size: 32px;
+    position: absolute;
+    visibility: hidden;
+    text-align: center;
+    width: 100%;
+  }
+  @keyframes blink {
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+  }
+  #cursor { 
+    animation: blink 0.7s infinite;
+    margin: -2.5px;
+  }
+  #email { 
+    color: white;
+    background-color: black;
+  }
+  #label {
+    color: black;
+  }
+</style>
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300italic,regular,italic,700,700italic,900,900italic" rel="stylesheet" typeNextSymbol="text/css">
+<script language="javascript">
+  const email = "alex@justprodev.com";
+
+  function centerFrame() {
+    const frame = document.getElementById("frame");
+    frame.style.top = (window.innerHeight/2-frame.offsetHeight*2) + "px";
+    frame.style.visibility = "visible";
+  }
+
+  // typing the label
+  var label;
+  const text = "Implement your ideas with "+email;
+  var cursorPos = 0;
+
+  function typeLabel() {
+    centerFrame();
+    cursorPos = 0;
+    label = document.getElementById("label");
+    typeNextSymbol();
+  }
+
+  function typeNextSymbol() {
+    if(cursorPos > text.length) { selectEmail(); return; }
+    label.innerHTML = text.substr(0,cursorPos) + "<span id=\"cursor\">|</span>";
+    document.title = text.substr(0,cursorPos);
+    cursorPos++;
+    setTimeout(typeNextSymbol, 30);
+  }
+
+  var emailPos;
+
+  function selectEmail() {
+    emailPos = cursorPos = text.length - email.length;
+    setTimeout(selectNextSymbol, 1000);
+  }
+  function selectNextSymbol() {
+    if(cursorPos > text.length) return;
+    label.innerHTML = text.substr(0, emailPos) + "<a href=\"mailto:alex@justprodev.com\" id=\"email\">"+text.substr(emailPos, email.length-(text.length-cursorPos))+"<span id=\"cursor\">|</span></a>" + text.substr(cursorPos, text.length);
+    cursorPos++;
+    setTimeout(selectNextSymbol, 30);
+  }
+  // }
+  
+  window.addEventListener("resize", centerFrame, false);
+  window.addEventListener("load", typeLabel, false);
+</script>
+
 </head>
 
-<body >
-    
-</body>
+<body>
+  <div id="frame">
+      <p id="label"></p>
+  </div>
+</body>    
 </html>
-
