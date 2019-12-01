@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "VIrusi Vya Ukimwi si hukumu ya kifo- Doreen",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pklh3AhfU6o/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Pklh3AhfU6o"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Sisi watoto tunataka haki zetu zilindwe",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "D5wW8lGb-K8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Globetrotters!",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/rrxwo3KW5ng/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "rrxwo3KW5ng"
     }
    }
   }
