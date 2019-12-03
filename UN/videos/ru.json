@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Картины Галины Шевлак",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/SlCRWbgO-dY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "SlCRWbgO-dY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ЛИКВИДАЦИЯ НАСИЛИЯ В ОТНОШЕНИИ ЖЕНЩИН - обращение Генсека ООН по случаю Международного дня",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "YKo_I_1GSqM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Собрание сочинений Е.М.Примакова в дар Библиотеке ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/iXdAxEXzjlg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "iXdAxEXzjlg"
     }
    }
   }
