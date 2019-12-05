@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Интервью с депутатом Госдумы РФ Николаем Николаевым",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/hrtrOQLaT90/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "hrtrOQLaT90"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Картины Галины Шевлак",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "-2iqdP218FQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Мигранты в Эфиопии",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/YKo_I_1GSqM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "YKo_I_1GSqM"
     }
    }
   }
