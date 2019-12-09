@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - feminicídios na América Latina e Caribe",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NXsukomf7XM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NXsukomf7XM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Conferência Nacional da Rapariga em Moçambique",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "WxOlkuoo2NM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Campanhas de desinformação contra vacinas aumentam casos de sarampo no mundo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/D6Zrqd1-Onw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "D6Zrqd1-Onw"
     }
    }
   }
