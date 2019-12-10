@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Especial Dia dos Direitos Humanos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/SxanZa3nbJ0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "SxanZa3nbJ0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mãe de menina sequestrada pelo Boko Haram: O que está acontecendo com elas?",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "fjQx-sPWFrI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Os grandes desafios da mulher angolana",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tSLRMEp8O4M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tSLRMEp8O4M"
     }
    }
   }
