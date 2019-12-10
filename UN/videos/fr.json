@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Message du Secrétaire général de l'ONU à l’occasion de la Journée des droits de l’homme 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/L23PvWcFncQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "L23PvWcFncQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "L’efficacité du maintien de la paix est une responsabilité collective, rappelle l’ONU",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "B_oYY6R-rXQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "C’est quoi le rôle de la Cour internationale de Justice ?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/dTSZL-ffcJ0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "dTSZL-ffcJ0"
     }
    }
   }
