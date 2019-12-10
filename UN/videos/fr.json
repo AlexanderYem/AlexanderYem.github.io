@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Journée des droits de l'homme : les jeunes défendent les droits de l'homme.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/RlG-hqJZoJM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "RlG-hqJZoJM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Message du Secrétaire général de l'ONU à l’occasion de la Journée des droits de l’homme 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "n2zBhzqskBY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Maintien de la paix : les femmes ont un rôle crucial à jouer à tous les niveaux",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/B_oYY6R-rXQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "B_oYY6R-rXQ"
     }
    }
   }
