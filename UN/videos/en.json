@@ -2,6 +2,14 @@
  "items": [
   {
    "snippet": {
+    "title": "Private video",
+    "resourceId": {
+     "videoId": "VitZTAal2cE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "UN General Assembly in 74 seconds - Day 5",
     "thumbnails": {
      "high": {
@@ -114,19 +122,6 @@
     },
     "resourceId": {
      "videoId": "N_Uxdou8rO8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "UN Chief Brings Message of Support to Democratic Republic of the Congo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Vwg9vExo9sQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Vwg9vExo9sQ"
     }
    }
   }
