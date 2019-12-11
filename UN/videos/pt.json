@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Dia Internacional da Montanha",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/p96MFJIbfEA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "p96MFJIbfEA"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "COP 25 entra na reta final",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Vz7zkrAb6bM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Vz7zkrAb6bM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "COP 25: veja o discurso na íntegra de Greta Thunberg com legendas em português",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "nZDsdqXhE7g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Novo relatório do Índice de Desenvolvimento Humano",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/7hhPPcAfums/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "7hhPPcAfums"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Índice de Desenvolvimento Humano, prevenção do genocídio e Conferência da Rapariga em Moçambique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/XDTqC5hcxpg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "XDTqC5hcxpg"
     }
    }
   }
