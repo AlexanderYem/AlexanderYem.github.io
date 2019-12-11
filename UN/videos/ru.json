@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Доклад ПРООН о человеческом развитии - 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/dZPm-RM0Wks/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "dZPm-RM0Wks"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Интервью с депутатом Госдумы РФ Николаем Николаевым",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "NvJ8j9v3LYs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Фотоконкурс имени Стенина - в ООН открылась выставка работ лауреатов международного конкурса",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/-2iqdP218FQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "-2iqdP218FQ"
     }
    }
   }
