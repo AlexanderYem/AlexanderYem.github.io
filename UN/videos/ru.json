@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Грета Тунберг на Конференции по климату в Мадриде",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1wSML30zPr4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1wSML30zPr4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Глобальное изменение климата",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "LQWCM6pF8XY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Деревня в Южном Судане",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/TQetPUkiHNc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "TQetPUkiHNc"
     }
    }
   }
