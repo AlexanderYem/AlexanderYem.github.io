@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Глобальное изменение климата",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ylnqiz9ubr0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ylnqiz9ubr0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Доклад ПРООН о человеческом развитии - 2019",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "TQetPUkiHNc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Женщина-полицейский ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NvJ8j9v3LYs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NvJ8j9v3LYs"
     }
    }
   }
