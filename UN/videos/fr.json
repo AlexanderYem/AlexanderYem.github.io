@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "« Le monde se réchauffe à une vitesse plus rapide que nous le pensions »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/xWH3ZA_aDV4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "xWH3ZA_aDV4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Journée des droits de l'homme : les jeunes défendent les droits de l'homme.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gQKLoGjTKiQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "RCA :  vers des élections présidentielles pacifiées et sereines",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/n2zBhzqskBY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "n2zBhzqskBY"
     }
    }
   }
