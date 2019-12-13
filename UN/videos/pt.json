@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Guterres faz um apelo no último dia da COP 25",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/sgmBvlXGNNc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "sgmBvlXGNNc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Ervas daninhas viram energia na Etiópia",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "YNyB6TgHiKU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Internacional da Montanha",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/p96MFJIbfEA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "p96MFJIbfEA"
     }
    }
   }
