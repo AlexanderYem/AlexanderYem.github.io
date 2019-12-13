@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Дмитрий Кузук - преодолевая дистанцию",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/jCn0YJriG0U/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "jCn0YJriG0U"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Грета Тунберг на Конференции по климату в Мадриде",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ITXZ79h9J6g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Права детей - услышьте их!",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/LQWCM6pF8XY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "LQWCM6pF8XY"
     }
    }
   }
