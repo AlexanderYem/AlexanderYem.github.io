@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - Relatório de Desenvolvimento Humano de 2019",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bIwRNSWY1CQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bIwRNSWY1CQ"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Novo relatório da OMS sobre obesidade e subnutrição",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/YkD7hg-vM2k/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "YkD7hg-vM2k"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Conferência contra corrupção, Fórum Global de Refugiados e novo estudo sobre obesidade e subnutrição",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "FeJIFRV5up4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Cobertura universal de saúde, fome no Sudão do Sul e novos Patrimônios da Humanidade",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/GNXffnGtPI4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "GNXffnGtPI4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Morna de Cabo Verde e Bumba-meu-boi do Brasil são Patrimônio Imaterial da Humanidade da Unesco",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ICDW-RdPGMc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ICDW-RdPGMc"
     }
    }
   }
