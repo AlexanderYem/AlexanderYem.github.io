@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Генсек ООН по случаю Международного дня мигранта",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/vQTelfqMkUQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "vQTelfqMkUQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Дмитрий Кузук - преодолевая дистанцию",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "cLHmsVn3CWY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "«Молодой чемпион Земли» Мариана Мунтяну",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ITXZ79h9J6g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ITXZ79h9J6g"
     }
    }
   }
