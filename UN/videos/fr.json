@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Au Vatican, António Guterres rencontre le Pape François",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/sZF4Pry7lLM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "sZF4Pry7lLM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Afrique de l’Ouest: le Conseil de sécurité doit appuyer les initiatives contre l’extrémisme violent",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gCm-diOswcY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mali : les femmes et les jeunes, de véritables artisans de paix",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/SzF62jR6_Fc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "SzF62jR6_Fc"
     }
    }
   }
