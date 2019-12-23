@@ -2,7 +2,20 @@
  "items": [
   {
    "snippet": {
-    "title": "Hebu na tuchue hatua kabla hatujachelewa-Papa Francis",
+    "title": "Mafunzo ya roboti nchini Uganda yanafungua upeo wa watoto shuleni",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_LHAqaWFkYY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_LHAqaWFkYY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Hebu na tuchukue hatua kabla hatujachelewa-Papa Francis",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/ZoWz85bihDw/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "0eJmKGBxjy4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 16 Desemba 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/vrcutdLnKh8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "vrcutdLnKh8"
     }
    }
   }
