@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Brasil concentra mais de 85% dos casos de sarampo nas Américas",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NoYdSV73G1w/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NoYdSV73G1w"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Conflito no Afeganistão, ajuda humanitária em Moçambique e mulheres na Guiné-Bissau",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gN0zcUjd4zI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Conflito na Síria, encontro de Guterres com papa Francisco e escritor Mia Couto",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/sJtqEssg1xU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "sJtqEssg1xU"
     }
    }
   }
