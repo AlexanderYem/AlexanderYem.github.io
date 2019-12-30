@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Новогоднее видеообращение Генсека",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/qpP26qkjCl4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "qpP26qkjCl4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Генсек ООН по случаю Международного дня мигранта",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "c_ZuygN_V-g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Конвенции о правах ребенка 30 лет - Генсек ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/cLHmsVn3CWY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "cLHmsVn3CWY"
     }
    }
   }
