@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Ano Internacional dos Enfermeiros e Parteiras",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NluP1UKa2wU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NluP1UKa2wU"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Eleições presidenciais na Guiné-Bissau",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/qujzjFHjsIQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "qujzjFHjsIQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Guiné-Bissau, Ano Internacional dos Enfermeiros e Parteiras, boina-azul brasileira na retrospectiva",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "NoYdSV73G1w"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Conflito no Afeganistão, ajuda humanitária em Moçambique e mulheres na Guiné-Bissau",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/PlIN1c88WwU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "PlIN1c88WwU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Afeganistão: 100 mil pessoas morreram no conflito nos últimos 10 anos",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/zj_GzABNqG4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "zj_GzABNqG4"
     }
    }
   }
