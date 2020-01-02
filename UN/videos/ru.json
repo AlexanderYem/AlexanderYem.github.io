@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Интервью с директором Информцентра ООН в Москве Владимиром Кузнецовым",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bzPsawc2ngs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bzPsawc2ngs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Новогоднее видеообращение Генсека",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Xp-8NwVLWt0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "30 лет Конвенции о правах ребенка. Видео из архива ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/c_ZuygN_V-g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "c_ZuygN_V-g"
     }
    }
   }

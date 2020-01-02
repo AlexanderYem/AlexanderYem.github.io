@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Un accordéoniste qui ne s’est jamais autant amusé (OIT)",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/CxEKLmd4iyY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "CxEKLmd4iyY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Pour remédier aux grands problèmes, les petites actions comptent",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "L23PvWcFncQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "L’efficacité du maintien de la paix est une responsabilité collective, rappelle l’ONU",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/H7rKQ8U-ykI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "H7rKQ8U-ykI"
     }
    }
   }
