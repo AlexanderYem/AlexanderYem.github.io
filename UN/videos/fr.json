@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Le Conseil de sécurité discute de la situation en Afrique de l'Ouest",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bv-yIad7Jj0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bv-yIad7Jj0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Le chef de l’ONU appelle à arrêter l’escalade et à relancer le dialogue",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "xWH3ZA_aDV4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Journée des droits de l'homme : les jeunes défendent les droits de l'homme.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/RlG-hqJZoJM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "RlG-hqJZoJM"
     }
    }
   }
