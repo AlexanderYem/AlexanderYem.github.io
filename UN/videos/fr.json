@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Des élections dans six pays d’Afrique de l’Ouest",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/iHnszNg4Qc4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "iHnszNg4Qc4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Le Conseil de sécurité discute de la situation en Afrique de l'Ouest",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ZePUad8Veb8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "« Le monde se réchauffe à une vitesse plus rapide que nous le pensions »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/xWH3ZA_aDV4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "xWH3ZA_aDV4"
     }
    }
   }
