@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensaje del Secretario General en el décimo aniversario del terremoto de Haití",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NeEVM9mYhzU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NeEVM9mYhzU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mensaje del Secretario General para el año nuevo 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "nDWlrM0n9pk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Día de las Naciones Unidas, 24 de octubre",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZaCoWxcAupo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ZaCoWxcAupo"
     }
    }
   }
