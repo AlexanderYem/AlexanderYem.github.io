@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Abertas as inscrições para o Prêmio Jovens Campeões da Terra",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/QFgqjkGgSQY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "QFgqjkGgSQY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "10 anos do terremoto no Haiti",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/8kHDs7cETY8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "8kHDs7cETY8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "10 anos do terremoto no Haiti, Conselho de Segurança e inscrições para  Jovens Campeões da Terra",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "aZ87Ck68H0I"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Sarampo mata mais de 6 mil na República Democrática do Congo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/3g3g87Vug9M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "3g3g87Vug9M"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mortes por sarampo na RD Congo, FMI cita solução para desigualdade e exposição sobre arte recuperada",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/daqRBWXmBI0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "daqRBWXmBI0"
     }
    }
   }
