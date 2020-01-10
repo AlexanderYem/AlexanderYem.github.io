@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensagem do secretário-geral da ONU sobre os 10 anos do terremoto no Haiti",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/HQg4JL9P9_I/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "HQg4JL9P9_I"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Preços mundiais de alimentos atingem valor mais alto em cinco anos",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Vriyhuc8wfU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU ajuda a recuperar seis rádios em Moçambique destruídas durante ciclone Idai",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QEsHDVpluX8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QEsHDVpluX8"
     }
    }
   }
