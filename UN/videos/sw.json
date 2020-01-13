@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 13 Januari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ifUeiuvUs-8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ifUeiuvUs-8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Ujumbe wa Katibu Mkuu wa UN katika kumbukizi ya miaka 10 ya tetemeko la ardhi Haiti",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "3pXBkNqw70E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN Januari 6, 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Y_ki2Ba6Rmg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Y_ki2Ba6Rmg"
     }
    }
   }
