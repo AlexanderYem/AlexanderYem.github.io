@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Séisme en Haïti, il y a 10 ans",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y_tkQ-x_YDM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Y_tkQ-x_YDM"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "89 soldats ont été tués dans une attaque terroriste dans l'ouest du Niger",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/HVceibS_i8Q/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "HVceibS_i8Q"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "António Guterres : il faut faire mieux pour faire respecter les valeurs de la Charte de l'ONU",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "266OiIle1Lk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Au Vatican, António Guterres rencontre le Pape François",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/sZF4Pry7lLM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "sZF4Pry7lLM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Afrique de l’Ouest: le Conseil de sécurité doit appuyer les initiatives contre l’extrémisme violent",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/I-91uBHz-5E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "I-91uBHz-5E"
     }
    }
   }
