@@ -1,6 +1,61 @@
-{
-    "anthropometric" : {
-        "balls": 1000,
+[
+    {
+        "date": "2019-04-12",
+        "rate": 1000,
+        "calories": 1000,
+        "mass": 75,
+        "bmi": 18.5,
+        "fat_mass": 10,
+        "lean_mass": 54,
+        "water": 40,
+        "level_metabolic_rate": 1000,
+        "lean_mass_percent": 72,
+        "skeleton_muscle_mass": 1000,
+        "level_visceral_fat": 5,
+        "height": 178,
+        "waist": 75,
+        "hip": 35,
+        "waist_hip_percent": 0.5
+    },
+    {
+        "date": "2019-04-11",
+        "rate": 1000,
+        "calories": 1000,
+        "mass": 75,
+        "bmi": 18.5,
+        "fat_mass": 10,
+        "lean_mass": 54,
+        "water": 40,
+        "level_metabolic_rate": 1000,
+        "lean_mass_percent": 72,
+        "skeleton_muscle_mass": 1000,
+        "level_visceral_fat": 5,
+        "height": 178,
+        "waist": 75,
+        "hip": 35,
+        "waist_hip_percent": 0.5
+    },
+    {
+        "date": "2019-04-10",
+        "rate": 1000,
+        "calories": 1000,
+        "mass": 75,
+        "bmi": 18.5,
+        "fat_mass": 10,
+        "lean_mass": 54,
+        "water": 40,
+        "level_metabolic_rate": 1000,
+        "lean_mass_percent": 72,
+        "skeleton_muscle_mass": 1000,
+        "level_visceral_fat": 5,
+        "height": 178,
+        "waist": 75,
+        "hip": 35,
+        "waist_hip_percent": 0.5
+    },
+    {
+        "date": "2019-04-09",
+        "rate": 1000,
         "calories": 1000,
         "mass": 75,
         "bmi": 18.5,
@@ -16,4 +71,4 @@
         "hip": 35,
         "waist_hip_percent": 0.5
     }
-}
+]
