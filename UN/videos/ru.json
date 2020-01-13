@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Интервью с директором Информцентра ООН в Москве Владимиром Кузнецовым",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bzPsawc2ngs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bzPsawc2ngs"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Новогоднее видеообращение Генсека",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/qpP26qkjCl4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "qpP26qkjCl4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Генсек ООН по случаю Международного дня мигранта",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "Xp-8NwVLWt0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "30 лет Конвенции о правах ребенка. Видео из архива ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/c_ZuygN_V-g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "c_ZuygN_V-g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Конвенции о правах ребенка 30 лет - Генсек ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/cLHmsVn3CWY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "cLHmsVn3CWY"
     }
    }
   }

@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensaje del Secretario General en el décimo aniversario del terremoto de Haití",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NeEVM9mYhzU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NeEVM9mYhzU"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Mensaje del Secretario General para el año nuevo 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/N6C5PRTeD0w/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "N6C5PRTeD0w"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mensaje de la  Alta Comisionada para los Derechos Humanos en el Día de los Derechos Humanos",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "nDWlrM0n9pk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Día de las Naciones Unidas, 24 de octubre",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZaCoWxcAupo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ZaCoWxcAupo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Marcha \"Libres e iguales\" en Uruguay",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/j90cFaCa6p0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "j90cFaCa6p0"
     }
    }
   }
