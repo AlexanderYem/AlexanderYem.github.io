@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Жительница Афганистана об учебе в Казахстане",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pa_Iu-pNhM4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Pa_Iu-pNhM4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Интервью с директором Информцентра ООН в Москве Владимиром Кузнецовым",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "SlCRWbgO-dY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ЛИКВИДАЦИЯ НАСИЛИЯ В ОТНОШЕНИИ ЖЕНЩИН - обращение Генсека ООН по случаю Международного дня",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Xp-8NwVLWt0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Xp-8NwVLWt0"
     }
    }
   }
