@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Lutter contre le terrorisme, l'instabilité et la violence au Mali et au Sahel",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/XxXOfr69Uyc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "XxXOfr69Uyc"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "La situation sécuritaire au Mali et dans l'ensemble de la région du Sahel est préoccupante",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/tVBhdgTFCks/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "tVBhdgTFCks"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Haïti, 10 ans après - Témoignage de Louis Germain",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "UtijRDiNKl4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "En Louisiane, un fabriquant d'accordéons qui ne s’est jamais autant amusé",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/CxEKLmd4iyY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "CxEKLmd4iyY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Pour remédier aux grands problèmes, les petites actions comptent",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/dOGxf1bQITY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "dOGxf1bQITY"
     }
    }
   }
