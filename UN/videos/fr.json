@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Haïti, 10 ans après - Témoignage de Louis Germain",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/erTmm60iHkk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "erTmm60iHkk"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Séisme en Haïti, il y a 10 ans",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "dOGxf1bQITY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Voeux du Secrétaire général de l'ONU pour 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/266OiIle1Lk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "266OiIle1Lk"
     }
    }
   }
