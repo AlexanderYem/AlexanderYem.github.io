@@ -34,6 +34,11 @@ Future main() async {
         if(Random().nextBool()) request.response.write(await File('services/base_response.json').readAsString()); // ok
         else request.response.write(await File('services/request_sms_code_error.json').readAsString());              // error
       } else request.response.statusCode = 405;
+    } else if(request.requestedUri.path == '/auth') {
+      if(request.method == 'POST') {
+        if(Random().nextBool()) request.response.write(await File('services/auth.json').readAsString()); // ok
+        else request.response.write(await File('services/auth_error.json').readAsString());              // error
+      } else request.response.statusCode = 405;
     } else {
       request.response.write('Hello, world!');
     }
