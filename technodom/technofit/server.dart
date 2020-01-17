@@ -32,7 +32,7 @@ Future main() async {
     } else if(request.requestedUri.path == '/request_sms_code') {
       if(request.method == 'POST') {
         if(Random().nextBool()) request.response.write(await File('services/base_response.json').readAsString()); // ok
-        else request.response.write(await File('services/send_sms_error.json').readAsString());              // error
+        else request.response.write(await File('services/request_sms_code_error.json').readAsString());              // error
       } else request.response.statusCode = 405;
     } else {
       request.response.write('Hello, world!');
