@@ -2,6 +2,8 @@ import 'dart:convert';
 /// Created by Alexander Yemelyanov on 17.01.2020.
 import 'dart:io';
 
+import 'dart:math';
+
 /// Mini server for testing purposes
 
 Future main() async {
@@ -23,8 +25,10 @@ Future main() async {
     }
 
     if(request.requestedUri.path == '/register') {
-      if(request.method == 'POST') request.response.write(await File('services/register.json').readAsString());
-      else request.response.statusCode = 405;
+      if(request.method == 'POST') {
+        if(Random().nextBool()) request.response.write(await File('services/register.json').readAsString());
+        else request.response.write(await File('services/register_error.json').readAsString());
+      } else request.response.statusCode = 405;
     } else {
       request.response.write('Hello, world!');
     }
