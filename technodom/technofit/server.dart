@@ -1,5 +1,8 @@
+import 'dart:convert';
 /// Created by Alexander Yemelyanov on 17.01.2020.
 import 'dart:io';
+
+/// Mini server for testing purposes
 
 Future main() async {
   var server = await HttpServer.bind(
@@ -10,16 +13,22 @@ Future main() async {
 
   // #docregion listen
   await for (HttpRequest request in server) {
-    print(request.method+" "+request.requestedUri.path);
+    print(request.method+" "+request.requestedUri.path+"\n${request.headers.toString()}");
+
+    String body;
+
+    if(request.method == 'POST') {
+      body = await utf8.decoder.bind(request).join();
+      print("body: $body");
+    }
 
     if(request.requestedUri.path == '/register') {
-      if(request.method == 'POST') {
-        String s = await File('services/register.json').readAsString();
-        request.response.write(s);
-      } else request.response.statusCode = 405;      
+      if(request.method == 'POST') request.response.write(await File('services/register.json').readAsString());
+      else request.response.statusCode = 405;
     } else {
       request.response.write('Hello, world!');
     }
+    print("\n");
     await request.response.close();
   }
   // #enddocregion listen
