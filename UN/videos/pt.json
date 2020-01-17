@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Tributo das Nações Unidas às vítimas do terremoto de 2010 no Haiti",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZLJbMSHjUX8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ZLJbMSHjUX8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU reitera apoio a Moçambique no cumprimento da Agenda 2030",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "41m9JwkYhpE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU News no Globo Notícia Américas - desastres naturais na América Latina e Caribe",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/3r3gviGA2xQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "3r3gviGA2xQ"
     }
    }
   }
