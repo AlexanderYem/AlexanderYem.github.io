@@ -26,8 +26,8 @@ Future main() async {
 
     if(request.requestedUri.path == '/register') {
       if(request.method == 'POST') {
-        if(Random().nextBool()) request.response.write(await File('services/register.json').readAsString());
-        else request.response.write(await File('services/register_error.json').readAsString());
+        if(Random().nextBool()) request.response.write(await File('services/register.json').readAsString()); // ok
+        else request.response.write(await File('services/register_error.json').readAsString());              // error
       } else request.response.statusCode = 405;
     } else {
       request.response.write('Hello, world!');
