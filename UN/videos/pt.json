@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Destaque ONU News: novo comandante brasileiro na RD Congo",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/6zcxANtm_bs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "6zcxANtm_bs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Tributo das Nações Unidas às vítimas do terremoto de 2010 no Haiti",
     "thumbnails": {
      "high": {
@@ -28,7 +41,7 @@
   },
   {
    "snippet": {
-    "title": "Destaque Especial: as previsões econômicas para 2020",
+    "title": "Destaque ONU News Especial: as previsões econômicas para 2020",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/ysxHCD878iU/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "_CL91RCSHHw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Novo vírus da mesma família da Síndrome Respiratória Aguda Grave",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/41m9JwkYhpE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "41m9JwkYhpE"
     }
    }
   }
