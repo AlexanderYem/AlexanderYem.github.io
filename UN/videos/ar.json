@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "الأمين العام: معا، سنحمي مستقبل هايتي ونبني حياة ملؤها السلام والازدهار والكرامة لجميع الهايتيين",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/DiuLR50U3no/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "DiuLR50U3no"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "استمرار \"عمليات القتل والتشريد\" في سوريا رغم \"إعلان وقف إطلاق النار",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "4gv67Frrmeo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "غسان سلامة يطالب الدول بعدم التدخل في ليبيا",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/JsCWC-mlN3A/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "JsCWC-mlN3A"
     }
    }
   }
