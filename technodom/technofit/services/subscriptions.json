@@ -10,7 +10,7 @@
                 "Одна персональная тренировка с персональным тренером"
             ],
             "price": 35000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_609082148.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_609082148.png"
         },
         {
             "name": "Месяц фитнеса VIP",
@@ -22,7 +22,7 @@
                 "Одна персональная тренировка с персональным тренером"
             ],
             "price": 45000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1480312115.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1480312115.png"
         },
         {
             "name": "Год фитнеса",
@@ -34,7 +34,7 @@
                 "Одна персональная тренировка с персональным тренером"
             ],
             "price": 300000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1025433106.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1025433106.png"
         },
         {
             "name": "Год фитнеса VIP",
@@ -46,7 +46,7 @@
                 "Одна персональная тренировка с персональным тренером"
             ],
             "price": 400000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1147645283.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1147645283.png"
         },
         {
             "name": "Техно «Контракт» Ежемесячная подписка на годовой контракт",
@@ -58,39 +58,39 @@
                 "Одна персональная тренировка с персональным тренером"
             ],
             "price": 45000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_750583723.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_750583723.png"
         }
     ],
     "trainings": [
         {
             "name": "1 занятие с персональным тренером",
             "price": 7600,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         },
         {
             "name": "10 занятий с персональным тренером",
             "price": 68400,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         },
         {
             "name": "1 занятие с мастер тренером",
             "price": 20000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         },
         {
             "name": "10 занятий с мастер тренером",
             "price": 180000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         },
         {
             "name": "1 занятие с элит-тренером",
             "price": 35000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         },
         {
             "name": "10 занятий с элит-тренером",
             "price": 315000,
-            "backgroungImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
+            "backgroundImage": "https://alexanderyem.github.io/technodom/technofit/images/abonements/shutterstock_1067573144.png"
         }
     ]
 }
