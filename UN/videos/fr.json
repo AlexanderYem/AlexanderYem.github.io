@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Se souvenir du tremblement de terre en Haïti",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/BdB1Fw4RI9w/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "BdB1Fw4RI9w"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Lutter contre le terrorisme, l'instabilité et la violence au Mali et au Sahel",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bv-yIad7Jj0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Le chef de l’ONU appelle à arrêter l’escalade et à relancer le dialogue",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/UtijRDiNKl4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "UtijRDiNKl4"
     }
    }
   }
