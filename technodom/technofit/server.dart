@@ -30,7 +30,7 @@ Future main() async {
     bool auth() {
       if(bearer == null || request.headers.value("authorization")!="Bearer $bearer") {
         request.response.statusCode = 401;
-        print("Response: 41 not authorized (${request.headers.value("authorization")})");
+        print("Response: 401 not authorized (${request.headers.value("authorization")})");
         return false;
       }
       return true;
