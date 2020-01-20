@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - assassinato de ativistas na Colômbia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/rYUJCLLQAd8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "rYUJCLLQAd8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Esperança para a Líbia após Conferência em Berlim",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "iEUrBPvWxz4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU elogia políticos da Guiné-Bissau pela busca de meios legais para resolver disputa eleitoral",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ztNABig0id8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ztNABig0id8"
     }
    }
   }
