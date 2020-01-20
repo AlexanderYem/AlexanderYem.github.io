@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN Janauari 20, 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/W98KzuoDX-c/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "W98KzuoDX-c"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Waathirika wa tetemeko la miaka 10 iliyopita Haiti waenziwa na UN",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "dMKopmdJ0jU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Wimbo wa kuwasaidia waathirika wa tetemeko lililokaribia kuisambaratisha Haiti miaka 10 iliyopita.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/w_9FozdM0Jg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "w_9FozdM0Jg"
     }
    }
   }
