@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "OMS: O que é o coronavírus?",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/CSaRwi0DdGQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "CSaRwi0DdGQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Destaque ONU News Especial: Santos Cruz fala sobre missão à República Democrática do Congo",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "8tpa6qokCAY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Destaque ONU News Especial: as previsões econômicas para 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ysxHCD878iU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ysxHCD878iU"
     }
    }
   }
