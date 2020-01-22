@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Desigualdade atinge mais de 70% da população global",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Li-SES39Z6E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Li-SES39Z6E"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "OMS faz reunião de emergência sobre coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/g9MJGUELqVM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "g9MJGUELqVM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Guterres pede aos Estados-membros que ouçam as pessoas",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "giY3XKBlzN8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Novo comandante brasileiro da ONU na RD Congo quer mais mulheres nas forças de paz",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/9b9skIOCBFQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "9b9skIOCBFQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Destaque ONU News: novo comandante brasileiro na RD Congo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/6zcxANtm_bs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "6zcxANtm_bs"
     }
    }
   }
