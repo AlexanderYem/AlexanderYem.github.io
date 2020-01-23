@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "António Guterres discursa em Davos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/nG_4n5CMTsA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "nG_4n5CMTsA"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Guterres em Davos, surto de coronavírus e participação de Portugal na missão do Mali",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "rYUJCLLQAd8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Esperança para a Líbia após Conferência em Berlim",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/IBSA0eIXXmg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "IBSA0eIXXmg"
     }
    }
   }
