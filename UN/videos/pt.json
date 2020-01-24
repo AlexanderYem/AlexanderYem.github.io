@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Dia Internacional da Educação",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/KAgwdeYyPG4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "KAgwdeYyPG4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Memória das vítimas do Holocausto e o antissemitismo",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "xRA2M0hcpxY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS: O que é o coronavírus?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/CSaRwi0DdGQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "CSaRwi0DdGQ"
     }
    }
   }
