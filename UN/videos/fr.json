@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "L’ONU se mobilise contre l’exploitation et les abus sexuels",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mDZisTfzyIE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mDZisTfzyIE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "L'éducation est une priorité absolue pour le monde.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "LG-kgqXgCN4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "10e anniversaire du tremblement de terre en Haïti",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/WP6l_UBpBzA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "WP6l_UBpBzA"
     }
    }
   }
