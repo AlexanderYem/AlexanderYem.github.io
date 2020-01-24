@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Генсек ООН о своих приоритетах",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/riCUrv7NEHo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "riCUrv7NEHo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Жительница Афганистана об учебе в Казахстане",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hrtrOQLaT90"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Картины Галины Шевлак",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/SlCRWbgO-dY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "SlCRWbgO-dY"
     }
    }
   }
