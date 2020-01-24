@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 24 Januari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/w-mV6g59hZw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "w-mV6g59hZw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Maonesho ya picha za kundi la waasi wa LRA katika Umoja wa Mataifa",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "2Q7hMUqta18"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mradi wa majiko ya mkaa, unaokoa watu pamoja na msitu wa Virunga",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/7OKzG-fVSww/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "7OKzG-fVSww"
     }
    }
   }
