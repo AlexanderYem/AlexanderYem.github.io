@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "L'éducation est une priorité absolue pour le monde.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/zpLxoracSQc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "zpLxoracSQc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Heureuse nouvelle année lunaire! Message du Secrétaire général de l'ONU",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "WP6l_UBpBzA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Des élections dans six pays d’Afrique de l’Ouest",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/iHnszNg4Qc4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "iHnszNg4Qc4"
     }
    }
   }
