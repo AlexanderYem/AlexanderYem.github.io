@@ -35,36 +35,61 @@ Future main() async {
       }
       return true;
     }
-
-    if(request.requestedUri.path == '/register') {
-      if(request.method == 'POST') {
-        if(Random().nextBool()) request.response.write(await File('services/base_response.json').readAsString()); // ok
-        else request.response.write(await File('services/register_error.json').readAsString());                   // error
-      } else request.response.statusCode = 405;
-    } else if(request.requestedUri.path == '/request_sms_code') {
-      if(request.method == 'POST') {
-        if(Random().nextBool()) request.response.write(await File('services/base_response.json').readAsString()); // ok
-        else request.response.write(await File('services/request_sms_code_error.json').readAsString());           // error
-      } else request.response.statusCode = 405;
-    } else if(request.requestedUri.path == '/auth') {
-      if(request.method == 'POST') {
-        if(Random().nextBool()) request.response.write(await File('services/auth.json').readAsString()); // ok
-        else request.response.write(await File('services/auth_error.json').readAsString());              // error
-      } else request.response.statusCode = 405;
-    } else if(request.requestedUri.path == '/request_bonus') {
-      if(auth()) {
+    try {
+      if (request.requestedUri.path == '/register') {
         if (request.method == 'POST') {
           if (Random().nextBool()) request.response.write(
-              await File('services/bonus.json').readAsString()); // ok
+              await File('services/base_response.json').readAsString()); // ok
+          else
+            request.response.write(await File('services/register_error.json')
+                .readAsString()); // error
+        } else
+          request.response.statusCode = 405;
+      } else if (request.requestedUri.path == '/request_sms_code') {
+        if (request.method == 'POST') {
+          if (Random().nextBool()) request.response.write(
+              await File('services/base_response.json').readAsString()); // ok
           else
             request.response.write(
-                await File('services/base_response_error.json')
+                await File('services/request_sms_code_error.json')
                     .readAsString()); // error
         } else
           request.response.statusCode = 405;
+      } else if (request.requestedUri.path == '/auth') {
+        if (request.method == 'POST') {
+          if (Random().nextBool()) request.response.write(
+              await File('services/auth.json').readAsString()); // ok
+          else
+            request.response.write(
+                await File('services/auth_error.json').readAsString()); // error
+        } else
+          request.response.statusCode = 405;
+      } else if (request.requestedUri.path == '/request_bonus') {
+        if (auth()) {
+          if (request.method == 'POST') {
+            if (Random().nextBool()) request.response.write(
+                await File('services/bonus.json').readAsString()); // ok
+            else
+              request.response.write(
+                  await File('services/base_response_error.json')
+                      .readAsString()); // error
+          } else
+            request.response.statusCode = 405;
+        }
+      } else if (request.requestedUri.path == '/info') {
+        if (Random().nextBool())
+          request.response.write(await File(
+              'services/info/${request.uri.queryParameters['page']}.json')
+              .readAsString()); // ok
+        else
+          request.response.write(await File('services/base_response_error.json')
+              .readAsString()); // error
+      } else {
+        request.response.write('Hello, world!');
       }
-    } else {
-      request.response.write('Hello, world!');
+    } catch(error) {
+      //request.response.write(error);
+      request.response.statusCode = 500;
     }
     print("\n");
     await request.response.close();
