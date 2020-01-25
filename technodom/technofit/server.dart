@@ -82,13 +82,12 @@ Future main() async {
               'services/info/${request.uri.queryParameters['page']}.json')
               .readAsString()); // ok
         else
-          request.response.write(await File('services/base_response_error.json')
-              .readAsString()); // error
+          throw Exception("emulate info error");
       } else {
         request.response.write('Hello, world!');
       }
     } catch(error) {
-      //request.response.write(error);
+      print(error);
       request.response.statusCode = 500;
     }
     print("\n");
