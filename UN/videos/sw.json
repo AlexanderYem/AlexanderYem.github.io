@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/CecNFnIlV6E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "CecNFnIlV6E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Bila elimu ni vigumu kufikia malengo hayo mengine-Muhammad-Bande",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "GdjeXmyB3J4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN Janauari 20, 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/W98KzuoDX-c/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "W98KzuoDX-c"
     }
    }
   }
