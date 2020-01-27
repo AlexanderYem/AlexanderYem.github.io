@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/tPeLBzye-bo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "tPeLBzye-bo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "L’ONU se mobilise contre l’exploitation et les abus sexuels",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "HVceibS_i8Q"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "António Guterres : il faut faire mieux pour faire respecter les valeurs de la Charte de l'ONU",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/LG-kgqXgCN4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "LG-kgqXgCN4"
     }
    }
   }

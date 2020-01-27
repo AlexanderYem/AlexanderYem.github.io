@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Europa confirma primeiros casos do coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/w0J6dWmXB5Y/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "w0J6dWmXB5Y"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Assembleia Geral marca 75 anos da libertação do campo de concentração de Auschwitz-Birkenau",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/cLlt4VKiUuo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "cLlt4VKiUuo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "75 anos da libertação do campo de Auschwitz-Birkenau, ataques na Líbia e coronavírus na Europa",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "i6KmT9RtdFI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Desigualdade atinge mais de 70% da população global",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Li-SES39Z6E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Li-SES39Z6E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS faz reunião de emergência sobre coronavírus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/g9MJGUELqVM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "g9MJGUELqVM"
     }
    }
   }
