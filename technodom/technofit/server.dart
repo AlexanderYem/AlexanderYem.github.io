@@ -83,6 +83,12 @@ Future main() async {
               .readAsString()); // ok
         else
           throw Exception("emulate info error");
+      } else if (request.requestedUri.path == '/nextOrderId') {
+        if (auth()) {
+          if (Random().nextBool()) request.response.write(Random().nextInt(10000).toString()); // ok
+          else
+            throw Exception("emulate nextOrderId error");; // error
+        }
       } else {
         request.response.write('Hello, world!');
       }
