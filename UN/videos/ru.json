@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "В ООН представили фильм о нацистских концлагерях",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ud8gnfWTI7Q/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ud8gnfWTI7Q"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Генсек ООН о своих приоритетах",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "dZPm-RM0Wks"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Интервью с депутатом Госдумы РФ Николаем Николаевым",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/hrtrOQLaT90/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "hrtrOQLaT90"
     }
    }
   }
