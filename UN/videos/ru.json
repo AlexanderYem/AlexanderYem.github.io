@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ВОЗ о новом коронавирусе",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/At6NSyvSU68/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "At6NSyvSU68"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "В ООН представили фильм о нацистских концлагерях",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ylnqiz9ubr0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Доклад ПРООН о человеческом развитии - 2019",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/dZPm-RM0Wks/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "dZPm-RM0Wks"
     }
    }
   }
