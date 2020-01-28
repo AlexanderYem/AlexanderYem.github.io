@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Plus jamais ça, cela veut dire enseigner l’histoire, encore et encore",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/a0ieBBEV6rM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "a0ieBBEV6rM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Y_tkQ-x_YDM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "89 soldats ont été tués dans une attaque terroriste dans l'ouest du Niger",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/HVceibS_i8Q/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "HVceibS_i8Q"
     }
    }
   }
