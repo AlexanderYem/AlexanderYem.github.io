@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "كلمة السفير السوري بشار الجعفري أمام جلسة مجلس الأمن حول الوضع في سوريا",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mPOaB12MHuM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mPOaB12MHuM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "كلمة مارك لوكوك، وكيل الأمين العام للشؤون الإنسانية ، أمام مجلس الأمن حول الوضع في سوريا",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "DiuLR50U3no"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "استمرار \"عمليات القتل والتشريد\" في سوريا رغم \"إعلان وقف إطلاق النار",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/KodPZe7NbOU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "KodPZe7NbOU"
     }
    }
   }
