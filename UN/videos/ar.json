@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "كلمة مارك لوكوك، وكيل الأمين العام للشؤون الإنسانية ، أمام مجلس الأمن حول الوضع في سوريا",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/OpSXNI7SbxM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "OpSXNI7SbxM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "رسالة الأمين العام للأمم المتحدة أنطونيو غوتيريش بمناسبة اليوم الدولي لإحياء ذكرى ضحايا الهولوكوست",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "KodPZe7NbOU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "المبعوث الخاص إلى اليمن، مارتن غريفيثس أمام مجلس الأمن",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/uBgQAYjn8p8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "uBgQAYjn8p8"
     }
    }
   }

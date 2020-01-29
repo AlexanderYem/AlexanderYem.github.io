@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Pneumonia mata uma criança a cada 39 segundos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/rYfZ3GUUMts/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "rYfZ3GUUMts"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU News no Globo Notícia Américas - desigualdade na América Latina",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "w0J6dWmXB5Y"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Assembleia Geral marca 75 anos da libertação do campo de concentração de Auschwitz-Birkenau",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/cLlt4VKiUuo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "cLlt4VKiUuo"
     }
    }
   }

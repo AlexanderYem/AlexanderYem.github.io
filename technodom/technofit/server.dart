@@ -93,7 +93,7 @@ Future main() async {
         }
       } else if (request.requestedUri.path == '/programs') {
         if (auth()) {
-          if (Random().nextBool()) request.response.write(await File(
+          if (true/*Random().nextBool()*/) request.response.write(await File(
               'services/programs/programs.json')
               .readAsString()); // ok
           else
