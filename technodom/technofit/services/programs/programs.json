@@ -1,5 +1,6 @@
 {
-  "кардио": {
+  "cardio": {
+    "title": "кардио",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/trekking.png",
     "trainings": [
       {
@@ -284,7 +285,8 @@
       }
     ]
   },
-  "сила": {
+  "power": {
+    "title": "сила",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/sila.png",
     "trainings": [
       {
@@ -569,7 +571,8 @@
       }
     ]
   },
-  "гармония тела": {
+  "harmony": {
+    "title": "гармония тела",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/garmoniya.png",
     "trainings": [
       {
@@ -854,7 +857,8 @@
       }
     ]
   },
-  "танцы": {
+  "zumba": {
+    "title": "танцы",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/zumba.png",
     "trainings": [
       {
@@ -1139,7 +1143,8 @@
       }
     ]
   },
-  "единоборства": {
+  "fighting": {
+    "title": "единоборства",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/edinoborstva.png",
     "trainings": [
       {
@@ -1424,7 +1429,8 @@
       }
     ]
   },
-  "функциональный тренинг": {
+  "functional": {
+    "title": "функциональный тренинг",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/fuctional_training.png",
     "trainings": [
       {
