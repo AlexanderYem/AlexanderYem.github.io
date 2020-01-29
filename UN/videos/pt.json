@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - desigualdade na América Latina",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/UTDjoggrkJY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "UTDjoggrkJY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Perigos da praga de gafanhotos na África",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "cLlt4VKiUuo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "75 anos da libertação do campo de Auschwitz-Birkenau, ataques na Líbia e coronavírus na Europa",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/VkjL0hILoUo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "VkjL0hILoUo"
     }
    }
   }

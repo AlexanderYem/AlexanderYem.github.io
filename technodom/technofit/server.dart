@@ -20,6 +20,8 @@ Future main() async {
   await for (HttpRequest request in server) {
     print(request.method+" "+request.requestedUri.path+"\n${request.headers.toString()}");
 
+    request.response.headers.add("Cache-Control", "private, max-age=0, no-cache");
+    
     String body;
 
     if(request.method == 'POST') {
