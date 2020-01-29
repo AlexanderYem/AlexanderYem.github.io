@@ -89,6 +89,14 @@ Future main() async {
           else
             throw Exception("emulate nextOrderId error");; // error
         }
+      } else if (request.requestedUri.path == '/programs') {
+        if (auth()) {
+          if (Random().nextBool()) request.response.write(await File(
+              'services/programs/programs.json')
+              .readAsString()); // ok
+          else
+            throw Exception("emulate programs error");; // error
+        }
       } else {
         request.response.write('Hello, world!');
       }
