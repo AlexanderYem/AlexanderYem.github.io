@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 30 Januari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/7m6Wp5xViXs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "7m6Wp5xViXs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Makumbusho ya teknolojia ya umma kwenye Umoja wa Mataifa",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "w-mV6g59hZw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Maonesho ya picha za kundi la waasi wa LRA katika Umoja wa Mataifa",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/5KsqOJP4hgU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "5KsqOJP4hgU"
     }
    }
   }
