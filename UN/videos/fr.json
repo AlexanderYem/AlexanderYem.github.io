@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : l’OMS déclare une urgence de santé mondiale",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/WVGU151XXWQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "WVGU151XXWQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "UN75 : première conversation mondiale avec des jeunes à New York",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "tVBhdgTFCks"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Haïti, 10 ans après - Témoignage de Louis Germain",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/erTmm60iHkk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "erTmm60iHkk"
     }
    }
   }
