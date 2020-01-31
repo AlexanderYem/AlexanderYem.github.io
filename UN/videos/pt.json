@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Especialista da OMS explica como evitar o coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/9rkZ4RBypdU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "9rkZ4RBypdU"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Entrevista com o chefe das Operações de Paz da Nações Unidas",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PRRTQ5CaafQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PRRTQ5CaafQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Brasil: alunos do Colégio Militar visitam a ONU",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "rYfZ3GUUMts"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ONU News no Globo Notícia Américas - desigualdade na América Latina",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/UTDjoggrkJY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "UTDjoggrkJY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Perigos da praga de gafanhotos na África",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/-Lv9XxLLysE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "-Lv9XxLLysE"
     }
    }
   }

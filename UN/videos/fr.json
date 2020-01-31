@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "UN75 : première conversation mondiale avec des jeunes à New York",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/qfrp7LEBEHc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "qfrp7LEBEHc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Plus jamais ça, cela veut dire enseigner l’histoire, encore et encore",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "erTmm60iHkk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Séisme en Haïti, il y a 10 ans",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Y_tkQ-x_YDM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Y_tkQ-x_YDM"
     }
    }
   }
