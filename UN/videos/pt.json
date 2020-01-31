@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavírus: cuidados para evitar a contaminação",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/UODiGXMQrYM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "UODiGXMQrYM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Prevenção do coronavírus, entrevista com chefe das operações de paz e estudantes brasileiros na ONU",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "HZPCeIc2vBU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Desemprego na América Latina, Fórum Global sobre Pneumonia Infantil e praga de gafanhotos na África",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/yLqFm8dd1QE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "yLqFm8dd1QE"
     }
    }
   }
