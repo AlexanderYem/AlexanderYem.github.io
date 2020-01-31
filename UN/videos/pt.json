@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Brasil: alunos do Colégio Militar visitam a ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/5h0yjPakAGw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "5h0yjPakAGw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavírus: cuidados para evitar a contaminação",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "-Lv9XxLLysE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OIT prevê aumento do desemprego nos países da América Latina",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/HZPCeIc2vBU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "HZPCeIc2vBU"
     }
    }
   }
