@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Portugal participa de campanha sobre depressão de jovens",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/KM9_S8PyWm0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "KM9_S8PyWm0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Especialista da OMS explica como evitar o coronavírus",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hcMuBeTBbvs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Pneumonia mata uma criança a cada 39 segundos",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/rYfZ3GUUMts/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "rYfZ3GUUMts"
     }
    }
   }
