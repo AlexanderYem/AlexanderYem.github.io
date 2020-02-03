@@ -99,13 +99,13 @@ Future main() async {
           else
             throw Exception("emulate programs error");; // error
         }
-      } else if (request.requestedUri.path == '/trainers') {
+      } else if (request.requestedUri.path == '/programs/schedule') {
         if (auth()) {
           if (Random().nextBool()) request.response.write(await File(
-              'services/trainers.json')
+              'services/programs/schedule/schedule_list.json')
               .readAsString()); // ok
           else
-            throw Exception("emulate programs error");; // error
+            throw Exception("emulate programs schedule error");; // error
         }
       } else {
         request.response.write('Hello, world!');
