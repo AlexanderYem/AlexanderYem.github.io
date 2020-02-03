@@ -1,0 +1,314 @@
+[
+  {
+    "time": "7:15",
+    "slots": 5,
+    "place": "Зал №20",
+    "training": {
+      "title": "Les Mills BODYPUMP",
+      "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
+      "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
+      "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+      "video": {
+        "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+        "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+      },
+      "icons": [
+        {
+          "title": "Сжигание жира",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+        },
+        {
+          "title": "Выносливость",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+        },
+        {
+          "title": "Укрепление сердца и сосудов",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+        }
+      ],
+      "length": 45,
+      "trainer": {
+        "number": "7771234567",
+        "name": "Мария",
+        "surname": "Шарапова",
+        "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+        "title": "Элит-тренер",
+        "categories": [
+          "Элит-тренер тренажерного зала",
+          "Мастер тренер групповых программ"
+        ],
+        "achievements": [
+          "Образование высшее.",
+          "Сертифицированный тренер LES MILLS.",
+          "Мастер спорта Республики Казахстан по легкой атлетике.",
+          "Призер Чемпионата Азии.",
+          "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+          "Тренерский стаж: 8 лет."
+        ],
+        "skills": [
+          "cycle",
+          "stretching",
+          "karate",
+          "kickboxing",
+          "boxing",
+          "zumba",
+          "groups",
+          "yoga",
+          "gym"
+        ],
+        "prices": [
+          {
+            "name": "Одна персональная тренировка",
+            "price": 7600
+          },
+          {
+            "name": "10 персональных тренировок",
+            "price": 68400
+          },
+          {
+            "name": "Одна тренировка с другом",
+            "price": 12920
+          },
+          {
+            "name": "10 тренировок с другом",
+            "price": 116280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "8:15",
+    "slots": 5,
+    "place": "Зал №20",
+    "training": {
+      "title": "Les Mills BODYPUMP",
+      "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
+      "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
+      "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+      "video": {
+        "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+        "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+      },
+      "icons": [
+        {
+          "title": "Сжигание жира",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+        },
+        {
+          "title": "Выносливость",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+        },
+        {
+          "title": "Укрепление сердца и сосудов",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+        }
+      ],
+      "length": 45,
+      "trainer": {
+        "number": "7771234567",
+        "name": "Мария",
+        "surname": "Шарапова",
+        "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+        "title": "Элит-тренер",
+        "categories": [
+          "Элит-тренер тренажерного зала",
+          "Мастер тренер групповых программ"
+        ],
+        "achievements": [
+          "Образование высшее.",
+          "Сертифицированный тренер LES MILLS.",
+          "Мастер спорта Республики Казахстан по легкой атлетике.",
+          "Призер Чемпионата Азии.",
+          "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+          "Тренерский стаж: 8 лет."
+        ],
+        "skills": [
+          "cycle",
+          "stretching",
+          "karate",
+          "kickboxing",
+          "boxing",
+          "zumba",
+          "groups",
+          "yoga",
+          "gym"
+        ],
+        "prices": [
+          {
+            "name": "Одна персональная тренировка",
+            "price": 7600
+          },
+          {
+            "name": "10 персональных тренировок",
+            "price": 68400
+          },
+          {
+            "name": "Одна тренировка с другом",
+            "price": 12920
+          },
+          {
+            "name": "10 тренировок с другом",
+            "price": 116280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "9:15",
+    "slots": 5,
+    "place": "Зал №20",
+    "training": {
+      "title": "Les Mills BODYPUMP",
+      "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
+      "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
+      "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+      "video": {
+        "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+        "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+      },
+      "icons": [
+        {
+          "title": "Сжигание жира",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+        },
+        {
+          "title": "Выносливость",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+        },
+        {
+          "title": "Укрепление сердца и сосудов",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+        }
+      ],
+      "length": 45,
+      "trainer": {
+        "number": "7771234567",
+        "name": "Мария",
+        "surname": "Шарапова",
+        "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+        "title": "Элит-тренер",
+        "categories": [
+          "Элит-тренер тренажерного зала",
+          "Мастер тренер групповых программ"
+        ],
+        "achievements": [
+          "Образование высшее.",
+          "Сертифицированный тренер LES MILLS.",
+          "Мастер спорта Республики Казахстан по легкой атлетике.",
+          "Призер Чемпионата Азии.",
+          "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+          "Тренерский стаж: 8 лет."
+        ],
+        "skills": [
+          "cycle",
+          "stretching",
+          "karate",
+          "kickboxing",
+          "boxing",
+          "zumba",
+          "groups",
+          "yoga",
+          "gym"
+        ],
+        "prices": [
+          {
+            "name": "Одна персональная тренировка",
+            "price": 7600
+          },
+          {
+            "name": "10 персональных тренировок",
+            "price": 68400
+          },
+          {
+            "name": "Одна тренировка с другом",
+            "price": 12920
+          },
+          {
+            "name": "10 тренировок с другом",
+            "price": 116280
+          }
+        ]
+      }
+    }
+  },
+  {
+    "time": "10:15",
+    "slots": 5,
+    "place": "Зал №20",
+    "training": {
+      "title": "Les Mills BODYPUMP",
+      "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
+      "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
+      "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+      "video": {
+        "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+        "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+      },
+      "icons": [
+        {
+          "title": "Сжигание жира",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+        },
+        {
+          "title": "Выносливость",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+        },
+        {
+          "title": "Укрепление сердца и сосудов",
+          "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+        }
+      ],
+      "length": 45,
+      "trainer": {
+        "number": "7771234567",
+        "name": "Мария",
+        "surname": "Шарапова",
+        "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+        "title": "Элит-тренер",
+        "categories": [
+          "Элит-тренер тренажерного зала",
+          "Мастер тренер групповых программ"
+        ],
+        "achievements": [
+          "Образование высшее.",
+          "Сертифицированный тренер LES MILLS.",
+          "Мастер спорта Республики Казахстан по легкой атлетике.",
+          "Призер Чемпионата Азии.",
+          "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+          "Тренерский стаж: 8 лет."
+        ],
+        "skills": [
+          "cycle",
+          "stretching",
+          "karate",
+          "kickboxing",
+          "boxing",
+          "zumba",
+          "groups",
+          "yoga",
+          "gym"
+        ],
+        "prices": [
+          {
+            "name": "Одна персональная тренировка",
+            "price": 7600
+          },
+          {
+            "name": "10 персональных тренировок",
+            "price": 68400
+          },
+          {
+            "name": "Одна тренировка с другом",
+            "price": 12920
+          },
+          {
+            "name": "10 тренировок с другом",
+            "price": 116280
+          }
+        ]
+      }
+    }
+  }
+]
