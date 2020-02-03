@@ -93,8 +93,16 @@ Future main() async {
         }
       } else if (request.requestedUri.path == '/programs') {
         if (auth()) {
-          if (true/*Random().nextBool()*/) request.response.write(await File(
+          if (Random().nextBool()) request.response.write(await File(
               'services/programs/programs.json')
+              .readAsString()); // ok
+          else
+            throw Exception("emulate programs error");; // error
+        }
+      } else if (request.requestedUri.path == '/trainers') {
+        if (auth()) {
+          if (Random().nextBool()) request.response.write(await File(
+              'services/trainers.json')
               .readAsString()); // ok
           else
             throw Exception("emulate programs error");; // error
