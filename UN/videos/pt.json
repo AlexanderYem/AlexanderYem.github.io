@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Embaixador de Portugal fala da expectativa para a Conferência dos Oceanos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/X8TV8gechkQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "X8TV8gechkQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU News no Globo Notícia Américas - morte de migrantes na fronteira entre México e Estados Unidos",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ZwSuSoGel1U"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS faz nova reunião de emergência sobre coronavírus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/xFUogJnlc8M/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "xFUogJnlc8M"
     }
    }
   }
