@@ -2,6 +2,45 @@
  "items": [
   {
    "snippet": {
+    "title": "Education is key, General Assembly President says",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/tQ2fyKa9FRg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "tQ2fyKa9FRg"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Remembering Haiti Earthquake 10 years Later",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/0_QopArQPwA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "0_QopArQPwA"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "UN Chief looks ahead at 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Eej1ja-08zE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Eej1ja-08zE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "2020 United Nations New Year Message",
     "thumbnails": {
      "high": {
@@ -88,45 +127,6 @@
     },
     "resourceId": {
      "videoId": "SpfXpInLJo4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Helping survivors of sexual violence in conflict",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/VitZTAal2cE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "VitZTAal2cE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "UN General Assembly in 74 seconds - Day 5",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/B87-WbyCxWk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "B87-WbyCxWk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "UN General Assembly in 74 seconds - Day 4",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/0CoySXALCDI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "0CoySXALCDI"
     }
    }
   }
