@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Watu wa asili wamegubikwa na umaskini",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/DVgVf8UqLeU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "DVgVf8UqLeU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 03 Februari 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "aosNXDQI3Ig"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Tunapowakumbuka waathirika wa Holocaust tuhakikishe uhalifu huo haturejei:Guterres",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tlxxD3PGWXk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tlxxD3PGWXk"
     }
    }
   }
