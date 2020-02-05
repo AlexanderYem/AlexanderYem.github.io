@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 05 Februari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/hC17r537n3o/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "hC17r537n3o"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Sisi sasa ni ndugu, htupigani tunashirikiana!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "nBYP6l-5k64"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 29 Januari 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/8sXpp343EOM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "8sXpp343EOM"
     }
    }
   }
