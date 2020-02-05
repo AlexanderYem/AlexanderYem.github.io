@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Sisi sasa ni ndugu, htupigani tunashirikiana!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/NGwz0ZUGGyI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "NGwz0ZUGGyI"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 04 Februari 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "8sXpp343EOM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Fahamu kuhusu virusi vya corona na namna ya kujikinga",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/J6m_JYorUIs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "J6m_JYorUIs"
     }
    }
   }
