@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "SEHEMU YA MWILI WANGU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uuHPCTRKNHQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uuHPCTRKNHQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 05 Februari 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "7m6Wp5xViXs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Makumbusho ya teknolojia ya umma kwenye Umoja wa Mataifa",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/nBYP6l-5k64/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "nBYP6l-5k64"
     }
    }
   }
