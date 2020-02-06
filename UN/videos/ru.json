@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Интервью Талией Минуллиной, главой Агентства инвестиционного развития Татарстана",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/QVULvsWv8_E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "QVULvsWv8_E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ВОЗ о новом коронавирусе",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "1wSML30zPr4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Глобальное изменение климата",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ylnqiz9ubr0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ylnqiz9ubr0"
     }
    }
   }
