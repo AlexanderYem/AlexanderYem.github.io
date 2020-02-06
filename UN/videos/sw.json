@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 06 Februari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mBI3P5zqj84/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mBI3P5zqj84"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "SEHEMU YA MWILI WANGU",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hZZxgN7m5AI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 30 Januari 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/7m6Wp5xViXs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "7m6Wp5xViXs"
     }
    }
   }

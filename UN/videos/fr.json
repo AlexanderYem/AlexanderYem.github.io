@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Message à l’occasion du premier anniversaire de l’Accord de Paix en République centrafricaine",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q8uAtNSo0O8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Q8uAtNSo0O8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : l’OMS déclare une urgence de santé mondiale",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "XxXOfr69Uyc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "La situation sécuritaire au Mali et dans l'ensemble de la région du Sahel est préoccupante",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tVBhdgTFCks/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tVBhdgTFCks"
     }
    }
   }
