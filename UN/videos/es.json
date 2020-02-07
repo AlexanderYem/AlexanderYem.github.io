@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "El obstáculo de la brecha de género en la ciencia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bGdOid9q_lc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bGdOid9q_lc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "\"La radio une a la gente\"",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Zox9hp-bDfQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Día Internacional contra la Corrupción",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Qpp1YfCCwb4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Qpp1YfCCwb4"
     }
    }
   }
