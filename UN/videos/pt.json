@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Guterres participa de Encontro de Cúpula da União Africana",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/CsMq9f8DqhY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "CsMq9f8DqhY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "OMS prepara fórum sobre coronavírus",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "M7heuiDz8Cg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Mundial de Combate ao Câncer: doença é a segunda maior causa de morte no mundo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/o8CG0KUQoHs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "o8CG0KUQoHs"
     }
    }
   }
