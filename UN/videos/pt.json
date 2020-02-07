@@ -2,7 +2,20 @@
  "items": [
   {
    "snippet": {
-    "title": "Coordenador humanitário da ONU descreve “escalada de catástrofe” na Síria",
+    "title": "OMS prepara fórum sobre coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/zDjv0BKgD14/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "zDjv0BKgD14"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Síria: coordenador humanitário da ONU descreve “escalada de catástrofe”",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/oCws6KjLWKo/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "o8CG0KUQoHs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Guterres diz que consciência sobre o risco das mudanças climáticas está crescendo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/y4Qrs8dJYYA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "y4Qrs8dJYYA"
     }
    }
   }
