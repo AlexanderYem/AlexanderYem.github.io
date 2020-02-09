@@ -40,7 +40,7 @@ Future main() async {
     try {
       if (request.requestedUri.path == '/register') {
         if (request.method == 'POST') {
-          if (Random().nextBool()) request.response.write(
+          if (hasNoError()) request.response.write(
               await File('services/base_response.json').readAsString()); // ok
           else
             request.response.write(await File('services/register_error.json')
@@ -49,7 +49,7 @@ Future main() async {
           request.response.statusCode = 405;
       } else if (request.requestedUri.path == '/request_sms_code') {
         if (request.method == 'POST') {
-          if (Random().nextBool()) request.response.write(
+          if (hasNoError()) request.response.write(
               await File('services/base_response.json').readAsString()); // ok
           else
             request.response.write(
@@ -59,7 +59,7 @@ Future main() async {
           request.response.statusCode = 405;
       } else if (request.requestedUri.path == '/auth') {
         if (request.method == 'POST') {
-          if (Random().nextBool()) request.response.write(
+          if (hasNoError()) request.response.write(
               await File('services/auth.json').readAsString()); // ok
           else
             request.response.write(
@@ -69,7 +69,7 @@ Future main() async {
       } else if (request.requestedUri.path == '/request_bonus') {
         if (auth()) {
           if (request.method == 'POST') {
-            if (Random().nextBool()) request.response.write(
+            if (hasNoError()) request.response.write(
                 await File('services/bonus.json').readAsString()); // ok
             else
               request.response.write(
@@ -79,7 +79,7 @@ Future main() async {
             request.response.statusCode = 405;
         }
       } else if (request.requestedUri.path == '/info') {
-        if (Random().nextBool())
+        if (hasNoError())
           request.response.write(await File(
               'services/info/${request.uri.queryParameters['page']}.json')
               .readAsString()); // ok
@@ -87,13 +87,13 @@ Future main() async {
           throw Exception("emulate info error");
       } else if (request.requestedUri.path == '/nextOrderId') {
         if (auth()) {
-          if (Random().nextBool()) request.response.write(Random().nextInt(10000).toString()); // ok
+          if (hasNoError()) request.response.write(Random().nextInt(10000).toString()); // ok
           else
             throw Exception("emulate nextOrderId error");; // error
         }
       } else if (request.requestedUri.path == '/programs') {
         if (auth()) {
-          if (Random().nextBool()) request.response.write(await File(
+          if (hasNoError()) request.response.write(await File(
               'services/programs/programs.json')
               .readAsString()); // ok
           else
@@ -101,7 +101,7 @@ Future main() async {
         }
       } else if (request.requestedUri.path == '/trainers') {
         if (auth()) {
-          if (Random().nextBool()) request.response.write(await File(
+          if (hasNoError()) request.response.write(await File(
               'services/trainers.json')
               .readAsString()); // ok
           else
@@ -109,7 +109,7 @@ Future main() async {
         }
       } else if (request.requestedUri.path == '/programs/schedule') {
         if (auth()) {
-          if (Random().nextBool()) request.response.write(await File(
+          if (hasNoError()) request.response.write(await File(
               'services/programs/schedule/schedule_list.json')
               .readAsString()); // ok
           else
@@ -127,3 +127,6 @@ Future main() async {
   }
   // #enddocregion listen
 }
+
+//bool hasNoError() => Random().nextBool();
+bool hasNoError() => true; // just no error at all
