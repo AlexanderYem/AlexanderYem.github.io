@@ -18,7 +18,7 @@ Future main() async {
 
   // #docregion listen
   await for (HttpRequest request in server) {
-    print(request.method+" "+request.requestedUri.path+"\n${request.headers.toString()}");
+    print(request.method+" "+request.requestedUri.toString()+"\n${request.headers.toString()}");
 
     request.response.headers.add("Cache-Control", "private, max-age=0, no-cache");
     
