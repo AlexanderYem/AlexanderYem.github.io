@@ -1,10 +1,10 @@
 [
   {
-    "title": "кардио",
+    "title": "Кардио",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/trekking.png",
     "trainings": [
       {
-        "title": "Les Mills BODYPUMP",
+        "title": "TREKKING",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
         "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -77,7 +77,7 @@
         }
       },
       {
-        "title": "Core Hit",
+        "title": "TREKKING Interval",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_hit.png",
         "description": "Силовая тренировка для укрепления мышц стабилизаторов с использованием амортизатора, диска и собственного веса тела.  Для любого...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -223,7 +223,153 @@
         }
       },
       {
-        "title": "ABSOLUTE ABS",
+        "title": "LES MILLS  Body Combat",
+        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
+        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
+        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+        "video": {
+          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+        },
+        "icons": [
+          {
+            "title": "Сжигание жира",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+          },
+          {
+            "title": "Выносливость",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+          },
+          {
+            "title": "Укрепление сердца и сосудов",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+          }
+        ],
+        "length": 45,
+        "trainer": {
+          "number": "7771234567",
+          "name": "Мария",
+          "surname": "Шарапова",
+          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+          "title": "Элит-тренер",
+          "categories": [
+            "Элит-тренер тренажерного зала",
+            "Мастер тренер групповых программ"
+          ],
+          "achievements": [
+            "Образование высшее.",
+            "Сертифицированный тренер LES MILLS.",
+            "Мастер спорта Республики Казахстан по легкой атлетике.",
+            "Призер Чемпионата Азии.",
+            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+            "Тренерский стаж: 8 лет."
+          ],
+          "skills": [
+            "cycle",
+            "stretching",
+            "karate",
+            "kickboxing",
+            "boxing",
+            "zumba",
+            "groups",
+            "yoga",
+            "gym"
+          ],
+          "prices": [
+            {
+              "name": "Одна персональная тренировка",
+              "price": 7600
+            },
+            {
+              "name": "10 персональных тренировок",
+              "price": 68400
+            },
+            {
+              "name": "Одна тренировка с другом",
+              "price": 12920
+            },
+            {
+              "name": "10 тренировок с другом",
+              "price": 116280
+            }
+          ]
+        }
+      },
+      {
+        "title": "Les Mills Cycle THE TRIP™",
+        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
+        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
+        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+        "video": {
+          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+        },
+        "icons": [
+          {
+            "title": "Сжигание жира",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+          },
+          {
+            "title": "Выносливость",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+          },
+          {
+            "title": "Укрепление сердца и сосудов",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+          }
+        ],
+        "length": 45,
+        "trainer": {
+          "number": "7771234567",
+          "name": "Мария",
+          "surname": "Шарапова",
+          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+          "title": "Элит-тренер",
+          "categories": [
+            "Элит-тренер тренажерного зала",
+            "Мастер тренер групповых программ"
+          ],
+          "achievements": [
+            "Образование высшее.",
+            "Сертифицированный тренер LES MILLS.",
+            "Мастер спорта Республики Казахстан по легкой атлетике.",
+            "Призер Чемпионата Азии.",
+            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+            "Тренерский стаж: 8 лет."
+          ],
+          "skills": [
+            "cycle",
+            "stretching",
+            "karate",
+            "kickboxing",
+            "boxing",
+            "zumba",
+            "groups",
+            "yoga",
+            "gym"
+          ],
+          "prices": [
+            {
+              "name": "Одна персональная тренировка",
+              "price": 7600
+            },
+            {
+              "name": "10 персональных тренировок",
+              "price": 68400
+            },
+            {
+              "name": "Одна тренировка с другом",
+              "price": 12920
+            },
+            {
+              "name": "10 тренировок с другом",
+              "price": 116280
+            }
+          ]
+        }
+      },
+      {
+        "title": "Les Mills BODYSTEP™",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
         "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -298,7 +444,7 @@
     ]
   },
   {
-    "title": "сила",
+    "title": "Сила",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/sila.png",
     "trainings": [
       {
@@ -596,11 +742,11 @@
     ]
   },
   {
-    "title": "гармония тела",
+    "title": "Гармония тела",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/garmoniya.png",
     "trainings": [
       {
-        "title": "Les Mills BODYPUMP",
+        "title": "YOGA IYENGAR",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
         "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -673,7 +819,7 @@
         }
       },
       {
-        "title": "Core Hit",
+        "title": "ANTIGRAVITI YOGA",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_hit.png",
         "description": "Силовая тренировка для укрепления мышц стабилизаторов с использованием амортизатора, диска и собственного веса тела.  Для любого...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -746,7 +892,7 @@
         }
       },
       {
-        "title": "Core+ STRETCH",
+        "title": "HATHAYOGA",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_stretch.png",
         "description": "Силовая тренировка мышц брюшного пресса в комбинации с упражнениями на растягивание всех мышечных и релаксация",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -819,7 +965,153 @@
         }
       },
       {
-        "title": "ABSOLUTE ABS",
+        "title": "STRETCH",
+        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
+        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
+        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+        "video": {
+          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+        },
+        "icons": [
+          {
+            "title": "Сжигание жира",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+          },
+          {
+            "title": "Выносливость",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+          },
+          {
+            "title": "Укрепление сердца и сосудов",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+          }
+        ],
+        "length": 45,
+        "trainer": {
+          "number": "7771234567",
+          "name": "Мария",
+          "surname": "Шарапова",
+          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+          "title": "Элит-тренер",
+          "categories": [
+            "Элит-тренер тренажерного зала",
+            "Мастер тренер групповых программ"
+          ],
+          "achievements": [
+            "Образование высшее.",
+            "Сертифицированный тренер LES MILLS.",
+            "Мастер спорта Республики Казахстан по легкой атлетике.",
+            "Призер Чемпионата Азии.",
+            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+            "Тренерский стаж: 8 лет."
+          ],
+          "skills": [
+            "cycle",
+            "stretching",
+            "karate",
+            "kickboxing",
+            "boxing",
+            "zumba",
+            "groups",
+            "yoga",
+            "gym"
+          ],
+          "prices": [
+            {
+              "name": "Одна персональная тренировка",
+              "price": 7600
+            },
+            {
+              "name": "10 персональных тренировок",
+              "price": 68400
+            },
+            {
+              "name": "Одна тренировка с другом",
+              "price": 12920
+            },
+            {
+              "name": "10 тренировок с другом",
+              "price": 116280
+            }
+          ]
+        }
+      },
+      {
+        "title": "PILATES",
+        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
+        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
+        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
+        "video": {
+          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
+          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
+        },
+        "icons": [
+          {
+            "title": "Сжигание жира",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
+          },
+          {
+            "title": "Выносливость",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
+          },
+          {
+            "title": "Укрепление сердца и сосудов",
+            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
+          }
+        ],
+        "length": 45,
+        "trainer": {
+          "number": "7771234567",
+          "name": "Мария",
+          "surname": "Шарапова",
+          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+          "title": "Элит-тренер",
+          "categories": [
+            "Элит-тренер тренажерного зала",
+            "Мастер тренер групповых программ"
+          ],
+          "achievements": [
+            "Образование высшее.",
+            "Сертифицированный тренер LES MILLS.",
+            "Мастер спорта Республики Казахстан по легкой атлетике.",
+            "Призер Чемпионата Азии.",
+            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
+            "Тренерский стаж: 8 лет."
+          ],
+          "skills": [
+            "cycle",
+            "stretching",
+            "karate",
+            "kickboxing",
+            "boxing",
+            "zumba",
+            "groups",
+            "yoga",
+            "gym"
+          ],
+          "prices": [
+            {
+              "name": "Одна персональная тренировка",
+              "price": 7600
+            },
+            {
+              "name": "10 персональных тренировок",
+              "price": 68400
+            },
+            {
+              "name": "Одна тренировка с другом",
+              "price": 12920
+            },
+            {
+              "name": "10 тренировок с другом",
+              "price": 116280
+            }
+          ]
+        }
+      },
+      {
+        "title": "BODY BALANCE",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
         "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -894,11 +1186,11 @@
     ]
   },
   {
-    "title": "танцы",
+    "title": "Танцы",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/zumba.png",
     "trainings": [
       {
-        "title": "Les Mills BODYPUMP",
+        "title": "ZUMBA",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
         "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -971,155 +1263,9 @@
         }
       },
       {
-        "title": "Core Hit",
+        "title": "Les Mills SH’BAM™",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_hit.png",
         "description": "Силовая тренировка для укрепления мышц стабилизаторов с использованием амортизатора, диска и собственного веса тела.  Для любого...",
-        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
-        "video": {
-          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
-          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
-        },
-        "icons": [
-          {
-            "title": "Сжигание жира",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
-          },
-          {
-            "title": "Выносливость",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
-          },
-          {
-            "title": "Укрепление сердца и сосудов",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
-          }
-        ],
-        "length": 45,
-        "trainer": {
-          "number": "7771234567",
-          "name": "Мария",
-          "surname": "Шарапова",
-          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
-          "title": "Элит-тренер",
-          "categories": [
-            "Элит-тренер тренажерного зала",
-            "Мастер тренер групповых программ"
-          ],
-          "achievements": [
-            "Образование высшее.",
-            "Сертифицированный тренер LES MILLS.",
-            "Мастер спорта Республики Казахстан по легкой атлетике.",
-            "Призер Чемпионата Азии.",
-            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
-            "Тренерский стаж: 8 лет."
-          ],
-          "skills": [
-            "cycle",
-            "stretching",
-            "karate",
-            "kickboxing",
-            "boxing",
-            "zumba",
-            "groups",
-            "yoga",
-            "gym"
-          ],
-          "prices": [
-            {
-              "name": "Одна персональная тренировка",
-              "price": 7600
-            },
-            {
-              "name": "10 персональных тренировок",
-              "price": 68400
-            },
-            {
-              "name": "Одна тренировка с другом",
-              "price": 12920
-            },
-            {
-              "name": "10 тренировок с другом",
-              "price": 116280
-            }
-          ]
-        }
-      },
-      {
-        "title": "Core+ STRETCH",
-        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_stretch.png",
-        "description": "Силовая тренировка мышц брюшного пресса в комбинации с упражнениями на растягивание всех мышечных и релаксация",
-        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
-        "video": {
-          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
-          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
-        },
-        "icons": [
-          {
-            "title": "Сжигание жира",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
-          },
-          {
-            "title": "Выносливость",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
-          },
-          {
-            "title": "Укрепление сердца и сосудов",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
-          }
-        ],
-        "length": 45,
-        "trainer": {
-          "number": "7771234567",
-          "name": "Мария",
-          "surname": "Шарапова",
-          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
-          "title": "Элит-тренер",
-          "categories": [
-            "Элит-тренер тренажерного зала",
-            "Мастер тренер групповых программ"
-          ],
-          "achievements": [
-            "Образование высшее.",
-            "Сертифицированный тренер LES MILLS.",
-            "Мастер спорта Республики Казахстан по легкой атлетике.",
-            "Призер Чемпионата Азии.",
-            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
-            "Тренерский стаж: 8 лет."
-          ],
-          "skills": [
-            "cycle",
-            "stretching",
-            "karate",
-            "kickboxing",
-            "boxing",
-            "zumba",
-            "groups",
-            "yoga",
-            "gym"
-          ],
-          "prices": [
-            {
-              "name": "Одна персональная тренировка",
-              "price": 7600
-            },
-            {
-              "name": "10 персональных тренировок",
-              "price": 68400
-            },
-            {
-              "name": "Одна тренировка с другом",
-              "price": 12920
-            },
-            {
-              "name": "10 тренировок с другом",
-              "price": 116280
-            }
-          ]
-        }
-      },
-      {
-        "title": "ABSOLUTE ABS",
-        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
-        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
         "video": {
           "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
@@ -1192,11 +1338,11 @@
     ]
   },
   {
-    "title": "единоборства",
+    "title": "Единоборства",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/edinoborstva.png",
     "trainings": [
       {
-        "title": "Les Mills BODYPUMP",
+        "title": "BOX",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
         "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -1269,7 +1415,7 @@
         }
       },
       {
-        "title": "Core Hit",
+        "title": "KICKBOXING",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_hit.png",
         "description": "Силовая тренировка для укрепления мышц стабилизаторов с использованием амортизатора, диска и собственного веса тела.  Для любого...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -1342,82 +1488,9 @@
         }
       },
       {
-        "title": "Core+ STRETCH",
+        "title": "BOX Sparring (по предв. записи)",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_stretch.png",
         "description": "Силовая тренировка мышц брюшного пресса в комбинации с упражнениями на растягивание всех мышечных и релаксация",
-        "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
-        "video": {
-          "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
-          "youtube": "https://www.youtube.com/watch?v=x59yKOPmARU"
-        },
-        "icons": [
-          {
-            "title": "Сжигание жира",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/fat_icon.png"
-          },
-          {
-            "title": "Выносливость",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/endurance_icon.png"
-          },
-          {
-            "title": "Укрепление сердца и сосудов",
-            "icon": "https://alexanderyem.github.io/technodom/technofit/images/programs/icons/cardio_icon.png"
-          }
-        ],
-        "length": 45,
-        "trainer": {
-          "number": "7771234567",
-          "name": "Мария",
-          "surname": "Шарапова",
-          "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
-          "title": "Элит-тренер",
-          "categories": [
-            "Элит-тренер тренажерного зала",
-            "Мастер тренер групповых программ"
-          ],
-          "achievements": [
-            "Образование высшее.",
-            "Сертифицированный тренер LES MILLS.",
-            "Мастер спорта Республики Казахстан по легкой атлетике.",
-            "Призер Чемпионата Азии.",
-            "33 кратная чемпионка Республики Казахстан по легкой атлетике.",
-            "Тренерский стаж: 8 лет."
-          ],
-          "skills": [
-            "cycle",
-            "stretching",
-            "karate",
-            "kickboxing",
-            "boxing",
-            "zumba",
-            "groups",
-            "yoga",
-            "gym"
-          ],
-          "prices": [
-            {
-              "name": "Одна персональная тренировка",
-              "price": 7600
-            },
-            {
-              "name": "10 персональных тренировок",
-              "price": 68400
-            },
-            {
-              "name": "Одна тренировка с другом",
-              "price": 12920
-            },
-            {
-              "name": "10 тренировок с другом",
-              "price": 116280
-            }
-          ]
-        }
-      },
-      {
-        "title": "ABSOLUTE ABS",
-        "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
-        "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
         "video": {
           "cover": "https://alexanderyem.github.io/technodom/technofit/images/programs/video_covers/sila.png",
@@ -1490,11 +1563,11 @@
     ]
   },
   {
-    "title": "функциональный тренинг",
+    "title": "Функциональный тренинг",
     "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/fuctional_training.png",
     "trainings": [
       {
-        "title": "Les Mills BODYPUMP",
+        "title": "CrossfitHit",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/less_mills_bodypump.png",
         "description": "BODYPUMP ™ - это ОРИГИНАЛЬНЫЙ BARBELL CLASS ™ , идеальная тренировка для всех, кто хочет стать стройным, сильным и ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -1567,7 +1640,7 @@
         }
       },
       {
-        "title": "Core Hit",
+        "title": "POWER STRIKE",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_hit.png",
         "description": "Силовая тренировка для укрепления мышц стабилизаторов с использованием амортизатора, диска и собственного веса тела.  Для любого...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -1640,7 +1713,7 @@
         }
       },
       {
-        "title": "Core+ STRETCH",
+        "title": "LES MILLS GRIT™",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/core_stretch.png",
         "description": "Силовая тренировка мышц брюшного пресса в комбинации с упражнениями на растягивание всех мышечных и релаксация",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
@@ -1713,7 +1786,7 @@
         }
       },
       {
-        "title": "ABSOLUTE ABS",
+        "title": "LES MILLS GRIT ™ Cardio",
         "label_background": "https://alexanderyem.github.io/technodom/technofit/images/programs/label_backgrounds/absolute_abs.png",
         "description": "Программа, предназначенная для области, которую мы все любим ненавидеть! Независимо от того, ставите ли вы цель - 6 кубиков или ...",
         "text": "Групповая интервальная тренировка на беговых дорожках, улучшающая работу дыхательной, сердечно-сосудистой и опорно-двигательной системы организма. Это самый простой способ снижения веса. Занятия по данной программе улучшают кардиовыносливость, координацию, сжигают лишние калории.\n\n Любой уровень сложности. 30 мин. По предварительной записи",
