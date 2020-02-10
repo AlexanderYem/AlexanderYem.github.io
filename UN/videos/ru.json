@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Международный день женщин и девочек в науке",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/YRvS9gKDxCM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "YRvS9gKDxCM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Интервью Талией Минуллиной, главой Агентства инвестиционного развития Татарстана",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "jCn0YJriG0U"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Грета Тунберг на Конференции по климату в Мадриде",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/1wSML30zPr4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "1wSML30zPr4"
     }
    }
   }
