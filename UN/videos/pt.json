@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Em Moçambique, rádios comunitárias ajudam em emergências",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/s_lCmOePvrY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "s_lCmOePvrY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Juízes do Brasil e ação sobre Objetivos de Desenvolvimento Sustentável",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/8D-_xX8JiAM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "8D-_xX8JiAM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU News no Globo Notícia Américas - 700 crianças migrantes estão isoladas no México",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "ZWExIWtamSU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Guterres participa de Encontro de Cúpula da União Africana",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/CsMq9f8DqhY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "CsMq9f8DqhY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS prepara fórum sobre coronavírus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/zDjv0BKgD14/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "zDjv0BKgD14"
     }
    }
   }
