@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Redio huwaleta watu pamoja!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/x4BWDVhFQ0A/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "x4BWDVhFQ0A"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 11 Februari 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hC17r537n3o"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Sisi sasa ni ndugu, htupigani tunashirikiana!",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NGwz0ZUGGyI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NGwz0ZUGGyI"
     }
    }
   }
