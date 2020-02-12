@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "День радио - обращение Генсека ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/I9cMPJbN0PM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "I9cMPJbN0PM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Международный день женщин и девочек в науке",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "vQTelfqMkUQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Дмитрий Кузук - преодолевая дистанцию",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/jCn0YJriG0U/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "jCn0YJriG0U"
     }
    }
   }

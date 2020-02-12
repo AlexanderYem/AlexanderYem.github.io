@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 12 Februari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/xgXefSmH5tY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "xgXefSmH5tY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Redio huwaleta watu pamoja!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uuHPCTRKNHQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 05 Februari 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/hC17r537n3o/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "hC17r537n3o"
     }
    }
   }
