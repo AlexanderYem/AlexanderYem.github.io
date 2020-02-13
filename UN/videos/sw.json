@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 13 Februari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/aBSMNZkm-Jo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "aBSMNZkm-Jo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Je wanawake kwenye kambi wanapata huduma za afya ya uzazi?",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "aJqmzy_p2nk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 06 Februari 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/mBI3P5zqj84/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "mBI3P5zqj84"
     }
    }
   }

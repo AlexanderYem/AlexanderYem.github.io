@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "FMI fala sobre o impacto do coronavírus na economia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xa6KaS4fDqA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Xa6KaS4fDqA"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Guterres destaca o poder do rádio em dia internacional",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/65xuE3OpSeU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "65xuE3OpSeU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Dia Mundial do Rádio, rádios comunitárias em Moçambique e impacto do coronavírus na economia",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "jNDXiw4_blM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Internacional das Mulheres na Ciência, general brasileiro na RD Congo e fórum sobre coronavírus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/G-56qnO2M-Y/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "G-56qnO2M-Y"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Moçambique: ONU quer apoiar mais deslocados que sofrem com violência no norte do país",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/v1z3ddQTuew/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "v1z3ddQTuew"
     }
    }
   }
