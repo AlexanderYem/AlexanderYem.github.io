@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Dia Mundial do Rádio e emissoras parceiras",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/T_8D8B1KM5E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "T_8D8B1KM5E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Em Moçambique, rádios comunitárias ajudam em emergências",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "AWD0fJC_05I"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Violência em Moçambique, parceria da ONU com a União Africana e desenvolvimento em Cabo Verde",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZWExIWtamSU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ZWExIWtamSU"
     }
    }
   }
