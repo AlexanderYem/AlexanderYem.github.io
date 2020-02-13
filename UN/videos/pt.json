@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "OMS: dicas para viagens durante o surto de coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2CusaVH6APY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2CusaVH6APY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "FMI fala sobre o impacto do coronavírus na economia",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "D-dr1uWTdpM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Dia Internacional das Mulheres e Meninas na Ciência",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/jNDXiw4_blM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "jNDXiw4_blM"
     }
    }
   }
