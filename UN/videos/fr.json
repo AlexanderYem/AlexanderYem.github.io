@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Ce qu'il faut",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/hD-WvU20ykw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "hD-WvU20ykw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "L’ONU appelle à intégrer la protection des enfants dans les processus de paix",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hbkdH6msq1w"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Se souvenir du tremblement de terre en Haïti",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/BdB1Fw4RI9w/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "BdB1Fw4RI9w"
     }
    }
   }
