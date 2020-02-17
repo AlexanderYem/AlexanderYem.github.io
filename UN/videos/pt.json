@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - novo coronavírus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q9QPHkeccAc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Q9QPHkeccAc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Nova biblioteca infantil do Sudão do Sul foi organizada por uma boina-azul da ONU",
     "thumbnails": {
      "high": {
@@ -41,7 +54,7 @@
   },
   {
    "snippet": {
-    "title": "Guterres conversa com três gerações de afegãos no Paquistão.",
+    "title": "Guterres conversa com três gerações de afegãos no Paquistão",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/JY5mssLsxIQ/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "2CusaVH6APY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "FMI fala sobre o impacto do coronavírus na economia",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Xa6KaS4fDqA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Xa6KaS4fDqA"
     }
    }
   }
