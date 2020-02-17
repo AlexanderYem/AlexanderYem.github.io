@@ -30,7 +30,7 @@ Future main() async {
     }
 
     bool auth() {
-      if(bearer == null || request.headers.value("authorization")!="Bearer $bearer") {
+      if(bearer == null || request.headers.value("authorization")!="") {
         request.response.statusCode = 401;
         print("Response: 401 not authorized (${request.headers.value("authorization")})");
         return false;
@@ -130,3 +130,4 @@ Future main() async {
 
 //bool hasNoError() => Random().nextBool();
 bool hasNoError() => true; // just no error at all
+
