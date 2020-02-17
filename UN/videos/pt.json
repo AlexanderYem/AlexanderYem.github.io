@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Guterres conversa com três gerações de afegãos no Paquistão.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/JY5mssLsxIQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "JY5mssLsxIQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Encerramento do Fórum Urbano Mundial sobre o futuro das cidades",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "T_8D8B1KM5E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Em Moçambique, rádios comunitárias ajudam em emergências",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/s_lCmOePvrY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "s_lCmOePvrY"
     }
    }
   }
