@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Гуманитарный кризис в Сирии",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mkIeisbdNfE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mkIeisbdNfE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "День радио - обращение Генсека ООН",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "qpP26qkjCl4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Генсек ООН по случаю Международного дня мигранта",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/vQTelfqMkUQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "vQTelfqMkUQ"
     }
    }
   }
