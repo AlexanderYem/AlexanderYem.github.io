@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Destaque ONU News Especial - Crianças no conflito da Síria",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/4X9h-3Hs-S0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "4X9h-3Hs-S0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Guterres encerra visita marcada por apelo pró-refugiados no Paquistão",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "6s9_RSQUch8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Cidade do México aprova lei proibindo o uso de sacolas de plástico",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/0ZhCIuWu_8g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "0ZhCIuWu_8g"
     }
    }
   }
