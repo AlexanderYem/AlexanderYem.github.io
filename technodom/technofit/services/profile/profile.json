@@ -1,0 +1,46 @@
+{
+  "user": {
+    "number": "7771234567",
+    "email": "sharapova@sport.ru",
+    "sex": 1,
+    "birthday": "19.04.1987",
+    "name": "Мария",
+    "surname": "Шарапова",
+    "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/maria.png",
+    "instagram": "https://www.instagram.com/mariasharapova",
+    "additionalNumbers": ["+77071234567"]
+  },
+  "membership": {
+    "expire": "02.12.2021"
+  },
+  "activities": [
+    {
+      "title": "Ознакомительный инструктаж",
+      "count": 2
+    },
+    {
+      "title": "INBODY",
+      "count": 2
+    },
+    {
+      "title": "Персональные тренировки",
+      "count": 0
+    }
+  ],
+  "children": [
+    {
+      "number": "7771234568",
+      "email": "egorka@technodom.kz",
+      "sex": 0,
+      "birthday": "19.04.2010",
+      "name": "Егор",
+      "surname": "Мальцев",
+      "thumbnailUrl": "https://alexanderyem.github.io/technodom/technofit/images/egor.png",
+      "instagram": "https://www.instagram.com/egormaltsev",
+      "additionalNumbers": []
+    }
+  ],
+  "locker": {
+    "expire": "02.12.21"
+  }
+}
