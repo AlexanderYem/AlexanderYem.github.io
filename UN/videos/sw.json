@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN 20 Februari 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/QQb6Eont1s8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "QQb6Eont1s8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mambo 7 unayopaswa kuyafahamu kuhusu nzige",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "DyjB5qyoeQU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 13 Februari 2020",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/aBSMNZkm-Jo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "aBSMNZkm-Jo"
     }
    }
   }
