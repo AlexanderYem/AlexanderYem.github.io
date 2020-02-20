@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mambo 7 unayopaswa kuyafahamu kuhusu nzige",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/SyNuXpoowKg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "SyNuXpoowKg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 19 Februari 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "aBSMNZkm-Jo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Je wanawake kwenye kambi wanapata huduma za afya ya uzazi?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/FwniG12zOVw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "FwniG12zOVw"
     }
    }
   }
