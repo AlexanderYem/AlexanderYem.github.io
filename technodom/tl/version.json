@@ -1,3 +1,5 @@
 {
-  "version": "0.2.36"
+  "version": "0.2.36",
+  "test": "https://alexanderyem.github.io/technodom/tl/test.apk",
+  "prod": "https://alexanderyem.github.io/technodom/tl/prod.apk"
 }
