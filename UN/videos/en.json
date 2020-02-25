@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "A Call to Action for Human Rights - UN Chief",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/kYZDoKZASRw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "kYZDoKZASRw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "António Guterres addresses conference on Afghan refugees",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "AYB0weoZTzU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Young talented filmmakers – Plural +",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QvNsz3bOycY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QvNsz3bOycY"
     }
    }
   }
