@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "«УчимЗнаем» и ООН - образовательная среда для детей, проходящих длительное лечение",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2s2YbRjm_C4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2s2YbRjm_C4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Гуманитарный кризис в Сирии",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bzPsawc2ngs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Новогоднее видеообращение Генсека",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qpP26qkjCl4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qpP26qkjCl4"
     }
    }
   }
