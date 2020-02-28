@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Гуманитарная помощь для жителей Сирии",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/jDTI4pUpSRw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "jDTI4pUpSRw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "«УчимЗнаем» и ООН - образовательная среда для детей, проходящих длительное лечение",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Pa_Iu-pNhM4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Интервью с директором Информцентра ООН в Москве Владимиром Кузнецовым",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/bzPsawc2ngs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "bzPsawc2ngs"
     }
    }
   }
