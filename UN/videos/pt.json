@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas: crise alimentar na Venezuela",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2mnDUjZxVYw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2mnDUjZxVYw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "OMS cita chegada do covid-19 ao Brasil",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "muDwnD2t__4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Discurso de Moçambique no Conselho de Direitos Humanos",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/HQIChUm5uaY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "HQIChUm5uaY"
     }
    }
   }
