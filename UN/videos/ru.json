@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Идлиб, Сирия",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1FgPBtsXbd0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1FgPBtsXbd0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Кимберлийский процесс - Россия председатель в 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "ud8gnfWTI7Q"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Генсек ООН о своих приоритетах",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/riCUrv7NEHo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "riCUrv7NEHo"
     }
    }
   }
