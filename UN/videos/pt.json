@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensagem do secretário-geral da ONU no Dia Internacional das Mulheres",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/07CsfgVegBo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "07CsfgVegBo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Boinas-azuis portugueses recebem medalha na República Centro-Africana",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "2mnDUjZxVYw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS cita chegada do covid-19 ao Brasil",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/JNIko98Drw4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "JNIko98Drw4"
     }
    }
   }
