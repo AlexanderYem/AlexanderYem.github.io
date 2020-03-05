@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "خافيير بيريز دي كوييار: السلام نصر بلا خاسرين",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/4lptcYUjRmw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "4lptcYUjRmw"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "الأمين العام للأمم المتحدة يحث على نقل السلطة إلى المرأة",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/R9S0WHELBag/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "R9S0WHELBag"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "برنامج الأغذية العالمي: أسعار الغذاء في إدلب ارتفعت بنسبة 120%",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "fPC7OYESX5s"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "خلال حوار تفاعلي شبابي في جنيف: الأمين العام يدعو إلى إعلاء صوت \"نحن الشعوب\"",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/6bZ7TbaPzF4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "6bZ7TbaPzF4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "مجلس الأمن يقرر تمديد ولاية فريق الخبراء في اليمن ولجنة الجزاءات",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/OQowQ0arqCw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "OQowQ0arqCw"
     }
    }
   }
