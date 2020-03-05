@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Javier Pérez de Cuéllar, 1920-2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/h56wY5wTpp8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "h56wY5wTpp8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Brasil fala à ONU News sobre direitos das mulheres, plataforma continental e promoção do português",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "xoGp6euYNyo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mulheres nas forças de segurança interna da República Centro-Africana",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/FmrpA5Z5yOk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "FmrpA5Z5yOk"
     }
    }
   }
