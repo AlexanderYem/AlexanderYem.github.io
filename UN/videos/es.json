@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Las Naciones Unidas lamentan la muerte de Javier Pérez de Cuéllar",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/B0eOFETM2Rs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "B0eOFETM2Rs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "El Jefe de la ONU insta a que se traspase poder a las mujeres",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "cU81W-JpNrY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mensaje del Secretario General en el décimo aniversario del terremoto de Haití",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NeEVM9mYhzU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NeEVM9mYhzU"
     }
    }
   }
