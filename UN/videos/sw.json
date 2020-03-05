@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mfahamu Pérez  de Cuéllar",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1_V_PoEMEh0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1_V_PoEMEh0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Niliona mchezo wa Kompyuta ukanivutia kuja na wazo langu-Regina Honu",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "eLUVV9WS2ik"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Nelly sasa amepona! Vifijo na nderemo!",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tnTJEkOyR0E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tnTJEkOyR0E"
     }
    }
   }
