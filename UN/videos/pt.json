@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Crianças fazem travessia perigosa para chegar à América do Norte",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZmrWbObI6ps/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ZmrWbObI6ps"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Trajetória das mulheres dentro das universidades no Brasil",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "WnrEgo46W2M"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19 impacta eventos na ONU; acordo entre EUA-Talebã e ervas marinhas em Moçambique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qGO8cw7UyO8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qGO8cw7UyO8"
     }
    }
   }
