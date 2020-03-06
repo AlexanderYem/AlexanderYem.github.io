@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "بعد 25 عاما على إعلان بيجين لا يزال عدم المساواة بين الجنسين يشكل أكبر تحد نواجهه بشأن حقوق الإنسان",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/T3pSguSTJyU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "T3pSguSTJyU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "المحكمة الجنائية الدولية تأذن بفتح تحقيقات في جرائم حرب مزعومة في أفغانستان",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "c0RUUmUuAPg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "الأمين العام يجدد دعوة الأطراف المعنية بالصراع في سوريا إلى التوقف فورا عن إطلاق النار",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/XxOTWDtcXGQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "XxOTWDtcXGQ"
     }
    }
   }
