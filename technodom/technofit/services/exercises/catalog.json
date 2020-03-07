@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal.png",
+    "title": "Мышцы пресса",
+    "count": 42
+  },
+  {
+    "id": "2",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/back.png",
+    "title": "Спина",
+    "count": 11
+  },
+  {
+    "id": "3",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/biceps.png",
+    "title": "Бицепсы",
+    "count": 11
+  },
+  {
+    "id": "4",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/shin.png",
+    "title": "Голень",
+    "count": 11
+  },
+  {
+    "id": "5",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/pectoral.png",
+    "title": "Грудные мышцы",
+    "count": 11
+  },
+  {
+    "id": "6",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/forearm.png",
+    "title": "Предплечья",
+    "count": 11
+  },
+  {
+    "id": "7",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/legs.png",
+    "title": "Ноги",
+    "count": 11
+  },
+  {
+    "id": "7",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/neck.png",
+    "title": "Шея",
+    "count": 11
+  },
+  {
+    "id": "8",
+    "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/trapezius.png",
+    "title": "Трапеция",
+    "count": 11
+  }
+]
