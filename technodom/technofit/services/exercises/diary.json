@@ -10,14 +10,22 @@
           {
             "id": "10011",
             "title": "Велосипед",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
+            ],
             "repeats": 4,
             "count": 20
           },
           {
             "id": "10012",
             "title": "Скручивания",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
+            ],
             "repeats": 4,
             "count": 20
           }
@@ -30,14 +38,22 @@
           {
             "id": "10071",
             "title": "Приседания со штангой",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png"
+            ],
             "repeats": 4,
             "count": 20
           },
           {
             "id": "10072",
             "title": "Велотренажер",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png"
+            ],
             "repeats": 3,
             "count": 15
           }
