@@ -2,54 +2,63 @@
   {
     "id": "1001",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Мышцы пресса",
     "count": 42
   },
   {
     "id": "1002",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/back.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Спина",
     "count": 11
   },
   {
     "id": "1003",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/biceps.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Бицепсы",
     "count": 11
   },
   {
     "id": "1004",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/shin.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Голень",
     "count": 11
   },
   {
     "id": "1005",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/pectoral.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Грудные мышцы",
     "count": 11
   },
   {
     "id": "1006",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/forearm.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Предплечья",
     "count": 11
   },
   {
     "id": "1007",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/legs.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Ноги",
     "count": 11
   },
   {
     "id": "1008",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/neck.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Шея",
     "count": 11
   },
   {
     "id": "1009",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/trapezius.png",
+    "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Трапеция",
     "count": 11
   }
