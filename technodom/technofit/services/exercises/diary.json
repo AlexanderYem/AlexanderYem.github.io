@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Пресс и ноги",
+    "muscles": [
+      {
+        "id": "1001",
+        "exercises": [
+          {
+            "title": "Велосипед",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
+            ],
+            "repeats": 4,
+            "count": 20
+          },
+          {
+            "title": "Скручивания",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
+            ],
+            "repeats": 4,
+            "count": 20
+          }
+        ]
+      },
+      {
+        "id": "1007",
+        "exercises": [
+          {
+            "title": "Велосипед",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
+            ],
+            "repeats": 4,
+            "count": 20
+          },
+          {
+            "title": "Скручивания",
+            "images": [
+              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
+            ],
+            "repeats": 3,
+            "count": 15
+          }
+        ]
+      }
+    ]
+  }
+]
