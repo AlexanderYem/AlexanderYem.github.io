@@ -5,6 +5,7 @@
     "muscles": [
       {
         "id": "1001",
+        "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
             "title": "Велосипед",
@@ -22,6 +23,7 @@
       },
       {
         "id": "1007",
+        "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
             "title": "Велосипед",
