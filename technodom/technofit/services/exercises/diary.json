@@ -8,17 +8,13 @@
         "exercises": [
           {
             "title": "Велосипед",
-            "images": [
-              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
-            ],
+            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
             "repeats": 4,
             "count": 20
           },
           {
             "title": "Скручивания",
-            "images": [
-              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
-            ],
+            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
             "repeats": 4,
             "count": 20
           }
@@ -29,17 +25,13 @@
         "exercises": [
           {
             "title": "Велосипед",
-            "images": [
-              "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
-            ],
+            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
             "repeats": 4,
             "count": 20
           },
           {
             "title": "Скручивания",
-            "images": [
-              "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
-            ],
+            "images": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
             "repeats": 3,
             "count": 15
           }
