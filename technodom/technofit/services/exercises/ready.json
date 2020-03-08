@@ -3,18 +3,76 @@
     "id": "1",
     "title": "Пресс супермена",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_supermen_press.png",
-    "rank": "1"
+    "rank": "1",
+    "exercises": [
+      {
+        "id": "10011",
+        "title": "Велосипед",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
+        ],
+        "description" : "Упражнение “Велосипед на пресс” — одно из наиболее эффективных динамических упражнений для развития мускулатуры живота и корпуса. Название упражнения отсылает к кручению педалей велосипеда — по сути, именно это движение и необходимо выполнять ногами, уделяя при этом особое внимание осознанному напряжению мышц пресса и полному ощущению вовлечения мускулатуры корпуса в работу.\n\nФитсевен уже писал о том, что для эффективной тренировки брюшного пресса важно сочетать как динамические, так и статические упражнения. Примером динамических упражнений на пресс являются всевозможные подъемы ног в висе и скручивания, а примером статических — упражнения планка и вакуум живота. В свою очередь, упражнение велосипед сочетает в себе статические и динамические элементы.\n\nКлючевую роль играет то, что при правильном выполнении этого упражнения в работу включаются как быстрые, так и медленные мышечные волокна пресса, а также внутренняя мускулатура корпуса. Это позволяет развивать и укреплять мышцы живота одновременно. Именно поэтому упражнение велосипед и входит в рейтинг лучших упражнений на пресс."
+      },
+      {
+        "id": "10012",
+        "title": "Скручивания",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
+        ],
+        "description" : "Скручивания на пресс – упражнение, выполняемое атлетами для обретения сильного и рельефного пресса. По своей биомеханике оно представляет подъем туловища с небольшим округлением спины (кифозом) в грудном отделе из положения лежа. Как правило, скручивания выполняются атлетом не в максимально возможной амплитуде, чтобы нагрузка была постоянной, и мышцы живота не расслаблялись в верхней и нижней точках. Работая в подобной технике выполнения, нагрузка акцентируется на верхней части прямой мышцы живота.\n\nЭто упражнение обрело заслуженную популярность среди спортсменов, занимающихся кроссфитом, бодибилдингом, фитнесом и единоборствами, так как хорошо развитый брюшной пресс играет немаловажную роль во всех этих дисциплинах. И сегодня мы расскажем вам, как правильно делать скручивания — все возможные вариации этого упражнения."
+      }
+    ]
   },
   {
     "id": "2",
-    "title": "Груди халка",
+    "title": "Грудь халка",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_halk_chest.png",
-    "rank": "2"
+    "rank": "2",
+    "exercises": [
+      {
+        "id": "10051",
+        "title": "Жим лёжа",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png"
+        ],
+        "description" : "Жим лёжа — базовое физическое упражнение со свободным весом. Выполняющий упражнение ложится на скамейку, опускает гриф до касания с грудью и поднимает до полного выпрямления в локтевом суставе. Используется в бодибилдинге как упражнение для развития больших и малых грудных мышц, трицепсов и переднего пучка дельтовидной мышцы.\n\nЯвляется одной из основных дисциплин в пауэрлифтинге (наряду c приседанием и становой тягой), где используется отличная от бодибилдинга техника: с целью жима максимально большого веса напрягаются трицепсы, передние пучки дельтовидных мышц и широчайшие мышцы спины; роль грудных мышц значительно снижена."
+      }
+    ]
   },
   {
     "id": "3",
     "title": "Ягодицы лопес",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_buttoks.png",
-    "rank": "3"
+    "rank": "3",
+    "exercises": [
+      {
+        "id": "10071",
+        "title": "Приседания со штангой",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png"
+        ],
+        "repeats": 4,
+        "count": 20
+      },
+      {
+        "id": "10072",
+        "title": "Велотренажер",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png"
+        ],
+        "repeats": 3,
+        "count": 15
+      }
+    ]
   }
 ]

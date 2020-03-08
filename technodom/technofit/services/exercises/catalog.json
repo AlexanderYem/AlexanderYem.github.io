@@ -53,7 +53,18 @@
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/pectoral.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Грудные мышцы",
-    "exercises": []
+    "exercises": [
+      {
+        "id": "10051",
+        "title": "Жим лёжа",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bench_chest.png"
+        ],
+        "description" : "Жим лёжа — базовое физическое упражнение со свободным весом. Выполняющий упражнение ложится на скамейку, опускает гриф до касания с грудью и поднимает до полного выпрямления в локтевом суставе. Используется в бодибилдинге как упражнение для развития больших и малых грудных мышц, трицепсов и переднего пучка дельтовидной мышцы.\n\nЯвляется одной из основных дисциплин в пауэрлифтинге (наряду c приседанием и становой тягой), где используется отличная от бодибилдинга техника: с целью жима максимально большого веса напрягаются трицепсы, передние пучки дельтовидных мышц и широчайшие мышцы спины; роль грудных мышц значительно снижена."
+      }
+    ]
   },
   {
     "id": "1006",
