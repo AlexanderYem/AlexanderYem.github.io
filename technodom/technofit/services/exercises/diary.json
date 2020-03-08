@@ -26,13 +26,13 @@
         "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
-            "title": "Велосипед",
+            "title": "Приседания с штангой",
             "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
             "repeats": 4,
             "count": 20
           },
           {
-            "title": "Скручивания",
+            "title": "Велотренажер",
             "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
             "repeats": 3,
             "count": 15
