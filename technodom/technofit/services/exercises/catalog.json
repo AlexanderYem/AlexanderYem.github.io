@@ -4,62 +4,104 @@
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Мышцы пресса",
-    "count": 42
+    "exercises": [
+      {
+        "id": "10011",
+        "title": "Велосипед",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png"
+        ],
+        "description" : "Упражнение “Велосипед на пресс” — одно из наиболее эффективных динамических упражнений для развития мускулатуры живота и корпуса. Название упражнения отсылает к кручению педалей велосипеда — по сути, именно это движение и необходимо выполнять ногами, уделяя при этом особое внимание осознанному напряжению мышц пресса и полному ощущению вовлечения мускулатуры корпуса в работу.\n\nФитсевен уже писал о том, что для эффективной тренировки брюшного пресса важно сочетать как динамические, так и статические упражнения. Примером динамических упражнений на пресс являются всевозможные подъемы ног в висе и скручивания, а примером статических — упражнения планка и вакуум живота. В свою очередь, упражнение велосипед сочетает в себе статические и динамические элементы.\n\nКлючевую роль играет то, что при правильном выполнении этого упражнения в работу включаются как быстрые, так и медленные мышечные волокна пресса, а также внутренняя мускулатура корпуса. Это позволяет развивать и укреплять мышцы живота одновременно. Именно поэтому упражнение велосипед и входит в рейтинг лучших упражнений на пресс."
+      },
+      {
+        "id": "10012",
+        "title": "Скручивания",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png"
+        ],
+        "description" : "Скручивания на пресс – упражнение, выполняемое атлетами для обретения сильного и рельефного пресса. По своей биомеханике оно представляет подъем туловища с небольшим округлением спины (кифозом) в грудном отделе из положения лежа. Как правило, скручивания выполняются атлетом не в максимально возможной амплитуде, чтобы нагрузка была постоянной, и мышцы живота не расслаблялись в верхней и нижней точках. Работая в подобной технике выполнения, нагрузка акцентируется на верхней части прямой мышцы живота.\n\nЭто упражнение обрело заслуженную популярность среди спортсменов, занимающихся кроссфитом, бодибилдингом, фитнесом и единоборствами, так как хорошо развитый брюшной пресс играет немаловажную роль во всех этих дисциплинах. И сегодня мы расскажем вам, как правильно делать скручивания — все возможные вариации этого упражнения."
+      }
+    ]
   },
   {
     "id": "1002",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/back.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Спина",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1003",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/biceps.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Бицепсы",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1004",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/shin.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Голень",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1005",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/pectoral.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Грудные мышцы",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1006",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/forearm.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Предплечья",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1007",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/legs.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Ноги",
-    "count": 11
+    "exercises": [
+      {
+        "id": "10071",
+        "title": "Приседания со штангой",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png"
+        ],
+        "description" : "Приседания со штангой — это ключевое силовое упражнение для развития мышц ног и одно из пяти базовых многосуставных упражнений. При выполнении приседаний в работу включаются практически вся нижняя часть тела, начиная от мышц ягодиц и бедер, заканчивая икрами, а также мускулатура корпуса, абдоминального пресса и нижней части спины.\n\nОднако, несмотря на многочисленные плюсы данного упражнения, неправильно выполняемые приседания способны нанести существенный вред здоровью, создавая чрезмерную нагрузку на поясницу и перегружая колени. Если вы хотите научиться приседать правильно, необходимо тщательно изучить правильную технику этого упражнения и постоянно обращать внимание на важные детали."
+      },
+      {
+        "id": "10072",
+        "title": "Велотренажер",
+        "images": [
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
+          "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png"
+        ],
+        "description" : "Велотренажер относится к группе кардио или аэробных тренажеров. Зачем же нам необходимы аэробные тренировки? Аэробная способность организма – это количество кислорода, которое он потребляет в минуту во время физической активности. Наша выносливость ограничивается способностью организма снабжать мышцы кислородом. Повысить аэробную способность организма – это значит развить выносливость в частности таких важных систем, как дыхательной и сердечно-сосудистой. Регулярные энергичные упражнения могут увеличить аэробную способность организма на 20 или 30 %.\n\nЗанятие на велотренажере - довольно сильная физическая нагрузка. Даже если вы абсолютно здоровы, во время занятий внимательно прислушивайтесь к себе. Боли в области сердца или за грудиной, чувство нехватки воздуха, сильная одышка, головокружение, тошнота, слабость, головная боль - любое внезапное ухудшение самочувствия означает, что тренировку нужно прекратить."
+      }
+    ]
   },
   {
     "id": "1008",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/neck.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Шея",
-    "count": 11
+    "exercises": []
   },
   {
     "id": "1009",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/muscles/trapezius.png",
     "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
     "title": "Трапеция",
-    "count": 11
+    "exercises": []
   }
 ]

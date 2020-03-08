@@ -8,12 +8,14 @@
         "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
+            "id": "10011",
             "title": "Велосипед",
             "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
             "repeats": 4,
             "count": 20
           },
           {
+            "id": "10012",
             "title": "Скручивания",
             "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
             "repeats": 4,
@@ -26,14 +28,16 @@
         "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
-            "title": "Приседания с штангой",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
+            "id": "10071",
+            "title": "Приседания со штангой",
+            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
             "repeats": 4,
             "count": 20
           },
           {
+            "id": "10072",
             "title": "Велотренажер",
-            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
+            "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
             "repeats": 3,
             "count": 15
           }
