@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Пресс супермена",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_supermen_press.png",
-    "rank": "1",
+    "rank": 1,
     "exercises": [
       {
         "id": "10011",
@@ -31,7 +31,7 @@
     "id": "2",
     "title": "Грудь халка",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_halk_chest.png",
-    "rank": "2",
+    "rank": 2,
     "exercises": [
       {
         "id": "10051",
@@ -49,7 +49,7 @@
     "id": "3",
     "title": "Ягодицы лопес",
     "image": "https://alexanderyem.github.io/technodom/technofit/images/exercises/ready_buttocks.png",
-    "rank": "3",
+    "rank": 3,
     "exercises": [
       {
         "id": "10071",
