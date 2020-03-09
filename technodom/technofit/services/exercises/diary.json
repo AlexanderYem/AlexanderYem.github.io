@@ -5,11 +5,11 @@
     "muscles": [
       {
         "id": "1001",
-        "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
             "id": "10011",
             "title": "Велосипед",
+            "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
             "images": [
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/bike.png",
@@ -21,6 +21,7 @@
           {
             "id": "10012",
             "title": "Скручивания",
+            "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
             "images": [
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/twisting.png",
@@ -33,11 +34,11 @@
       },
       {
         "id": "1007",
-        "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
         "exercises": [
           {
             "id": "10071",
             "title": "Приседания со штангой",
+            "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
             "images": [
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/squats.png",
@@ -49,6 +50,7 @@
           {
             "id": "10072",
             "title": "Велотренажер",
+            "partImage": "https://alexanderyem.github.io/technodom/technofit/images/muscles/abdominal_part.png",
             "images": [
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
               "https://alexanderyem.github.io/technodom/technofit/images/exercises/velo.png",
