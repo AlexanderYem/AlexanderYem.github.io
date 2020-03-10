@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : message du Secrétaire général de l’Organisation des Nations Unies",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/xeik50DOl-g/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "xeik50DOl-g"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Javier Pérez de Cuéllar : le Secrétaire général le mieux habité par sa fonction",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "tPeLBzye-bo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "L’ONU se mobilise contre l’exploitation et les abus sexuels",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/mDZisTfzyIE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "mDZisTfzyIE"
     }
    }
   }
