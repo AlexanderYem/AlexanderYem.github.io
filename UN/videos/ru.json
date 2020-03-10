@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Хилари Клинтон о мирном соглашении в Афганистане",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/QzsuFfV1Ggw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "QzsuFfV1Ggw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Жизнь в лагере для внутренних переселенцев в Сирии",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "QVULvsWv8_E"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "ВОЗ о новом коронавирусе",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/At6NSyvSU68/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "At6NSyvSU68"
     }
    }
   }
