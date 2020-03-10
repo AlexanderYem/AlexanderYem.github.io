@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas: avanços das mulheres nos últimos 25 anos",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PqZz9XyfyqI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PqZz9XyfyqI"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "O que mudou em Moçambique, um ano depois do ciclone Idai",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "dgocLZF24t0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mensagem do secretário-geral da ONU no Dia Internacional das Mulheres",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/07CsfgVegBo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "07CsfgVegBo"
     }
    }
   }
