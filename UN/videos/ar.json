@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "منظمة الصحة العالمية: يمكن وصف كوفيد 19 بأنه جائحة",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Sx3BJC-lMo8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Sx3BJC-lMo8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "كريم خان: \"بيان الأديان\" هو أرضية مشتركة لصوت واحد بأن العدالة ضرورية للضحايا والناجين من براثن داعش",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "p8PlHpShI_A"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "مساعدات إنسانية أممية عبر الحدود التركية إلى شمال غرب سوريا",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/jdUdw2Q72II/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "jdUdw2Q72II"
     }
    }
   }

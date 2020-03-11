@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Ujumbe wa Katibu Mkuu wa UN kuhusu COVID-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PV2ht7CsuJM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PV2ht7CsuJM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Habari za UN 11 Machi 2020",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "W7btiH_SrC0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 05 Machi 2020 na Grace Kaneiya",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/6iEoQquW-As/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "6iEoQquW-As"
     }
    }
   }
