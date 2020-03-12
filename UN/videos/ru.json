@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Остановим коронавирус - призыв Генсекретаря ООН Антониу Гутерриша",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/qnpVhFTE4I0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "qnpVhFTE4I0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Хилари Клинтон о мирном соглашении в Афганистане",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "YRvS9gKDxCM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Интервью Талией Минуллиной, главой Агентства инвестиционного развития Татарстана",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QVULvsWv8_E/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QVULvsWv8_E"
     }
    }
   }
