@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "March 12, 2020",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/QwRwH15E88M/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "QwRwH15E88M"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Conselho de Segurança adota resolução sobre as negociações de paz no Afeganistão",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "i11blEuvUgw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Encontro sobre direitos femininos, atualizações sobre covid-19 e violência de gênero no Timor-Leste",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/H11rHtmwkK4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "H11rHtmwkK4"
     }
    }
   }
