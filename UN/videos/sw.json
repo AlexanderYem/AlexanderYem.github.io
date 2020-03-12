@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Moise Baraka!",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/J9pDmtqbEs8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "J9pDmtqbEs8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Ujumbe wa Katibu Mkuu wa UN kuhusu COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "wr3i6oRiWUM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Ujumbe wa Katibu Mkuu kuhusu Siku ya wanawake duniani",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/W7btiH_SrC0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "W7btiH_SrC0"
     }
    }
   }
