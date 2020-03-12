@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : « l’annonce d’une pandémie aujourd’hui est un appel à l'action ».",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/239UKEXKjMY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "239UKEXKjMY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : message du Secrétaire général de l’Organisation des Nations Unies",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "a0ieBBEV6rM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tPeLBzye-bo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tPeLBzye-bo"
     }
    }
   }
