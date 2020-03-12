@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Habari za UN",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/pfptJNBywJU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "pfptJNBywJU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Moise Baraka!",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "T16Qt8Cnlo4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Habari za UN 06 Machi  2020 na Grace Kaneiya",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/wr3i6oRiWUM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "wr3i6oRiWUM"
     }
    }
   }
