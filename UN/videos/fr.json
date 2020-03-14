@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : « Nous sommes tous concernés - et c’est ensemble que nous surmonterons cela. »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/JoNopgrZvr4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "JoNopgrZvr4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : « l’annonce d’une pandémie aujourd’hui est un appel à l'action ».",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "qfrp7LEBEHc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Plus jamais ça, cela veut dire enseigner l’histoire, encore et encore",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/a0ieBBEV6rM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "a0ieBBEV6rM"
     }
    }
   }
