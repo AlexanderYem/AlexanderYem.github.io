@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "أنطونيو غوتيريش: هذا هو وقت التعقل، لا الذعر ..  وقت العلم، لا الوصم .. وقت الحقائق، لا الخوف",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/3-4-aNw_Omw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "3-4-aNw_Omw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "صناعة السلال في البحرين: فن تتوارثه الأجيال ومصدر لكسب الرزق",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "TU-4mc0xU1g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "بعد 25 عاما على إعلان بيجين لا يزال عدم المساواة بين الجنسين يشكل أكبر تحد نواجهه بشأن حقوق الإنسان",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/T3pSguSTJyU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "T3pSguSTJyU"
     }
    }
   }
