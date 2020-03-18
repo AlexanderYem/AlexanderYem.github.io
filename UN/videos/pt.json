@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU e Angola combatem Covid-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Skb05Vf3EB4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Skb05Vf3EB4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19: representante da Unesco explico apoio a alunos fora da escola",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Vmhol2AgdxI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Novo coronavírus leva ONU a cancelar eventos e adotar trabalho a distância",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/6iarVe7yBwE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "6iarVe7yBwE"
     }
    }
   }
