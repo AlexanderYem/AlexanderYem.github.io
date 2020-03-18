@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "COVID19 - Rétablissons les faits",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/3Dq6O_KjBJc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "3Dq6O_KjBJc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "#COVID19 : « La pandémie de coronavirus est désormais présente dans plus de 140 pays.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Q8uAtNSo0O8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Coronavirus : l’OMS déclare une urgence de santé mondiale",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/WVGU151XXWQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "WVGU151XXWQ"
     }
    }
   }
