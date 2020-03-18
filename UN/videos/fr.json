@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "#COVID19 : « La pandémie de coronavirus est désormais présente dans plus de 140 pays.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/9400YnJ8nbo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "9400YnJ8nbo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : « Nous sommes tous concernés - et c’est ensemble que nous surmonterons cela. »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "WVGU151XXWQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "UN75 : première conversation mondiale avec des jeunes à New York",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qfrp7LEBEHc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qfrp7LEBEHc"
     }
    }
   }
