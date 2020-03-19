@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "De Portugal, jornalista brasileira relata declaração de estado de emergência",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/ctIQoioGeZE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "ctIQoioGeZE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "OIT: Novo coronavírus pode causar perda de 25 milhões de postos de trabalho",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "KGxtyAc8hxU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS ajuda  Moçambique a se proteger contra o covid-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NHi53hLBSE8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NHi53hLBSE8"
     }
    }
   }
