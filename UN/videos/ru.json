@@ -2,14 +2,27 @@
  "items": [
   {
    "snippet": {
-    "title": "В Афинах состоялась церемония передачи олимпийского огня.",
+    "title": "Церемония передачи олимпийского огня",
     "thumbnails": {
      "high": {
-      "url": "https://i.ytimg.com/vi/88yspnu31pQ/hqdefault.jpg"
+      "url": "https://i.ytimg.com/vi/uhpjHUpWb7c/hqdefault.jpg"
      }
     },
     "resourceId": {
-     "videoId": "88yspnu31pQ"
+     "videoId": "uhpjHUpWb7c"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Китайский центр для инфицированных коронавирусом.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/K7k37_HXpHw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "K7k37_HXpHw"
     }
    }
   },
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "2s2YbRjm_C4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Гуманитарный кризис в Сирии",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/mkIeisbdNfE/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "mkIeisbdNfE"
     }
    }
   }
