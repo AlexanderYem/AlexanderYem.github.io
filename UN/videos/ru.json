@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "В Афинах состоялась церемония передачи олимпийского огня.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/88yspnu31pQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "88yspnu31pQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Победим коронавирус сообща - Антониу Гутерриш, Генсек ООН",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "mkIeisbdNfE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "День радио - обращение Генсека ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/I9cMPJbN0PM/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "I9cMPJbN0PM"
     }
    }
   }
