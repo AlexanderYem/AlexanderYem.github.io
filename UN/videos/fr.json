@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "COVID19 : « Une crise humaine qui fait appel à notre solidarité »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/LeM1C3o4MLY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "LeM1C3o4MLY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "COVID19 - Rétablissons les faits",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hD-WvU20ykw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "L’ONU appelle à intégrer la protection des enfants dans les processus de paix",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/4Zk36vyAzDg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "4Zk36vyAzDg"
     }
    }
   }
