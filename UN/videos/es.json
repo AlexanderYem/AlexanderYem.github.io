@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "\"Necesitamos solidaridad, esperanza y voluntad política para superar esta crisis juntos\"",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/GDrjihrNGTo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "GDrjihrNGTo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Juntos superaremos el COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "hKlSEvgQlOQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Ninguna hija mía será circuncidada",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/GK1IV9BBdC4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "GK1IV9BBdC4"
     }
    }
   }
