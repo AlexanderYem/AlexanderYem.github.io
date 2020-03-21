@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Kissamá de Castro - Dia Mundial da Poesia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/xDkply6iPvg/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "xDkply6iPvg"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mais do que nunca necessitamos solidariedade, diz chefe da ONU sobre pandemia",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "KBulK5JJH20"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19: medicamentos testados, estado de emergência em Portugal e preparação na Guiné-Bissau",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/7tKWn3g08zk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "7tKWn3g08zk"
     }
    }
   }
