@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Luchar contra el coronavirus sin guerras",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/PZwht7nVTbE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "PZwht7nVTbE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mensaje del Secretario General sobre la Hora del Planeta",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bGdOid9q_lc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "\"Hay un millón de especies en peligro de extinción a corto plazo\"",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/hBTgX2ChERs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "hBTgX2ChERs"
     }
    }
   }

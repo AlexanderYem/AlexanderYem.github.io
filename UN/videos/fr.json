@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "COVID19: Appel de l'OMS aux jeunes :  « vous n'êtes pas invincibles »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/pJLk_EabS38/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "pJLk_EabS38"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "COVID-19 : le chef de l’ONU appelle à un cessez-le-feu mondial",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "239UKEXKjMY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Coronavirus : message du Secrétaire général de l’Organisation des Nations Unies",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/xeik50DOl-g/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "xeik50DOl-g"
     }
    }
   }
