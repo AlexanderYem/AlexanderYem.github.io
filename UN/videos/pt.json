@@ -2,7 +2,20 @@
  "items": [
   {
    "snippet": {
-    "title": "Em português, secretário geral da ONU faz apelo a um cessar fogo mundial",
+    "title": "Covid-19: Guterres pede cessar-fogo, brasileira conta recuperação e especialista critica otimismo",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_H7BdRvGG4E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_H7BdRvGG4E"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Em português, secretário-geral da ONU faz apelo a um cessar-fogo mundial",
     "thumbnails": {
      "high": {
       "url": "https://i.ytimg.com/vi/T8AS_5yBWLQ/hqdefault.jpg"
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "7foy4U6E4KY"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Guterres: mundo pode vencer crise do covid-19 com políticas e ações coordenadas",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/1Zbj6ZMc8uY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "1Zbj6ZMc8uY"
     }
    }
   }
