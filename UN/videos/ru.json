@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ФАО солидарна с Италией",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/1AILU0xnzXQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "1AILU0xnzXQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Призыв к прекращению огня - Генсекретарь ООН Антониу Гутерриш",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "k0J_c7_Ybl4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Гуманитарная помощь для жителей Сирии",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/jDTI4pUpSRw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "jDTI4pUpSRw"
     }
    }
   }
