@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Enfrentar juntos el legado de la esclavitud y el racismo",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/cNnde-1Ggxk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "cNnde-1Ggxk"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Luchar contra el coronavirus sin guerras",
     "thumbnails": {
      "high": {
@@ -10,19 +23,6 @@
     },
     "resourceId": {
      "videoId": "PZwht7nVTbE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mensaje del Secretario General sobre la Hora del Planeta",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/sA9md66QDU8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "sA9md66QDU8"
     }
    }
   },
