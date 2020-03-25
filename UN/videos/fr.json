@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Lutter ensemble contre le racisme, vestige de l’esclavage",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/cIzg4q1MtV0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "cIzg4q1MtV0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "COVID19: Appel de l'OMS aux jeunes :  « vous n'êtes pas invincibles »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "JoNopgrZvr4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Coronavirus : « l’annonce d’une pandémie aujourd’hui est un appel à l'action ».",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/239UKEXKjMY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "239UKEXKjMY"
     }
    }
   }
