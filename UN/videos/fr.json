@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : l'emprisonnement devrait être une mesure de dernier recours durant cette crise.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/T5hsHPX9HjE/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "T5hsHPX9HjE"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Lutter ensemble contre le racisme, vestige de l’esclavage",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "9400YnJ8nbo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Coronavirus : « Nous sommes tous concernés - et c’est ensemble que nous surmonterons cela. »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/JoNopgrZvr4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "JoNopgrZvr4"
     }
    }
   }
