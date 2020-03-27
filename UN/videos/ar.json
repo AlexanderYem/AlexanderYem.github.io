@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "رسالة مكتب المفوضـة الساميـة لحقوق الإنسان حول فيروس الكورونا:",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/tXg7UZIjYK0/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "tXg7UZIjYK0"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "وداعا لمشلكة شح المياه في المزارع: شاب عماني يخترع برنامجا مفيدا للمزارعين",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Aa1HaUKqYrA"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "شبكة الأمان الاجتماعي للطوارئ تدعم أكثر من 1.75 مليون لاجئ سوري في تركيا",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ePjTdqFfijw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ePjTdqFfijw"
     }
    }
   }
