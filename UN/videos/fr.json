@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19 : Ensemble, nous pouvons repousser ce virus.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Zh9oz3yI_7A/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Zh9oz3yI_7A"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : l'emprisonnement devrait être une mesure de dernier recours durant cette crise.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "3Dq6O_KjBJc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "#COVID19 : « La pandémie de coronavirus est désormais présente dans plus de 140 pays.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/9400YnJ8nbo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "9400YnJ8nbo"
     }
    }
   }
