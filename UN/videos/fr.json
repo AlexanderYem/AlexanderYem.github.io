@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19 : les services de santé essentiels doivent continuer",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/MeLJ447h3ac/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "MeLJ447h3ac"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19 : Ensemble, nous pouvons repousser ce virus.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "i7QkY3imT38"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "COVID19 - Rétablissons les faits",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/3Dq6O_KjBJc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "3Dq6O_KjBJc"
     }
    }
   }
