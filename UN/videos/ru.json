@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Роль СМИ в борьбе с пандемией COVID-19 - Владимир Соловьев, председатель Союза журналистов России",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/dWKFY5osWTo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "dWKFY5osWTo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Олег Стороженко, Европейское бюро ВОЗ, - ответы на вопросы читателей Службы новостей ООН о COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "POBZttgLtOI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Идлиб, Сирия",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/1FgPBtsXbd0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "1FgPBtsXbd0"
     }
    }
   }
