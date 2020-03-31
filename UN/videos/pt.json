@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Mensagem de primeiro-ministro de Cabo Verde sobre covid-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/lMVGAgSYLas/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "lMVGAgSYLas"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ONU doa 250 mil máscaras de proteção à cidade de Nova Iorque",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Ox2FWUkI5ho"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Representante da OMS fala sobre chegada do covid-19 a Moçambique",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/yqarGMUYHgo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "yqarGMUYHgo"
     }
    }
   }
