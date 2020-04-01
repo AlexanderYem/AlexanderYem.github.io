@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19 : Agissons de manière décisive, innovante et de concert pour supprimer sa propagation",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/_FWU7ZEww64/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "_FWU7ZEww64"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "L'augmentation rapide de cas de #COVID19 représente un défi majeur, alerte l'UNICEF en RDC .",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/fx6U49SGMK8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "fx6U49SGMK8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19 : redoubler les efforts de santé publique pour faire baisser les chiffres",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "wNbOCPqEIYc"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Coronavirus : Nous devons  mettre en place les bonnes réponses politiques, selon OIT",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/RuxUAhGWst0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "RuxUAhGWst0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "COVID19 : « Une crise humaine qui fait appel à notre solidarité »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/LeM1C3o4MLY/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "LeM1C3o4MLY"
     }
    }
   }
