@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ONU News no Globo Notícia Américas - impacto da covid-19 na economia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uvsdJwWNWJQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uvsdJwWNWJQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19 faz organizadores adiar Olimpíadas para 2021",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "epcpPCZ32Xk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "G20: ONU lembra  \"crescimento exponencial\" de casos do covid-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/h56XwAJshpg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "h56XwAJshpg"
     }
    }
   }
