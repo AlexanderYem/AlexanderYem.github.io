@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Es posible reconstruir una sociedad más fuerte y sostenible",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uIrWFlVq3yo/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uIrWFlVq3yo"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Enfrentar juntos el legado de la esclavitud y el racismo",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "AERxASc541A"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "El obstáculo de la brecha de género en la ciencia",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/bGdOid9q_lc/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "bGdOid9q_lc"
     }
    }
   }
