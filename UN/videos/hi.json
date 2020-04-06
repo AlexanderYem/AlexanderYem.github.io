@@ -2,14 +2,27 @@
  "items": [
   {
    "snippet": {
-    "title": "UN launches $2 billion response to coronavirus",
+    "title": "UN Secretary-General’s Call for Global Ceasefire Gains Support",
     "thumbnails": {
      "high": {
-      "url": "https://i.ytimg.com/vi/LOFCTfHrtjI/hqdefault.jpg"
+      "url": "https://i.ytimg.com/vi/t_IYY7DI3PY/hqdefault.jpg"
      }
     },
     "resourceId": {
-     "videoId": "LOFCTfHrtjI"
+     "videoId": "t_IYY7DI3PY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "UN urges global solidarity in responding to COVID - 19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/m30giLtS-NY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "m30giLtS-NY"
     }
    }
   },
@@ -23,6 +36,19 @@
     },
     "resourceId": {
      "videoId": "HvglQX4_HcE"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "UN launches $2 billion response to coronavirus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/LOFCTfHrtjI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "LOFCTfHrtjI"
     }
    }
   },
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "8gk9ubQvs1I"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Education is key, General Assembly President says",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tQ2fyKa9FRg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tQ2fyKa9FRg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Remembering Haiti Earthquake 10 years Later",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/0_QopArQPwA/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "0_QopArQPwA"
     }
    }
   }
