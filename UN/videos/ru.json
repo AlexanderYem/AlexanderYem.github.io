@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "ВОЗ оказала поддержку Кыргызстану в подготовке врачей к борьбе с COVID-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/x5OB9FUVoKc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "x5OB9FUVoKc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Генсекретарь ООН призвал защитить женщин от эпидемии насилия, сопутствующей распространению COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "qnpVhFTE4I0"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Хилари Клинтон о мирном соглашении в Афганистане",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/QzsuFfV1Ggw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "QzsuFfV1Ggw"
     }
    }
   }
