@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Генсекретарь ООН призвал защитить женщин от эпидемии насилия, сопутствующей распространению COVID-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/VYWzAdj_9AM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "VYWzAdj_9AM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Роль СМИ в борьбе с пандемией COVID-19 - Владимир Соловьев, председатель Союза журналистов России",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "QzsuFfV1Ggw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Жизнь в лагере для внутренних переселенцев в Сирии",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/POBZttgLtOI/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "POBZttgLtOI"
     }
    }
   }
