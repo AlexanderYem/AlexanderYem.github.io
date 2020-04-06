@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Journée mondiale de la santé - Message du Secrétaire général de l'ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/7psGMOppG6M/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "7psGMOppG6M"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Génocide de 1994 commis contre les tutsis du Rwanda : Message du Secrétaire général de l'ONU",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q8y3Bhic27g/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Q8y3Bhic27g"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Déclaration sur les violences de genre et le Covid-19",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "nwgg1Rnkxng"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "COVID19: Appel de l'OMS aux jeunes :  « vous n'êtes pas invincibles »",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/pJLk_EabS38/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "pJLk_EabS38"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "COVID-19 : le chef de l’ONU appelle à un cessez-le-feu mondial",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/ox8f1RYDnso/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "ox8f1RYDnso"
     }
    }
   }
