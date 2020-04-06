@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "COVID-19 imeongeza ukatili majumbani",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bpriYz6dmMs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bpriYz6dmMs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Usonji au Autism kutoka kwa Dkt. Kimathi",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "kbKZYUPrLvg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Rabsha sokoni Hoima, kulikoni?",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/tLI2X7qn00I/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "tLI2X7qn00I"
     }
    }
   }
