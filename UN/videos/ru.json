@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Обращение к религиозным лидерам",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2teivIBASgw/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2teivIBASgw"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "ВОЗ оказала поддержку Кыргызстану в подготовке врачей к борьбе с COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "SbckEohmpLg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Остановим коронавирус - призыв Генсекретаря ООН Антониу Гутерриша",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/qnpVhFTE4I0/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "qnpVhFTE4I0"
     }
    }
   }
