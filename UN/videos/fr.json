@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Message du Secrétaire général de l'ONU sur les femmes et le Covid-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xm8QpgyQcwU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Xm8QpgyQcwU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Renouveler la foi en notre humanité commune face à la pandémie de Covid-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "MeLJ447h3ac"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19 : Ensemble, nous pouvons repousser ce virus.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Zh9oz3yI_7A/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Zh9oz3yI_7A"
     }
    }
   }
