@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Renovemos la fe en nuestra humanidad común",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/iiqOorhzsJ4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "iiqOorhzsJ4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Gracias a todo el personal sanitario porque trabajan día y noche para cuidarnos.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "NU2s8vjAePs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Las Naciones Unidas lamentan la muerte de Javier Pérez de Cuéllar",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/B0eOFETM2Rs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "B0eOFETM2Rs"
     }
    }
   }
