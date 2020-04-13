@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : Soyez responsable et prudent",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/KZv268Ov6DI/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "KZv268Ov6DI"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19: « Il faut respecter la règle du confinement »",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "fx6U49SGMK8"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19 : redoubler les efforts de santé publique pour faire baisser les chiffres",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/uJyRPtfRx4o/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "uJyRPtfRx4o"
     }
    }
   }
