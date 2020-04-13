@@ -1,0 +1,1104 @@
+{
+  "vehicle": {
+    "id": 31,
+    "name": "Hyundai H100 Porter",
+    "capacity": 8000000.0,
+    "passport": "С411402",
+    "image": null,
+    "imageContentType": null,
+    "owned": true,
+    "warehouseId": 1,
+    "vehicleStatus": "AVAILABLE",
+    "vehicleType": "TRUCK",
+    "fuelConsumption": 16.0,
+    "winterFuelConsumption": 18.0,
+    "loadCapacity": 0.9,
+    "loadArea": null,
+    "minLoad": null,
+    "maxLoad": 0.8,
+    "driverId": 29,
+    "loaderId": 13,
+    "devices": []
+  },
+  "employees": [
+    {
+      "id": 29,
+      "phone": "87083214132",
+      "role": "DRIVER",
+      "vehicleId": "31",
+      "firstName": "QA",
+      "lastName": "test",
+      "status": "WORKING"
+    }
+  ],
+  "orderInfo": {
+    "completed": 0,
+    "notcompleted": 46,
+    "productsVolume": 6389016,
+    "pickupsVolume": 558094,
+    "nextAddress": "КАЗАХСТАН, Алматы, Бостандыкский, , Новая, 2, , 36, .",
+    "vehicleId": 1,
+    "geometry": "{ztfGkfitM??H@@@@@@?@A@A@C?A?C?CAA?AIuBAu@p@Ef@?R?X?dCATAV?`BAfE?~D?vB?H?P?dB?H?|@HpEFv@?jBCRDLFHPBT@X?^?d@A\\ETONM@MGIKIWUyC?AEsAKuAIy@Ki@Oc@]}@S_@eA_BgAcBkC_Ep@cAo@wB^]|Iq@OqFi@{O????C}@DoDSGe@KeIyAQKIGGQCIAODs@`@uDyIcBW?U@I@KBUD_@J[J]PWN[Pk@^uAdAwAfAy@n@uAdAI@k@XODMCKKEWBYFM|AsARKHAJ@F@HDZ\\b@tAf@fAp@~A~@zBj@|AnAvC~BlFjBjEl@rAr@nAd@z@fBjC~FlIvA|Bf@~@Tj@Tt@??X|@Jt@Dx@FpADhA@z@?tBEnKEhEAbCKrIU`BM`ALvCAnC?bOEn@Et@ETAT@VBTHPJLJHLDL@LALEJIHMd@eAXm@FMDE\\UxEkA~SsFZId@Ej@C~BKd@Af@@NNNVLb@lAvF\\|AvAzG|AjHhAhFDVt@jDH\\xA_@dBc@d@Kr@Y`Ac@XITCd@?`@Br@N^Ld@Lh@JNCLMHOPe@Dk@?]Ma@MSMO[SSSKMQc@Wk@EUAY@_@DcA?q@B_@Jq@N[LU`@g@t@u@A_AAo@BQJE^CpBYAFCJMNaA~@gA`Au@t@a@f@MTOZKp@C^?p@EbAA^@XDTVj@Pb@JLRRZRLNLRL`@?\\Ej@Qd@IN????????MLOBi@Ke@M_@Ms@Oa@Ce@?UBYHaAb@s@Xe@JeBb@yA^I]u@kDEWiAiF}AkHwA{G]}AmAwFMc@OWOOg@Ae@@_CJk@Be@D[H_TrFyEjA_@LQFKDIBK@I?E???IAKKKGMEMAOBKFOLKRGHQPYJIBqFxAmKhCSD_WjGYHuBgREYQ_BcAwIUgBESK_@_AkHa@_DGc@y@}GKw@M}@CYGk@?ECGGEMAg@@aAFD~BCJURmC\\eFh@?c@C{@?o@IgHcA?_KAI}BC_@OwDE_A`N}@rJu@fCQ^xJJhCPdFYNFj@BXL|@Jv@x@|GFb@`@~C~@jHJ^UF{A^o@NoAZsBh@{Bj@wBh@{A\\g@JIBwFrAeCl@yJjCoKhCyGbAMBmDh@yCd@qFx@eC^yJtAiAsBa@y@iA_Cc@aAOy@gAkCsAwCsByDu@oAqC_EiDiEiCyC{@cAm@s@yB_DW]eCsDo@aAm@cAqAJG@[@Q@iCN{@DK@_BHa@Ba@@UDgGf@kAHYB{BPgBJsDToAFeALe@De@BiBLgAFy@HU?wGf@I?iAHGwBM}EIcC_@yKEoAEgA_A^Br@Bt@Z`MLnD????????TxGO@yAJ_G`@qCRqDRm@Be@yL?S_EXiCPaAHqAHeAHu@FcAF_@_M?y@Cu@OyExD[XABbABfAv@ECi@??A_@u@FCcAY@yDZNxEBt@?x@rIo@lIk@Z`M?Rd@xLl@CpDSpCS~Fa@xAKNAbAIhAIH?vGg@T?x@IfAGhBMd@Cd@EdAMDv@FrBD`BFbB?LLvD?RDzANhF@\\Bd@P|GHhCDvA@HBnANhEeHl@}@HEuA?O??AYUqGnGWtAIDvA@HBnANhEeHl@}@H}J|@w@_Lv@Gl@CxGc@JAJ@VzHDtA}J|@w@_Lv@Gl@CxGc@EoBMkHcBDEIgG^a@DKqCIaCC}@KoFGoCMiFGwBM}EIcC_@yKEoAEgAA[GuCQ{FMwEOqFeAFsJh@iJr@oIh@McEQmGqIn@TfIJdCsIn@cDTgDVwEZeCRA_@KiFCi@??Y{ISiGa@kMUoIWwIWuIIgCKsEYyIpCM????dEQU}IyIl@Q{E?OE{AGeBMsEGuBUiJW}IWaJKsEI_C?UGaCk@}OWmJc@iJIgD[gOKyDIeCWuJWyIAc@IqC_@{IGqBCm@YyI|Is@jIo@t@EnCQpBMRARALA~Hk@TAxHg@@`@PrHTzG??????????D`A@ZVjIJAnIk@UgIAO?MYyIU{HCa@WeIAa@Co@????Q{FAYkIn@O@@XVhH@^RfHB^@`@PrHZ|I@ZVjIV|ITvIXxIVlJThIVhIV`J@Rj@dT@PV`JZzIRvIkId@wIh@RlJnDW????nDYfIe@B~@FhBNvEBl@FtBJnELxFNhEHtCJbDRxEj@lRVrKFnB\\jKgF\\cBJsIn@FxBTjITfIJdCJ|BNdFDdBNdFxD[XABbABfAv@ECi@A_@u@FCcAY@yDZNxEBt@?x@rIo@lIk@hJq@rJe@bAL|Jq@pCOdF[Ag@Ak@EkA]aLAa@Ci@IuCGqBAYEgB`F]b@Cf@ExEY~@G^ELApDU^EdBKTCA_@GyBSuHMeEIiDG_BCeAQkGQiFAe@MkEE_Be@_OCs@_@kMCSSWGwAEqB[qLEmB?MAQA]MuD@?HAZCz@U^KVKp@e@d@g@dAaApAkAJIjBgBV\\^~@j@Cp@I@X??DjADfBbAG?t@@d@@|@d@CH?r@Ex@GdB[Bt@@hAHzCHdCLtDN|FPxDVdI\\lMB|@Bh@@b@Br@FjCNvEB|@RtGHnBDzA@j@DlBJhD\\nKDxA@^d@E^CrDW`Kq@bL{@rCQRAVATAXCD?LC\\Fd@EtBYpBMhBMvBM`Hi@PAf@ELA|F]LAbQeAdHe@nM_AfAEx@ETE|Iq@hCShASdA[l@SdAi@|@k@h@_@tAcAx@o@vB{A^]^Yb@[d@]`@SXMd@Kh@MVCNAL?j@HXHDBBB?j@DtADVHPHDj@Fr@T^Jx@LEr@@NBHFPHFPJdIxAd@JRFnDlB`DjBtDnBlDtB`ErBfAd@|@n@lAd@pAHpDI`DMvDGlDMpDMlDKjDMfDGLnKLdLpDM`DOpDKvDIHzKFjEFhBnAdAz@Lr@Dp@x@b@j@NRDNF^DRCd@]l@k@XcBx@s@dAYdAQ`CfOuA|AKjEUbEOfBI|BIjHWrJ_@|Ru@bAG`BQjAYbEaAxD_AxDy@jFoAtS_FlCm@`@jGlIkARz@S{@mEl@_C\\a@kGmCl@uS~EkFnAyDx@yD~@cE`AkAXaBPcAF}Rt@sJ^kHV}BHgBHcENkET}AJgOtAgJv@mQ~AoJp@wLh@aLh@mBHiAHu@FwBRmI~@uGt@q@HS?S?GCICIIIGKMIQGMCSA[CkA@qCBiELeBFkBDq@J{@Le@NWNOHIFMDW?{AAsAE[GUKMKIOEI?mBBw@?m@BaD?}@Bf@PvCHd@Hj@\\XXNTHVDLDPFd@BvAAjA[?GdBeA?aCTa@@}C^u@@c@JwMhAAg@A{DA{C?yBCmA?c@aB@W?U@eC@Y?S?g@?y@G?N?Z@L?TBd@DbAA@A@?BGF",
+    "orders": [
+      {
+        "id": 3090,
+        "orderNum": "00300002912",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Новая, 2, , 36, .",
+        "fio": "Сания",
+        "deliverFrom": "2019-04-27T10:00:00Z",
+        "deliverTo": "2019-04-27T15:00:00Z",
+        "longitude": 76.903316,
+        "latitude": 43.195186,
+        "orderItems": [
+          {
+            "id": 105,
+            "code": "114801",
+            "name": "Газовый котел Rinnai RBK-297RTU + Дымоход тип S",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3206,
+        "orderNum": "00300002912",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Новая, 2, , 36, .",
+        "fio": "Сания",
+        "deliverFrom": "2019-04-28T10:00:00Z",
+        "deliverTo": "2019-04-28T15:00:00Z",
+        "longitude": 76.903316,
+        "latitude": 43.195186,
+        "orderItems": [
+          {
+            "id": 268,
+            "code": "114801",
+            "name": "Газовый котел Rinnai RBK-297RTU + Дымоход тип S",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3205,
+        "orderNum": "00300002912",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Новая, 2, , 36, .",
+        "fio": "Сания",
+        "deliverFrom": "2019-04-28T10:00:00Z",
+        "deliverTo": "2019-04-28T15:00:00Z",
+        "longitude": 76.903316,
+        "latitude": 43.195186,
+        "orderItems": [
+          {
+            "id": 267,
+            "code": "114801",
+            "name": "Газовый котел Rinnai RBK-297RTU + Дымоход тип S",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3101,
+        "orderNum": "00300002917",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Мирас, д.188/25, , кв., .",
+        "fio": "Гульмира",
+        "deliverFrom": "2019-04-26T10:00:00Z",
+        "deliverTo": "2019-04-26T15:00:00Z",
+        "longitude": 76.877138,
+        "latitude": 43.1819,
+        "orderItems": [
+          {
+            "id": 116,
+            "code": "110800",
+            "name": "Игровое компьютерное кресло DXRacer NAVI OH/RE21/NY, Кожзам, (Ш)52*(Г)50*(В)138 см, Black/Yellow",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3102,
+        "orderNum": "00300002917",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Мирас, д.188/25, , кв., .",
+        "fio": "Гульмира",
+        "deliverFrom": "2019-04-27T10:00:00Z",
+        "deliverTo": "2019-04-27T15:00:00Z",
+        "longitude": 76.877138,
+        "latitude": 43.1819,
+        "orderItems": [
+          {
+            "id": 117,
+            "code": "110800",
+            "name": "Игровое компьютерное кресло DXRacer NAVI OH/RE21/NY, Кожзам, (Ш)52*(Г)50*(В)138 см, Black/Yellow",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3097,
+        "orderNum": "00300002916",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Мирас, д.188/25, , кв., .",
+        "fio": "Гульмира",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.877138,
+        "latitude": 43.1819,
+        "orderItems": [
+          {
+            "id": 112,
+            "code": "32955",
+            "name": "СВЧ-печь Samsung MC-28H5135CK/BW",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3100,
+        "orderNum": "00300002916",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Мирас, д.188/25, , кв., .",
+        "fio": "Гульмира",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.877138,
+        "latitude": 43.1819,
+        "orderItems": [
+          {
+            "id": 115,
+            "code": "32955",
+            "name": "СВЧ-печь Samsung MC-28H5135CK/BW",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3259,
+        "orderNum": "00300002995",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Тажибаева, д.157, , кв.2, .",
+        "fio": "Саида",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.89137818465873,
+        "latitude": 43.207832706345435,
+        "orderItems": [
+          {
+            "id": 335,
+            "code": "95406",
+            "name": "Встр.духовка Hansa BOEI-69451",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3088,
+        "orderNum": "00300002791",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Навои, 210/2, , 58, .",
+        "fio": "Айнура",
+        "deliverFrom": "2019-04-27T10:00:00Z",
+        "deliverTo": "2019-04-27T15:00:00Z",
+        "longitude": 76.881936,
+        "latitude": 43.216451,
+        "orderItems": [
+          {
+            "id": 103,
+            "code": "142792",
+            "name": "СВЧ-печь Hotpoint-Ariston MWHA-2011MFW0",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3284,
+        "orderNum": "00300003003",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Абая, д.153, , кв.12, .",
+        "fio": "Бахытжан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.891081,
+        "latitude": 43.239225,
+        "orderItems": [
+          {
+            "id": 368,
+            "code": "37955",
+            "name": "Magic Power Специальная соль для посудомоечных машин, 1,5 кг.",
+            "quantity": 1
+          },
+          {
+            "id": 369,
+            "code": "62590",
+            "name": "Встр. посуд. машина Electrolux ESL-95322LO",
+            "quantity": 1
+          },
+          {
+            "id": 370,
+            "code": "37956",
+            "name": "Magic Power Таблетки для посудомоечной машины 5 в 1, 40 шт.",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3286,
+        "orderNum": "00300003003",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Абая, д.153, , кв.12, .",
+        "fio": "Бахытжан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.891081,
+        "latitude": 43.239225,
+        "orderItems": [
+          {
+            "id": 374,
+            "code": "62590",
+            "name": "Встр. посуд. машина Electrolux ESL-95322LO",
+            "quantity": 1
+          },
+          {
+            "id": 375,
+            "code": "37956",
+            "name": "Magic Power Таблетки для посудомоечной машины 5 в 1, 40 шт.",
+            "quantity": 1
+          },
+          {
+            "id": 376,
+            "code": "37955",
+            "name": "Magic Power Специальная соль для посудомоечных машин, 1,5 кг.",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3283,
+        "orderNum": "00300003003",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Абая, д.153, , кв.12, .",
+        "fio": "Бахытжан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.891081,
+        "latitude": 43.239225,
+        "orderItems": [
+          {
+            "id": 366,
+            "code": "37956",
+            "name": "Magic Power Таблетки для посудомоечной машины 5 в 1, 40 шт.",
+            "quantity": 1
+          },
+          {
+            "id": 367,
+            "code": "37955",
+            "name": "Magic Power Специальная соль для посудомоечных машин, 1,5 кг.",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3287,
+        "orderNum": "00300003003",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Абая, д.153, , кв.12, .",
+        "fio": "Бахытжан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.891081,
+        "latitude": 43.239225,
+        "orderItems": [
+          {
+            "id": 377,
+            "code": "37955",
+            "name": "Magic Power Специальная соль для посудомоечных машин, 1,5 кг.",
+            "quantity": 1
+          },
+          {
+            "id": 378,
+            "code": "62590",
+            "name": "Встр. посуд. машина Electrolux ESL-95322LO",
+            "quantity": 1
+          },
+          {
+            "id": 379,
+            "code": "37956",
+            "name": "Magic Power Таблетки для посудомоечной машины 5 в 1, 40 шт.",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3285,
+        "orderNum": "00300003003",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Абая, д.153, , кв.12, .",
+        "fio": "Бахытжан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.891081,
+        "latitude": 43.239225,
+        "orderItems": [
+          {
+            "id": 371,
+            "code": "62590",
+            "name": "Встр. посуд. машина Electrolux ESL-95322LO",
+            "quantity": 1
+          },
+          {
+            "id": 372,
+            "code": "37955",
+            "name": "Magic Power Специальная соль для посудомоечных машин, 1,5 кг.",
+            "quantity": 1
+          },
+          {
+            "id": 373,
+            "code": "37956",
+            "name": "Magic Power Таблетки для посудомоечной машины 5 в 1, 40 шт.",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3339,
+        "orderNum": "00300003034",
+        "status": "OUTFORDELIVERY",
+        "address": "Алматы, Джамбула, 202, 29",
+        "fio": "Кегенбаева Шолпан",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.890731,
+        "latitude": 43.243474,
+        "orderItems": [
+          {
+            "id": 441,
+            "code": "108262",
+            "name": "GSM HTC U12+ 64Gb THX-AD-6-16-4 Ceramic Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3246,
+        "orderNum": "00300002966",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Алмалинский, , Гагарина, д66Б, , кв47, .",
+        "fio": "Аблялимова Нелли",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.894728,
+        "latitude": 43.244689,
+        "orderItems": [
+          {
+            "id": 319,
+            "code": "135491",
+            "name": "Монитор Игровой 27\" HP 27xq 3WL54AA 2560x1440 16:9 TN 144ГЦ (HDMI+DP) Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3245,
+        "orderNum": "00300002966",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Алмалинский, , Гагарина, д66Б, , кв47, .",
+        "fio": "Аблялимова Нелли",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.894728,
+        "latitude": 43.244689,
+        "orderItems": [
+          {
+            "id": 318,
+            "code": "135491",
+            "name": "Монитор Игровой 27\" HP 27xq 3WL54AA 2560x1440 16:9 TN 144ГЦ (HDMI+DP) Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3041,
+        "orderNum": "00300002884",
+        "status": "OUTFORDELIVERY",
+        "address": "Мынбаева 151 БЦ Верум",
+        "fio": "Помелову Михаилу Сергеевичу",
+        "deliverFrom": "2019-04-25T10:00:00Z",
+        "deliverTo": "2019-04-25T15:00:00Z",
+        "longitude": 76.8815868,
+        "latitude": 43.23588125,
+        "orderItems": [
+          {
+            "id": 39,
+            "code": "111117",
+            "name": "Цифр. фотоаппарат Sony ILCE-7M III Body",
+            "quantity": 1
+          },
+          {
+            "id": 40,
+            "code": "100676",
+            "name": "Объектив Sony SEL-P 18-105 mm f/4 G OSS E-mount",
+            "quantity": 1
+          },
+          {
+            "id": 41,
+            "code": "347",
+            "name": "Наушники Накладные Panasonic RP-HT161EK, Black",
+            "quantity": 2
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3039,
+        "orderNum": "00300002884",
+        "status": "OUTFORDELIVERY",
+        "address": "Мынбаева 151 БЦ Верум",
+        "fio": "Помелову Михаилу Сергеевичу",
+        "deliverFrom": "2019-04-25T10:00:00Z",
+        "deliverTo": "2019-04-25T15:00:00Z",
+        "longitude": 76.8815868,
+        "latitude": 43.23588125,
+        "orderItems": [
+          {
+            "id": 35,
+            "code": "111117",
+            "name": "Цифр. фотоаппарат Sony ILCE-7M III Body",
+            "quantity": 1
+          },
+          {
+            "id": 36,
+            "code": "100676",
+            "name": "Объектив Sony SEL-P 18-105 mm f/4 G OSS E-mount",
+            "quantity": 1
+          },
+          {
+            "id": 37,
+            "code": "347",
+            "name": "Наушники Накладные Panasonic RP-HT161EK, Black",
+            "quantity": 2
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3042,
+        "orderNum": "00300002884",
+        "status": "OUTFORDELIVERY",
+        "address": "Казахстан, Алматы, Мынбаева,151 БЦ Верум",
+        "fio": "Помелову Михаилу Сергеевичу",
+        "deliverFrom": "2019-04-25T10:00:00Z",
+        "deliverTo": "2019-04-25T15:00:00Z",
+        "longitude": 76.88172876834871,
+        "latitude": 43.23579641693001,
+        "orderItems": [
+          {
+            "id": 42,
+            "code": "100676",
+            "name": "Объектив Sony SEL-P 18-105 mm f/4 G OSS E-mount",
+            "quantity": 1
+          },
+          {
+            "id": 43,
+            "code": "111117",
+            "name": "Цифр. фотоаппарат Sony ILCE-7M III Body",
+            "quantity": 1
+          },
+          {
+            "id": 44,
+            "code": "347",
+            "name": "Наушники Накладные Panasonic RP-HT161EK, Black",
+            "quantity": 2
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3305,
+        "orderNum": "00300003013",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, , Бостандыкский, , Абая, д.150/230, , кв.85, .",
+        "fio": "Ольга",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.883338,
+        "latitude": 43.237393,
+        "orderItems": [
+          {
+            "id": 403,
+            "code": "21157",
+            "name": "Гладильная доска Philips GC-240",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3293,
+        "orderNum": "00300003007",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, , Бостандыкский, , Абая, д.150/230, , кв.85, .",
+        "fio": "Ольга",
+        "deliverFrom": "2019-04-30T10:00:00Z",
+        "deliverTo": "2019-04-30T15:00:00Z",
+        "longitude": 76.88331654232599,
+        "latitude": 43.23739300232893,
+        "orderItems": [
+          {
+            "id": 387,
+            "code": "37556",
+            "name": "Сменный чехол для гладильных досок Different PG Premium (L) 126 x 48 см",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3029,
+        "orderNum": "00300002875",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Алмалинский, , Жамбыла, д.194, , кв.23, .",
+        "fio": "Куат",
+        "deliverFrom": "2019-04-25T10:00:00Z",
+        "deliverTo": "2019-04-25T15:00:00Z",
+        "longitude": 76.899696,
+        "latitude": 43.244512,
+        "orderItems": [
+          {
+            "id": 22,
+            "code": "101273",
+            "name": "Телевизор AVA 43\" L43A5100FH LED FHD Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3167,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул. Толе би, 187",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.899225,
+        "latitude": 43.252109,
+        "orderItems": [
+          {
+            "id": 223,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": true
+      },
+      {
+        "id": 3123,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул. Толе би, 187",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.899225,
+        "latitude": 43.252109,
+        "orderItems": [
+          {
+            "id": 155,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": true
+      },
+      {
+        "id": 3342,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "ул. Толе би, 136",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.912679,
+        "latitude": 43.251863,
+        "orderItems": [
+          {
+            "id": 444,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": true
+      },
+      {
+        "id": 3323,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "ул. Толе би, 136",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.912679,
+        "latitude": 43.251863,
+        "orderItems": [
+          {
+            "id": 424,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": true
+      },
+      {
+        "id": 3326,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "ул. Толе би, 136",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.912679,
+        "latitude": 43.251863,
+        "orderItems": [
+          {
+            "id": 427,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": true
+      },
+      {
+        "id": 3121,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 150,
+            "code": "39374",
+            "name": "Холодильник Samsung RT-53K6340UT",
+            "quantity": 1
+          },
+          {
+            "id": 151,
+            "code": "55611",
+            "name": "Встр.поверхность Electrolux EHF-96547FK",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3123,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 155,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3122,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 152,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          },
+          {
+            "id": 153,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          },
+          {
+            "id": 154,
+            "code": "95981",
+            "name": "Телевизор LG 43\" 43UK6750PLD LED UHD Smart Grey",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3124,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 156,
+            "code": "39374",
+            "name": "Холодильник Samsung RT-53K6340UT",
+            "quantity": 1
+          },
+          {
+            "id": 157,
+            "code": "55611",
+            "name": "Встр.поверхность Electrolux EHF-96547FK",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3125,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 158,
+            "code": "95981",
+            "name": "Телевизор LG 43\" 43UK6750PLD LED UHD Smart Grey",
+            "quantity": 1
+          },
+          {
+            "id": 159,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3167,
+        "orderNum": "00300002928",
+        "status": "OUTFORDELIVERY",
+        "address": "ул.Панфилова 139",
+        "fio": "Бахыт",
+        "deliverFrom": "2019-04-29T10:00:00Z",
+        "deliverTo": "2019-04-29T15:00:00Z",
+        "longitude": 76.944576,
+        "latitude": 43.24706,
+        "orderItems": [
+          {
+            "id": 223,
+            "code": "111089",
+            "name": "Телевизор LG 55\" OLED55B8SLB OLED UHD Smart Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3237,
+        "orderNum": "00300002983",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Медеуский, , Тулебаева, 174, , 16, .",
+        "fio": "Жакупова Куляш",
+        "deliverFrom": "2019-04-28T15:00:00Z",
+        "deliverTo": "2019-04-28T21:00:00Z",
+        "longitude": 76.949993,
+        "latitude": 43.245694,
+        "orderItems": [
+          {
+            "id": 307,
+            "code": "56770",
+            "name": "Стиральная машина Samsung WW65J42E0JWDLD",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3236,
+        "orderNum": "00300002983",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Медеуский, , Тулебаева, 174, , 16, .",
+        "fio": "Жакупова Куляш",
+        "deliverFrom": "2019-04-28T15:00:00Z",
+        "deliverTo": "2019-04-28T21:00:00Z",
+        "longitude": 76.949993,
+        "latitude": 43.245694,
+        "orderItems": [
+          {
+            "id": 306,
+            "code": "56770",
+            "name": "Стиральная машина Samsung WW65J42E0JWDLD",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3238,
+        "orderNum": "00300002983",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Медеуский, , Тулебаева, 174, , 16, .",
+        "fio": "Жакупова Куляш",
+        "deliverFrom": "2019-04-28T15:00:00Z",
+        "deliverTo": "2019-04-28T21:00:00Z",
+        "longitude": 76.949993,
+        "latitude": 43.245694,
+        "orderItems": [
+          {
+            "id": 308,
+            "code": "56770",
+            "name": "Стиральная машина Samsung WW65J42E0JWDLD",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3323,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "Республика Казахстан,г.Алматы,ул.Муратбаева 180",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.919791,
+        "latitude": 43.247073,
+        "orderItems": [
+          {
+            "id": 424,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3342,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "Республика Казахстан,г.Алматы,ул.Муратбаева 180",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.919791,
+        "latitude": 43.247073,
+        "orderItems": [
+          {
+            "id": 444,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3326,
+        "orderNum": "00300003010",
+        "status": "OUTFORDELIVERY",
+        "address": "Республика Казахстан,г.Алматы,ул.Муратбаева 180",
+        "fio": "Андронова  Екатерина Игоревна",
+        "deliverFrom": "2019-04-30T15:00:00Z",
+        "deliverTo": "2019-04-30T21:00:00Z",
+        "longitude": 76.919791,
+        "latitude": 43.247073,
+        "orderItems": [
+          {
+            "id": 427,
+            "code": "38107",
+            "name": "Монитор 27\" Samsung LC27F591FDIX 1920х1080 16:9 VA 60ГЦ Curved White",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3061,
+        "orderNum": "00300002899",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Алмалинский, , Ауэзова, д.65, , кв.15, .",
+        "fio": "Максат",
+        "deliverFrom": "2019-04-26T15:00:00Z",
+        "deliverTo": "2019-04-26T21:00:00Z",
+        "longitude": 76.90289954232776,
+        "latitude": 43.24452408121842,
+        "orderItems": [
+          {
+            "id": 67,
+            "code": "68718",
+            "name": "Встр.духовка Hansa BOEI-69573",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3195,
+        "orderNum": "00300002966",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Алмалинский, , Гагарина, д66Б, , кв47, .",
+        "fio": "Аблялимова Нелли",
+        "deliverFrom": "2019-04-28T15:00:00Z",
+        "deliverTo": "2019-04-28T21:00:00Z",
+        "longitude": 76.894728,
+        "latitude": 43.244689,
+        "orderItems": [
+          {
+            "id": 257,
+            "code": "135491",
+            "name": "Монитор Игровой 27\" HP 27xq 3WL54AA 2560x1440 16:9 TN 144ГЦ (HDMI+DP) Black",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3182,
+        "orderNum": "00300002959",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Медеуский, , ул. Ст.Аврора, д.46, (каменское плато, вверх по Оспанова)",
+        "fio": "Алия",
+        "deliverFrom": "2019-04-28T15:00:00Z",
+        "deliverTo": "2019-04-28T21:00:00Z",
+        "longitude": 76.893776,
+        "latitude": 43.236014,
+        "orderItems": [
+          {
+            "id": 241,
+            "code": "91731",
+            "name": "Телевизор Samsung 65\" QE65Q6FNAUXCE QLED UHD Smart Silver",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3111,
+        "orderNum": "00300002924",
+        "status": "OUTFORDELIVERY",
+        "address": "Казахстан, Алматы, Бостандыкский, Коктем-2, д.11, кв.50,",
+        "fio": "Аюпов Тахир",
+        "deliverFrom": "2019-04-27T15:00:00Z",
+        "deliverTo": "2019-04-27T21:00:00Z",
+        "longitude": 76.921435,
+        "latitude": 43.228407,
+        "orderItems": [
+          {
+            "id": 135,
+            "code": "139011",
+            "name": "Автошина Powertrac CityTour 205/70R15 96H",
+            "quantity": 2
+          },
+          {
+            "id": 136,
+            "code": "138995",
+            "name": "Автошина Powertrac CityTour 195/65R15 91H",
+            "quantity": 2
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3112,
+        "orderNum": "00300002924",
+        "status": "OUTFORDELIVERY",
+        "address": "Казахстан, Алматы, Бостандыкский, Коктем-2, д.11, кв.50,",
+        "fio": "Аюпов Тахир",
+        "deliverFrom": "2019-04-27T15:00:00Z",
+        "deliverTo": "2019-04-27T21:00:00Z",
+        "longitude": 76.921435,
+        "latitude": 43.228407,
+        "orderItems": [
+          {
+            "id": 137,
+            "code": "138995",
+            "name": "Автошина Powertrac CityTour 195/65R15 91H",
+            "quantity": 2
+          },
+          {
+            "id": 138,
+            "code": "139011",
+            "name": "Автошина Powertrac CityTour 205/70R15 96H",
+            "quantity": 2
+          }
+        ],
+        "pickup": false
+      },
+      {
+        "id": 3054,
+        "orderNum": "00300002893",
+        "status": "OUTFORDELIVERY",
+        "address": "КАЗАХСТАН, Алматы, Бостандыкский, , Алатау , д.5, , кв., .",
+        "fio": "Айгул",
+        "deliverFrom": "2019-04-25T15:00:00Z",
+        "deliverTo": "2019-04-25T21:00:00Z",
+        "longitude": 76.893282,
+        "latitude": 43.15516,
+        "orderItems": [
+          {
+            "id": 57,
+            "code": "69187",
+            "name": "Стиральная машина LG F-2J6HS0W",
+            "quantity": 1
+          }
+        ],
+        "pickup": false
+      }
+    ],
+    "routeCost": 6691,
+    "totalDistance": 58.57000000000001
+  },
+  "warehouse": {
+    "id": 1,
+    "name": "Оптовые склады ОРПТ",
+    "guid": "e33fa7f9-c406-4c88-abae-ed6e1abec6f5"
+  }
+}
