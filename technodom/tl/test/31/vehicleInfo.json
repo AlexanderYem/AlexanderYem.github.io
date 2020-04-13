@@ -66,6 +66,30 @@
             "quantity": 2,
             "totalPrice": 244000.0,
             "status": "AVAILABLE"
+          },
+	  {
+            "id": 3929,
+            "code": "39719",
+            "name": "GSM Apple iPhone 9 32gb Black",
+            "quantity": 2,
+            "totalPrice": 244000.0,
+            "status": "AVAILABLE"
+          },
+	  {
+            "id": 3930,
+            "code": "39729",
+            "name": "GSM Apple iPhone 10 32gb Black",
+            "quantity": 2,
+            "totalPrice": 244000.0,
+            "status": "AVAILABLE"
+          },
+	  {
+            "id": 3931,
+            "code": "39733",
+            "name": "GSM Apple iPhone 11 32gb Black",
+            "quantity": 2,
+            "totalPrice": 244000.0,
+            "status": "AVAILABLE"
           }
         ],
         "pickup": false,
