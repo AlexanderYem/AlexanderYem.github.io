@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19: « Il faut respecter la règle du confinement »",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/uqylMdsgnLM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "uqylMdsgnLM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Message du Secrétaire général de l'ONU sur les femmes et le Covid-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uJyRPtfRx4o"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19 : les services de santé essentiels doivent continuer",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/MeLJ447h3ac/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "MeLJ447h3ac"
     }
    }
   }
