@@ -58,6 +58,14 @@
             "quantity": 4,
             "totalPrice": 244000.0,
             "status": "AVAILABLE"
+          },
+	  {
+            "id": 3928,
+            "code": "39709",
+            "name": "GSM Apple iPhone 8 32gb Black",
+            "quantity": 2,
+            "totalPrice": 244000.0,
+            "status": "AVAILABLE"
           }
         ],
         "pickup": false,
