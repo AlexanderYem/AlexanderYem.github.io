@@ -90,6 +90,14 @@
             "quantity": 2,
             "totalPrice": 244000.0,
             "status": "AVAILABLE"
+          },
+	  {
+            "id": 3932,
+            "code": "39734",
+            "name": "GSM Apple iPhone 12 32gb Black",
+            "quantity": 2,
+            "totalPrice": 244000.0,
+            "status": "AVAILABLE"
           }
         ],
         "pickup": false,
