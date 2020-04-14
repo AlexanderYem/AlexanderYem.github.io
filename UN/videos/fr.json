@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Lutter contre la désinformation aux temps de la COVID-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/L_G8DT_Xee8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "L_G8DT_Xee8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Covid-19: Et les masques ne sont pas non plus une alternative au confinement.",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gdJbCc3xpo4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Covid-19 : Agissons de manière décisive, innovante et de concert pour supprimer sa propagation",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/_FWU7ZEww64/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "_FWU7ZEww64"
     }
    }
   }
