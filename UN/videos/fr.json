@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19: Et les masques ne sont pas non plus une alternative au confinement.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/5LX6kM7qh9M/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "5LX6kM7qh9M"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : Soyez responsable et prudent",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "_FWU7ZEww64"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "L'augmentation rapide de cas de #COVID19 représente un défi majeur, alerte l'UNICEF en RDC .",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/fx6U49SGMK8/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "fx6U49SGMK8"
     }
    }
   }

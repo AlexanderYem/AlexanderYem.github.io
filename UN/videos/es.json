@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "El COVID-19 se ceba con los derechos de las mujeres",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bA-CN7c45EM/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bA-CN7c45EM"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Renovemos la fe en nuestra humanidad común",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "kawLKz0dKrQ"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Seguridad, información y generosidad frente al COVID-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/NU2s8vjAePs/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "NU2s8vjAePs"
     }
    }
   }
