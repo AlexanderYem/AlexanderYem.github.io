@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "رسالة الأمين العام للأمم المتحدة أنطونيو غوتيريش بشأن أثر جائحة كوفيد-19 على الأطفال",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/L8z6RVH3u5c/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "L8z6RVH3u5c"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "الأمين العام يحذر من انتشار \"وباء المعلومات المضللة الخطير\" في خضم جائحة كوفيد-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "XQWEkmmYgFs"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "مخترع يمني يحول مخلفات الطعام إلى طاقة",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/nrSv8xmHL5A/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "nrSv8xmHL5A"
     }
    }
   }
