@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Zimbabwe : plus de la moitié de la population en situation d'insécurité alimentaire",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/2tcr91vXdmc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "2tcr91vXdmc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Lutter contre la désinformation aux temps de la COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "Q8y3Bhic27g"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Déclaration sur les violences de genre et le Covid-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/gdJbCc3xpo4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "gdJbCc3xpo4"
     }
    }
   }
