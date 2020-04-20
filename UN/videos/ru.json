@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "День Матери-Землию - обращение Генсекретаря ООН",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/TDVr7SAgpbs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "TDVr7SAgpbs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Обращение к религиозным лидерам",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "K7k37_HXpHw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Победим коронавирус сообща - Антониу Гутерриш, Генсек ООН",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/SbckEohmpLg/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "SbckEohmpLg"
     }
    }
   }
