@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Protejamos nuestro planeta",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/EvDi_CpIXTs/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "EvDi_CpIXTs"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "No olvidemos a los niños",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "PZwht7nVTbE"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "\"Necesitamos solidaridad, esperanza y voluntad política para superar esta crisis juntos\"",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/GDrjihrNGTo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "GDrjihrNGTo"
     }
    }
   }
