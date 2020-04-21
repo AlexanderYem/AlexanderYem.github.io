@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Маска - как использовать правильно? Советы ВОЗ",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/0tOx2_366R4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "0tOx2_366R4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "День Матери-Земли - обращение Генсекретаря ООН",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uhpjHUpWb7c"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Китайский центр для инфицированных коронавирусом.",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/K7k37_HXpHw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "K7k37_HXpHw"
     }
    }
   }
