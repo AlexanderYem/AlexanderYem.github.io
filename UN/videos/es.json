@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Todos estamos juntos en esto",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/YC-XIlI9kFY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "YC-XIlI9kFY"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Mensaje del Secretario por el Ramadán",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uIrWFlVq3yo"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Enfrentar juntos el legado de la esclavitud y el racismo",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/cNnde-1Ggxk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "cNnde-1Ggxk"
     }
    }
   }
