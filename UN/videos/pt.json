@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Começa Semana Mundial de Imunização",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/EMBANpvu13Y/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "EMBANpvu13Y"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "OMS: “Zero Malária. Começa comigo”",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/POaj51jyCmU/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "POaj51jyCmU"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Aliança global procura cura para covid-19, começa Semana Mundial de Imunização e multilateralismo",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "anJUx-sms9o"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "No Dia da Terra, chefe da ONU propõe seis ações-chave para evitar \"ruptura climática\"",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/WU1NGy1_ZT4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "WU1NGy1_ZT4"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Mesmo com poucos casos, Guiné-Bissau deve seguir vigilante contra covid-19, diz OIM",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/pVwuNRgzvBQ/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "pVwuNRgzvBQ"
     }
    }
   }
