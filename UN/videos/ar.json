@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "مفوضية حقوق الإنسان تدعو إلى رفع العقوبات عن السودان لمساعدته في التصدي لفيروس كورونا",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/3jWm0r6RBMk/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "3jWm0r6RBMk"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "مفوضة حقوق الإنسان تحذر من قيام بعض الحكومات باستخدام كوفيد-19 كستار لانتهاكات حقوق الإنسان",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "dnaUM78jxcw"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "رسالة الأمين العام للأمم المتحدة أنطونيو غوتيريش بشأن أثر جائحة كوفيد-19 على الأطفال",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/L8z6RVH3u5c/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "L8z6RVH3u5c"
     }
    }
   }
