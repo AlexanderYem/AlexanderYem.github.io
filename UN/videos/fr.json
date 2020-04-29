@@ -2,6 +2,32 @@
  "items": [
   {
    "snippet": {
+    "title": "Coronavirus : Femmes debout, solidaires pour tous",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/GQbTQl2xWYY/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "GQbTQl2xWYY"
+    }
+   }
+  },
+  {
+   "snippet": {
+    "title": "Mariusca La slameuse de la République du Congo sensibilise aux dangers du Covid-19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/mdikeN2keGA/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "mdikeN2keGA"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "La star congolaise Fally Ipupa se joint aux artistes africains dans la lutte contre le Covid-19",
     "thumbnails": {
      "high": {
@@ -101,32 +127,6 @@
     },
     "resourceId": {
      "videoId": "Xm8QpgyQcwU"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Renouveler la foi en notre humanité commune face à la pandémie de Covid-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/gFPRJyFBWtk/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "gFPRJyFBWtk"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Vaccins Covid-19 testés en Afrique : l'OMS fustige des propos racistes",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/pgZIt2g3x9s/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "pgZIt2g3x9s"
     }
    }
   }
