@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Secretário-geral alerta para necessidade de proteger idosos durante pandemia",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/l_2AIivpQh4/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "l_2AIivpQh4"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Aulas para refugiados em rádio comunitária durante pandemia",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "EMBANpvu13Y"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "OMS: “Zero Malária. Começa comigo”",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/POaj51jyCmU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "POaj51jyCmU"
     }
    }
   }
