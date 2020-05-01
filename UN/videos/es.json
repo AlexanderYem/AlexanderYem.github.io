@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Periodismo sin miedo ni favoritismo",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/MRk-iFtPQ9Q/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "MRk-iFtPQ9Q"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Todos estamos juntos en esto",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "gCzZQp_5T2o"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Es posible reconstruir una sociedad más fuerte y sostenible",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/uIrWFlVq3yo/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "uIrWFlVq3yo"
     }
    }
   }
