@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Covid-19 : la réponse doit respecter les droits et la dignité des personnes âgées.",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/EDghlNg4v1E/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "EDghlNg4v1E"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Coronavirus : Femmes debout, solidaires pour tous",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "uqylMdsgnLM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Message du Secrétaire général de l'ONU sur les femmes et le Covid-19",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/Xm8QpgyQcwU/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "Xm8QpgyQcwU"
     }
    }
   }
