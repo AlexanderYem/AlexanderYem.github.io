@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Captain Tom’s 100th birthday - SG",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/bml8HwZGHsQ/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "bml8HwZGHsQ"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Solidarity, unity, hope: the UN Chief’s update on COVID-19",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "pEz-mSxdtmI"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "A Call to Action for Human Rights - UN Chief",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/kYZDoKZASRw/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "kYZDoKZASRw"
     }
    }
   }
