@@ -126,7 +126,7 @@
         ],
         "pickup": false,
         "released": false,
-        "paymentMethod": "PAID",
+        "paymentMethod": "NOT_PAID",
         "comment": "",
         "phone": "77005206831",
         "arrivalTime": "2020-04-13T16:05:08Z",
