@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Personas con discapacidad y la pandemia de COVID19",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/Lbd3ddP6HKc/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "Lbd3ddP6HKc"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Periodismo sin miedo ni favoritismo",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "35bKl94jWqg"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Aumento de la violencia de género ante el coronavirus",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/gCzZQp_5T2o/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "gCzZQp_5T2o"
     }
    }
   }
