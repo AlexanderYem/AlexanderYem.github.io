@@ -2,6 +2,19 @@
  "items": [
   {
    "snippet": {
+    "title": "Solidaridad contra el odio propagado por el coronavirus",
+    "thumbnails": {
+     "high": {
+      "url": "https://i.ytimg.com/vi/pDoCTf02Vf8/hqdefault.jpg"
+     }
+    },
+    "resourceId": {
+     "videoId": "pDoCTf02Vf8"
+    }
+   }
+  },
+  {
+   "snippet": {
     "title": "Respetemos los derechos y la dignidad de las personas de edad",
     "thumbnails": {
      "high": {
@@ -114,19 +127,6 @@
     },
     "resourceId": {
      "videoId": "bA-CN7c45EM"
-    }
-   }
-  },
-  {
-   "snippet": {
-    "title": "Renovemos la fe en nuestra humanidad común",
-    "thumbnails": {
-     "high": {
-      "url": "https://i.ytimg.com/vi/iiqOorhzsJ4/hqdefault.jpg"
-     }
-    },
-    "resourceId": {
-     "videoId": "iiqOorhzsJ4"
     }
    }
   }
