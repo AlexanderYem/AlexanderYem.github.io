@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "نداء عالمي للأمين العام أنطونيو غوتيريش من أجل التصدي لخطاب الكراهية المتصل بجائحة كوفيد-19 ومكافحته",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3E5vcFlthys/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3E5vcFlthys"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام أنطونيو غوتيريش يسلط الضوء على تأثير جائحة كوفيد-19 في حياة 1 بليون شخص من ذوي الإعاقة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cw5bnIYkLuM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام للأمم المتحدة بمناسبة حلول شهر رمضان المبارك",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oII0YuWV6eA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oII0YuWV6eA"
         }
       }
     }
