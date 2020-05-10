@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "رسالة الأمين العام  بمناسبة وقت التذكر والمصالحة إجلالا لذكرى من فقدوا أرواحهم خلال الحرب العالمية 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hAK6dwQ4MDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hAK6dwQ4MDo"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "نداء عالمي للأمين العام أنطونيو غوتيريش من أجل التصدي لخطاب الكراهية المتصل بجائحة كوفيد-19 ومكافحته",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "bMucPsoY1Lw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "رسالة بالفيديو للأمين العام للأمم المتحدة: نحن جميعنا في قارب واحد.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cw5bnIYkLuM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cw5bnIYkLuM"
         }
       }
     }
