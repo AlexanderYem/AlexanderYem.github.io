@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Las tecnologías de la información, un rayo de esperanza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdj_WfMPLKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kdj_WfMPLKE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Las enseñanzas de la Segunda Guerra Mundial para frenar el odio",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p_edXC15MVU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Es momento para la solidaridad y la ciencia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/miHlfIA5ewA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "miHlfIA5ewA"
         }
       }
     }
