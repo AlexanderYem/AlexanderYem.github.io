@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: aumento de casos nas Américas, apoio da Unesco no Brasil e homenagem no Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wj86lgK6ao8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wj86lgK6ao8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pandemia impacta serviços de saúde sexual e reprodutiva em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BJQGFOsvlxY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco: \"Feliz Dia Mundial da Língua Portuguesa\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IZYh9AKoVZY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IZYh9AKoVZY"
         }
       }
     }
