@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aumento de casos de covid-19 nas Américas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRpZiL11yTM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LRpZiL11yTM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: aumento de casos nas Américas, apoio da Unesco no Brasil e homenagem no Timor-Leste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zOxeQtGnfV4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BJQGFOsvlxY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BJQGFOsvlxY"
         }
       }
     }
