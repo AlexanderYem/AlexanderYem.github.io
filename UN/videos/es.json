@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Webinario sobre \"Español inclusivo en cuanto al género\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2kfDzwSWMBM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2kfDzwSWMBM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "CoolRoofs para combatir el cambio climático en Nueva York",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lbd3ddP6HKc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Periodismo sin miedo ni favoritismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MRk-iFtPQ9Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MRk-iFtPQ9Q"
         }
       }
     }
