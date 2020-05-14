@@ -124,6 +124,7 @@
             "status": "AVAILABLE"
           }
         ],
+	"totalPrice": 4880000,
         "pickup": false,
         "released": false,
         "paymentMethod": "NOT_PAID",
