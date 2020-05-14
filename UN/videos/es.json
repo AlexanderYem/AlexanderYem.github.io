@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Salud mental y el COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UD-U2hNcjQU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UD-U2hNcjQU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Las tecnologías de la información, un rayo de esperanza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EvDi_CpIXTs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No olvidemos a los niños",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p_edXC15MVU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p_edXC15MVU"
         }
       }
     }
