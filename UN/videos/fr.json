@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La santé mentale est au coeur de notre humanité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I87oX0vT3jg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I87oX0vT3jg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Les oiseaux unissent notre monde ».",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6zrTL6t956I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : Restez à la maison appelle le réalisateur rwandais, Joël Karekezi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BPb22LHUmZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BPb22LHUmZI"
         }
       }
     }
