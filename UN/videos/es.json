@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "CoolRoofs para combatir el cambio climático en Nueva York",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3vV6mUeCfY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G3vV6mUeCfY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "La moda sostenible contra la desigualdad de género y el cambio climático",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wsINrE6CMeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wsINrE6CMeE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "En Albania, la tecnología nuclear al servicio de la historia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jKoWdCNBk4w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jKoWdCNBk4w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Salud mental y el COVID-19",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "MRk-iFtPQ9Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Todos estamos juntos en esto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YC-XIlI9kFY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YC-XIlI9kFY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensaje del Secretario por el Ramadán",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VbTyC_NooY8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VbTyC_NooY8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Protejamos nuestro planeta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EvDi_CpIXTs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EvDi_CpIXTs"
         }
       }
     }

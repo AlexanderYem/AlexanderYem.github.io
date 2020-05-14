@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أنطونيو غوتيريش: خدمات الصحة العقلية جزءا أساسيا من جميع ما تتخذه الحكومات من تدابير لمواجهة الجائحة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-68tjXKZdTs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-68tjXKZdTs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أربعة ملايين ونصف مليون شخص يستفيدون من الأغذية المنقدة للحياة المقدمة من برنامج الأغذية العالمي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3obl6KcX-h8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام بمناسبة ة اليوم الدولي لتعددية الأطراف والدبلوماسية من أجل السلام، 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HKAlg0-8M-4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HKAlg0-8M-4"
         }
       }
     }
