@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Психическое здоровье - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sC3gbSEu2iI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sC3gbSEu2iI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75-летие Победы. Дни памяти и примирения. Обращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TDVr7SAgpbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обращение к религиозным лидерам",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2teivIBASgw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2teivIBASgw"
         }
       }
     }
