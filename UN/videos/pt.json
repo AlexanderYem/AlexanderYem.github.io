@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Mundial, Guterres diz que telecomunicações podem ser “farol de esperança”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FWhv2v2jioo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FWhv2v2jioo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unesco apoia comunidades no Brasil durante a pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BmLo6NmaOhA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU marca tempo de lembrança para os que perderam suas vidas durante Segunda Guerra Mundial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/geDG_5Aw0WA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "geDG_5Aw0WA"
         }
       }
     }
