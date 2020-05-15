@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco apoia comunidades no Brasil durante a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0xf-25DunQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P0xf-25DunQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 chega ao maior campo de refugiados do mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "geDG_5Aw0WA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres lança apelo global para combater discurso de ódio relacionado com covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7s_wY2i605E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7s_wY2i605E"
         }
       }
     }
