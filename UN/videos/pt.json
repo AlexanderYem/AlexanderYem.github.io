@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 chega ao maior campo de refugiados do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cebQrRZMr_4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cebQrRZMr_4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aumento de casos de covid-19 nas Américas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7s_wY2i605E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O impacto da covid-19 em pessoas com deficiências e celebrações do Dia da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/heb79u1aseo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "heb79u1aseo"
         }
       }
     }
