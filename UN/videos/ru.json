@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря ООН по поводу Всемирного дня электросвязи и информационного общества",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ikFdj5Ap1u8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ikFdj5Ap1u8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Психическое здоровье - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0tOx2_366R4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День Матери-Земли - обращение Генсекретаря ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TDVr7SAgpbs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TDVr7SAgpbs"
         }
       }
     }
