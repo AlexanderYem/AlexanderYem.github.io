@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "لاجئو الروهينجا: المنظمات الإنسانية تتأهب بعد اكتشاف أول حالة إصابة بكوفيد-19 في أحد المخيمات",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OlAy4UEF_jo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OlAy4UEF_jo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أنطونيو غوتيريش: خدمات الصحة العقلية جزء أساسي من جميع ما تتخذه الحكومات من تدابير لمواجهة الجائحة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3jWm0r6RBMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مفوضة حقوق الإنسان تحذر من قيام بعض الحكومات باستخدام كوفيد-19 كستار لانتهاكات حقوق الإنسان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3obl6KcX-h8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3obl6KcX-h8"
         }
       }
     }
