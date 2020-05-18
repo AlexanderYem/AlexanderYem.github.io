@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assembleia Mundial da Saúde discute combate a Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-xylqgpI9cs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-xylqgpI9cs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assembleia Mundial de Saúde discute Covid-19, como proteger mulheres e crise chega a Cox's Bazar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uGRCKMHWajk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Leve queda nos níveis de desmatamento global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3TB0eHDyJ5A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3TB0eHDyJ5A"
         }
       }
     }
