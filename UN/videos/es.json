@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Biodiversidad contra las zoonosis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbOeShvfqso/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SbOeShvfqso"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Webinario sobre \"Español inclusivo en cuanto al género\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-Y8apCof5EU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Personas con discapacidad y la pandemia de COVID19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lbd3ddP6HKc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lbd3ddP6HKc"
         }
       }
     }
