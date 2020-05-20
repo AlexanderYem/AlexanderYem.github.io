@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بيان الأمين العام أنطونيو غوتيريش بمناسبة إصدار الموجز السياساتي بشأن أثر كوفيد- 19على أفريقيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrSyf8Ys4Ec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YrSyf8Ys4Ec"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لاجئو الروهينجا: المنظمات الإنسانية تتأهب بعد اكتشاف أول حالة إصابة بكوفيد-19 في أحد المخيمات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YY5tN5aPj_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مفوضية حقوق الإنسان تدعو إلى رفع العقوبات عن السودان لمساعدته في التصدي لفيروس كورونا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3jWm0r6RBMk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3jWm0r6RBMk"
         }
       }
     }
