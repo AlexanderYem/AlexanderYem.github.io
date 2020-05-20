@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "De Portugal, jornalista brasileira relata como país está reduzindo medidas de isolamento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dz4avlirSjA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dz4avlirSjA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU pede mais ajuda para África, Portugal começa a voltar à normalidade e Dia Mundial da Abelha",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E6Yd-5CVo_M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: aumento de casos nas Américas, apoio da Unesco no Brasil e homenagem no Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wj86lgK6ao8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wj86lgK6ao8"
         }
       }
     }
