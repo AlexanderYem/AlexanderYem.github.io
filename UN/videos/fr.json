@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Impact du Covid-19 sur l'Afrique - Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yS0ZmLgLrwU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yS0ZmLgLrwU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La santé mentale est au coeur de notre humanité",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mdikeN2keGA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La star congolaise Fally Ipupa se joint aux artistes africains dans la lutte contre le Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6zrTL6t956I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6zrTL6t956I"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres: \"Pandemia ameaça o progresso africano\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/llNprpRlK-Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "llNprpRlK-Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assembleia Mundial da Saúde discute combate a Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RTyvntmb-Nk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU discute resposta conjunta à pandemia da covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uGRCKMHWajk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uGRCKMHWajk"
         }
       }
     }

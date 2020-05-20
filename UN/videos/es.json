@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La solidaridad mundial con África es un imperativo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qq47LomMNjE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qq47LomMNjE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Biodiversidad contra las zoonosis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pDoCTf02Vf8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Respetemos los derechos y la dignidad de las personas de edad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-Y8apCof5EU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-Y8apCof5EU"
         }
       }
     }
