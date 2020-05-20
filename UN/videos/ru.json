@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Помощь Африке в борьбе с COVID-19 - Генсекретарь ООН Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/82NfX5qcjiQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "82NfX5qcjiQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря ООН по поводу Всемирного дня электросвязи и информационного общества",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SPslRnpTHCo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Маска - как использовать правильно? Советы ВОЗ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0tOx2_366R4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0tOx2_366R4"
         }
       }
     }
