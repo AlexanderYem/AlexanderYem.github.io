@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU marca Dia Mundial da Abelha",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TdvPzUDAmXA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TdvPzUDAmXA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De Portugal, jornalista brasileira relata como país está reduzindo medidas de isolamento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LRpZiL11yTM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral alerta para impacto da covid-19 na saúde mental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E6Yd-5CVo_M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E6Yd-5CVo_M"
         }
       }
     }
