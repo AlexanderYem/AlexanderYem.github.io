@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres: coronavírus mostra como a saúde está vinculada à natureza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJlCc6zAx-s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DJlCc6zAx-s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU marca Dia Mundial da Abelha",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cebQrRZMr_4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aumento de casos de covid-19 nas Américas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LRpZiL11yTM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LRpZiL11yTM"
         }
       }
     }
