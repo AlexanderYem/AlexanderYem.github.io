@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Médico da Opas diz que Brasil deve intensificar isolamento social para conter pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vzsoOxPW1o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2vzsoOxPW1o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres: coronavírus mostra como a saúde está vinculada à natureza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P0xf-25DunQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 chega ao maior campo de refugiados do mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cebQrRZMr_4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cebQrRZMr_4"
         }
       }
     }
