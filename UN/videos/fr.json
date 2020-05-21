@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale de la diversité biologique - Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiIJ6IghA1Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LiIJ6IghA1Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Impact du Covid-19 sur l'Afrique - Message du Secrétaire général de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GQbTQl2xWYY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mariusca La slameuse de la République du Congo sensibilise aux dangers du Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mdikeN2keGA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mdikeN2keGA"
         }
       }
     }
