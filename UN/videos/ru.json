@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день биоразнообразия - обращение Генсекретаря ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCVvj3369D0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nCVvj3369D0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Помощь Африке в борьбе с COVID-19 - Генсекретарь ООН Антониу Гутерриш",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IfNcnl0oDYw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 и права человека - глава ООН Антониу Гутерриш",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SPslRnpTHCo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SPslRnpTHCo"
         }
       }
     }
