@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رسالة الأمين العام بمناسبة اليوم الدولي للتنوع البيولوجي ..إعادة البناء هي السبيل لحماية صحة الأجيال",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kkcoo8JgRUE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kkcoo8JgRUE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "بيان الأمين العام أنطونيو غوتيريش بمناسبة إصدار الموجز السياساتي بشأن أثر كوفيد- 19على أفريقيا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1y9QmKsFsrw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أحمد يصنع الكمامات الورقية ليحمي زملائه من فيروس كورونا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YY5tN5aPj_I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YY5tN5aPj_I"
         }
       }
     }
