@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "29 мая - День миротворцев ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSKS5FeLnKg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zSKS5FeLnKg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день биоразнообразия - обращение Генсекретаря ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "l2T2yctFZSg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Рамадан - Генсекретарь ООН поздравил мусульман с началом священного месяца",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IfNcnl0oDYw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IfNcnl0oDYw"
         }
       }
     }
