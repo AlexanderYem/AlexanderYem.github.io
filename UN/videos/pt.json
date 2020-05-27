@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Homenagem aos Boinas-Azuis, prêmio de igualdade de gênero e combate à desinformação sobre covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C0ns9oH9RRQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C0ns9oH9RRQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“A 'infodemia' está se espalhando e é potencialmente fatal”, alerta ONU sobre desinformação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dP43ATwVdNY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Mundial, Guterres diz que telecomunicações podem ser “farol de esperança”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FWhv2v2jioo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FWhv2v2jioo"
         }
       }
     }
