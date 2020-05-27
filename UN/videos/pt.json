@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Boinas-Azuis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sjpS_-g46Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5sjpS_-g46Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Homenagem aos Boinas-Azuis, prêmio de igualdade de gênero e combate à desinformação sobre covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-xylqgpI9cs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assembleia Mundial de Saúde discute Covid-19, como proteger mulheres e crise chega a Cox's Bazar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dP43ATwVdNY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dP43ATwVdNY"
         }
       }
     }
