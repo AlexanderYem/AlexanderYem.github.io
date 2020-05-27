@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale des casques bleus - les femmes dans le maintien de la paix",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bC6yjKHLLOs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bC6yjKHLLOs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale de la diversité biologique - Message du Secrétaire général de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EDghlNg4v1E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Coronavirus : Femmes debout, solidaires pour tous",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GQbTQl2xWYY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GQbTQl2xWYY"
         }
       }
     }
