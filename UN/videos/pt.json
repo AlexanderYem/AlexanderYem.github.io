@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“A 'infodemia' está se espalhando e é potencialmente fatal”, alerta ONU sobre desinformação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4JGKC4iGRE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n4JGKC4iGRE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Médico da Opas diz que Brasil deve intensificar isolamento social para conter pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FWhv2v2jioo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco apoia comunidades no Brasil durante a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P0xf-25DunQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P0xf-25DunQ"
         }
       }
     }
