@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام -- رسالة بمناسبة اليوم الدولي لحفظة السلام 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-fek-CHhaac/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-fek-CHhaac"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تداعيات إعصار أمفان على مخيمات اللاجئين في بنغلاديش",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cngYs68bNyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدعو إلى احترام \"حقوق وكرامة\" المسنين خلال جائحة كوفيد-19 وما بعدها",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qPHAsfACVLA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qPHAsfACVLA"
         }
       }
     }
