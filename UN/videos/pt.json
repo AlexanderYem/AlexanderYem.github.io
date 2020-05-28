@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A chave para a paz: boinas-azuis da ONU celebram dia internacional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o64d4hgz_cM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o64d4hgz_cM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional dos Boinas-Azuis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "llNprpRlK-Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assembleia Mundial da Saúde discute combate a Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-xylqgpI9cs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-xylqgpI9cs"
         }
       }
     }
