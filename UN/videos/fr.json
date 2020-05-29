@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "Prix 2019 du Militaire de l'ONU pour la défense de l’égalité des genres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O38DfjRptCI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O38DfjRptCI"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Journée internationale des casques bleus - les femmes dans le maintien de la paix",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "yg2NCf-sK8w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Solidarité, unité, espoir : la réponse de l'ONU au Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dI1zxw4mVW4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dI1zxw4mVW4"
         }
       }
     }
