@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Уничтожение летучих мышей не остановит COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kppFJK7lym8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kppFJK7lym8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "29 мая - День миротворцев ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5fJv6G53_Jk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день свободы печати - обращение Генсекретаря ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l2T2yctFZSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l2T2yctFZSg"
         }
       }
     }
