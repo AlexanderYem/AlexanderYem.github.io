@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Prix 2019 du Militaire de l'ONU pour la défense de l’égalité des genres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1w1k9fp7pRU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1w1k9fp7pRU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Prix 2019 du Militaire de l'ONU pour la défense de l’égalité des genres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O38DfjRptCI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O38DfjRptCI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale des casques bleus - les femmes dans le maintien de la paix",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "yg2NCf-sK8w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Solidarité, unité, espoir : la réponse de l'ONU au Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dI1zxw4mVW4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dI1zxw4mVW4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : la réponse doit respecter les droits et la dignité des personnes âgées.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EDghlNg4v1E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EDghlNg4v1E"
         }
       }
     }
