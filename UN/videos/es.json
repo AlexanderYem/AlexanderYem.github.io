@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El rol de las mujeres es esencial para un cese al fuego global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KrC4FP1_0RY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KrC4FP1_0RY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Con mujeres en las operaciones de paz, más cerca de las comunidades y mejores resultados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kdj_WfMPLKE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Las enseñanzas de la Segunda Guerra Mundial para frenar el odio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BqfsgojoERw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BqfsgojoERw"
         }
       }
     }
