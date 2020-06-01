@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 YAVURUGA WENYE SARATANI (HABARI ZA UN 01 JUNI 2020)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0JbY16pbM8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J0JbY16pbM8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwanajeshi mwanamke, Private Anna Malima Musa anavyohudumu katika  TANZBATT 7 DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rEqWGguADdg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN 21 Mei na Anold Kayanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/igeZfRf86UA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "igeZfRf86UA"
         }
       }
     }
