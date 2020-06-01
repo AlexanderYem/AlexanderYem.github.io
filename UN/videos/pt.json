@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Organização Mundial do Turismo divulga guia para reanimar o setor pós-pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lJVFZnumoL4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lJVFZnumoL4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Global dos Pais, retomada do setor de turismo e combate ao uso do tabaco",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TdvPzUDAmXA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "De Portugal, jornalista brasileira relata como país está reduzindo medidas de isolamento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dz4avlirSjA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Dz4avlirSjA"
         }
       }
     }
