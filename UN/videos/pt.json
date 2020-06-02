@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem da ONU destaca papel das mulheres em diálogos para a paz e cessar-fogo global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EzFf2a7GKY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3EzFf2a7GKY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Organização Mundial do Turismo divulga guia para reanimar o setor pós-pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DJlCc6zAx-s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU marca Dia Mundial da Abelha",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TdvPzUDAmXA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TdvPzUDAmXA"
         }
       }
     }
