@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Невидимая пандемия домашнего насилия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BQayMx1jsy4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BQayMx1jsy4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Уничтожение летучих мышей не остановит COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ixULltFP94w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Права инвалидов и COVID-19. Обращение Генсека ООН Антониу Гутерриша.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5fJv6G53_Jk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5fJv6G53_Jk"
         }
       }
     }
