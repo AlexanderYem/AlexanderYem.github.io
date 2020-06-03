@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El COVID-19 y las personas en movimiento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9rC17EZxWNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9rC17EZxWNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El rol de las mujeres es esencial para un cese al fuego global",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UD-U2hNcjQU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Las tecnologías de la información, un rayo de esperanza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kdj_WfMPLKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kdj_WfMPLKE"
         }
       }
     }
