@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Para ganar, debemos aprender. Para recuperarnos, debemos trabajar juntos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5h7ChdCPHM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q5h7ChdCPHM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El COVID-19 y las personas en movimiento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jKoWdCNBk4w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Salud mental y el COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UD-U2hNcjQU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UD-U2hNcjQU"
         }
       }
     }
