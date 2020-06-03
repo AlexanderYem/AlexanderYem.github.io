@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La Covid-19 et les personnes en situation de déplacement",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ukpk6NNgK44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ukpk6NNgK44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le rôle essentiel des femmes dans un cessez-le-feu mondial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DJZt9Phmr3I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : Les personnes handicapées sont parmi les plus touchées par cette pandémie",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yg2NCf-sK8w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yg2NCf-sK8w"
         }
       }
     }
