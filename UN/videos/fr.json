@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Confronter ensemble l’héritage de l’esclavage : le racisme »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nN-lDbHSA4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nN-lDbHSA4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le racisme est une plaie qui existe dans toutes les sociétés",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "i6MUHMSYvOo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Appel mondial pour combattre et contrer les discours de haine liés au Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E3quB1GnmAk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E3quB1GnmAk"
         }
       }
     }
