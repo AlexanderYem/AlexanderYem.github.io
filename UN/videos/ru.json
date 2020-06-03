@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "3 июня - Всемирный день велосипеда",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/10QIqf2Gchg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "10QIqf2Gchg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мигранты и беженцы: COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A3AyHnqHurs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "75-летие Великой Победы. Обращение Аксолтан Атаевой, Постоянного представителя Туркменистана при ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q-ryeuwNr24/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q-ryeuwNr24"
         }
       }
     }
