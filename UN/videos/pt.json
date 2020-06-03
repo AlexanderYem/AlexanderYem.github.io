@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Impacto da Covid-19 em migrantes, refugiados e deslocados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kNFN349A52Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kNFN349A52Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem da ONU destaca papel das mulheres em diálogos para a paz e cessar-fogo global",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2vzsoOxPW1o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres: coronavírus mostra como a saúde está vinculada à natureza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DJlCc6zAx-s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DJlCc6zAx-s"
         }
       }
     }
