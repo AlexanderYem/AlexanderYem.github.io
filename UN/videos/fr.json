@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le racisme est une plaie qui existe dans toutes les sociétés",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QE-COMleSIE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QE-COMleSIE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La Covid-19 et les personnes en situation de déplacement",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E3quB1GnmAk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : après une telle pandémie, il ne peut y avoir de « retour à la normale », estime l’OMS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DJZt9Phmr3I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DJZt9Phmr3I"
         }
       }
     }
