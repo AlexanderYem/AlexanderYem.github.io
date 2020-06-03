@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мигранты и беженцы: COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yF-jYqNAAc0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yF-jYqNAAc0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Невидимая пандемия домашнего насилия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q-ryeuwNr24"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выставка карикатуры, посвященная 75-летию ООН и Всемирному дню свободы печати",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ixULltFP94w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ixULltFP94w"
         }
       }
     }
