@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 e pessoas em movimento, ajuda humanitária para Iêmen e Dia Mundial da Bicicleta",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/As0_2VOZ_w0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "As0_2VOZ_w0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Refugiados e migrantes enfrentam “três crises de uma só vez”, alerta secretário geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n4JGKC4iGRE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Médico da Opas diz que Brasil deve intensificar isolamento social para conter pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2vzsoOxPW1o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2vzsoOxPW1o"
         }
       }
     }
