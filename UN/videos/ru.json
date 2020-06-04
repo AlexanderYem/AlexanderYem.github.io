@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день окружающей среды - 5 июня",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/32_Jg6Vidlk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "32_Jg6Vidlk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "3 июня - Всемирный день велосипеда",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sC3gbSEu2iI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "75-летие Победы. Дни памяти и примирения. Обращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A3AyHnqHurs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A3AyHnqHurs"
         }
       }
     }
