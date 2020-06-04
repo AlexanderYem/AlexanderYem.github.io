@@ -15,6 +15,19 @@
     },
     {
       "snippet": {
+        "title": "Mensaje del Secretario para Colombia en el Día Mundial del Medio Ambiente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQ5T2f6kVss/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NQ5T2f6kVss"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El COVID-19 y las personas en movimiento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wsINrE6CMeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "En Albania, la tecnología nuclear al servicio de la historia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jKoWdCNBk4w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jKoWdCNBk4w"
         }
       }
     }
