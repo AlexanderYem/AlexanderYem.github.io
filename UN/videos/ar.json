@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: إننا نلحق الأذى بعالم الطبيعة – وسندفع نحن ثمنَ ذلك.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6pywGcjtWXM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6pywGcjtWXM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة في كوفيد-19 والمرتحلين من الناس نيويورك، 3 حزيران/يونيه 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-68tjXKZdTs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أربعة ملايين ونصف مليون شخص يستفيدون من الأغذية المنقدة للحياة المقدمة من برنامج الأغذية العالمي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QTO_Nv4fdW4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QTO_Nv4fdW4"
         }
       }
     }
