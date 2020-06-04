@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale de l'environnement",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ag5FShHdV6E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ag5FShHdV6E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Confronter ensemble l’héritage de l’esclavage : le racisme »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I87oX0vT3jg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Les oiseaux unissent notre monde ».",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i6MUHMSYvOo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i6MUHMSYvOo"
         }
       }
     }
