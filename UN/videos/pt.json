@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Apelo em favor dos mais vulneráveis em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PoeknS_YOiA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PoeknS_YOiA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dia Mundial dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FIs0V_FralM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FIs0V_FralM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Biodiversidade; coronavírus e insegurança em Moçambique; Thomas e Seus Amigos promovem ODSs",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "3EzFf2a7GKY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Organização Mundial do Turismo divulga guia para reanimar o setor pós-pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lJVFZnumoL4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lJVFZnumoL4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Global dos Pais, retomada do setor de turismo e combate ao uso do tabaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3osigmgiiB4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3osigmgiiB4"
         }
       }
     }
