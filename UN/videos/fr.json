@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée de l'environnement :  il faut reconnaître le rôle que joue la nature dans nos vies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RjKT3RJMfhk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RjKT3RJMfhk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale de l'environnement",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yS0ZmLgLrwU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La santé mentale est au coeur de notre humanité",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I87oX0vT3jg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I87oX0vT3jg"
         }
       }
     }

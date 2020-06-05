@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Марианна Мунтяну: давайте улучшать здоровья планеты.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x17mB9nVBwM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x17mB9nVBwM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день окружающей среды - 5 июня",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ikFdj5Ap1u8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Психическое здоровье - обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sC3gbSEu2iI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sC3gbSEu2iI"
         }
       }
     }
