@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День русского языка в ООН -",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jP9xb45Dp8Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jP9xb45Dp8Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Марианна Мунтяну: давайте улучшать здоровья планеты.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "82NfX5qcjiQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по поводу Всемирного дня электросвязи и информационного общества",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ikFdj5Ap1u8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ikFdj5Ap1u8"
         }
       }
     }
