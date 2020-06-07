@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المفوض العام للأونروا: الاستثمار في الأونروا هو استثمار في الاستقرار العادل في منطقة شديدة التقلب.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lD0f9vrMQqI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lD0f9vrMQqI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: إننا نلحق الأذى بعالم الطبيعة – وسندفع نحن ثمنَ ذلك",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OlAy4UEF_jo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أنطونيو غوتيريش: خدمات الصحة العقلية جزء أساسي من جميع ما تتخذه الحكومات من تدابير لمواجهة الجائحة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-68tjXKZdTs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-68tjXKZdTs"
         }
       }
     }
