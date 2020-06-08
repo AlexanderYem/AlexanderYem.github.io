@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial dos Oceanos, Conferência da ONU sobre Oceanos e guia para trabalhadores migrantes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwKPFqFDuSM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jwKPFqFDuSM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Apelo em favor dos mais vulneráveis em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F5yXgoKMXqs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem da ONU destaca papel das mulheres em diálogos para a paz e cessar-fogo global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3EzFf2a7GKY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3EzFf2a7GKY"
         }
       }
     }
