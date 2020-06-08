@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: في اليوم العالمي للمحيطات، نركز على الابتكار كي تصبح الاستدامة سمة المحيطات.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9NZruI43N9k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9NZruI43N9k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "المفوض العام للأونروا: الاستثمار في الأونروا هو استثمار في الاستقرار العادل في منطقة شديدة التقلب.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YrSyf8Ys4Ec"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "لاجئو الروهينجا: المنظمات الإنسانية تتأهب بعد اكتشاف أول حالة إصابة بكوفيد-19 في أحد المخيمات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OlAy4UEF_jo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OlAy4UEF_jo"
         }
       }
     }
