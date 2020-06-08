@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal confirma adiamento da Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEr_KKfuLyI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xEr_KKfuLyI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Guia para proteger trabalhadores migrantes durante pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GqSkva9l99g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GqSkva9l99g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial dos Oceanos, Conferência da ONU sobre Oceanos e guia para trabalhadores migrantes",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "WWBw4mExOY0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 e pessoas em movimento, ajuda humanitária para Iêmen e Dia Mundial da Bicicleta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/As0_2VOZ_w0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "As0_2VOZ_w0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Refugiados e migrantes enfrentam “três crises de uma só vez”, alerta secretário geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F5yXgoKMXqs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F5yXgoKMXqs"
         }
       }
     }
