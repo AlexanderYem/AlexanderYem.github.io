@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генеральный секретарь ООН о продовольственной стабильности",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I8pXJN3EFzk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I8pXJN3EFzk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день океанов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zSKS5FeLnKg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день биоразнообразия - обращение Генсекретаря ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nCVvj3369D0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nCVvj3369D0"
         }
       }
     }
