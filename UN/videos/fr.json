@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lancement de la note de synthèse sur la sécurité alimentaire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GFyaeDSk4g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_GFyaeDSk4g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée de l'environnement :  il faut reconnaître le rôle que joue la nature dans nos vies",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LiIJ6IghA1Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Impact du Covid-19 sur l'Afrique - Message du Secrétaire général de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yS0ZmLgLrwU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yS0ZmLgLrwU"
         }
       }
     }

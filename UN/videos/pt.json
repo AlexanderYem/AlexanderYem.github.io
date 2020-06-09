@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pandemia pode ampliar fome e jogar 49 milhões de pessoas na pobreza extrema, alerta ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H3Cwm7MtdcI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H3Cwm7MtdcI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal confirma adiamento da Conferência dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YcdLQCDEJfU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iêmen recebe promessas de US$ 1,3 bilhão em conferência de doadores para ajuda humanitária",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WWBw4mExOY0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WWBw4mExOY0"
         }
       }
     }
