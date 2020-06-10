@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN 10 JUNI 2020 NA ANOLD KAYANDA (CHIMAMANDA)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lVDi710YII0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lVDi710YII0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 09 JUNI 2020 NA ANOLD KAYANDA (Millennium Engineers)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PpYn7McBaLo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 YAVURUGA WENYE SARATANI (HABARI ZA UN 01 JUNI 2020)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J0JbY16pbM8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J0JbY16pbM8"
         }
       }
     }
