@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "الأمين العام: يكفي غذاء العالم لإطعام سكان المعمورة، ولكن هناك أكثر من 820 مليون نسمة يتضوّرون جوعاً",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/anniY5EvuKU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "anniY5EvuKU"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "الأمين العام: في اليوم العالمي للمحيطات، نركز على الابتكار كي تصبح الاستدامة سمة المحيطات.",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "kkcoo8JgRUE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "بيان الأمين العام أنطونيو غوتيريش بمناسبة إصدار الموجز السياساتي بشأن أثر كوفيد- 19على أفريقيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrSyf8Ys4Ec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YrSyf8Ys4Ec"
         }
       }
     }
