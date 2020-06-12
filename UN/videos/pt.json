@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 pode lançar milhões de crianças no trabalho infantil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2to-rOTVIU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k2to-rOTVIU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: aumento do risco de trabalho infantil e diretor da OMS fala sobre reabertura da economia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GCnom4HDYWo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Meio Ambiente destaca importância da biodiversidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G_RbiapLkaY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G_RbiapLkaY"
         }
       }
     }
