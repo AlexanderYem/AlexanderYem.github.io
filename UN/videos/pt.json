@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres marca Dia de Combate à Desertificação e à Seca",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aELNpPYpjPw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aELNpPYpjPw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Importância da proteção de idosos durante e depois da pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jwKPFqFDuSM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apelo em favor dos mais vulneráveis em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PoeknS_YOiA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PoeknS_YOiA"
         }
       }
     }
