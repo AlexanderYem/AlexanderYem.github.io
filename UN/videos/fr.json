@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AEWA : 25 ans de collaboration internationale pour la conservation des oiseaux d’eau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2thWTVg7gXk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2thWTVg7gXk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lancement de la note de synthèse sur la sécurité alimentaire",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bC6yjKHLLOs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale de la diversité biologique - Message du Secrétaire général de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LiIJ6IghA1Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LiIJ6IghA1Q"
         }
       }
     }
