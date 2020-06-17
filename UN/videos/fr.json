@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Le frère de George Floyd appelle Conseil des droits de l’homme à « aider les Américains noirs »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aQySbXLG1UQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aQySbXLG1UQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Journée de lutte contre la désertification et la sécheresse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wCCyHo4u_ZQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wCCyHo4u_ZQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AEWA : 25 ans de collaboration internationale pour la conservation des oiseaux d’eau",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-rFlB1HvnGQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prix 2019 du Militaire de l'ONU pour la défense de l’égalité des genres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1w1k9fp7pRU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1w1k9fp7pRU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale des casques bleus - les femmes dans le maintien de la paix",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bC6yjKHLLOs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bC6yjKHLLOs"
         }
       }
     }
