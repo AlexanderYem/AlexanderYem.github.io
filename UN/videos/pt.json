@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Conselho de Direitos Humanos realiza um debate sobre racismo e brutalidade policial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p17EtsaANqs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p17EtsaANqs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Irmão de George Floyd fala ao Conselho de Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ktj0oR11R6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ktj0oR11R6s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Quase metade da população mundial vive em áreas degradadas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HL9iIrPZp6k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HL9iIrPZp6k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Combate à desertificação e à seca e Conselho de Direitos Humanos debate racismo e violência policial",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "dt_rq2qtqQk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pandemia pode ampliar fome e jogar 49 milhões de pessoas na pobreza extrema, alerta ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H3Cwm7MtdcI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H3Cwm7MtdcI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal confirma adiamento da Conferência dos Oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xEr_KKfuLyI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xEr_KKfuLyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guia para proteger trabalhadores migrantes durante pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GqSkva9l99g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GqSkva9l99g"
         }
       }
     }
