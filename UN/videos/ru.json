@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Борьба с опустыниванием и засухой - Генсек ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ppGmEDyM-xI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ppGmEDyM-xI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генеральный секретарь ООН о продовольственной стабильности",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kppFJK7lym8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "29 мая - День миротворцев ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zSKS5FeLnKg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zSKS5FeLnKg"
         }
       }
     }
