@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "БОРЬБА С СЕКСУАЛЬНЫМ НАСИЛИЕМ В УСЛОВИЯХ КОНФЛИКТА",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLG-KpoVSp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mLG-KpoVSp8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Штаб-квартира ООН закрыта, но к приему делегатов готова",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yF-jYqNAAc0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Невидимая пандемия домашнего насилия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BQayMx1jsy4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BQayMx1jsy4"
         }
       }
     }
