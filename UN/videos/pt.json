@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Mundial do Refugiado, Guterres destaca \"números assustadores\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YXcJmh-0tqo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YXcJmh-0tqo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O papel da OIM na reinstalação de refugiados em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qkZk2pq_kDs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 pode lançar milhões de crianças no trabalho infantil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k2to-rOTVIU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k2to-rOTVIU"
         }
       }
     }
