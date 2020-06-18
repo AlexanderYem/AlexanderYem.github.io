@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Las mujeres se alzan en solidaridad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/boWl_RYuY-k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "boWl_RYuY-k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de los Refugiados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KrC4FP1_0RY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Con mujeres en las operaciones de paz, más cerca de las comunidades y mejores resultados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qPXDFF4rsGs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qPXDFF4rsGs"
         }
       }
     }
