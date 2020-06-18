@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: نشكر اللاجئين على براعتهم وتصميمهم على إعادة بناء حياتهم، وتحسين حياة من حولهم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2c8XqRXG8Bg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2c8XqRXG8Bg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: غذاء العالم يكفي لإطعام سكان المعمورة، ولكن هناك أكثر من 820 مليون نسمة يتضوّرون جوعاً",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UCJwRCo8oPs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام بمناسبة اليوم الدولي للتنوع البيولوجي ..إعادة البناء هي السبيل لحماية صحة الأجيال",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kkcoo8JgRUE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kkcoo8JgRUE"
         }
       }
     }
