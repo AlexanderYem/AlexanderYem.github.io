@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O papel da OIM na reinstalação de refugiados em Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTG50T-JRVY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fTG50T-JRVY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conselho de Direitos Humanos realiza um debate sobre racismo e brutalidade policial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k2to-rOTVIU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: aumento do risco de trabalho infantil e diretor da OMS fala sobre reabertura da economia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dt_rq2qtqQk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dt_rq2qtqQk"
         }
       }
     }
