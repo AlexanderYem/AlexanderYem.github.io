@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: Acnur apoia construção de hospital temporário em Boa Vista no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFxONYZbjiw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QFxONYZbjiw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "A história de um refugiado do Bangladesh em Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VqrgLCc9V38/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VqrgLCc9V38"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Mundial do Refugiado, Guterres destaca \"números assustadores\"",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "uNYNFNWYGQw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pacto Global da ONU faz 20 anos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e-NCAwZgsu4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e-NCAwZgsu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "20 anos de Pacto global da ONU, proteção de idosos durante pandemia e bicicletas contra Covid-109",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qkZk2pq_kDs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qkZk2pq_kDs"
         }
       }
     }
