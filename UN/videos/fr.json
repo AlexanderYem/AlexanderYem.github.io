@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale des réfugiés 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4JPov-S7qk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U4JPov-S7qk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le frère de George Floyd appelle Conseil des droits de l’homme à « aider les Américains noirs »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ukpk6NNgK44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le rôle essentiel des femmes dans un cessez-le-feu mondial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-rFlB1HvnGQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-rFlB1HvnGQ"
         }
       }
     }
