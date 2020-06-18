@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Штаб-квартира ООН закрыта, но к приему делегатов готова",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhCwnVtoFDo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fhCwnVtoFDo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Борьба с опустыниванием и засухой - Генсек ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BQayMx1jsy4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Уничтожение летучих мышей не остановит COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kppFJK7lym8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kppFJK7lym8"
         }
       }
     }
