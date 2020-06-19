@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Refugiada congolesa diz que se sente feliz em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-gGynVKUCk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B-gGynVKUCk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflito",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HL9iIrPZp6k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Combate à desertificação e à seca e Conselho de Direitos Humanos debate racismo e violência policial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gflbTT-Xj4s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gflbTT-Xj4s"
         }
       }
     }
