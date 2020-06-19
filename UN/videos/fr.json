@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le monde du travail face à la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rPj0cIH-uOE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rPj0cIH-uOE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale des réfugiés 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QE-COMleSIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La Covid-19 et les personnes en situation de déplacement",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ukpk6NNgK44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ukpk6NNgK44"
         }
       }
     }
