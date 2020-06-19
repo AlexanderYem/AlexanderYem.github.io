@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "20 июня - Всемирный день беженцев",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ebJuvAThoK8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ebJuvAThoK8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "БОРЬБА С СЕКСУАЛЬНЫМ НАСИЛИЕМ В УСЛОВИЯХ КОНФЛИКТА",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "10QIqf2Gchg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мигранты и беженцы: COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yF-jYqNAAc0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yF-jYqNAAc0"
         }
       }
     }

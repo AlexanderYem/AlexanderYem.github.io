@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: العنف الجنسي في حالات النزاع جريمة وحشية ترتكب ضد النساء والفتيات كما تؤثر على الرجال",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VWJY8avHVbI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VWJY8avHVbI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "الأمين العام: حان الوقت لتنسيق الجهود العالمية والإقليمية والوطنية من أجل إيجاد العمل اللائق للجميع",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/crjujjjZo6c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "crjujjjZo6c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: نشكر اللاجئين على براعتهم وتصميمهم على إعادة بناء حياتهم، وتحسين حياة من حولهم",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "0b9ohZ0Jmuk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام -- رسالة بمناسبة اليوم الدولي لحفظة السلام 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-fek-CHhaac/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-fek-CHhaac"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تداعيات إعصار أمفان على مخيمات اللاجئين في بنغلاديش",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UCJwRCo8oPs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UCJwRCo8oPs"
         }
       }
     }
