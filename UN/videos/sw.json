@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 imeongeza ugumu katika changamoto za awali za watu wenye ualbino lakini na mwanga upo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VBkZyDNW2D4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VBkZyDNW2D4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 18 JUNI 2020 NA ANOLD KAYANDA [UNHCR]",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZiDV6eyQ_Cw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Je, unaifahamu Ethanol?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ceuBjlXNueg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ceuBjlXNueg"
         }
       }
     }
