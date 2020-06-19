@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мечтаю стать как Пикассо – история 14 летнего беженца из Афганистана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oreKeWgV0z4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oreKeWgV0z4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "20 июня - Всемирный день беженцев",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "32_Jg6Vidlk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "3 июня - Всемирный день велосипеда",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/10QIqf2Gchg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "10QIqf2Gchg"
         }
       }
     }
