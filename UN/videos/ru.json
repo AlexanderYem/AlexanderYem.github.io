@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Эмодзи Всемирного дня беженца",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlwKr-I7vQ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wlwKr-I7vQ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мечтаю стать как Пикассо – история 14 летнего беженца из Афганистана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x17mB9nVBwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день окружающей среды - 5 июня",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/32_Jg6Vidlk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "32_Jg6Vidlk"
         }
       }
     }
