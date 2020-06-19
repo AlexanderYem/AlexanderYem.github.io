@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Première réunion en personne depuis le début de la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyM8dPTQwh4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NyM8dPTQwh4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le monde du travail face à la Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nN-lDbHSA4s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le racisme est une plaie qui existe dans toutes les sociétés",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QE-COMleSIE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QE-COMleSIE"
         }
       }
     }
