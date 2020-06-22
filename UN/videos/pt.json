@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Programa da ONU ajuda treinador de futebol a regressar ao Brasil devido a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTSKlihb27s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BTSKlihb27s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Refugiada congolesa diz que se sente feliz em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p17EtsaANqs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Irmão de George Floyd fala ao Conselho de Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ktj0oR11R6s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ktj0oR11R6s"
         }
       }
     }
