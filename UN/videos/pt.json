@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministra de Portugal realça benefícios de iniciativa premiada pela ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TI3T-l_dCto/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TI3T-l_dCto"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Prefeito brasileiro destaca prêmio da ONU de administração pública",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IoJLf_ttyQY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IoJLf_ttyQY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vice-chefe da ONU diz que \"não há desculpa\" para violência de gênero",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "VqrgLCc9V38"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres: \"A pandemia da Covid-19 virou ao avesso o mundo do trabalho\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AcwS4x_ATmg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AcwS4x_ATmg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Mundial do Refugiado, Guterres destaca \"números assustadores\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YXcJmh-0tqo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YXcJmh-0tqo"
         }
       }
     }
