@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Давайте защитим наших матерей, сестер, дочерей от насилия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IcMHAiFrsI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3IcMHAiFrsI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Автор эмодзи Всемирного дня беженца",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jP9xb45Dp8Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Марианна Мунтяну: давайте улучшать здоровья планеты.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x17mB9nVBwM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x17mB9nVBwM"
         }
       }
     }
