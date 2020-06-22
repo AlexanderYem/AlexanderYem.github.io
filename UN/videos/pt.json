@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vice-chefe da ONU diz que \"não há desculpa\" para violência de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/phcAmvzk040/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "phcAmvzk040"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: impacto em remédios contra HIV, história de um jogador de futebol e Mr. Bean entra em cena",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YXcJmh-0tqo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O papel da OIM na reinstalação de refugiados em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fTG50T-JRVY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fTG50T-JRVY"
         }
       }
     }
