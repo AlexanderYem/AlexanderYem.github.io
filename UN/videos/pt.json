@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia do Serviço Público, chefe da ONU agradece trabalho de funcionários públicos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3knGhue9TjM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3knGhue9TjM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra de Portugal realça benefícios de iniciativa premiada pela ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QFxONYZbjiw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A história de um refugiado do Bangladesh em Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VqrgLCc9V38/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VqrgLCc9V38"
         }
       }
     }
