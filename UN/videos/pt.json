@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: impacto em remédios contra HIV, história de um jogador de futebol e Mr. Bean entra em cena",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iW1wPsi8eb0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iW1wPsi8eb0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Programa da ONU ajuda treinador de futebol a regressar ao Brasil devido a pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fTG50T-JRVY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conselho de Direitos Humanos realiza um debate sobre racismo e brutalidade policial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p17EtsaANqs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p17EtsaANqs"
         }
       }
     }
