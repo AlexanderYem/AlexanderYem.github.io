@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 : les fonctionnaires, en première ligne de la réponse à la crise",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQmxLgU8lo4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FQmxLgU8lo4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "la violence sexuelle - toute forme de violence - est tout simplement de la violence",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RjKT3RJMfhk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale de l'environnement",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ag5FShHdV6E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ag5FShHdV6E"
         }
       }
     }
