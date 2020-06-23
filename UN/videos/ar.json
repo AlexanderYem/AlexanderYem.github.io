@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: ميثاق الأمم المتحدة دليل خالد للتصدي للتحديات المشتركة ومعالجة مظاهر الهشاشة في العالم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TqVdvEUn5ak/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TqVdvEUn5ak"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "وزير خارجية الأردن يتحدث تلويح إسرائيل بضم أجزاء من الضفة الغربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RD_kA2ew8x0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RD_kA2ew8x0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "حوار مع الدكتور طارق الشيخ، منسق الأمم المتحدة المقيم في الكويت",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "RtSS_p0juVs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة في كوفيد-19 والمرتحلين من الناس نيويورك، 3 حزيران/يونيه 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l6jqISP3ik0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l6jqISP3ik0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "دور المرأة ضروري لوقف إطلاق نار عالمي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PuHOD6kpxis/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PuHOD6kpxis"
         }
       }
     }

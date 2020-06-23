@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La Carta de las Naciones Unidas, vigente 75 años después",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9WJswmAxYs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V9WJswmAxYs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Las mujeres se alzan en solidaridad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NQ5T2f6kVss"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El COVID-19 y las personas en movimiento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9rC17EZxWNs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9rC17EZxWNs"
         }
       }
     }
