@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "la violence sexuelle - toute forme de violence - est tout simplement de la violence",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dDdj3omMyGY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dDdj3omMyGY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Première réunion en personne depuis le début de la Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ag5FShHdV6E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Confronter ensemble l’héritage de l’esclavage : le racisme »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nN-lDbHSA4s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nN-lDbHSA4s"
         }
       }
     }
