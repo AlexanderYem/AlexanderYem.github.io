@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Бразильский футболист в Беларуси",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xuUtpQDtdCw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xuUtpQDtdCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Давайте защитим наших матерей, сестер, дочерей от насилия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RWMjVu4BqOE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День русского языка в ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jP9xb45Dp8Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jP9xb45Dp8Y"
         }
       }
     }
