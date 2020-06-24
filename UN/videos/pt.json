@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral da ONU marca 75º aniversário da Carta da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QUs4prpRxkQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QUs4prpRxkQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia do Serviço Público, chefe da ONU agradece trabalho de funcionários públicos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wfQmbbGsmGE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: Acnur apoia construção de hospital temporário em Boa Vista no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QFxONYZbjiw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QFxONYZbjiw"
         }
       }
     }
