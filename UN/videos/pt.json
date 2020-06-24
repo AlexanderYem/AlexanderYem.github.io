@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco quer mais segurança de jornalistas em protestos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lVSJRTXzOHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lVSJRTXzOHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mais segurança para jornalistas em protestos e iniciativas de Brasil e Portugal premiadas pela ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B-gGynVKUCk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Representante da OMS destaca “necessidades imensas” criadas pela Covid-19 em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CAeWmUcEOxE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CAeWmUcEOxE"
         }
       }
     }
