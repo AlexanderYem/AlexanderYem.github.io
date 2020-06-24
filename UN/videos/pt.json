@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agrônomo explica como Brasil pode se prevenir contra nuvem de gafanhotos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqVdektXla0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqVdektXla0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unesco quer mais segurança de jornalistas em protestos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BTSKlihb27s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Refugiada congolesa diz que se sente feliz em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B-gGynVKUCk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B-gGynVKUCk"
         }
       }
     }
