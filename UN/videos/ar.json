@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يدعو الحكومة الإسرائيلية إلى التخلي عن خطط ضم أجزاء من الضفة الغربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cOnmEgGYymk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cOnmEgGYymk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: ميثاق الأمم المتحدة دليل خالد للتصدي للتحديات المشتركة ومعالجة مظاهر الهشاشة في العالم",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lD0f9vrMQqI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: إننا نلحق الأذى بعالم الطبيعة – وسندفع نحن ثمنَ ذلك",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RtSS_p0juVs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RtSS_p0juVs"
         }
       }
     }
