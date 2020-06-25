@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "75-летие Устава ООН. Генсек ООН Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TvT2OUnKVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3TvT2OUnKVM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Андрей Громыко и Устав ООН - интервью с внуком советского дипломата Алексеем к 75-летию ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ppGmEDyM-xI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН о продовольственной стабильности",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I8pXJN3EFzk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I8pXJN3EFzk"
         }
       }
     }
