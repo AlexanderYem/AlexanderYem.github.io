@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Андрей Громыко и Устав ООН - интервью с внуком советского дипломата Алексеем к 75-летию ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZ1lJLDXkno/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dZ1lJLDXkno"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Бразильский футболист в Беларуси",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I8pXJN3EFzk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день океанов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RWMjVu4BqOE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RWMjVu4BqOE"
         }
       }
     }
