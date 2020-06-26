@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "75eme anniversaire de la Charte des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oOYfK273-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8oOYfK273-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Les gens de mer sont des travailleurs-clés durant la pandémie de la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SN5HGW0jzeQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SN5HGW0jzeQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : les fonctionnaires, en première ligne de la réponse à la crise",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "2thWTVg7gXk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lancement de la note de synthèse sur la sécurité alimentaire",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_GFyaeDSk4g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_GFyaeDSk4g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée de l'environnement :  il faut reconnaître le rôle que joue la nature dans nos vies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RjKT3RJMfhk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RjKT3RJMfhk"
         }
       }
     }
