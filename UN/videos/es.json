@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de Parlamentarismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4o-JBIUK83M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4o-JBIUK83M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La Carta de las Naciones Unidas, vigente 75 años después",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q5h7ChdCPHM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensaje del Secretario para Colombia en el Día Mundial del Medio Ambiente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NQ5T2f6kVss/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NQ5T2f6kVss"
         }
       }
     }

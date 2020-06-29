@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional do Parlamentarismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TQuLNXlYDpI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TQuLNXlYDpI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Vice-diretora-geral da OMS fala sobre a expectativa da chegada de uma vacina para a Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WYKa4dtnIrM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WYKa4dtnIrM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Síria enfrenta crise alimentar sem precedentes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p91-RZ9hnH4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p91-RZ9hnH4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Médica da OMS fala sobre testes de vacina para Covid-19 e Síria enfrenta grave crise alimentar",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "TI3T-l_dCto"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prefeito brasileiro destaca prêmio da ONU de administração pública",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IoJLf_ttyQY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IoJLf_ttyQY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vice-chefe da ONU diz que \"não há desculpa\" para violência de gênero",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/phcAmvzk040/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "phcAmvzk040"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: impacto em remédios contra HIV, história de um jogador de futebol e Mr. Bean entra em cena",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iW1wPsi8eb0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iW1wPsi8eb0"
         }
       }
     }

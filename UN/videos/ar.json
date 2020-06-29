@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: يقع على عاتق البرلمانات واجبٌ خاص بالنهوض بحقوق الإنسان وتعزيز التنمية المستدامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Qm62pmeBSI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9Qm62pmeBSI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يدعو الحكومة الإسرائيلية إلى التخلي عن خطط ضم أجزاء من الضفة الغربية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9NZruI43N9k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المفوض العام للأونروا: الاستثمار في الأونروا هو استثمار في الاستقرار العادل في منطقة شديدة التقلب.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lD0f9vrMQqI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lD0f9vrMQqI"
         }
       }
     }
