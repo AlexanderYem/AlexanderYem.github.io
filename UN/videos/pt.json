@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Médica da OMS fala sobre testes de vacina para Covid-19 e Síria enfrenta grave crise alimentar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aHru_cyVypA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aHru_cyVypA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agrônomo explica como Brasil pode se prevenir contra nuvem de gafanhotos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iW1wPsi8eb0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Programa da ONU ajuda treinador de futebol a regressar ao Brasil devido a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BTSKlihb27s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BTSKlihb27s"
         }
       }
     }
