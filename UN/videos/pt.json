@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha da ONU contra notícias falsas e União Europeia ajuda Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwcZc-DGqpY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jwcZc-DGqpY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional do Parlamentarismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3knGhue9TjM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra de Portugal realça benefícios de iniciativa premiada pela ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TI3T-l_dCto/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TI3T-l_dCto"
         }
       }
     }
