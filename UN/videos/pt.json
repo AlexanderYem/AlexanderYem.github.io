@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Projeto de ação climática em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/11uOiaoYSaU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "11uOiaoYSaU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha da ONU contra notícias falsas e União Europeia ajuda Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QUs4prpRxkQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia do Serviço Público, chefe da ONU agradece trabalho de funcionários públicos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3knGhue9TjM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3knGhue9TjM"
         }
       }
     }
