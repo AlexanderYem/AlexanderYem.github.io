@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Paulo Sérgio Pinheiro fala sobre indícios de novos crimes de guerra na Síria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2zH0v195sM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U2zH0v195sM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cresce risco de doenças zoonóticas, Agenda 2030 e cabo-verdiana conselheira de Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lVSJRTXzOHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mais segurança para jornalistas em protestos e iniciativas de Brasil e Portugal premiadas pela ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mVukQquexkM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mVukQquexkM"
         }
       }
     }
