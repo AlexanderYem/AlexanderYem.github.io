@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS avalia potencial transmissão da Covid-19 pelo ar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RzVOGoE1O2w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RzVOGoE1O2w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Contra minha vontade: casamento infantil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqrHoSxqsKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FqrHoSxqsKE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crimes de guerra na Síria, possível transmissão da Covid-19 pelo ar e combate ao casamento infantil",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "p91-RZ9hnH4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Médica da OMS fala sobre testes de vacina para Covid-19 e Síria enfrenta grave crise alimentar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aHru_cyVypA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aHru_cyVypA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agrônomo explica como Brasil pode se prevenir contra nuvem de gafanhotos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wqVdektXla0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wqVdektXla0"
         }
       }
     }

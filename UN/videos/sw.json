@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Roboti zatumika Rwanda kukabili COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lRCJl0AP9io/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lRCJl0AP9io"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN: TULINYIMWA HATA KUVAA SURUALI..",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BYn0pb6yJfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN:WASICHANA HATUSHINDWI KITU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XhTQ4g014KM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XhTQ4g014KM"
         }
       }
     }
