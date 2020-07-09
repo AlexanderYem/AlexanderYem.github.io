@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN: Uhuru gani Sudan Kusini?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RqcEQ6zsqMA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RqcEQ6zsqMA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Roboti zatumika Rwanda kukabili COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BbqP_Wqjnx0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- COVID-19 ILITUTIKISA - SPIKA JOB NDUGAI",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BYn0pb6yJfc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BYn0pb6yJfc"
         }
       }
     }
