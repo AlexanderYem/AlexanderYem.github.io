@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 в Латинской Америке - Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5jjt837n08/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O5jjt837n08"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75-летие Устава ООН. Генсек ООН Антониу Гутерриш",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fhCwnVtoFDo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба с опустыниванием и засухой - Генсек ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ppGmEDyM-xI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ppGmEDyM-xI"
         }
       }
     }
