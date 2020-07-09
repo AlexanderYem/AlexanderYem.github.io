@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El COVID-19 en América Latina y el Caribe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LyWZf3uy638/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LyWZf3uy638"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de Parlamentarismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aDy7pfj8BPI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Para ganar, debemos aprender. Para recuperarnos, debemos trabajar juntos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q5h7ChdCPHM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q5h7ChdCPHM"
         }
       }
     }

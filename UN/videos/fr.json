@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Impact du Covid-19 en Amérique latine et dans les Caraïbes.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7WABQPpN44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a7WABQPpN44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75eme anniversaire de la Charte des Nations Unies",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wCCyHo4u_ZQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AEWA : 25 ans de collaboration internationale pour la conservation des oiseaux d’eau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2thWTVg7gXk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2thWTVg7gXk"
         }
       }
     }
