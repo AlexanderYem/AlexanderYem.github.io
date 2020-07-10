@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mhYxpi0_bt4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mhYxpi0_bt4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN: Uhuru gani Sudan Kusini?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kcRIR8au76A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "JOB NDUGAI KUTOKA DODOMA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BbqP_Wqjnx0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BbqP_Wqjnx0"
         }
       }
     }
