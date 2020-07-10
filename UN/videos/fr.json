@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "25ème anniversaire du génocide de Srebrenica, en Bosnie-Herzégovine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XB6PYMwHcgs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XB6PYMwHcgs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Impact du Covid-19 en Amérique latine et dans les Caraïbes.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aQySbXLG1UQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée de lutte contre la désertification et la sécheresse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wCCyHo4u_ZQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wCCyHo4u_ZQ"
         }
       }
     }
