@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La pandémie du VIH sida demeure une crise mondiale, et se nourrit essentiellement par les inégalités",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHAVHexDfBY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IHAVHexDfBY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "25ème anniversaire du génocide de Srebrenica, en Bosnie-Herzégovine",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U4JPov-S7qk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le frère de George Floyd appelle Conseil des droits de l’homme à « aider les Américains noirs »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aQySbXLG1UQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aQySbXLG1UQ"
         }
       }
     }
