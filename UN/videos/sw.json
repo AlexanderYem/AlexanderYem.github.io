@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN: Asanteni walinda amani kutoka Tanzania",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLoySWWZ1Ys/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KLoySWWZ1Ys"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T8UvErZ8of8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- MICHORO YANUSURU WAKUCHI DHIDI YA CORONA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kcRIR8au76A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kcRIR8au76A"
         }
       }
     }
