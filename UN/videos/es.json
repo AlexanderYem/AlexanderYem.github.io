@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "En el Día Internacional de Nelson Mandela, ¡movilízate!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BbSJM3VYBhc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BbSJM3VYBhc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El COVID-19 en América Latina y el Caribe",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vDiV996HJw4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Innovación y ciencia para sanar a los océanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aDy7pfj8BPI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aDy7pfj8BPI"
         }
       }
     }
