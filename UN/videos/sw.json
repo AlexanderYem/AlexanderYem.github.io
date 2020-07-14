@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kutoka Beni Kivu Kaskazini",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPHI3jVpIAE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yPHI3jVpIAE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN: Asanteni walinda amani kutoka Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qIF0f9sq9Tw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tazama walimu wakirekodi masomo yao Uganda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T8UvErZ8of8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T8UvErZ8of8"
         }
       }
     }
