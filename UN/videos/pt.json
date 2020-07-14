@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Pandemia afeta severamente nove em cada 10 trabalhadores na América Latina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lkaMONVQUtU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lkaMONVQUtU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Aumento do número de pessoas passando fome preocupa agências da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NfdGgWXALQ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NfdGgWXALQ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aumento da fome, descarte de resíduos durante a pandemia e mercado de trabalho na América Latina",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "11uOiaoYSaU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha da ONU contra notícias falsas e União Europeia ajuda Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jwcZc-DGqpY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jwcZc-DGqpY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional do Parlamentarismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TQuLNXlYDpI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TQuLNXlYDpI"
         }
       }
     }
