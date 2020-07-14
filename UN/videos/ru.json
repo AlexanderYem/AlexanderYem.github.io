@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Вернуться к жизни после насилия и помочь другим. История Татьяны Муканире",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVMssaqV8eE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pVMssaqV8eE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COVID-19 в Латинской Америке - Антониу Гутерриш",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mLG-KpoVSp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Штаб-квартира ООН закрыта, но к приему делегатов готова",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fhCwnVtoFDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fhCwnVtoFDo"
         }
       }
     }
