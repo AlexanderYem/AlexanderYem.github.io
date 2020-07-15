@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Kituo kipya cha mabasi kibaha ni mkombozi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKPvwe_x1Os/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KKPvwe_x1Os"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Wasanii wacheza na maneno kufundisha kuhusu COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-Hz2iJ5eVaU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - NYIMBO ZA DIAMOND NA ALI KIBA ZASAIDIA KUENEZA KISWAHILI DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ryu_bKQmNdI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ryu_bKQmNdI"
         }
       }
     }
