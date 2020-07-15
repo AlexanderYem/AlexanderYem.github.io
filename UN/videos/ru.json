@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Россия - подготовка национального обзора по ЦУР. Интервью с Алексеем Борисовым",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETG5t3qRGPU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ETG5t3qRGPU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Вернуться к жизни после насилия и помочь другим. История Татьяны Муканире",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ebJuvAThoK8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "БОРЬБА С СЕКСУАЛЬНЫМ НАСИЛИЕМ В УСЛОВИЯХ КОНФЛИКТА",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mLG-KpoVSp8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mLG-KpoVSp8"
         }
       }
     }
