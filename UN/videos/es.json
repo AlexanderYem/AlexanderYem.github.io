@@ -54,6 +54,19 @@
     },
     {
       "snippet": {
+        "title": "El mundo laboral y el COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M8sgOypKy_8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M8sgOypKy_8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Las mujeres se alzan en solidaridad",
         "thumbnails": {
           "high": {
@@ -101,19 +114,6 @@
         },
         "resourceId": {
           "videoId": "GgSkxRXCoE4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El mundo laboral y el COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M8sgOypKy_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M8sgOypKy_8"
         }
       }
     },
