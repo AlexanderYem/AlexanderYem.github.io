@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU pelo Dia Internacional Nelson Mandela",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyFCawSqlOM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YyFCawSqlOM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unesco no Brasil promove debate sobre educação, cultura e racismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U2zH0v195sM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cresce risco de doenças zoonóticas, Agenda 2030 e cabo-verdiana conselheira de Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gx5RysKh99c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gx5RysKh99c"
         }
       }
     }
