@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день Нельсона Манделы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4evoF1NReE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U4evoF1NReE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Россия - подготовка национального обзора по ЦУР. Интервью с Алексеем Борисовым",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oreKeWgV0z4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "20 июня - Всемирный день беженцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ebJuvAThoK8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ebJuvAThoK8"
         }
       }
     }
