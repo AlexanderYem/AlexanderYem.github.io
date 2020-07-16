@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco no Brasil promove debate sobre educação, cultura e racismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiLx5NteCg8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tiLx5NteCg8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pandemia afeta severamente nove em cada 10 trabalhadores na América Latina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gx5RysKh99c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Projeto de ação climática em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/11uOiaoYSaU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "11uOiaoYSaU"
         }
       }
     }
