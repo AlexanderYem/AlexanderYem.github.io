@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nelson Mandela : champion mondial de l'égalité, de la dignité et de la solidarité.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/StXgMBJtr4Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "StXgMBJtr4Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La pandémie du VIH sida demeure une crise mondiale, et se nourrit essentiellement par les inégalités",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rPj0cIH-uOE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale des réfugiés 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U4JPov-S7qk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U4JPov-S7qk"
         }
       }
     }
