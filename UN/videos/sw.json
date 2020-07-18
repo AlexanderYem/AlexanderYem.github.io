@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SIYA KOLISI",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WqvVb8RkX0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9WqvVb8RkX0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nelson Mandela alikuwa kielelezo cha maadili katika karne ya 20-UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C0kCWWqcJzU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN: Uhuru gani Sudan Kusini?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RqcEQ6zsqMA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RqcEQ6zsqMA"
         }
       }
     }
