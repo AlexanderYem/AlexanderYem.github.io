@@ -2,6 +2,84 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день Нельсона Манделы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4evoF1NReE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U4evoF1NReE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Россия - подготовка национального обзора по ЦУР. Интервью с Алексеем Борисовым",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETG5t3qRGPU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ETG5t3qRGPU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Вернуться к жизни после насилия и помочь другим. История Татьяны Муканире",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVMssaqV8eE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pVMssaqV8eE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "COVID-19 в Латинской Америке - Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5jjt837n08/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O5jjt837n08"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "75-летие Устава ООН. Генсек ООН Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TvT2OUnKVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3TvT2OUnKVM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Андрей Громыко и Устав ООН - интервью с внуком советского дипломата Алексеем к 75-летию ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZ1lJLDXkno/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dZ1lJLDXkno"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Бразильский футболист в Беларуси",
         "thumbnails": {
           "high": {
@@ -49,84 +127,6 @@
         },
         "resourceId": {
           "videoId": "oreKeWgV0z4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "20 июня - Всемирный день беженцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ebJuvAThoK8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ebJuvAThoK8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "БОРЬБА С СЕКСУАЛЬНЫМ НАСИЛИЕМ В УСЛОВИЯХ КОНФЛИКТА",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mLG-KpoVSp8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mLG-KpoVSp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Штаб-квартира ООН закрыта, но к приему делегатов готова",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fhCwnVtoFDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fhCwnVtoFDo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба с опустыниванием и засухой - Генсек ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ppGmEDyM-xI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ppGmEDyM-xI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН о продовольственной стабильности",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I8pXJN3EFzk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I8pXJN3EFzk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день океанов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RWMjVu4BqOE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RWMjVu4BqOE"
         }
       }
     }

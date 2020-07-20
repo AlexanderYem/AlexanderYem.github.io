@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "75TH ANNIVERSARY OF UN CHARTER",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgfuIutLtHQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PgfuIutLtHQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN members vote in key elections",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m30giLtS-NY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Calling for ceasefire - UN chief, António Guterres on COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HvglQX4_HcE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HvglQX4_HcE"
         }
       }
     }
