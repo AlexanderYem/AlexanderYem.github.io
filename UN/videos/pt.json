@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres destaca desigualdade, vacinas para 2 bilhões e imagens de pandemia no Cristo Redentor",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q05607iiWq0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q05607iiWq0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral da ONU pelo Dia Internacional Nelson Mandela",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OlHqmNK0jZk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Paulo Sérgio Pinheiro fala sobre indícios de novos crimes de guerra na Síria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U2zH0v195sM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U2zH0v195sM"
         }
       }
     }
