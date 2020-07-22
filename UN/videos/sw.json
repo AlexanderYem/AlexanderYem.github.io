@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Washona baraka Ufaransa kulipa fadhila",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CFA8LMTHr3g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CFA8LMTHr3g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- NDEREMO NA VIFIJO BUHIGWE, KULIKONI?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F3_IGa9wcE0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kutoka Beni Kivu Kaskazini",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yPHI3jVpIAE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yPHI3jVpIAE"
         }
       }
     }
