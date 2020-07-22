@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Il y a des similitudes entre le combat contre la Covid-19 et le combat contre le terrorisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2JDEWV6uNC8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2JDEWV6uNC8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Siya Kolisi nommé Ambassadeur de bonne volonté de l’initiative Spotlight",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FQmxLgU8lo4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "la violence sexuelle - toute forme de violence - est tout simplement de la violence",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dDdj3omMyGY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dDdj3omMyGY"
         }
       }
     }
