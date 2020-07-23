@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres diz que região árabe tem oportunidade de se recuperar melhor da Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9W2pn9Lt5tw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9W2pn9Lt5tw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pandemia afeta educação infantil, dicas sobre o retorno ao trabalho e destruição global de florestas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RzVOGoE1O2w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Contra minha vontade: casamento infantil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FqrHoSxqsKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FqrHoSxqsKE"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El COVID-19 y la región árabe: una oportunidad para reconstruir mejor",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbr6RlBp4JQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kbr6RlBp4JQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "En el Día Internacional de Nelson Mandela, ¡movilízate!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M8sgOypKy_8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La salud de la humanidad depende de la salud del planeta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vDiV996HJw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vDiV996HJw4"
         }
       }
     }
