@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كوفيد-19 والمنطقة العربية: فرصة لإعادة البناء على نحو أفضل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVJHBglmaPk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UVJHBglmaPk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: نيلسون مانديلا جسد أسمى قيم الأمم المتحدة واتخذ إجراءات وحفَز التغيير",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VWJY8avHVbI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: حان الوقت لتنسيق الجهود العالمية والإقليمية والوطنية من أجل إيجاد العمل اللائق للجميع",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/crjujjjZo6c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "crjujjjZo6c"
         }
       }
     }
