@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pour Michèle Coninsx, la lutte contre le terrorisme doit se faire dans le respect des droits humains",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9J__2j0OAro/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9J__2j0OAro"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Il y a des similitudes entre le combat contre la Covid-19 et le combat contre le terrorisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SN5HGW0jzeQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : les fonctionnaires, en première ligne de la réponse à la crise",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FQmxLgU8lo4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FQmxLgU8lo4"
         }
       }
     }
