@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генеральный секретарь ООН - о том, как COVID-19 повлиял на арабские страны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xc7MW0ZPfKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xc7MW0ZPfKM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день Нельсона Манделы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NO86Pprmcuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мечтаю стать как Пикассо – история 14 летнего беженца из Афганистана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oreKeWgV0z4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oreKeWgV0z4"
         }
       }
     }
