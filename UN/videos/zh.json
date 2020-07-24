@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Officials and Youth Meet on #CopingWithCOVID",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHFjNov1J1E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bHFjNov1J1E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75TH ANNIVERSARY OF UN CHARTER",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t_IYY7DI3PY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN urges global solidarity in responding to COVID - 19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m30giLtS-NY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m30giLtS-NY"
         }
       }
     }
