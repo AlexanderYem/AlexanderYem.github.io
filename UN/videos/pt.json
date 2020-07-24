@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência da ONU para Refugiados amplia esforços no Brasil em resposta à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBv7xSV3g78/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TBv7xSV3g78"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres diz que região árabe tem oportunidade de se recuperar melhor da Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PDS_j1KmWso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS avalia potencial transmissão da Covid-19 pelo ar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RzVOGoE1O2w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RzVOGoE1O2w"
         }
       }
     }
