@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Onda de calor na Sibéria, trabalho remoto na pandemia e ajuda a refugiados no combate à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XuTQxlXf28Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XuTQxlXf28Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência da ONU para Refugiados amplia esforços no Brasil em resposta à Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BIaoAIcegAM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em português, Guterres envia mensagem sobre o impacto da Covid-19 na América Latina e no Caribe",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PDS_j1KmWso/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PDS_j1KmWso"
         }
       }
     }
