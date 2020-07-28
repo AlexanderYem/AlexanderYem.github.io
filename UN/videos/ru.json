@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 В УРБАНИЗИРОВАННОМ МИРЕ - обращение Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mL6kh46J3R8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mL6kh46J3R8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генеральный секретарь ООН - о том, как COVID-19 повлиял на арабские страны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3IcMHAiFrsI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Автор эмодзи Всемирного дня беженца",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NO86Pprmcuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NO86Pprmcuo"
         }
       }
     }

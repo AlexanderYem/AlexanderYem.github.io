@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID 19 en el entorno urbano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpZNfFcLq7A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IpZNfFcLq7A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El COVID-19 y la región árabe: una oportunidad para reconstruir mejor",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GgSkxRXCoE4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El mundo laboral y el COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M8sgOypKy_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M8sgOypKy_8"
         }
       }
     }

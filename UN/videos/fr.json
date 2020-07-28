@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L’impact de la Covid-19 en milieu urbain",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0XoUrW3LdI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k0XoUrW3LdI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pour Michèle Coninsx, la lutte contre le terrorisme doit se faire dans le respect des droits humains",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8oOYfK273-Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les gens de mer sont des travailleurs-clés durant la pandémie de la Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SN5HGW0jzeQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SN5HGW0jzeQ"
         }
       }
     }
