@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Азербайджан борется с пандемией",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qpwqOTaDyCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qpwqOTaDyCM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COVID-19 В УРБАНИЗИРОВАННОМ МИРЕ - обращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xuUtpQDtdCw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Давайте защитим наших матерей, сестер, дочерей от насилия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3IcMHAiFrsI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3IcMHAiFrsI"
         }
       }
     }
