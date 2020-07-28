@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رسالة الأمين العام بمناسبة إطلاق الموجز السياساتي المتعلق بكوفيد-19 والعالم الحضري 28 تموز 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZj4thROib4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oZj4thROib4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "برنامج الأغذية العالمي في اليمن يوزع قسائم غذائية على المتضررين في الحرب الدائرة هناك",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RD_kA2ew8x0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار مع الدكتور طارق الشيخ، منسق الأمم المتحدة المقيم في الكويت",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_RtMRjD-ICI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_RtMRjD-ICI"
         }
       }
     }
