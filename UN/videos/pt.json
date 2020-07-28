@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres lembra que centros urbanos têm nove em cada 10 casos de Covid-19.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WqKnUPSDSZM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WqKnUPSDSZM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Onda de calor na Sibéria, trabalho remoto na pandemia e ajuda a refugiados no combate à Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NfdGgWXALQ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aumento da fome, descarte de resíduos durante a pandemia e mercado de trabalho na América Latina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BIaoAIcegAM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BIaoAIcegAM"
         }
       }
     }
