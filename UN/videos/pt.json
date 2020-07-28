@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Trabalho a distância tem menos risco de demissão durante pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjUwaiVLcWg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hjUwaiVLcWg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres lembra que centros urbanos têm nove em cada 10 casos de Covid-19.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lkaMONVQUtU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aumento do número de pessoas passando fome preocupa agências da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NfdGgWXALQ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NfdGgWXALQ8"
         }
       }
     }
