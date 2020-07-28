@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Onda de calor extremo na Sibéria soa alarme para ação contra mudança climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oU0o7UDkj_E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oU0o7UDkj_E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Trabalho a distância tem menos risco de demissão durante pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tiLx5NteCg8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pandemia afeta severamente nove em cada 10 trabalhadores na América Latina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lkaMONVQUtU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lkaMONVQUtU"
         }
       }
     }
