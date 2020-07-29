@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 : « Chacun d’entre nous peut faire la différence » - Dr. Tedros",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DF4crYwhdTM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DF4crYwhdTM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L’impact de la Covid-19 en milieu urbain",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a7WABQPpN44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "75eme anniversaire de la Charte des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8oOYfK273-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8oOYfK273-Q"
         }
       }
     }
