@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: موجز سياساتي متعلق بأثر كوفيد-19 على جنوب شرق آسيا-30 يوليو 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_U5Rf5L5fDk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_U5Rf5L5fDk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رسالة الأمين العام بمناسبة إطلاق الموجز السياساتي المتعلق بكوفيد-19 والعالم الحضري 28 تموز 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TqVdvEUn5ak"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وزير خارجية الأردن يتحدث تلويح إسرائيل بضم أجزاء من الضفة الغربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RD_kA2ew8x0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RD_kA2ew8x0"
         }
       }
     }
