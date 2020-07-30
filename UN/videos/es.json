@@ -15,6 +15,19 @@
     },
     {
       "snippet": {
+        "title": "El impacto del COVID-19 en Asia Sudoriental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JhdFaFIu_2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JhdFaFIu_2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El COVID-19 y la región árabe: una oportunidad para reconstruir mejor",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MocEXMxAkU8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Poner fin a la violencia sexual en los conflictos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GgSkxRXCoE4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GgSkxRXCoE4"
         }
       }
     }
