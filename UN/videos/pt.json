@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral fala sobre impacto econômico e político da Covid-19 no sudeste da Ásia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMuIgi_Fz0U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uMuIgi_Fz0U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem de jovem brasileira que aconselhará secretário-geral da ONU sobre clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q05607iiWq0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral da ONU pelo Dia Internacional Nelson Mandela",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YyFCawSqlOM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YyFCawSqlOM"
         }
       }
     }
