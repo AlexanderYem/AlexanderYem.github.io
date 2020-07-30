@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de las Poblaciones Indígenas del Mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd4t4HvlcEc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xd4t4HvlcEc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COVID 19 en el entorno urbano",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "69v_1GP7hu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gracias, a todos los empleados públicos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MocEXMxAkU8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MocEXMxAkU8"
         }
       }
     }
