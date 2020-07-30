@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 в Юго-Восточной Азии - Генсек ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t70Lwufp32A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t70Lwufp32A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Азербайджан борется с пандемией",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dZ1lJLDXkno"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Бразильский футболист в Беларуси",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xuUtpQDtdCw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xuUtpQDtdCw"
         }
       }
     }
