@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "JUSTICE ET GUERISON POUR LES VICTIMES DES VIOLENCES SEXUELLES LIEES AUX CONFLITS AU CONGO",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dkKBeUEOWyY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dkKBeUEOWyY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : « Chacun d’entre nous peut faire la différence » - Dr. Tedros",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XB6PYMwHcgs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Impact du Covid-19 en Amérique latine et dans les Caraïbes.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a7WABQPpN44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a7WABQPpN44"
         }
       }
     }
