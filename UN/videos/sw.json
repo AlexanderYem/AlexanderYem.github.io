@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgPTpOxZLCU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EgPTpOxZLCU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Fahamu tofauti ya Hayati na Marehemu!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OQFFneeTzoY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Washona barakoa Ufaransa kulipa fadhila",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CFA8LMTHr3g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CFA8LMTHr3g"
         }
       }
     }
