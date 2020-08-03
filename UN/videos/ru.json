@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Геноцид езидов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GitBiPuzngY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GitBiPuzngY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COVID-19 в Юго-Восточной Азии - Генсек ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3TvT2OUnKVM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Андрей Громыко и Устав ООН - интервью с внуком советского дипломата Алексеем к 75-летию ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dZ1lJLDXkno/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dZ1lJLDXkno"
         }
       }
     }
