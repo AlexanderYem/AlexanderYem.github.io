@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Образование вопреки пандемии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EwQnrxkySYU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EwQnrxkySYU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Геноцид езидов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O5jjt837n08"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "75-летие Устава ООН. Генсек ООН Антониу Гутерриш",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3TvT2OUnKVM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3TvT2OUnKVM"
         }
       }
     }
