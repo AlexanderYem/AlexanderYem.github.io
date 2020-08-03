@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "COVID 19 en el entorno urbano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IpZNfFcLq7A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IpZNfFcLq7A"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "El impacto del COVID-19 en Asia Sudoriental",
         "thumbnails": {
           "high": {
@@ -36,6 +23,19 @@
         },
         "resourceId": {
           "videoId": "JhdFaFIu_2k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "COVID 19 en el entorno urbano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpZNfFcLq7A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IpZNfFcLq7A"
         }
       }
     },
@@ -106,6 +106,19 @@
     },
     {
       "snippet": {
+        "title": "El mundo laboral y el COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M8sgOypKy_8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M8sgOypKy_8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Las mujeres se alzan en solidaridad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1TvXINB3dUo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de los Refugiados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/69v_1GP7hu4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "69v_1GP7hu4"
         }
       }
     }
