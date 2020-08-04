@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres diz que pandemia da Covid-19 levou à maior perturbação jamais vista na educação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1uqNE3YFrwk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1uqNE3YFrwk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Semana Mundial de Amamentação, Wagner Moura e brasileira nomeada conselheira de Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9W2pn9Lt5tw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pandemia afeta educação infantil, dicas sobre o retorno ao trabalho e destruição global de florestas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xg1WkIZITOU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xg1WkIZITOU"
         }
       }
     }

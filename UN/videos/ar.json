@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: التعليم هو السبيل إلى التنمية الذاتية وهو طريق المستقبل للمجتمعات.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GCL0siq5sJg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GCL0siq5sJg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: موجز سياساتي متعلق بأثر كوفيد-19 على جنوب شرق آسيا-30 يوليو 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cOnmEgGYymk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: ميثاق الأمم المتحدة دليل خالد للتصدي للتحديات المشتركة ومعالجة مظاهر الهشاشة في العالم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TqVdvEUn5ak/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TqVdvEUn5ak"
         }
       }
     }

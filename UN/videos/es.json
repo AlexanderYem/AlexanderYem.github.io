@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Construir hoy el futuro de la educación",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VGkeYqTELz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VGkeYqTELz8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de las Poblaciones Indígenas del Mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M8sgOypKy_8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Las mujeres se alzan en solidaridad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1TvXINB3dUo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1TvXINB3dUo"
         }
       }
     }
