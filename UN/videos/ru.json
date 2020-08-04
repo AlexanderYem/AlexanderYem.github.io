@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Образование и COVID-19. Обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VaXY__B14go/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VaXY__B14go"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Образование вопреки пандемии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pVMssaqV8eE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 в Латинской Америке - Антониу Гутерриш",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O5jjt837n08/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O5jjt837n08"
         }
       }
     }
