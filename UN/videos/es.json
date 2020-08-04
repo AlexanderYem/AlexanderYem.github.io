@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Compromiso de la juventud para la acción mundial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjzTGJwE1-k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PjzTGJwE1-k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Construir hoy el futuro de la educación",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V9WJswmAxYs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El mundo laboral y el COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M8sgOypKy_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M8sgOypKy_8"
         }
       }
     }
