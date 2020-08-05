@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Uruguai é o país latino-americano com menos casos de Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZhb2W7MXw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wZhb2W7MXw8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Explosão no Líbano e o sucesso do Uruguai no combate à Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WqKnUPSDSZM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Onda de calor na Sibéria, trabalho remoto na pandemia e ajuda a refugiados no combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XuTQxlXf28Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XuTQxlXf28Y"
         }
       }
     }
