@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Explosão no Líbano e o sucesso do Uruguai no combate à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iH3JG12QBBE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iH3JG12QBBE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Almirante brasileiro no Líbano descreve momento da explosão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XuTQxlXf28Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agência da ONU para Refugiados amplia esforços no Brasil em resposta à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TBv7xSV3g78/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TBv7xSV3g78"
         }
       }
     }
