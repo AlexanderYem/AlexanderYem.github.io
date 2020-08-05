@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "errors": [
-      {
-        "message": "Internal error encountered.",
-        "domain": "global",
-        "reason": "backendError"
+  "items": [
+    {
+      "snippet": {
+        "title": "Образование и COVID-19. Обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VaXY__B14go/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VaXY__B14go"
+        }
       }
-    ],
-    "status": "INTERNAL"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Образование вопреки пандемии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EwQnrxkySYU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EwQnrxkySYU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Геноцид езидов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GitBiPuzngY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GitBiPuzngY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "COVID-19 в Юго-Восточной Азии - Генсек ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t70Lwufp32A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t70Lwufp32A"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Азербайджан борется с пандемией",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qpwqOTaDyCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qpwqOTaDyCM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "COVID-19 В УРБАНИЗИРОВАННОМ МИРЕ - обращение Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mL6kh46J3R8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mL6kh46J3R8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Генеральный секретарь ООН - о том, как COVID-19 повлиял на арабские страны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xc7MW0ZPfKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xc7MW0ZPfKM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Международный день Нельсона Манделы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4evoF1NReE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U4evoF1NReE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Россия - подготовка национального обзора по ЦУР. Интервью с Алексеем Борисовым",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETG5t3qRGPU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ETG5t3qRGPU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Вернуться к жизни после насилия и помочь другим. История Татьяны Муканире",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVMssaqV8eE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pVMssaqV8eE"
+        }
+      }
+    }
+  ]
 }
