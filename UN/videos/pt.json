@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Almirante brasileiro no Líbano descreve momento da explosão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXAjCxcgxM0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UXAjCxcgxM0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres diz que pandemia da Covid-19 levou à maior perturbação jamais vista na educação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TBv7xSV3g78"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres diz que região árabe tem oportunidade de se recuperar melhor da Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9W2pn9Lt5tw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9W2pn9Lt5tw"
         }
       }
     }
