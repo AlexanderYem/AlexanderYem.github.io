@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Habari za UN- Mkimbizi ashangaza watu na kipaji chake!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ie-GhOy68AQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ie-GhOy68AQ"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Tazama jinsi COVID-19 inatishia wanyamapori Kenya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b8n1tlZFfMg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b8n1tlZFfMg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EgPTpOxZLCU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EgPTpOxZLCU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Fahamu tofauti ya Hayati na Marehemu!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XvUe3wjnt3E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XvUe3wjnt3E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Je wafahamu risasi inaharibu ubongo wa watoto?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jf3Nn4jTmnk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jf3Nn4jTmnk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Saa 24 za mlinda amani wa Tanzania nchini DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0mXQesu6Hb0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0mXQesu6Hb0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 na wachimba chumvi, kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qQk74SzUUfI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qQk74SzUUfI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Msitu wa Kafa Ethiopia kunani?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O29d_OwArhI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O29d_OwArhI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - Kutana na mtoto Buxton",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MBdMlZkAX0w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MBdMlZkAX0w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Buriani Mkapa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a2e-Y86MFZw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a2e-Y86MFZw"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }

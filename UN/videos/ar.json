@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "الأمين العام: التعليم هو السبيل إلى التنمية الذاتية وهو طريق المستقبل للمجتمعات.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GCL0siq5sJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GCL0siq5sJg"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: موجز سياساتي متعلق بأثر كوفيد-19 على جنوب شرق آسيا-30 يوليو 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_U5Rf5L5fDk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_U5Rf5L5fDk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام بمناسبة إطلاق الموجز السياساتي المتعلق بكوفيد-19 والعالم الحضري 28 تموز 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oZj4thROib4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oZj4thROib4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "برنامج الأغذية العالمي في اليمن يوزع قسائم غذائية على المتضررين في الحرب الدائرة هناك",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UgyuX15ZfAY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UgyuX15ZfAY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كوفيد-19 والمنطقة العربية: فرصة لإعادة البناء على نحو أفضل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UVJHBglmaPk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UVJHBglmaPk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: نيلسون مانديلا جسد أسمى قيم الأمم المتحدة واتخذ إجراءات وحفَز التغيير",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZqsdOYTthjs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZqsdOYTthjs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: الصراع في ليبيا دخل مرحلة جديدة والوقت ليس في صالحنا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tx3U3_kMOOs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tx3U3_kMOOs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: إعادة البناء بشكل أفضل تتطلب تعزيز الحكم الديمقراطي وحماية حقوق الإنسان وسيادة القانون",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bxq3sfpSpzA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bxq3sfpSpzA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: يقع على عاتق البرلمانات واجبٌ خاص بالنهوض بحقوق الإنسان وتعزيز التنمية المستدامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Qm62pmeBSI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9Qm62pmeBSI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدعو الحكومة الإسرائيلية إلى التخلي عن خطط ضم أجزاء من الضفة الغربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cOnmEgGYymk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cOnmEgGYymk"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
