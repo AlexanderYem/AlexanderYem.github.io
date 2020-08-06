@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "انفجار بيروت: إصابة عدد من حفظة السلام بجروح واليونيفيل تؤكد الاستعداد لمساعدة حكومة لبنان وشعبها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_9ws7E0HLAQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_9ws7E0HLAQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: التعليم هو السبيل إلى التنمية الذاتية وهو طريق المستقبل للمجتمعات.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9Qm62pmeBSI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدعو الحكومة الإسرائيلية إلى التخلي عن خطط ضم أجزاء من الضفة الغربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cOnmEgGYymk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cOnmEgGYymk"
         }
       }
     }

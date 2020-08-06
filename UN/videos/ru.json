@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Бейрут после взрыва. 6 августа 2020 года",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lQiY8ltFSV0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lQiY8ltFSV0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день коренных народов. Видеообращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U4evoF1NReE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Россия - подготовка национального обзора по ЦУР. Интервью с Алексеем Борисовым",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ETG5t3qRGPU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ETG5t3qRGPU"
         }
       }
     }
