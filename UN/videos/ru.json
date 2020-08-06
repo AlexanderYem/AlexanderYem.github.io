@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день коренных народов. Видеообращение Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/adc5OzJTo7I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "adc5OzJTo7I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Образование и COVID-19. Обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ETG5t3qRGPU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вернуться к жизни после насилия и помочь другим. История Татьяны Муканире",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pVMssaqV8eE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pVMssaqV8eE"
         }
       }
     }
