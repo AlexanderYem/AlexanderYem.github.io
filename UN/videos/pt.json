@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres destaca impacto arrasador de Covid-19 em mais de 476 milhões de indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihXSio3Zy-E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ihXSio3Zy-E"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Líder indígena brasileiro lamenta perda de conhecimento de idosos devido à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XITcyphXazY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XITcyphXazY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ajuda humanitária em Beirute, alta nos preços de alimentos e o apelo de um líder indígena brasileiro",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "caCa8iIRU_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Onda de calor extremo na Sibéria soa alarme para ação contra mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oU0o7UDkj_E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oU0o7UDkj_E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Trabalho a distância tem menos risco de demissão durante pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hjUwaiVLcWg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hjUwaiVLcWg"
         }
       }
     }
