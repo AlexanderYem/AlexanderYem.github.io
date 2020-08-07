@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "100 mil crianças tiveram casas destruídas ou danificadas na explosão em Beirute",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-tMWdz0vJU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6-tMWdz0vJU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres destaca impacto arrasador de Covid-19 em mais de 476 milhões de indígenas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uMuIgi_Fz0U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de jovem brasileira que aconselhará secretário-geral da ONU sobre clima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/caCa8iIRU_k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "caCa8iIRU_k"
         }
       }
     }
