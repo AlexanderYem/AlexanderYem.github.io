@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ajuda humanitária em Beirute, alta nos preços de alimentos e o apelo de um líder indígena brasileiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpcFV6rokTM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SpcFV6rokTM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Uruguai é o país latino-americano com menos casos de Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hjUwaiVLcWg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres lembra que centros urbanos têm nove em cada 10 casos de Covid-19.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WqKnUPSDSZM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WqKnUPSDSZM"
         }
       }
     }
