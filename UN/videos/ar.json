@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: ستظل الأمم المتحدة ملتزمة بإعمال إعلانها بشأن حقوق الشعوب الأصلية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujYZl5JebBo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ujYZl5JebBo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "انفجار بيروت: إصابة عدد من حفظة السلام بجروح واليونيفيل تؤكد الاستعداد لمساعدة حكومة لبنان وشعبها",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tx3U3_kMOOs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: يقع على عاتق البرلمانات واجبٌ خاص بالنهوض بحقوق الإنسان وتعزيز التنمية المستدامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Qm62pmeBSI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9Qm62pmeBSI"
         }
       }
     }
