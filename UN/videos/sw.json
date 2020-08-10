@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Mkimbizi na COVID-19 Uganda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAuibwRi0Cs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tAuibwRi0Cs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanaume na unyonyeshaji!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XvUe3wjnt3E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Je wafahamu risasi inaharibu ubongo wa watoto?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jf3Nn4jTmnk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jf3Nn4jTmnk"
         }
       }
     }
