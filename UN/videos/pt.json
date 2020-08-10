@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres pede investigação confiável e transparente sobre explosão no Líbano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a9zpV5AiRRM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a9zpV5AiRRM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "100 mil crianças tiveram casas destruídas ou danificadas na explosão em Beirute",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wembDEZyKZY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral fala sobre impacto econômico e político da Covid-19 no sudeste da Ásia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uMuIgi_Fz0U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uMuIgi_Fz0U"
         }
       }
     }
