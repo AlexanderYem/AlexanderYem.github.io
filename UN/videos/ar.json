@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يتعهد بوقوف الأمم المتحدة صفا واحدا لمساعدة لبنان في تخفيف معاناته  ودعم جهود التعافي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XviAfdDxS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3XviAfdDxS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لبنان: فرق الإنقاذ تواصل البحث عن ناجين في بيروت، والأمم المتحدة تحذر من ضخامة حجم الاحتياجات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZqsdOYTthjs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: إعادة البناء بشكل أفضل تتطلب تعزيز الحكم الديمقراطي وحماية حقوق الإنسان وسيادة القانون",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bxq3sfpSpzA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bxq3sfpSpzA"
         }
       }
     }
