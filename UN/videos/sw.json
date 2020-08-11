@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Wakimbizi ni miongoni mwa waliouawa na mlipuko Beirut",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwJRLcyz8AM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MwJRLcyz8AM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Mkimbizi na COVID-19 Uganda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EgPTpOxZLCU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Fahamu tofauti ya Hayati na Marehemu!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XvUe3wjnt3E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XvUe3wjnt3E"
         }
       }
     }
