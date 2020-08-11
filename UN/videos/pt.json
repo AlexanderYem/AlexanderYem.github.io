@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres diz que vida e aspirações dos jovens continuam sendo revertidas pela pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLBLVRrf_ZY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kLBLVRrf_ZY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau no Conselho de Segurança; explosão no Líbano e Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UXAjCxcgxM0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres diz que pandemia da Covid-19 levou à maior perturbação jamais vista na educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1uqNE3YFrwk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1uqNE3YFrwk"
         }
       }
     }
