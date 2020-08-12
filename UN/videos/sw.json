@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kutoka Butanjwa, Uganda!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_94Gq-pRFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n_94Gq-pRFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Wakimbizi ni miongoni mwa waliouawa na mlipuko Beirut",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b8n1tlZFfMg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EgPTpOxZLCU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EgPTpOxZLCU"
         }
       }
     }
