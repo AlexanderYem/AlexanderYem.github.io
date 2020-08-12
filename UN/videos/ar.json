@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رسالة الأمين العام بمناسبة يوم الشباب الدولي أغسطس 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_hrXXKbkY2I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_hrXXKbkY2I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يتعهد بوقوف الأمم المتحدة صفا واحدا لمساعدة لبنان في تخفيف معاناته  ودعم جهود التعافي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UVJHBglmaPk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: نيلسون مانديلا جسد أسمى قيم الأمم المتحدة واتخذ إجراءات وحفَز التغيير",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZqsdOYTthjs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZqsdOYTthjs"
         }
       }
     }
