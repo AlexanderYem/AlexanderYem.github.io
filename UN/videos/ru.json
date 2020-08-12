@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "12 августа - Международный день молодежи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Mle3VX6U2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4Mle3VX6U2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Бейрут после взрыва. 6 августа 2020 года",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Xc7MW0ZPfKM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день Нельсона Манделы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U4evoF1NReE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U4evoF1NReE"
         }
       }
     }
