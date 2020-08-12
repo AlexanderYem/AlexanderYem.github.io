@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ВПП о ситуации в Бейруте: все разрушено...",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/guIHy8s_tmA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "guIHy8s_tmA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "12 августа - Международный день молодежи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mL6kh46J3R8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН - о том, как COVID-19 повлиял на арабские страны",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xc7MW0ZPfKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xc7MW0ZPfKM"
         }
       }
     }
