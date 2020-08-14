@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OIM apoia Portugal a proteger migrantes durante pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/caPSj0kHXoM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "caPSj0kHXoM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres diz que vida e aspirações dos jovens continuam sendo revertidas pela pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iH3JG12QBBE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Almirante brasileiro no Líbano descreve momento da explosão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UXAjCxcgxM0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UXAjCxcgxM0"
         }
       }
     }
