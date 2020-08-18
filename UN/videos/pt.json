@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ajuda ao Líbano depois de explosão em Beirute",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZC0Lo6Phjg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2ZC0Lo6Phjg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Reconstrução em Beirute, Neyma contra Covid-19 e projeto da ONU apoia timorenses",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pH90eKBCds4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pH90eKBCds4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIM apoia Portugal a proteger migrantes durante pandemia",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "SpcFV6rokTM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uruguai é o país latino-americano com menos casos de Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EsAESpXQCpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EsAESpXQCpE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Explosão no Líbano e o sucesso do Uruguai no combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iH3JG12QBBE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iH3JG12QBBE"
         }
       }
     }
