@@ -321,10 +321,11 @@
     "startLongitude": 76.9798657,
     "stopLatitude": 43.2703955,
     "stopLongitude": 76.9069931
-  },
+  }
+  ],
   "warehouse": {
     "id": 1,
     "name": "Оптовые склады ОРПТ",
     "guid": "e33fa7f9-c406-4c88-abae-ed6e1abec6f5"
   }
-}
+}}
