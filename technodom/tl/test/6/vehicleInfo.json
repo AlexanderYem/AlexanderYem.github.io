@@ -136,7 +136,7 @@
       {
         "id": 2589,
         "orderNum": "08000000199",
-        "rejectionReason": "Неправильный номер телефона",
+        "rejectionReason": "KB",
         "status": "CANCELLED",
         "address": "Город: Алматы улица:  дом:  кв:",
         "fio": "РУС 4 РУС 4 АРМАДА ;",
@@ -230,7 +230,7 @@
       {
         "id": 2590,
         "orderNum": "08000000199",
-        "rejectionReason": "Несвоевременная доставка",
+        "rejectionReason": "HB",
         "status": "DELAYED",
         "address": "Город: Алматы улица:  дом:  кв:",
         "fio": "РУС 4 РУС 4 АРМАДА ;",
