@@ -132,6 +132,7 @@
         "phone": "77005206831",
         "arrivalTime": "2020-04-13T16:05:08Z",
         "partlyDeliver": false
+<<<<<<< HEAD
       },
       {
         "id": 2588,
@@ -320,6 +321,8 @@
         "startLongitude": 76.9798657,
         "stopLatitude": 43.2703955,
         "stopLongitude": 76.9069931
+=======
+>>>>>>> parent of 7065b36... test reasons
       }
     ],
     "warehouse": {
