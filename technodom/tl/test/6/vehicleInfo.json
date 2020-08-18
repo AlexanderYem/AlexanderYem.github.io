@@ -2,7 +2,7 @@
   "vehicle": {
     "id": 6,
     "name": "Hyundai H100 Porter",
-    "capacity": 8000000.0,
+    "capacity": 8000000,
     "passport": "С411402",
     "image": null,
     "imageContentType": null,
@@ -10,8 +10,8 @@
     "warehouseId": 1,
     "vehicleStatus": "ONROAD",
     "vehicleType": "TRUCK",
-    "fuelConsumption": 16.0,
-    "winterFuelConsumption": 18.0,
+    "fuelConsumption": 16,
+    "winterFuelConsumption": 18,
     "loadCapacity": 0.9,
     "loadArea": null,
     "minLoad": null,
@@ -56,75 +56,75 @@
             "code": "39708",
             "name": "GSM Apple iPhone 7 32gb THX-K-4.7-12-4 Black",
             "quantity": 4,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3928,
             "code": "39709",
             "name": "GSM Apple iPhone 8 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3929,
             "code": "39719",
             "name": "GSM Apple iPhone 9 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3930,
             "code": "39729",
             "name": "GSM Apple iPhone 10 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3931,
             "code": "39733",
             "name": "GSM Apple iPhone 11 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3932,
             "code": "39734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3933,
             "code": "397334",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3934,
             "code": "349734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3935,
             "code": "359734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           }
         ],
-	"totalPrice": 4880000,
+        "totalPrice": 4880000,
         "pickup": false,
         "released": false,
         "paymentMethod": "NOT_PAID",
@@ -137,7 +137,7 @@
         "id": 2588,
         "orderNum": "08000000199",
         "status": "CANCELLED",
-	"rejectionReason":"Несвоевременная доставка",
+        "rejectionReason": "Несвоевременная доставка",
         "address": "Город: Алматы улица:  дом:  кв:",
         "fio": "РУС 4 РУС 4 АРМАДА ;",
         "deliverFrom": "2020-04-13T10:00:00Z",
@@ -150,75 +150,75 @@
             "code": "39708",
             "name": "GSM Apple iPhone 7 32gb THX-K-4.7-12-4 Black",
             "quantity": 4,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3928,
             "code": "39709",
             "name": "GSM Apple iPhone 8 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3929,
             "code": "39719",
             "name": "GSM Apple iPhone 9 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3930,
             "code": "39729",
             "name": "GSM Apple iPhone 10 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3931,
             "code": "39733",
             "name": "GSM Apple iPhone 11 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3932,
             "code": "39734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3933,
             "code": "397334",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3934,
             "code": "349734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3935,
             "code": "359734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           }
         ],
-	"totalPrice": 4880000,
+        "totalPrice": 4880000,
         "pickup": false,
         "released": false,
         "paymentMethod": "NOT_PAID",
@@ -230,7 +230,7 @@
       {
         "id": 2589,
         "orderNum": "08000000199",
-	"rejectionReason":"Неправильный номер телефона",
+        "rejectionReason": "Неправильный номер телефона",
         "status": "DELAYED",
         "address": "Город: Алматы улица:  дом:  кв:",
         "fio": "РУС 4 РУС 4 АРМАДА ;",
@@ -244,89 +244,88 @@
             "code": "39708",
             "name": "GSM Apple iPhone 7 32gb THX-K-4.7-12-4 Black",
             "quantity": 4,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3928,
             "code": "39709",
             "name": "GSM Apple iPhone 8 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3929,
             "code": "39719",
             "name": "GSM Apple iPhone 9 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3930,
             "code": "39729",
             "name": "GSM Apple iPhone 10 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3931,
             "code": "39733",
             "name": "GSM Apple iPhone 11 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3932,
             "code": "39734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3933,
             "code": "397334",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3934,
             "code": "349734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           },
-	  {
+          {
             "id": 3935,
             "code": "359734",
             "name": "GSM Apple iPhone 12 32gb Black",
             "quantity": 2,
-            "totalPrice": 244000.0,
+            "totalPrice": 244000,
             "status": "AVAILABLE"
           }
-
+        ],
+        "routeCost": 3384.48,
+        "totalDistance": 39.656,
+        "taskId": 886,
+        "taskStatus": "PENDING_COMPLETE",
+        "startLatitude": 43.3589233,
+        "startLongitude": 76.9798657,
+        "stopLatitude": 43.2703955,
+        "stopLongitude": 76.9069931
+      }
     ],
-    "routeCost": 3384.48,
-    "totalDistance": 39.656,
-    "taskId": 886,
-    "taskStatus": "PENDING_COMPLETE",
-    "startLatitude": 43.3589233,
-    "startLongitude": 76.9798657,
-    "stopLatitude": 43.2703955,
-    "stopLongitude": 76.9069931
+    "warehouse": {
+      "id": 1,
+      "name": "Оптовые склады ОРПТ",
+      "guid": "e33fa7f9-c406-4c88-abae-ed6e1abec6f5"
+    }
   }
-  ],
-  "warehouse": {
-    "id": 1,
-    "name": "Оптовые склады ОРПТ",
-    "guid": "e33fa7f9-c406-4c88-abae-ed6e1abec6f5"
-  }
-}
 }
