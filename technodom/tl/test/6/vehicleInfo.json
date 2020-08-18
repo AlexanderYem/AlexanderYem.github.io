@@ -1,7 +1,6 @@
-dsdsff
 {
   "vehicle": {
-    "id": 31,
+    "id": 6,
     "name": "Hyundai H100 Porter",
     "capacity": 8000000.0,
     "passport": "С411402",
@@ -26,7 +25,7 @@ dsdsff
       "id": 29,
       "phone": "87083214132",
       "role": "DRIVER",
-      "vehicleId": "31",
+      "vehicleId": "6",
       "firstName": "QA",
       "lastName": "test",
       "status": "WORKING"
