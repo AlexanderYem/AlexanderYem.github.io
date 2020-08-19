@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день гуманитарной помощи - послание Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7xxYtHNHkMk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7xxYtHNHkMk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава ВПП о ситуации в Бейруте: все разрушено...",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qpwqOTaDyCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 В УРБАНИЗИРОВАННОМ МИРЕ - обращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mL6kh46J3R8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mL6kh46J3R8"
         }
       }
     }
