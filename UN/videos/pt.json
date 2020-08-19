@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Mundial, Guterres diz que \"trabalhadores humanitários estão sobrecarregados como nunca antes\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9Q2rmQd0TA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m9Q2rmQd0TA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ajuda ao Líbano depois de explosão em Beirute",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XITcyphXazY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ajuda humanitária em Beirute, alta nos preços de alimentos e o apelo de um líder indígena brasileiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SpcFV6rokTM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SpcFV6rokTM"
         }
       }
     }
