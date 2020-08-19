@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "¿Cómo hacer que el mantenimiento de la paz sea duradero?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kaG1h80M0fo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kaG1h80M0fo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensaje de António Guterres con motivo del Día Mundial de la Asistencia Humanitaria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BbSJM3VYBhc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El COVID-19 en América Latina y el Caribe",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LyWZf3uy638/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LyWZf3uy638"
         }
       }
     }
