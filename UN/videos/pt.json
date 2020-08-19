@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Inspirados em Vieira de Mello voluntários distribuem ajuda humanitária no Rio de Janeiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SrD9gvBffrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SrD9gvBffrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Mundial, Guterres diz que \"trabalhadores humanitários estão sobrecarregados como nunca antes\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ihXSio3Zy-E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Líder indígena brasileiro lamenta perda de conhecimento de idosos devido à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XITcyphXazY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XITcyphXazY"
         }
       }
     }
