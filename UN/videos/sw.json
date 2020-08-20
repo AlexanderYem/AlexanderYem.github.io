@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Nzige jamani wanatumaliza!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rXAVHCf4_Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0rXAVHCf4_Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Lamu!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GoFPPJCbWA8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kutoka Butanjwa, Uganda!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n_94Gq-pRFU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n_94Gq-pRFU"
         }
       }
     }
