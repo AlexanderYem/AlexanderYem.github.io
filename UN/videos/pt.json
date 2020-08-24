@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 não impede luta contra poliomielite em Angola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRVAkivsocc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mRVAkivsocc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Inspirados em Vieira de Mello voluntários distribuem ajuda humanitária no Rio de Janeiro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6-tMWdz0vJU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres destaca impacto arrasador de Covid-19 em mais de 476 milhões de indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ihXSio3Zy-E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ihXSio3Zy-E"
         }
       }
     }

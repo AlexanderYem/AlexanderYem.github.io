@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Turismo seguro, sostenible y responsable: el objetivo de la reconstrucción del sector.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XBoLb8Lo-fc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XBoLb8Lo-fc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Democracia para luchar contra el COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IpZNfFcLq7A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El COVID-19 y la región árabe: una oportunidad para reconstruir mejor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kbr6RlBp4JQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kbr6RlBp4JQ"
         }
       }
     }
