@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Democracia para luchar contra el COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_8scjWETHU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N_8scjWETHU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "¿Cómo hacer que el mantenimiento de la paz sea duradero?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kbr6RlBp4JQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "En el Día Internacional de Nelson Mandela, ¡movilízate!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BbSJM3VYBhc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BbSJM3VYBhc"
         }
       }
     }
