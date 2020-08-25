@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Turismo e recuperação pós Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJiB-G3szKI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pJiB-G3szKI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 não impede luta contra poliomielite em Angola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a9zpV5AiRRM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "100 mil crianças tiveram casas destruídas ou danificadas na explosão em Beirute",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6-tMWdz0vJU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6-tMWdz0vJU"
         }
       }
     }
