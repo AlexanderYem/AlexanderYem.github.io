@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: السياحة وسيلة للاندماج والتمكين وتوليد الدخل خاصة بالنسبة للنساء والمجتمعات الريفية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMB8XvHctlw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CMB8XvHctlw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غوتيريش: العاملون في المجال الإنساني هم الجنود المجهولون الذين يخاطرون بحياتهم لإنقاذ حياة الآخرين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_9ws7E0HLAQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: التعليم هو السبيل إلى التنمية الذاتية وهو طريق المستقبل للمجتمعات.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GCL0siq5sJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GCL0siq5sJg"
         }
       }
     }
