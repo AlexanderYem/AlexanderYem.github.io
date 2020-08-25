@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "В ООН призвали восстановить туризм после пандемии коронавируса",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHFu8wyQ_bc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OHFu8wyQ_bc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день гуманитарной помощи - послание Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t70Lwufp32A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Азербайджан борется с пандемией",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qpwqOTaDyCM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qpwqOTaDyCM"
         }
       }
     }
