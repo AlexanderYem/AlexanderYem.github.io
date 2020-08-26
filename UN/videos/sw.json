@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haikuwa rahisi!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQed35VfHSo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EQed35VfHSo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-  Ubaguzi hoja tata lakini tuzungumze na watoto!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ugz1dKVhhno"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hodi hadi ndani Beirut!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0rIpM3yXpbY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0rIpM3yXpbY"
         }
       }
     }
