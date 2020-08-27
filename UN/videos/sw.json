@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wasichana na upigaji picha! Sasa mwendo mdundo!!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a35AZGWRm_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a35AZGWRm_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Waweza kusema utalii ni moja ya maajabu ya ulimwengu-Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HeccXykvlws"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mwaka huu, wahudumu wa masuala ya kibinadamu wamekuwa mstari wa mbele kuliko wakati wowote-Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Icf3sWgME0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8Icf3sWgME0"
         }
       }
     }
