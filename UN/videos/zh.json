@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Darbari Seth lecture",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ClHpzt9o1xU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ClHpzt9o1xU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Officials and Youth Meet on #CopingWithCOVID",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1u36rDEeTPE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Secretary-General’s Call for Global Ceasefire Gains Support",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t_IYY7DI3PY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t_IYY7DI3PY"
         }
       }
     }
