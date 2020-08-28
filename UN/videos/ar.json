@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يحث الهند على تسلم زمام المبادرة في الكفاح من أجل استخدام الطاقة النظيفة والعمل المناخي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ucjrTOGSeo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_ucjrTOGSeo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "برنامج الأغذية العالمي يقوم بتفريغ شحنة من دقيق القمح في ميناء بيروت للمساعدة في استقرار سعر الخبز",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bxC1o-rjiTw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: ستظل الأمم المتحدة ملتزمة بإعمال إعلانها بشأن حقوق الشعوب الأصلية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ujYZl5JebBo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ujYZl5JebBo"
         }
       }
     }
