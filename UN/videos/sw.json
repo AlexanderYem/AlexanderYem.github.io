@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Kusoma nimesoma, wanangu je?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b4b84i-zA_s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b4b84i-zA_s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- COVID-19 yafurusha familia kwenye nyumba yao!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vyMP1tYKQc4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Nzige jamani hadi lini?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vFDZERCOM04/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vFDZERCOM04"
         }
       }
     }
