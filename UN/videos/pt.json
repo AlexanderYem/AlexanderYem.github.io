@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco lança iniciativa para combater teorias da conspiração sobre Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qD6TI0yEJfo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qD6TI0yEJfo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha do Brasil e Unodc contra tráfico de seres humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m9Q2rmQd0TA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ajuda ao Líbano depois de explosão em Beirute",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2ZC0Lo6Phjg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2ZC0Lo6Phjg"
         }
       }
     }
