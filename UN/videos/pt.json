@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha do Brasil e Unodc contra tráfico de seres humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rj_w_jSMNTI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Rj_w_jSMNTI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Guiné-Bissau, teorias sobre Covid-19 e combate ao tráfico humano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Yo6Bc9xPHo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9Yo6Bc9xPHo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Liderança de mulheres durante pandemia, serviços de saúde e Thomas e Seus Amigos promovem ODS",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "2ZC0Lo6Phjg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Reconstrução em Beirute, Neyma contra Covid-19 e projeto da ONU apoia timorenses",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pH90eKBCds4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pH90eKBCds4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIM apoia Portugal a proteger migrantes durante pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/caPSj0kHXoM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "caPSj0kHXoM"
         }
       }
     }
