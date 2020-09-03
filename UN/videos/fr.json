@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 : les stéroïdes efficaces pour les patients gravement atteints",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rd40UQRqZSk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Rd40UQRqZSk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "JUSTICE ET GUERISON POUR LES VICTIMES DES VIOLENCES SEXUELLES LIEES AUX CONFLITS AU CONGO",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IHAVHexDfBY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "25ème anniversaire du génocide de Srebrenica, en Bosnie-Herzégovine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XB6PYMwHcgs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XB6PYMwHcgs"
         }
       }
     }
