@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: لنغتنم هذه اللحظة الفارقة لبناء عالم أكثر مساواة وشمولا واستدامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/50TyWHrJ-lI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "50TyWHrJ-lI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يحث الهند على تسلم زمام المبادرة في الكفاح من أجل استخدام الطاقة النظيفة والعمل المناخي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3XviAfdDxS8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "لبنان: فرق الإنقاذ تواصل البحث عن ناجين في بيروت، والأمم المتحدة تحذر من ضخامة حجم الاحتياجات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bxC1o-rjiTw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bxC1o-rjiTw"
         }
       }
     }
