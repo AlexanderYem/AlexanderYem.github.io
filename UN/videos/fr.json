@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale de l’air pur pour des ciels bleus.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMI9UhkP1SU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yMI9UhkP1SU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : les stéroïdes efficaces pour les patients gravement atteints",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "StXgMBJtr4Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La pandémie du VIH sida demeure une crise mondiale, et se nourrit essentiellement par les inégalités",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IHAVHexDfBY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IHAVHexDfBY"
         }
       }
     }

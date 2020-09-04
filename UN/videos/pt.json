@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Turma da Mônica e ONU no Brasil fecham parceria para combater desinformação sobre a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C37GBWrvZdU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C37GBWrvZdU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Guterres afirma que nove em cada 10 pessoas respiram ar poluído",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQSWH93YTRY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LQSWH93YTRY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unicef ajuda a fortalecer imunização em Angola",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "c6zTDqJIRwQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Turismo e recuperação pós Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pJiB-G3szKI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pJiB-G3szKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 não impede luta contra poliomielite em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mRVAkivsocc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mRVAkivsocc"
         }
       }
     }
