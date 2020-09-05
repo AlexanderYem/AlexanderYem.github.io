@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Turma da Mônica e ONU no Brasil fecham parceria para combater desinformação sobre a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C37GBWrvZdU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C37GBWrvZdU"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "Guterres afirma que nove em cada 10 pessoas respiram ar poluído",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LQSWH93YTRY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LQSWH93YTRY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef ajuda a fortalecer imunização em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZpHzwcZ5Mc8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZpHzwcZ5Mc8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vacinação em Angola, Dia do Ar Limpo e Turma da Mônica no combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0maGjyXIvdk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0maGjyXIvdk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco lança iniciativa para combater teorias da conspiração sobre Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qD6TI0yEJfo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qD6TI0yEJfo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha do Brasil e Unodc contra tráfico de seres humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rj_w_jSMNTI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rj_w_jSMNTI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau, teorias sobre Covid-19 e combate ao tráfico humano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Yo6Bc9xPHo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9Yo6Bc9xPHo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Liderança de mulheres durante pandemia, serviços de saúde e Thomas e Seus Amigos promovem ODS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8pBuVbSuhIs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8pBuVbSuhIs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU destaca papel da Índia no combate à mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M7GlBr6g4XI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M7GlBr6g4XI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Erradicação da poliomielite na África, mutirão de jovens reconstroi Beirute e potencial do turismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c6zTDqJIRwQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c6zTDqJIRwQ"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
