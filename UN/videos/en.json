@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "errors": [
-      {
-        "message": "Internal error encountered.",
-        "domain": "global",
-        "reason": "backendError"
+  "items": [
+    {
+      "snippet": {
+        "title": "Darbari Seth lecture",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ClHpzt9o1xU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ClHpzt9o1xU"
+        }
       }
-    ],
-    "status": "INTERNAL"
-  }
+    },
+    {
+      "snippet": {
+        "title": "UN Officials and Youth Meet on #CopingWithCOVID",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHFjNov1J1E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bHFjNov1J1E"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "75TH ANNIVERSARY OF UN CHARTER",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgfuIutLtHQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PgfuIutLtHQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN members vote in key elections",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pW3pnQAX_iE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pW3pnQAX_iE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Life on Land - Hawaii",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m41h7xfKhvQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m41h7xfKhvQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Hawaii: human reproductive technology helping to save endangered corals",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hG10qIY8UbE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hG10qIY8UbE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "“Do everything possible” for the peoples we serve – UN General Assembly President",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhgq3LIWsYU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vhgq3LIWsYU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Solidarity, unity, hope: the UN Chief’s update on COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/czpal9RMoqg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "czpal9RMoqg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Captain Tom’s 100th birthday - SG",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bml8HwZGHsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bml8HwZGHsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Polio eradication in Pakistan – António Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1u36rDEeTPE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1u36rDEeTPE"
+        }
+      }
+    }
+  ]
 }
