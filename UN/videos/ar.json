@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "الأمين العام: لنغتنم هذه اللحظة الفارقة لبناء عالم أكثر مساواة وشمولا واستدامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/50TyWHrJ-lI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "50TyWHrJ-lI"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يحث الهند على تسلم زمام المبادرة في الكفاح من أجل استخدام الطاقة النظيفة والعمل المناخي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_ucjrTOGSeo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_ucjrTOGSeo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "برنامج الأغذية العالمي يقوم بتفريغ شحنة من دقيق القمح في ميناء بيروت للمساعدة في استقرار سعر الخبز",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C1pspbJzaZ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C1pspbJzaZ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: السياحة وسيلة للاندماج والتمكين وتوليد الدخل خاصة بالنسبة للنساء والمجتمعات الريفية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CMB8XvHctlw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CMB8XvHctlw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غوتيريش: العاملون في المجال الإنساني هم الجنود المجهولون الذين يخاطرون بحياتهم لإنقاذ حياة الآخرين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BVCqz7AhP0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BVCqz7AhP0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "نسرين الصائم: الشباب ينبغي أن يكونوا جزءا من عملية صياغة السياسات الوطنية الخاصة بتغير المناخ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wWa5T2kRyX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wWa5T2kRyX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تطلق نداء إنسانيا للحصول على 565 مليون دولار لمساعدة الشعب اللبناني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sjdBSvR2gD8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sjdBSvR2gD8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "برنامج الأغذية العالمي يسابق الزمن من أجل مساعدة الضعفاء وتجنب حدوث نقص في الغذاء",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ApbfKIM7bGc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ApbfKIM7bGc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام بمناسبة يوم الشباب الدولي أغسطس 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_hrXXKbkY2I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_hrXXKbkY2I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يتعهد بوقوف الأمم المتحدة صفا واحدا لمساعدة لبنان في تخفيف معاناته  ودعم جهود التعافي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3XviAfdDxS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3XviAfdDxS8"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
