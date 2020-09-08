@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aire limpio por un cielo azul",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K8WDZqI32l8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K8WDZqI32l8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Turismo seguro, sostenible y responsable: el objetivo de la reconstrucción del sector.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JhdFaFIu_2k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID 19 en el entorno urbano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IpZNfFcLq7A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IpZNfFcLq7A"
         }
       }
     }
