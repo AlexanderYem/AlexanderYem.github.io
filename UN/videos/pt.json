@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mundo pode ter os cinco anos mais quentes já registrados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qt-ewlcDB7Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qt-ewlcDB7Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo relatório sobre o clima, edição 2020 do Circuito Urbano e Covid-19 impacta mortes infantis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8pBuVbSuhIs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU destaca papel da Índia no combate à mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M7GlBr6g4XI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M7GlBr6g4XI"
         }
       }
     }
