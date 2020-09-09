@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo relatório sobre o clima, edição 2020 do Circuito Urbano e Covid-19 impacta mortes infantis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LaqxMnqtXlk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LaqxMnqtXlk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Turma da Mônica e ONU no Brasil fecham parceria para combater desinformação sobre a pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M7GlBr6g4XI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Erradicação da poliomielite na África, mutirão de jovens reconstroi Beirute e potencial do turismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c6zTDqJIRwQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c6zTDqJIRwQ"
         }
       }
     }
