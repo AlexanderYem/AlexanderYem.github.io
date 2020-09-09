@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Circuito Urbano 2020 na ONU-Habitat",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/47pzOt4vYRU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "47pzOt4vYRU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 deve reverter décadas de progresso sobre mortes infantis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Rj_w_jSMNTI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau, teorias sobre Covid-19 e combate ao tráfico humano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Yo6Bc9xPHo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9Yo6Bc9xPHo"
         }
       }
     }

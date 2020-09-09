@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Des jeunes du monde entier discutent de « l'avenir que nous voulons »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xoN_UYkJ6TM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xoN_UYkJ6TM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale de l’air pur pour des ciels bleus.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q4LV1E4-9-k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nelson Mandela : champion mondial de l'égalité, de la dignité et de la solidarité.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/StXgMBJtr4Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "StXgMBJtr4Y"
         }
       }
     }
