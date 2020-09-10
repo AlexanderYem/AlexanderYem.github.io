@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "75e Session de l'Assemblée générale des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bdUFK7eBgzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bdUFK7eBgzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Des jeunes du monde entier discutent de « l'avenir que nous voulons »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZzDA31FOy6A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Près de 690 millions de personnes ont souffert de la faim en 2019",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q4LV1E4-9-k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q4LV1E4-9-k"
         }
       }
     }
