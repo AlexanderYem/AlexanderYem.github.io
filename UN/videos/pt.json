@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "12 de setembro é o Dia da ONU para a Cooperação Sul-Sul",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RblI9VGTQ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-RblI9VGTQ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Circuito Urbano 2020 na ONU-Habitat",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qD6TI0yEJfo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha do Brasil e Unodc contra tráfico de seres humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rj_w_jSMNTI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rj_w_jSMNTI"
         }
       }
     }
