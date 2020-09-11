@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU quer cooperação global em vacinas contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZcVQ66wsOQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bZcVQ66wsOQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "12 de setembro é o Dia da ONU para a Cooperação Sul-Sul",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0maGjyXIvdk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco lança iniciativa para combater teorias da conspiração sobre Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qD6TI0yEJfo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qD6TI0yEJfo"
         }
       }
     }
