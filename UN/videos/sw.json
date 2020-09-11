@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_216TsNee4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n_216TsNee4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Wajukuu zangu tutaishi vipi?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MGDmi36qLNQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Kusoma nimesoma, wanangu je?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b4b84i-zA_s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b4b84i-zA_s"
         }
       }
     }
