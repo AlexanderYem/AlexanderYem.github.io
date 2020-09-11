@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "جدول أعمال الدورة الـ 75 للجمعية العامة مَليء بالأحداث والفعاليات الافتراضية المهمة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKeBxnmM1-U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DKeBxnmM1-U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: لنغتنم هذه اللحظة الفارقة لبناء عالم أكثر مساواة وشمولا واستدامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_hrXXKbkY2I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يتعهد بوقوف الأمم المتحدة صفا واحدا لمساعدة لبنان في تخفيف معاناته  ودعم جهود التعافي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3XviAfdDxS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3XviAfdDxS8"
         }
       }
     }
