@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Reformateado por la pandemia, comienza el 75° debate general de las Naciones Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9iVEDNA9IHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9iVEDNA9IHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aire limpio por un cielo azul",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xd4t4HvlcEc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El impacto del COVID-19 en Asia Sudoriental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JhdFaFIu_2k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JhdFaFIu_2k"
         }
       }
     }
