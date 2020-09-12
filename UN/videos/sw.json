@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tukianza hawataki tumalize, wanataka tusilale- TANZBATT-7",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tE5X5AgwDA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_tE5X5AgwDA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Walinda amani wa Tanzania watumia ngoma kusongesha amani!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yrLTBpt-kiY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Maji yawezesha familia kununua kitanda kwa mara ya kwanza, kisa?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MGDmi36qLNQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MGDmi36qLNQ"
         }
       }
     }
