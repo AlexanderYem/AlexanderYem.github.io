@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eomBSf2zeN4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eomBSf2zeN4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Reformateado por la pandemia, comienza el 75° debate general de las Naciones Unidas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VGkeYqTELz8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Internacional de las Poblaciones Indígenas del Mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xd4t4HvlcEc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xd4t4HvlcEc"
         }
       }
     }
