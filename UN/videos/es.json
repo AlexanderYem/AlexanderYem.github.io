@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Igualdad Salarial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CBvO7iIJz7c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CBvO7iIJz7c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de la Paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PjzTGJwE1-k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Construir hoy el futuro de la educación",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VGkeYqTELz8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VGkeYqTELz8"
         }
       }
     }
