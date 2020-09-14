@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo presidente da Assembleia Geral diz que é hora de união",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NbyA-_wZUaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NbyA-_wZUaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU quer cooperação global em vacinas contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZpHzwcZ5Mc8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vacinação em Angola, Dia do Ar Limpo e Turma da Mônica no combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0maGjyXIvdk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0maGjyXIvdk"
         }
       }
     }
