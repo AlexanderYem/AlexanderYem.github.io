@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "فولكان بوزكير: لا أعتقد أن هناك مكانا أفضل من الأمم المتحدة للعمل من أجل الرفاهية العامة للبشرية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/F9g-pvphB5s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "F9g-pvphB5s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كيف تمكنت الجمعية العامة من تسيير أعمالها واعتماد قراراتها في ظل جائحة كوفيد-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wWa5T2kRyX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تطلق نداء إنسانيا للحصول على 565 مليون دولار لمساعدة الشعب اللبناني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sjdBSvR2gD8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sjdBSvR2gD8"
         }
       }
     }
