@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assembleia Geral celebra 75 anos de Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w6KKXMb-SbA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w6KKXMb-SbA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo presidente da Assembleia Geral diz que é hora de união",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LQSWH93YTRY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef ajuda a fortalecer imunização em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZpHzwcZ5Mc8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZpHzwcZ5Mc8"
         }
       }
     }
