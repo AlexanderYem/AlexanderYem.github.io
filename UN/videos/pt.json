@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Internacional da Democracia, Guterres alerta para restrições durante pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dP1hPjUWQyo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dP1hPjUWQyo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assembleia Geral celebra 75 anos das Nações Unidas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C37GBWrvZdU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres afirma que nove em cada 10 pessoas respiram ar poluído",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LQSWH93YTRY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LQSWH93YTRY"
         }
       }
     }
