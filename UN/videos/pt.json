@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Síria: relatório revela que sofrimento de civis segue sendo ignorado com violações e assassinatos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_P7HJ30lOPM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_P7HJ30lOPM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres: países lusófonos têm “papel muito importante” no combate à Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qt-ewlcDB7Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo relatório sobre o clima, edição 2020 do Circuito Urbano e Covid-19 impacta mortes infantis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LaqxMnqtXlk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LaqxMnqtXlk"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: لن نكون آمنين إلا إذا كان الجميع بأمان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/99KkOmYF6Zo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "99KkOmYF6Zo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "فولكان بوزكير: لا أعتقد أن هناك مكانا أفضل من الأمم المتحدة للعمل من أجل الرفاهية العامة للبشرية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BVCqz7AhP0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "نسرين الصائم: الشباب ينبغي أن يكونوا جزءا من عملية صياغة السياسات الوطنية الخاصة بتغير المناخ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wWa5T2kRyX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wWa5T2kRyX4"
         }
       }
     }
