@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Действия ООН по поддержанию мира",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/73fGYXqFEiU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "73fGYXqFEiU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "На следующей неделе начинается 75-я сессия Генассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EwQnrxkySYU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Геноцид езидов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GitBiPuzngY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GitBiPuzngY"
         }
       }
     }
