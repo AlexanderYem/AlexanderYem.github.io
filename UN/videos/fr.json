@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entretien avec le Secrétaire général de l’ONU, Antonio Guterres,",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bkXQloh_MKI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bkXQloh_MKI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Volkan Bozkir guidera la 75e session de l'Assemblée générale de l’ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9J__2j0OAro"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Il y a des similitudes entre le combat contre la Covid-19 et le combat contre le terrorisme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2JDEWV6uNC8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2JDEWV6uNC8"
         }
       }
     }
