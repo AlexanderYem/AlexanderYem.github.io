@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres: países lusófonos têm “papel muito importante” no combate à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aFN44q3aH7E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aFN44q3aH7E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Internacional da Democracia, Guterres alerta para restrições durante pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LaqxMnqtXlk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Turma da Mônica e ONU no Brasil fecham parceria para combater desinformação sobre a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C37GBWrvZdU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C37GBWrvZdU"
         }
       }
     }
