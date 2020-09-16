@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Venezuela: grupo apura alegações de crimes contra humanidade e pede punição",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ue0t0XTPPi8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ue0t0XTPPi8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Síria: relatório revela que sofrimento de civis segue sendo ignorado com violações e assassinatos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ALtTKQaFu8U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mundo pode ter os cinco anos mais quentes já registrados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qt-ewlcDB7Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qt-ewlcDB7Q"
         }
       }
     }
