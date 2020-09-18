@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU apoia resposta a crise humanitária em Cabo Delgado, Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PJfjapUEWHc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PJfjapUEWHc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Brasileiro escolhido líder para os ODS na ONU exalta importância do empreendedorismo social",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4F9hDAGvPWM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4F9hDAGvPWM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "América Latina não pode baixar a guarda contra a Covid-19, diz Opas",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "w6KKXMb-SbA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo presidente da Assembleia Geral diz que é hora de união",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NbyA-_wZUaY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NbyA-_wZUaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU quer cooperação global em vacinas contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bZcVQ66wsOQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bZcVQ66wsOQ"
         }
       }
     }
