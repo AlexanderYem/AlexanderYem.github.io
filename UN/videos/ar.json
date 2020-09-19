@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "”إعادة بناء مستقبل أفضل للعمل من خلال ضمان المساواة في الأجور: دعوة عالمية إلى اتخاذ إجراءات“",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1EylHLbaVYk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1EylHLbaVYk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: لن نكون آمنين إلا إذا كان الجميع بأمان",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CMB8XvHctlw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غوتيريش: العاملون في المجال الإنساني هم الجنود المجهولون الذين يخاطرون بحياتهم لإنقاذ حياة الآخرين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BVCqz7AhP0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BVCqz7AhP0g"
         }
       }
     }
