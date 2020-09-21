@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les gens voient l’ONU comme un instrument pour bâtir un monde meilleur",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTfKHrMDo6g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bTfKHrMDo6g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AGNU 75 : Entretien avec le Secrétaire général de l’ONU, Antonio Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k0XoUrW3LdI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pour Michèle Coninsx, la lutte contre le terrorisme doit se faire dans le respect des droits humains",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9J__2j0OAro/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9J__2j0OAro"
         }
       }
     }
