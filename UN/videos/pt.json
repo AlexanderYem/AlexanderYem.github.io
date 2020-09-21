@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Médico da Organização Pan-Americana da Saúde pede reabertura segura das escolas para conter pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/39MOtquQVkg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "39MOtquQVkg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU apoia resposta a crise humanitária em Cabo Delgado, Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aFN44q3aH7E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Internacional da Democracia, Guterres alerta para restrições durante pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dP1hPjUWQyo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dP1hPjUWQyo"
         }
       }
     }

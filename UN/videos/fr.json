@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L’ONU, creuset par excellence du multilatéralisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/15QL8JlhRqo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "15QL8JlhRqo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les gens voient l’ONU comme un instrument pour bâtir un monde meilleur",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DF4crYwhdTM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’impact de la Covid-19 en milieu urbain",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k0XoUrW3LdI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k0XoUrW3LdI"
         }
       }
     }
