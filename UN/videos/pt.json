@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBGQnJcO5H8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zBGQnJcO5H8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Médico da Organização Pan-Americana da Saúde pede reabertura segura das escolas para conter pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_P7HJ30lOPM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres: países lusófonos têm “papel muito importante” no combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aFN44q3aH7E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aFN44q3aH7E"
         }
       }
     }

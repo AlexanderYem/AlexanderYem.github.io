@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Президент США Дональд Трамп - обращение к Генеральной Ассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JImxxPvRNzA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JImxxPvRNzA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Генсек ООН Антониу Гутерриш выступил на Генассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4j99B3OtZMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4j99B3OtZMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Действия ООН по поддержанию мира",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "adc5OzJTo7I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Образование и COVID-19. Обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VaXY__B14go/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VaXY__B14go"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Образование вопреки пандемии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EwQnrxkySYU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EwQnrxkySYU"
         }
       }
     }
