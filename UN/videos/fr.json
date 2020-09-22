@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La crise mondiale déclenchée par la Covid-19 doit servir d’électrochoc pour l’ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqR2CvO36mI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CqR2CvO36mI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres plaide pour un Nouveau contrat social et un Nouveau pacte mondial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Rd40UQRqZSk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "JUSTICE ET GUERISON POUR LES VICTIMES DES VIOLENCES SEXUELLES LIEES AUX CONFLITS AU CONGO",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dkKBeUEOWyY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dkKBeUEOWyY"
         }
       }
     }

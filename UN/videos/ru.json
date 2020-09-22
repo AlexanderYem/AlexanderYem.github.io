@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Владимира Путина на 75-й Генеральной Ассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzPR3t_b6yg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JzPR3t_b6yg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Президент Туркменистана Гурбангулы Бердымухамедов обратился к Генеральной Ассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xb0Og5V4jeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xb0Og5V4jeE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Президента России Владимира Путина на ГА ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "mjgNJaglNUc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "В ООН призвали восстановить туризм после пандемии коронавируса",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OHFu8wyQ_bc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OHFu8wyQ_bc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день гуманитарной помощи - послание Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7xxYtHNHkMk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7xxYtHNHkMk"
         }
       }
     }
