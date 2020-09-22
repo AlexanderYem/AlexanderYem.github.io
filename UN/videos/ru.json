@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Президента Турции Тайипа Эрдогана на 75-й сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i-qMEhJ6tXc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i-qMEhJ6tXc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Президент Бразилии Жаир Больсонару - обращение к Генеральной Ассамблее",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QlgdGsp6ds/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6QlgdGsp6ds"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Президент США Дональд Трамп - обращение к Генеральной Ассамблее ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "4Mle3VX6U2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Бейрут после взрыва. 6 августа 2020 года",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lQiY8ltFSV0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lQiY8ltFSV0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день коренных народов. Видеообращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/adc5OzJTo7I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "adc5OzJTo7I"
         }
       }
     }
