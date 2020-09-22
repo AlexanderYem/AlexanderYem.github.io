@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Видеопослание Президента Таджикистана Эмомали Рахмона Генассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VUjI58q0mgw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VUjI58q0mgw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Владимира Путина на 75-й Генеральной Ассамблее ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "73fGYXqFEiU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "На следующей неделе начинается 75-я сессия Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mjgNJaglNUc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mjgNJaglNUc"
         }
       }
     }

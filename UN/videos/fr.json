@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 1",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjn9i94gVi4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vjn9i94gVi4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La crise mondiale déclenchée par la Covid-19 doit servir d’électrochoc pour l’ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yMI9UhkP1SU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : les stéroïdes efficaces pour les patients gravement atteints",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rd40UQRqZSk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rd40UQRqZSk"
         }
       }
     }
