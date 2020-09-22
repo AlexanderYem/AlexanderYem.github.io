@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Президента России Владимира Путина на ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GizUY2FwwLs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GizUY2FwwLs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление Председателя КНР Си Цзиньпина на 75-й сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yB-a31IBOEo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yB-a31IBOEo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Президента Турции Тайипа Эрдогана на 75-й сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "7xxYtHNHkMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ВПП о ситуации в Бейруте: все разрушено...",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/guIHy8s_tmA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "guIHy8s_tmA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "12 августа - Международный день молодежи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4Mle3VX6U2M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4Mle3VX6U2M"
         }
       }
     }
