@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres plaide pour un Nouveau contrat social et un Nouveau pacte mondial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1U9ofj7Bh8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b1U9ofj7Bh8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L’ONU, creuset par excellence du multilatéralisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dkKBeUEOWyY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : « Chacun d’entre nous peut faire la différence » - Dr. Tedros",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DF4crYwhdTM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DF4crYwhdTM"
         }
       }
     }
