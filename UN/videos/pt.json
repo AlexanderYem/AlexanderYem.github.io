@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola discursa na ONU75",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SiSA27dja2c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SiSA27dja2c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ue0t0XTPPi8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Síria: relatório revela que sofrimento de civis segue sendo ignorado com violações e assassinatos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_P7HJ30lOPM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_P7HJ30lOPM"
         }
       }
     }
