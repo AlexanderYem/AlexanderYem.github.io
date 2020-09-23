@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Украины Владимира Зеленского на ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAPl8ARSsqQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CAPl8ARSsqQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Изменение климата - как с ним бороться",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2LAhW2OVPQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a2LAhW2OVPQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Казахстана Касым-Жомарта Токаева на ГА ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "yB-a31IBOEo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Президента Турции Тайипа Эрдогана на 75-й сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i-qMEhJ6tXc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i-qMEhJ6tXc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент Бразилии Жаир Больсонару - обращение к Генеральной Ассамблее",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6QlgdGsp6ds/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6QlgdGsp6ds"
         }
       }
     }
