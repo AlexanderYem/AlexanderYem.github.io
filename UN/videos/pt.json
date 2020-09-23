@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de Moçambique na 75ª. Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GNqKIMnb6rc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GNqKIMnb6rc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola discursa na ONU 75",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ufAjPNioNfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Venezuela: grupo apura alegações de crimes contra humanidade e pede punição",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ue0t0XTPPi8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ue0t0XTPPi8"
         }
       }
     }

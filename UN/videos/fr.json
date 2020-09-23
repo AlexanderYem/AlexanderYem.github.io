@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 : atténuer les dommages causés par la mésinformation et la désinformation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eruGNz72FPE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eruGNz72FPE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : atténuer l'impact et protéger les générations futures.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ICeCqM9_wDw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "75e Session de l'Assemblée générale des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bdUFK7eBgzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bdUFK7eBgzc"
         }
       }
     }
