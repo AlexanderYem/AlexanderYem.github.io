@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "RDC : la situation securitaire qui prevaut dans la partie orientale du pays demeure preoccupante.",
+        "title": "Covid-19 : atténuer l'impact et protéger les générations futures.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5xRp17KXrC0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5xRp17KXrC0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "RDC : la situation sécuritaire qui prévaut dans la partie orientale du pays demeure préoccupante.",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/n8E0qmO_Dhk/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bdUFK7eBgzc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Des jeunes du monde entier discutent de « l'avenir que nous voulons »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xoN_UYkJ6TM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xoN_UYkJ6TM"
         }
       }
     }
