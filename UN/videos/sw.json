@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNGA75- Kutoka Kinshasa hadi New York kwa lugha ya kifaransa. Rais wa DRC Félix Tshisekedi !!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XFXQXCY1UE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3XFXQXCY1UE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNGA75- Rais Paul Kagame akihutubia Mjadala Mkuu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dTNf5W47r_4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UYjeRpeZCSk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UYjeRpeZCSk"
         }
       }
     }
