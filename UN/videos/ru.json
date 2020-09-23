@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Казахстана Касым-Жомарта Токаева на ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnC_Dy7S69o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bnC_Dy7S69o"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Президент Кыргызстана Сооронбай Жээнбеков на ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCndBsN4RIk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kCndBsN4RIk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Республики Узбекистана Шавката Мирзиёева на Генассамблее ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6QlgdGsp6ds"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент США Дональд Трамп - обращение к Генеральной Ассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JImxxPvRNzA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JImxxPvRNzA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН Антониу Гутерриш выступил на Генассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4j99B3OtZMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4j99B3OtZMs"
         }
       }
     }
