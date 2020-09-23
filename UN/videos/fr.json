@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : la situation securitaire qui prevaut dans la partie orientale du pays demeure preoccupante.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n8E0qmO_Dhk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n8E0qmO_Dhk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 1",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xoN_UYkJ6TM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale de l’air pur pour des ciels bleus.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yMI9UhkP1SU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yMI9UhkP1SU"
         }
       }
     }
