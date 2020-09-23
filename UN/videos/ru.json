@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Республики Узбекистана Шавката Мирзиёева на Генассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jQLjROeT1I4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jQLjROeT1I4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Видеопослание Президента Таджикистана Эмомали Рахмона Генассамблее ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4j99B3OtZMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Действия ООН по поддержанию мира",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/73fGYXqFEiU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "73fGYXqFEiU"
         }
       }
     }
