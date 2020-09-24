@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 2",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSUEUr3P80Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dSUEUr3P80Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : atténuer les dommages causés par la mésinformation et la désinformation",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bkXQloh_MKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Volkan Bozkir guidera la 75e session de l'Assemblée générale de l’ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ICeCqM9_wDw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ICeCqM9_wDw"
         }
       }
     }
