@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "At the UN, leaders discuss climate, conflict and peace",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATkjTdvrlpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ATkjTdvrlpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "BTS calls for peace and unity at UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pW3pnQAX_iE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Life on Land - Hawaii",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m41h7xfKhvQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m41h7xfKhvQ"
         }
       }
     }

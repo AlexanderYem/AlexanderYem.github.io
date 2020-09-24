@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal reafirma apoio à cooperação multilateral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbeVwoDNMAg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VbeVwoDNMAg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Íntegra do discurso do presidente de Timor-Leste na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0meMJGuZ4eI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0meMJGuZ4eI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso de Moçambique na 75ª. Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "V3S_XGMPBLk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Igualdade Salarial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sdPY6k5_Gj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sdPY6k5_Gj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lusófonos e Covid-19, crimes contra a humanidade na Venezuela e herança da escravidão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ufAjPNioNfc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ufAjPNioNfc"
         }
       }
     }
