@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Suisse : les objectifs de l’ONU sont les objectifs des Etats membres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCMAkPOMq_w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DCMAkPOMq_w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 2",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bTfKHrMDo6g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AGNU 75 : Entretien avec le Secrétaire général de l’ONU, Antonio Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bkXQloh_MKI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bkXQloh_MKI"
         }
       }
     }
