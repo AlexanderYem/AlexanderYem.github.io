@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Allocution de Monaco au débat général de l'Assemblée générale des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IymU74NL_wQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IymU74NL_wQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Allocution de la Côte d'Ivoire au débat général de l'Assemblée générale des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE_51DnYM04/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fE_51DnYM04"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Allocution du Niger au débat général de l'Assemblée générale des Nations Unies",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "MG8iejsNsLY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La crise mondiale déclenchée par la Covid-19 doit servir d’électrochoc pour l’ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CqR2CvO36mI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CqR2CvO36mI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres plaide pour un Nouveau contrat social et un Nouveau pacte mondial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b1U9ofj7Bh8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b1U9ofj7Bh8"
         }
       }
     }
