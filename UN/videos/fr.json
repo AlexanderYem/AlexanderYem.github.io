@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Allocution du Niger au débat général de l'Assemblée générale des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7nDU8-tLA0M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7nDU8-tLA0M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l'ONU plaide pour une réflexion sur la gouvernance mondiale et le multilatéralisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b1U9ofj7Bh8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’ONU, creuset par excellence du multilatéralisme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/15QL8JlhRqo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "15QL8JlhRqo"
         }
       }
     }
