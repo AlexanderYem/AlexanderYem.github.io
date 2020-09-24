@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Chef de l'ONU plaide pour une réflexion sur la gouvernance mondiale et le multilatéralisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdXl2QYfnkw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZdXl2QYfnkw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Suisse : les objectifs de l’ONU sont les objectifs des Etats membres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "15QL8JlhRqo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les gens voient l’ONU comme un instrument pour bâtir un monde meilleur",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bTfKHrMDo6g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bTfKHrMDo6g"
         }
       }
     }
