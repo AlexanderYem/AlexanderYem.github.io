@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Премьер-министр Грузии Георгий Гахария обратился к ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fcnA8w9AMII/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fcnA8w9AMII"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Президент Азербайджана Ильхам Алиев на 75-й сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xb0Og5V4jeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Президента России Владимира Путина на ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GizUY2FwwLs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GizUY2FwwLs"
         }
       }
     }

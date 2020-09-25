@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Comores : l'ONU doit poursuivre son travail contre l'exclusion",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnS9prdpL2U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jnS9prdpL2U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Jovenel Moïse sur la crise socio-économique en Haïti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/COJsWKS2PmE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "COJsWKS2PmE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "République du Congo : la place de l'Afrique au Conseil de sécurité",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "7nDU8-tLA0M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le chef de l'ONU plaide pour une réflexion sur la gouvernance mondiale et le multilatéralisme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZdXl2QYfnkw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZdXl2QYfnkw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Suisse : les objectifs de l’ONU sont les objectifs des Etats membres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DCMAkPOMq_w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DCMAkPOMq_w"
         }
       }
     }
