@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do primeiro-ministro de Portugal na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dm27aPIzGo4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dm27aPIzGo4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente da Guiné-Bissau na Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PJfjapUEWHc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileiro escolhido líder para os ODS na ONU exalta importância do empreendedorismo social",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4F9hDAGvPWM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4F9hDAGvPWM"
         }
       }
     }
