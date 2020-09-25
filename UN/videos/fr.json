@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 3",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q3zPplqzsug/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q3zPplqzsug"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Allocution de Monaco au débat général de l'Assemblée générale des Nations Unies",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n8E0qmO_Dhk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 1",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MG8iejsNsLY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MG8iejsNsLY"
         }
       }
     }
