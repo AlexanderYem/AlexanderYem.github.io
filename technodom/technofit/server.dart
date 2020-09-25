@@ -116,7 +116,7 @@ Future main() async {
             throw Exception("emulate programs schedule error");; // error
         }
       } else if (request.requestedUri.path == '/test_redirect') {
-        request.response.redirect(Uri.parse("http://vps.esforex.com:4040/redirected"), status: 301);
+        request.response.redirect(Uri.parse("http://vps.justprodev.com:4040/redirected"), status: 301);
       } else if (request.requestedUri.path == '/redirected') {
         request.response.write('Hello, redirected world!');
       } else {
