@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Президент Азербайджана Ильхам Алиев на 75-й сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Us9yQEXs1cE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Us9yQEXs1cE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Украины Владимира Зеленского на ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GizUY2FwwLs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Председателя КНР Си Цзиньпина на 75-й сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yB-a31IBOEo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yB-a31IBOEo"
         }
       }
     }

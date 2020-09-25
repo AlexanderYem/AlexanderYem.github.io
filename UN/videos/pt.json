@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Íntegra do discurso do presidente de São Tomé e Príncipe na Assembleia Geral (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vA5LmBGvu6o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vA5LmBGvu6o"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Portugal reafirma apoio à cooperação multilateral",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "iGkT82joYis"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "América Latina não pode baixar a guarda contra a Covid-19, diz Opas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3S_XGMPBLk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V3S_XGMPBLk"
         }
       }
     }
