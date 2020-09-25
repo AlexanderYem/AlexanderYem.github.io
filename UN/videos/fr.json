@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "La Guinée-Bissau compte poursuivre ses réformes malgré les défis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcxGmbmoWj8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QcxGmbmoWj8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Paix en RCA : beaucoup de défis restent à relever",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCVMAL41aEY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lCVMAL41aEY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comores : l'ONU doit poursuivre son travail contre l'exclusion",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "IymU74NL_wQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Allocution de la Côte d'Ivoire au débat général de l'Assemblée générale des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fE_51DnYM04/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fE_51DnYM04"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Allocution du Niger au débat général de l'Assemblée générale des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7nDU8-tLA0M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7nDU8-tLA0M"
         }
       }
     }

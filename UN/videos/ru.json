@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Премьер-министр Армении Никол Пашинян  обратился к Генеральной Ассамблее ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6R6Ma28FCro/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6R6Ma28FCro"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Премьер-министр Грузии Георгий Гахария обратился к ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JzPR3t_b6yg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент Туркменистана Гурбангулы Бердымухамедов обратился к Генеральной Ассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xb0Og5V4jeE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xb0Og5V4jeE"
         }
       }
     }
