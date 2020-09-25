@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "République du Congo : la place de l'Afrique au Conseil de sécurité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRj09ks98zk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aRj09ks98zk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gabon : l'ONU doit être la réponse à la fatalité et à l’injustice",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2B1WJM7oYI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m2B1WJM7oYI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guinée : le rôle central de l'ONU s'impose à tous ses Etats membres",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "DCMAkPOMq_w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dSUEUr3P80Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dSUEUr3P80Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : atténuer les dommages causés par la mésinformation et la désinformation",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K6bHuBoqXD8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K6bHuBoqXD8"
         }
       }
     }
