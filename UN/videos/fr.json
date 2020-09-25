@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Guinée : le rôle central de l'ONU s'impose à tous ses Etats membres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MC2RGVUosSQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MC2RGVUosSQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "La Force du G5 Sahel n'a toujours pas atteint son niveau opérationnel",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmru38n7BT8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qmru38n7BT8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 3",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "K6bHuBoqXD8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : atténuer l'impact et protéger les générations futures.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5xRp17KXrC0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5xRp17KXrC0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : la situation sécuritaire qui prévaut dans la partie orientale du pays demeure préoccupante.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n8E0qmO_Dhk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n8E0qmO_Dhk"
         }
       }
     }
