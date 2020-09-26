@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do primeiro-ministro de Cabo Verde na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/boFE4X5bdag/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "boFE4X5bdag"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do primeiro-ministro de Portugal na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "39MOtquQVkg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU apoia resposta a crise humanitária em Cabo Delgado, Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PJfjapUEWHc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PJfjapUEWHc"
         }
       }
     }
