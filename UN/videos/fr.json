@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Tchad demande un appui accru à la FMN et à la Force du G5 Sahel",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLxjZ8naGWY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kLxjZ8naGWY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Canada : travailler ensemble pour un avenir meilleur",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aRj09ks98zk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gabon : l'ONU doit être la réponse à la fatalité et à l’injustice",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m2B1WJM7oYI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m2B1WJM7oYI"
         }
       }
     }
