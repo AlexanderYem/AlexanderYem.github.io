@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Canada : travailler ensemble pour un avenir meilleur",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWg1mk2p448/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PWg1mk2p448"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Luxembourg appelle à renforcer le rôle de l'OMS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m2B1WJM7oYI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guinée : le rôle central de l'ONU s'impose à tous ses Etats membres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MC2RGVUosSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MC2RGVUosSQ"
         }
       }
     }
