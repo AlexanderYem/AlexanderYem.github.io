@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde quer chegar a 2030 com mais de 50% de energia renovável",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yULO7MhiYhg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yULO7MhiYhg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do primeiro-ministro de Cabo Verde na Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zBGQnJcO5H8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Médico da Organização Pan-Americana da Saúde pede reabertura segura das escolas para conter pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/39MOtquQVkg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "39MOtquQVkg"
         }
       }
     }

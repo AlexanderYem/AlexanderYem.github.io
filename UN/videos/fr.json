@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Luxembourg appelle à renforcer le rôle de l'OMS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-q0kp64otg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w-q0kp64otg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'Union européenne est un acteur de paix et de progrès",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MC2RGVUosSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La Force du G5 Sahel n'a toujours pas atteint son niveau opérationnel",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qmru38n7BT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qmru38n7BT8"
         }
       }
     }
