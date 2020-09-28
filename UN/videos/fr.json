@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'Union européenne est un acteur de paix et de progrès",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYZ4Xg0doUQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SYZ4Xg0doUQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Djibouti : la crise de la Covid-19 nous dicte de collaborer ensemble",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qmru38n7BT8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - Jour 3",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q3zPplqzsug/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q3zPplqzsug"
         }
       }
     }
