@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Djibouti : la crise de la Covid-19 nous dicte de collaborer ensemble",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cvb4sGpfV2Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cvb4sGpfV2Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La Guinée-Bissau compte poursuivre ses réformes malgré les défis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q3zPplqzsug"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Allocution de Monaco au débat général de l'Assemblée générale des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IymU74NL_wQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IymU74NL_wQ"
         }
       }
     }
