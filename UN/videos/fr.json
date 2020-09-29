@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Madagascar plaide pour un agenda mondial post-Covid",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AyDr0IdMuB0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AyDr0IdMuB0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Belgique : la responsabilité de faire fonctionner le multilatéralisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHUlWXtGrxc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hHUlWXtGrxc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Tchad demande un appui accru à la FMN et à la Force du G5 Sahel",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jnS9prdpL2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovenel Moïse sur la crise socio-économique en Haïti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/COJsWKS2PmE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "COJsWKS2PmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "République du Congo : la place de l'Afrique au Conseil de sécurité",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aRj09ks98zk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aRj09ks98zk"
         }
       }
     }
