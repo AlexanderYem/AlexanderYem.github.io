@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mais 1 milhão de pessoas perderam a vida para a Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Py8Qr3TA0CM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Py8Qr3TA0CM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde quer chegar a 2030 com mais de 50% de energia renovável",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L5wAaUQe7Lw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zBGQnJcO5H8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zBGQnJcO5H8"
         }
       }
     }

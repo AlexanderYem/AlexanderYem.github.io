@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава МИД Исландии Гудлёйгур Тор Тордарсон обратился к делегатам 75-й сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qeNUiY4sps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5qeNUiY4sps"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Премьер-министр Армении Никол Пашинян  обратился к Генеральной Ассамблее ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VUjI58q0mgw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Владимира Путина на 75-й Генеральной Ассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JzPR3t_b6yg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JzPR3t_b6yg"
         }
       }
     }
