@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 : un million de vies fauchées par la pandémie",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4SaklpkD_6g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4SaklpkD_6g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Sénégal plaide pour un multilatéralisme revigoré",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QcxGmbmoWj8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Paix en RCA : beaucoup de défis restent à relever",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lCVMAL41aEY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lCVMAL41aEY"
         }
       }
     }
