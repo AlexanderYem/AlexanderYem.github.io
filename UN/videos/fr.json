@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Sénégal plaide pour un multilatéralisme revigoré",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H7tMnzPd95g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H7tMnzPd95g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Madagascar plaide pour un agenda mondial post-Covid",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lCVMAL41aEY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comores : l'ONU doit poursuivre son travail contre l'exclusion",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jnS9prdpL2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jnS9prdpL2U"
         }
       }
     }
