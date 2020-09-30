@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Detengamos la lucha para centrarnos en nuestro enemigo común: la COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/By9z5E42Irw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "By9z5E42Irw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No debemos perder nunca de vista cada una de las vidas individuales que encierra la pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kaG1h80M0fo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensaje de António Guterres con motivo del Día Mundial de la Asistencia Humanitaria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4p_HHMDp5Qk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4p_HHMDp5Qk"
         }
       }
     }

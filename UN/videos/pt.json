@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Idosos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3XU2ccM1KM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I3XU2ccM1KM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Romero Britto participa de apelo global para salvar as onças-pintadas,",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-6Vad8ar0A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0-6Vad8ar0A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vacina contra Covid-19: \"ainda não é possível estabelecer uma data com segurança\"",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "i8jMpi5qChE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal reafirma apoio à cooperação multilateral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VbeVwoDNMAg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VbeVwoDNMAg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Timor-Leste na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0meMJGuZ4eI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0meMJGuZ4eI"
         }
       }
     }

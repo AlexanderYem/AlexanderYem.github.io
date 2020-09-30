@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - dernier jour",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/45rHM6-2848/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "45rHM6-2848"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : un million de vies fauchées par la pandémie",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cvb4sGpfV2Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La Guinée-Bissau compte poursuivre ses réformes malgré les défis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QcxGmbmoWj8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QcxGmbmoWj8"
         }
       }
     }
