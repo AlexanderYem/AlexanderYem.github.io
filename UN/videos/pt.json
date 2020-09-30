@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vacina contra Covid-19: \"ainda não é possível estabelecer uma data com segurança\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pximjYHFMxI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pximjYHFMxI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angolana finalista de prêmio Jovens Campeões da Terra destaca importância de discutir biodiversidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0meMJGuZ4eI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso de Moçambique na 75ª. Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GNqKIMnb6rc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GNqKIMnb6rc"
         }
       }
     }
