@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "1 миллион жертв COVID-19 - заявление Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ARgow8j563E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ARgow8j563E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава МИД Исландии Гудлёйгур Тор Тордарсон обратился к делегатам 75-й сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jQLjROeT1I4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Видеопослание Президента Таджикистана Эмомали Рахмона Генассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VUjI58q0mgw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VUjI58q0mgw"
         }
       }
     }
