@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La Conférence de Beijing a été un moment charnière ; un point de repère ; un tournant.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJDXoQWRuqY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZJDXoQWRuqY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Cameroun sur la crise qui touche ses régions du Nord-Ouest et du Sud-Ouest",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kLxjZ8naGWY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Canada : travailler ensemble pour un avenir meilleur",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PWg1mk2p448/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PWg1mk2p448"
         }
       }
     }

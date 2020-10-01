@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Pesquisa no Brasil busca avanços em vacinas contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3vMkCJLNtA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n3vMkCJLNtA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Perigo de novos surtos de sarampo, catapora, rubéola, difteria e outras doenças por falta da vacina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DDAJPJXWK4E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DDAJPJXWK4E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional dos Idosos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "dm27aPIzGo4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente da Guiné-Bissau na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GaGXwFtofQY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GaGXwFtofQY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de São Tomé e Príncipe na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i8jMpi5qChE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i8jMpi5qChE"
         }
       }
     }
