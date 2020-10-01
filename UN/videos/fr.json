@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Bénin face à la dégradation de la situation sécuritaire en Afrique de l'Ouest",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHbxaqahinI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YHbxaqahinI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La 75e Assemblée générale de l'ONU en 75 secondes - dernier jour",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SYZ4Xg0doUQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Djibouti : la crise de la Covid-19 nous dicte de collaborer ensemble",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cvb4sGpfV2Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cvb4sGpfV2Y"
         }
       }
     }
