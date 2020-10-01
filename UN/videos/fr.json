@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Cameroun sur la crise qui touche ses régions du Nord-Ouest et du Sud-Ouest",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxskKzOynLU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uxskKzOynLU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Togo : réponse de l'Union africaine à la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iE385smTnic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iE385smTnic"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Bénin face à la dégradation de la situation sécuritaire en Afrique de l'Ouest",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "PWg1mk2p448"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Luxembourg appelle à renforcer le rôle de l'OMS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w-q0kp64otg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w-q0kp64otg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'Union européenne est un acteur de paix et de progrès",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SYZ4Xg0doUQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SYZ4Xg0doUQ"
         }
       }
     }
