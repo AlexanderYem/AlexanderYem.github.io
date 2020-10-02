@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Integra do discurso de Portugal em evento Pequim + 25",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1PZiud0b8Cc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1PZiud0b8Cc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Integra do discurso do Brasil em evento Pequim + 25",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sDU4dqhJAy8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sDU4dqhJAy8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Integra do discurso de Cabo Verde em evento Pequim + 25",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I8o4x5AZZ1w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I8o4x5AZZ1w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres diz que a Covid-19 evidenciou a urgência de se melhorar as condições de vida",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "pximjYHFMxI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angolana finalista de prêmio Jovens Campeões da Terra destaca importância de discutir biodiversidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kub33zlYtFo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kub33zlYtFo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mais 1 milhão de pessoas perderam a vida para a Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Py8Qr3TA0CM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Py8Qr3TA0CM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde quer chegar a 2030 com mais de 50% de energia renovável",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yULO7MhiYhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yULO7MhiYhg"
         }
       }
     }
