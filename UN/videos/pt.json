@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres diz que a Covid-19 evidenciou a urgência de se melhorar as condições de vida",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tk4i5l_q81c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tk4i5l_q81c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres relembra valores de Gandhi em Dia Internacional da Não-Violência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yULO7MhiYhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do primeiro-ministro de Cabo Verde na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/boFE4X5bdag/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "boFE4X5bdag"
         }
       }
     }
