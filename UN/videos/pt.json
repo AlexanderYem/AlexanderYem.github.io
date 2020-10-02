@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres relembra valores de Gandhi em Dia Internacional da Não-Violência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jLvVjzF_VI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7jLvVjzF_VI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pesquisa no Brasil busca avanços em vacinas contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "boFE4X5bdag"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do primeiro-ministro de Portugal na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dm27aPIzGo4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dm27aPIzGo4"
         }
       }
     }
