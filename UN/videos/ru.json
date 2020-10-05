@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ДEНЬ ХАБИТАТ- 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XH21pdORiok/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XH21pdORiok"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "1 миллион жертв COVID-19 - заявление Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kCndBsN4RIk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Республики Узбекистана Шавката Мирзиёева на Генассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jQLjROeT1I4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jQLjROeT1I4"
         }
       }
     }
