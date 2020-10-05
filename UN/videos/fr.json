@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "5 octobre - Journée mondiale de l'habitat - Message du Secrétaire géneral de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/24mSzaAbRkA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "24mSzaAbRkA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La Conférence de Beijing a été un moment charnière ; un point de repère ; un tournant.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hHUlWXtGrxc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Tchad demande un appui accru à la FMN et à la Force du G5 Sahel",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kLxjZ8naGWY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kLxjZ8naGWY"
         }
       }
     }
