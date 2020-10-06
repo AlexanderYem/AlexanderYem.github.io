@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Силы ООН в Ливане помогают пожарным страны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNSESXZhxxc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uNSESXZhxxc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ДEНЬ ХАБИТАТ- 2020 Видеообращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bnC_Dy7S69o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент Кыргызстана Сооронбай Жээнбеков на ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kCndBsN4RIk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kCndBsN4RIk"
         }
       }
     }
