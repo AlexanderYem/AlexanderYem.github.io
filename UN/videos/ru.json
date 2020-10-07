@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ВСЕОБЩИЙ ДОСТУП К МЕДИЦИНСКИМ УСЛУГАМ - Генсек ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yegfYtxsZUg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yegfYtxsZUg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Силы ООН в Ливане помогают пожарным страны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a2LAhW2OVPQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Казахстана Касым-Жомарта Токаева на ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bnC_Dy7S69o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bnC_Dy7S69o"
         }
       }
     }
