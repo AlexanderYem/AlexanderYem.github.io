@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 e Cobertura Universal de Saúde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gd7uhCKYb9g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Gd7uhCKYb9g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso de Portugal em evento Pequim + 25",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0-6Vad8ar0A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vacina contra Covid-19: \"ainda não é possível estabelecer uma data com segurança\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pximjYHFMxI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pximjYHFMxI"
         }
       }
     }
