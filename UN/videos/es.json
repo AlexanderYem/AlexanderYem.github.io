@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cobertura sanitaria universal y sistemas de salud pública robustos para frenar la COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XasIwXHrSMU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XasIwXHrSMU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial del Hábitat",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "K8WDZqI32l8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Turismo seguro, sostenible y responsable: el objetivo de la reconstrucción del sector.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XBoLb8Lo-fc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XBoLb8Lo-fc"
         }
       }
     }
