@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Mundial de la Salud Mental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtgViNj1oWU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xtgViNj1oWU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cobertura sanitaria universal y sistemas de salud pública robustos para frenar la COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9iVEDNA9IHw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aire limpio por un cielo azul",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K8WDZqI32l8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K8WDZqI32l8"
         }
       }
     }
