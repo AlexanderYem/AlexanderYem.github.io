@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Prevenir para reducir los desastres naturales",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGFc1_cw6cM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rGFc1_cw6cM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de la Salud Mental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eomBSf2zeN4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Reformateado por la pandemia, comienza el 75° debate general de las Naciones Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9iVEDNA9IHw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9iVEDNA9IHw"
         }
       }
     }
