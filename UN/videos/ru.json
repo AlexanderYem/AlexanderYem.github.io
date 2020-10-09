@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирная продовольственная программа ООН удостоена Нобелевской премии мира за 2020 год",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/euo2evX6E_E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "euo2evX6E_E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ВСЕОБЩИЙ ДОСТУП К МЕДИЦИНСКИМ УСЛУГАМ - Генсек ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CAPl8ARSsqQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Изменение климата - как с ним бороться",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a2LAhW2OVPQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a2LAhW2OVPQ"
         }
       }
     }
