@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Programme alimentaire mondial reçoit le prix Nobel de la paix 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jr8ZGWN-byE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jr8ZGWN-byE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : les fausses informations réduisent la confiance dans les autorités et la science",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4SaklpkD_6g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Sénégal plaide pour un multilatéralisme revigoré",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H7tMnzPd95g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H7tMnzPd95g"
         }
       }
     }
