@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ВПП оказала помощь миллиону жителей востока Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GSuoHxehga8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GSuoHxehga8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Всемирная продовольственная программа ООН удостоена Нобелевской премии мира за 2020 год",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ARowcOBWiKU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ARowcOBWiKU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирная продовольственная программа ООН удостоена Нобелевской премии мира за 2020 год",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "fcnA8w9AMII"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент Азербайджана Ильхам Алиев на 75-й сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Us9yQEXs1cE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Us9yQEXs1cE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Украины Владимира Зеленского на ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CAPl8ARSsqQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CAPl8ARSsqQ"
         }
       }
     }
