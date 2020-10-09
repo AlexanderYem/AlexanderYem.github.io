@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "برنامج الأغذية العالمي يحصل على جائزة نوبل للسلام",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxbvMszaSNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wxbvMszaSNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "المهندسة الكويتية فاطمة الزلزلة تتحدث عن مبادرة إيكوستار لمعالجة والبيئة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F9g-pvphB5s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كيف تمكنت الجمعية العامة من تسيير أعمالها واعتماد قراراتها في ظل جائحة كوفيد-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2jP5x65BUtQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2jP5x65BUtQ"
         }
       }
     }
