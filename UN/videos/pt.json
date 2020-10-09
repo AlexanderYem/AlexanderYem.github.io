@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres marca Dia Mundial da Saúde Mental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/alSmjkYziKc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "alSmjkYziKc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prêmio Nobel da Paz: António Guterres destaca coragem de trabalhadores do PMA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n3vMkCJLNtA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Perigo de novos surtos de sarampo, catapora, rubéola, difteria e outras doenças por falta da vacina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DDAJPJXWK4E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DDAJPJXWK4E"
         }
       }
     }
