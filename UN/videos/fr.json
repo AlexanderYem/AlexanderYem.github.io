@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Semaine mondiale de l'alimentation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/05JzE1zj9UA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "05JzE1zj9UA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Programme alimentaire mondial reçoit le prix Nobel de la paix 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "45rHM6-2848"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : un million de vies fauchées par la pandémie",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4SaklpkD_6g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4SaklpkD_6g"
         }
       }
     }
