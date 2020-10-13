@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dialoguer avec les jeunes et les groupes religieux pour réduire la transmission de la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HozLoNhZiFc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HozLoNhZiFc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Semaine mondiale de l'alimentation",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YHbxaqahinI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La 75e Assemblée générale de l'ONU en 75 secondes - dernier jour",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/45rHM6-2848/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "45rHM6-2848"
         }
       }
     }
