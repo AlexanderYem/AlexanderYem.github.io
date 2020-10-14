@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Как распознать туберкулез - советы специалиста ВОЗ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UMvw8nQIw24/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UMvw8nQIw24"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ВПП оказала помощь миллиону жителей востока Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6R6Ma28FCro"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Премьер-министр Грузии Георгий Гахария обратился к ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fcnA8w9AMII/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fcnA8w9AMII"
         }
       }
     }
