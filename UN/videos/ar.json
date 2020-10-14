@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمر ليس مسألة خيار بين السماح للفيروس بالانتشار بحرية أو إغلاق مجتمعاتنا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0RBWRsajVfo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0RBWRsajVfo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "برنامج الأغذية العالمي يحصل على جائزة نوبل للسلام",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "99KkOmYF6Zo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فولكان بوزكير: لا أعتقد أن هناك مكانا أفضل من الأمم المتحدة للعمل من أجل الرفاهية العامة للبشرية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F9g-pvphB5s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F9g-pvphB5s"
         }
       }
     }
