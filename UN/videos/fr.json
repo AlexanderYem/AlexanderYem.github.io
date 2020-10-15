@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "16 octobre : journée mondiale de l'alimentation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RGWUb8JQns/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-RGWUb8JQns"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dialoguer avec les jeunes et les groupes religieux pour réduire la transmission de la Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iE385smTnic"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Bénin face à la dégradation de la situation sécuritaire en Afrique de l'Ouest",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YHbxaqahinI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YHbxaqahinI"
         }
       }
     }
