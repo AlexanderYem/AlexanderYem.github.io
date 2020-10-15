@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Борьба с коррупцией в контексте COVID-19. Заявление Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzhZ8CmfpAk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SzhZ8CmfpAk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Как распознать туберкулез - советы специалиста ВОЗ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5qeNUiY4sps"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Премьер-министр Армении Никол Пашинян  обратился к Генеральной Ассамблее ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6R6Ma28FCro/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6R6Ma28FCro"
         }
       }
     }
