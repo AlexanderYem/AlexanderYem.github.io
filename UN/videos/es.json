@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 y corrupción",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCattIjO3Yo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kCattIjO3Yo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Premio Nobel de la Paz para el Programa Mundial de Alimentos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "By9z5E42Irw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No debemos perder nunca de vista cada una de las vidas individuales que encierra la pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qRI4qaLitvY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qRI4qaLitvY"
         }
       }
     }
