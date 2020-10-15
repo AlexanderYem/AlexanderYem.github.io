@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Ufisadi kwenye COVID-19 ni mateso kwa wananchi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VYj__gSyE_E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VYj__gSyE_E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Wasomali Afrika Kusini kulikoni?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vLiEH984fBo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Wanawake wamasai wapaza sauti!!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fyIHIroerOE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fyIHIroerOE"
         }
       }
     }
