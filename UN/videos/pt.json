@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Semana Mundial da Alimentação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqL9wUEnxpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EqL9wUEnxpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU pede maior cooperação internacional para combater desastres naturais",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I8o4x5AZZ1w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres diz que a Covid-19 evidenciou a urgência de se melhorar as condições de vida",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tk4i5l_q81c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tk4i5l_q81c"
         }
       }
     }
