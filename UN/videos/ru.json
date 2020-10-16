@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день продовольствия - Генсек ООН Антониу Гутерриш",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dQKgcEOI1c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9dQKgcEOI1c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Борьба с коррупцией в контексте COVID-19. Заявление Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ARgow8j563E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава МИД Исландии Гудлёйгур Тор Тордарсон обратился к делегатам 75-й сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5qeNUiY4sps/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5qeNUiY4sps"
         }
       }
     }
