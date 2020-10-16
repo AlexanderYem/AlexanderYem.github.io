@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional para a Erradicação da Pobreza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFGYqYMGzCo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UFGYqYMGzCo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Moçambique, ONU Mulheres incentiva acesso a energias renováveis no campo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AsSBOQLpVnE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 e Cobertura Universal de Saúde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gd7uhCKYb9g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gd7uhCKYb9g"
         }
       }
     }
