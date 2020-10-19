@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Борьба за ликвидацию нищеты - Международный день",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qH3EtMSi2eo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qH3EtMSi2eo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день продовольствия - Генсек ООН Антониу Гутерриш",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XH21pdORiok"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "1 миллион жертв COVID-19 - заявление Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ARgow8j563E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ARgow8j563E"
         }
       }
     }
