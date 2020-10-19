@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Обзор визита д-ра Ханса Клюге, директора Европейского бюро ВОЗ в Россию, сентябрь 2020 г.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2UqnaKQw70/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j2UqnaKQw70"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Интервью главы Европейского бюро ВОЗ Ханса Клюге во время визита в Москву, сентябрь 2020 года.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yegfYtxsZUg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Силы ООН в Ливане помогают пожарным страны",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uNSESXZhxxc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uNSESXZhxxc"
         }
       }
     }
