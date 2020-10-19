@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью главы Европейского бюро ВОЗ Ханса Клюге во время визита в Москву, сентябрь 2020 года.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PjMx8yn7agc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PjMx8yn7agc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Борьба за ликвидацию нищеты - Международный день",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uNSESXZhxxc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ДEНЬ ХАБИТАТ- 2020 Видеообращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XH21pdORiok/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XH21pdORiok"
         }
       }
     }
