@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день статистики - приветствие Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oc4i7F6BS6c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Oc4i7F6BS6c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обзор визита д-ра Ханса Клюге, директора Европейского бюро ВОЗ в Россию, сентябрь 2020 г.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "euo2evX6E_E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ВСЕОБЩИЙ ДОСТУП К МЕДИЦИНСКИМ УСЛУГАМ - Генсек ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yegfYtxsZUg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yegfYtxsZUg"
         }
       }
     }
