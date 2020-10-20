@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres: \"Pandemia de coronavírus aumentou ainda mais a importância dos dados para salvar vidas\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYeBftGHKAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SYeBftGHKAA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional para a Erradicação da Pobreza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "40fl36rnbjM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo-verdiana Cristina Duarte é conselheira do secretário-geral da ONU para África",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AsSBOQLpVnE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AsSBOQLpVnE"
         }
       }
     }
