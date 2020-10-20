@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale de la statistique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHJmlm-8KEU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZHJmlm-8KEU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "16 octobre : journée mondiale de l'alimentation",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uxskKzOynLU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Togo : réponse de l'Union africaine à la Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iE385smTnic/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iE385smTnic"
         }
       }
     }
