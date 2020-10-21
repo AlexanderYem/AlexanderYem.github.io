@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Message du Secrétaire général de l'ONU à l'occasion de la Journée des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2q-uBrpohTA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2q-uBrpohTA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale de la statistique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZJDXoQWRuqY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Cameroun sur la crise qui touche ses régions du Nord-Ouest et du Sud-Ouest",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uxskKzOynLU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uxskKzOynLU"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El mundo que queremos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gmjvJlU9diE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gmjvJlU9diE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Celebremos el Día de la Naciones Unidas con un impulso a la paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xtgViNj1oWU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cobertura sanitaria universal y sistemas de salud pública robustos para frenar la COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XasIwXHrSMU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XasIwXHrSMU"
         }
       }
     }
