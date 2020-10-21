@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كريستين صفوت: آن الآوان لنتعلم نحن من الطلاب ما هي طريقة التعلم المناسبة لهم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J78MjEqYmDc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J78MjEqYmDc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "فصل الشتاء هو موسم الأمراض وكوفيد-19 يزيد المخاطر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aXje3rCV05M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تدهور سريع للوضع الإنساني في جنوب السودان بسبب الفيضانات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sD5El9Z0hM8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sD5El9Z0hM8"
         }
       }
     }
