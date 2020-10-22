@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário geral no 75º aniversário das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuZ0KGgjGzw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VuZ0KGgjGzw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres: \"Pandemia de coronavírus aumentou ainda mais a importância dos dados para salvar vidas\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TOR_z70vJ5M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambicana recebe distinção da Unesco por pesquisa sobre plantas medicinais e Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/40fl36rnbjM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "40fl36rnbjM"
         }
       }
     }
