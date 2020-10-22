@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День ООН - 2020 - обращение Генерального секретаря",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ha9fN8U9Tkc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ha9fN8U9Tkc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день статистики - приветствие Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ARowcOBWiKU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирная продовольственная программа ООН удостоена Нобелевской премии мира за 2020 год",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/euo2evX6E_E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "euo2evX6E_E"
         }
       }
     }
