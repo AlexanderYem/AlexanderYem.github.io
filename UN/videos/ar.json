@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "د. أمجد الخولي: مناعة القطيع عبر الإصابة الطبيعية بالمرض لها تكلفة بشرية وأخلاقية عالية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ntn8ZY6tJsg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ntn8ZY6tJsg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كريستين صفوت: آن الآوان لنتعلم نحن من الطلاب ما هي طريقة التعلم المناسبة لهم",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Am8qSkJ5yIQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام ينعى أمير الكويت: كان رمزا استثنائيا للحكمة والكرم، رسولَ سلام، وصانعَ جُسور",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aXje3rCV05M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aXje3rCV05M"
         }
       }
     }

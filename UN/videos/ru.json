@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Красота природы и гостеприимство - ПРООН помогает Грузии развивать туризм",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HMKYUyrjdU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6HMKYUyrjdU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День ООН - 2020 - обращение Генерального секретаря",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GSuoHxehga8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирная продовольственная программа ООН удостоена Нобелевской премии мира за 2020 год",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ARowcOBWiKU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ARowcOBWiKU"
         }
       }
     }
