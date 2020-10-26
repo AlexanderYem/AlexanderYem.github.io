@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Tufunge virago au?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTwJ0r0Bwms/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GTwJ0r0Bwms"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Day",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VYj__gSyE_E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Wasomali Afrika Kusini kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IM5-2A_0IBc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IM5-2A_0IBc"
         }
       }
     }
