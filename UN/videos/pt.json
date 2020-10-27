@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU celebra 75 anos com exposição no Museu do Dinheiro e moeda comemorativa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oy9tjeLWaGs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oy9tjeLWaGs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário geral no 75º aniversário das Nações Unidas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "alSmjkYziKc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prêmio Nobel da Paz: António Guterres destaca coragem de trabalhadores do PMA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TOR_z70vJ5M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TOR_z70vJ5M"
         }
       }
     }
