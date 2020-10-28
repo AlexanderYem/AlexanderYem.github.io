@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OzseXjIz1zk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OzseXjIz1zk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Zanzibar!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m6_7suu-FuA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Mamilioni wakitupa, mamilioni wanahaha!!!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/68AXZBjzVAw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "68AXZBjzVAw"
         }
       }
     }
