@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بالتعاون مع الأمم المتحدة، المملكة العربية السعودية تتخذ خطوات ملموسة لمكافحة الاتجار بالبشر",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jROwp-Zp8rA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jROwp-Zp8rA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليمن: من أي الزوايا نظرنا إلى وضع الطفولة في اليمن، نجد الوضع مأساويا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2su14F0N3Rw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمر ليس مسألة خيار بين السماح للفيروس بالانتشار بحرية أو إغلاق مجتمعاتنا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0RBWRsajVfo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0RBWRsajVfo"
         }
       }
     }
