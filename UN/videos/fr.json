@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Déborah Nguyen : travailler pour le PAM, c'est une vocation, une passion",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dGSgq1zOfr4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dGSgq1zOfr4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Message du Secrétaire général de l'ONU à l'occasion de la Journée des Nations Unies",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "24mSzaAbRkA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La Conférence de Beijing a été un moment charnière ; un point de repère ; un tournant.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZJDXoQWRuqY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZJDXoQWRuqY"
         }
       }
     }
