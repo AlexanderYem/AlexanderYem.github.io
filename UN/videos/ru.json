@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день городов - Генсек ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cIroH123w_Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cIroH123w_Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Красота природы и гостеприимство - ПРООН помогает Грузии развивать туризм",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UMvw8nQIw24"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ВПП оказала помощь миллиону жителей востока Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GSuoHxehga8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GSuoHxehga8"
         }
       }
     }
