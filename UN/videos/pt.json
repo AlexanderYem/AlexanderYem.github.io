@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Moçambique, jornalista pede legislação apropriada para crimes contra trabalhadores da imprensa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIDkfNIDQ08/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UIDkfNIDQ08"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo Relatório destaca ameaças da mudança climática na África",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bZgJuwGdffc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Semana Mundial da Alimentação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EqL9wUEnxpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EqL9wUEnxpE"
         }
       }
     }
