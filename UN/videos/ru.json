@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день прекращения безнаказанности за преступления против журналистов - 2 ноября",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xvHHkchGqiE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xvHHkchGqiE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день городов - Генсек ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SzhZ8CmfpAk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Как распознать туберкулез - советы специалиста ВОЗ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UMvw8nQIw24/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UMvw8nQIw24"
         }
       }
     }
