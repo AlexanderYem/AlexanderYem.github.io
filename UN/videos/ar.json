@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مدير عام منظمة الصحة العالمية يخضع للحجر الذاتي.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7tx8Jgh1GWM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7tx8Jgh1GWM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "بالتعاون مع الأمم المتحدة، المملكة العربية السعودية تتخذ خطوات ملموسة لمكافحة الاتجار بالبشر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RLBIgq8UcGI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما هي العقوبة المناسبة لجريمة الاغتصاب؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2su14F0N3Rw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2su14F0N3Rw"
         }
       }
     }
