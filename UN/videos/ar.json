@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "منظمة الصحة العالمية تقدم الدعم لمستشفى الحريري في بيروت",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dWovxRCT4w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5dWovxRCT4w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مدير عام منظمة الصحة العالمية يخضع للحجر الذاتي.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tY_dKFmebIk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "هل يؤثر موسم الإنفلونزا على طبيعة التعامل مع جائحة كوفيد-19؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RLBIgq8UcGI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RLBIgq8UcGI"
         }
       }
     }
