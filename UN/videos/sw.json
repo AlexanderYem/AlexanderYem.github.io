@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Wapeni haki wabunge wa upinzani-IPU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-sOnoAlgCI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R-sOnoAlgCI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Afisa polisi wa mwaka 2020 akabidhiwa tuzo.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HzFsvnB1ftM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hivi ndivyo ninavyoufahamu Umoja wa Mataifa-Balozi Tuvako Manongi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nWvr8jS19wY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nWvr8jS19wY"
         }
       }
     }
