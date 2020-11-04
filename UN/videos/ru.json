@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Вячеслав Фетисов, Посол дорой воли ЮНЕП: инициатива по предотвращению изменения климата",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PyHVmrw7k_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PyHVmrw7k_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день прекращения безнаказанности за преступления против журналистов - 2 ноября",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9dQKgcEOI1c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба с коррупцией в контексте COVID-19. Заявление Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SzhZ8CmfpAk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SzhZ8CmfpAk"
         }
       }
     }
