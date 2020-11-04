@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Polícia das Nações Unidas celebra 60 anos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QqkQxTV60oM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QqkQxTV60oM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Moçambique, jornalista pede legislação apropriada para crimes contra trabalhadores da imprensa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a-z4pnmx29M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Corrupção no Contexto da Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bZgJuwGdffc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bZgJuwGdffc"
         }
       }
     }
