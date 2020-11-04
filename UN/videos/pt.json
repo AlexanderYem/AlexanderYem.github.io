@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Policial portuguesa na RCA destaca importância destes profissionais para proteção das populações",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cCNGiHvNcTA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cCNGiHvNcTA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Polícia das Nações Unidas celebra 60 anos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GSbQeiH0FTM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU diz que insegurança alimentar está “a um nível não visto há décadas”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a-z4pnmx29M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a-z4pnmx29M"
         }
       }
     }
