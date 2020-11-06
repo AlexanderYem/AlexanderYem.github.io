@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mобильнaя клиника для Узбекистана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3YRAFSdB1YU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3YRAFSdB1YU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Михаил Гусман, 1-й заместитель гендиректора ТАСС, о 75-летии ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j2UqnaKQw70"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью главы Европейского бюро ВОЗ Ханса Клюге во время визита в Москву, сентябрь 2020 года.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PjMx8yn7agc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PjMx8yn7agc"
         }
       }
     }
