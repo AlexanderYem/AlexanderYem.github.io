@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Policial brasileira no Sudão do Sul fala da importância das mulheres nas missões da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f0GVkjUgMcI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f0GVkjUgMcI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De Portugal, psicólogo fala sobre riscos de bullying nas escolas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SYeBftGHKAA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional para a Erradicação da Pobreza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UFGYqYMGzCo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UFGYqYMGzCo"
         }
       }
     }
