@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Михаил Гусман, 1-й заместитель гендиректора ТАСС, о 75-летии ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1tRtc9qxXMo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1tRtc9qxXMo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Женщина-полицейский года",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PjMx8yn7agc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба за ликвидацию нищеты - Международный день",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qH3EtMSi2eo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qH3EtMSi2eo"
         }
       }
     }
