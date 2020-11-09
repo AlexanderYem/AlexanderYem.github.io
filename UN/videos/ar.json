@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "د. أحمد المنظري يطلع على أوضاع المرضى والعاملين الصحيين في سوريا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8BiIAeqCUZQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8BiIAeqCUZQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"عقدة الناجي\" تلاحق المهاجرة الصحفية الفلسطينية السورية بيسان زرزر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "obPZAsMc-zk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "د. أمجد الخولي: مناعة القطيع عبر الإصابة الطبيعية بالمرض لها تكلفة بشرية وأخلاقية عالية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ntn8ZY6tJsg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ntn8ZY6tJsg"
         }
       }
     }
