@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU-Habitat promove necessidade da Nova Agenda Urbana na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-3fK9X8ysg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x-3fK9X8ysg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Policial brasileira no Sudão do Sul fala da importância das mulheres nas missões da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VuZ0KGgjGzw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres: \"Pandemia de coronavírus aumentou ainda mais a importância dos dados para salvar vidas\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SYeBftGHKAA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SYeBftGHKAA"
         }
       }
     }
