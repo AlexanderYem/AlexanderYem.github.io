@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comitiva da ONU acompanha preparativos para eleições na República Centro-Africana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQK9PnQ9z54/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RQK9PnQ9z54"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU-Habitat promove necessidade da Nova Agenda Urbana na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oy9tjeLWaGs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário geral no 75º aniversário das Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VuZ0KGgjGzw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VuZ0KGgjGzw"
         }
       }
     }
