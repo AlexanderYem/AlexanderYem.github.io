@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El poder viene en pedazos pequeños: la historia de Anne",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Se8hbi2FdoI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Se8hbi2FdoI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Asumir desafíos: la historia de Fiona",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WuiGnNkyWWE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Solidaridad con las personas que viven en la pobreza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9QG-BNoqaa4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9QG-BNoqaa4"
         }
       }
     }

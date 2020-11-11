@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Policial portuguesa fala sobre a missão de paz no Mali, considerada a mais perigosa do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKppJWpqQYw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yKppJWpqQYw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comitiva da ONU acompanha preparativos para eleições na República Centro-Africana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EUdj77YLIyk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU celebra 75 anos com exposição no Museu do Dinheiro e moeda comemorativa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oy9tjeLWaGs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oy9tjeLWaGs"
         }
       }
     }
