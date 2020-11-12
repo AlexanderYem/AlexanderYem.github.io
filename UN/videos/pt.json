@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU pede mais rapidez para alcançar neutralidade de carbono até 2050",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/htAHKGPdWCA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "htAHKGPdWCA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Policial portuguesa fala sobre a missão de paz no Mali, considerada a mais perigosa do mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4OzRHlKYFC4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de Guterres sobre Dia Mundial das Cidades",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EUdj77YLIyk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EUdj77YLIyk"
         }
       }
     }
