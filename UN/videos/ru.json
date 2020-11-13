@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Чистый север - чистая страна. Экспедиция по изучению микропластика в Белом море",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cr4_hjlTrJQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cr4_hjlTrJQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mобильнaя клиника для Узбекистана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Oc4i7F6BS6c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обзор визита д-ра Ханса Клюге, директора Европейского бюро ВОЗ в Россию, сентябрь 2020 г.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j2UqnaKQw70/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j2UqnaKQw70"
         }
       }
     }
