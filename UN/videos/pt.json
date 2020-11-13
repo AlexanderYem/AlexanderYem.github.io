@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "De Portugal, jornalista brasileira fala sobre novas medidas de combate à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wV8onWasAQs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wV8onWasAQs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU pede mais rapidez para alcançar neutralidade de carbono até 2050",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UIDkfNIDQ08"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo Relatório destaca ameaças da mudança climática na África",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4OzRHlKYFC4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4OzRHlKYFC4"
         }
       }
     }
