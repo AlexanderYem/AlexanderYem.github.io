@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como funciona o teste a vacina contra a Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5PTABjWGBJM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5PTABjWGBJM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De Portugal, jornalista brasileira fala sobre novas medidas de combate à Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QqkQxTV60oM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Moçambique, jornalista pede legislação apropriada para crimes contra trabalhadores da imprensa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UIDkfNIDQ08/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UIDkfNIDQ08"
         }
       }
     }
