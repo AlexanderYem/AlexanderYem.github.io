@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS em Moçambique se prepara para chegada de futura vacina contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0aTEtSqID4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K0aTEtSqID4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Como funciona o teste da vacina contra a Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cCNGiHvNcTA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Polícia das Nações Unidas celebra 60 anos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QqkQxTV60oM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QqkQxTV60oM"
         }
       }
     }
