@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "محنة اللاجئين الفارّين من العنف في إثيوبيا مستمرة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tkJhrKbVaOE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tkJhrKbVaOE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تفاؤل حذر من منظمة الصحة العالمية بشأن الأنباء عن لقاحات كوفيد-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mZsBFoPcpFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "منظمة الصحة العالمية تقدم الدعم لمستشفى الحريري في بيروت",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5dWovxRCT4w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5dWovxRCT4w"
         }
       }
     }
