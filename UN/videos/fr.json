@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vendée Globe : quand les marins aident les scientifiques à préserver les océans",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bl9mLjrrb7w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bl9mLjrrb7w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "MINUSCA : UNPOL joue un rôle important dans les opérations de paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jr8ZGWN-byE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : les fausses informations réduisent la confiance dans les autorités et la science",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rhTtAx_2618/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rhTtAx_2618"
         }
       }
     }
