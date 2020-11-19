@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "منظمة الصحة العالمية تتحدث عن ارتفاع حالات كوفيد-19 في عدد من الدول العربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0Ep0K1ju_8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m0Ep0K1ju_8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "محنة اللاجئين الفارّين من العنف في إثيوبيا مستمرة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F5Q9kFifoU0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فاطمة جمعة خميس: مهندسة سودانية تتحدى المألوف وترفض الصور النمطية في مجتمعها",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mZsBFoPcpFU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mZsBFoPcpFU"
         }
       }
     }
