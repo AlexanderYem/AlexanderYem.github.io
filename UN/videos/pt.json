@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência da ONU apoia países lusófonos em transição econômica",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjKpW0Had4c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TjKpW0Had4c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Desinformação no WhatsApp: o que você pode fazer para pará-la?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f0GVkjUgMcI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "De Portugal, psicólogo fala sobre riscos de bullying nas escolas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SclgP7-_IW8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SclgP7-_IW8"
         }
       }
     }
