@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Один шаг. Кампания в защиту женщин-жертв домашнего насилия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1CytgPpyObk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1CytgPpyObk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Чистый север - чистая страна. Экспедиция по изучению микропластика в Белом море",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ha9fN8U9Tkc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день статистики - приветствие Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Oc4i7F6BS6c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Oc4i7F6BS6c"
         }
       }
     }
