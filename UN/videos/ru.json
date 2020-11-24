@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Один шаг. Документальный фильм о борьбе с насилием над женщинами. Промо",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBoeznGdPRg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fBoeznGdPRg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Один шаг. Документальный фильм о защите женщин - жертв домашнего насилия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6HMKYUyrjdU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День ООН - 2020 - обращение Генерального секретаря",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ha9fN8U9Tkc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ha9fN8U9Tkc"
         }
       }
     }
