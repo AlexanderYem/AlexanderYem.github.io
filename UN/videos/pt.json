@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileiro criador de programa premiado pela Unesco explica importância da educação midiática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2ciKvKxIHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p2ciKvKxIHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência da ONU apoia países lusófonos em transição econômica",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x-3fK9X8ysg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Policial brasileira no Sudão do Sul fala da importância das mulheres nas missões da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f0GVkjUgMcI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f0GVkjUgMcI"
         }
       }
     }
