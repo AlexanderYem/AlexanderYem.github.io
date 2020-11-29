@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في يوم التضامن مع الشعب الفلسطيني، معرض صور يهدف إلى التصدي لسياسات الضم الإسرائيلية والجدار الفاصل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ta7rygPRkWQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ta7rygPRkWQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "العراق: مبادرة \"إحياء روح الموصل\" تسعى لإعادة الإعمار وتوفير فرص العمل وتحقيق المصالحة المجتمعية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KcivjeuMyrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ماذا يتمنى الطفل اللبناني حسين في العام المقبل؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zq7QRb3jDig/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zq7QRb3jDig"
         }
       }
     }
