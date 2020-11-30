@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Consequências da Covid-19 no combate ao HIV na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cfjSyaz_cek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cfjSyaz_cek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Turma da Mônica: Juntos pela Igualdade!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yKppJWpqQYw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comitiva da ONU acompanha preparativos para eleições na República Centro-Africana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RQK9PnQ9z54/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RQK9PnQ9z54"
         }
       }
     }
