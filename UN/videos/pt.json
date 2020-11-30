@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Turma da Mônica: Juntos pela Igualdade!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tY_fO2359No/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tY_fO2359No"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileiro criador de programa premiado pela Unesco explica importância da educação midiática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RQK9PnQ9z54"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU-Habitat promove necessidade da Nova Agenda Urbana na Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x-3fK9X8ysg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x-3fK9X8ysg"
         }
       }
     }
