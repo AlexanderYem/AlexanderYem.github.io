@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU destaca importância de voluntários na luta contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mGBH9LBnqTw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mGBH9LBnqTw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres pede mais inclusão e representatividade em Dia Internacional das Pessoas com Deficiência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "K0aTEtSqID4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como funciona o teste da vacina contra a Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5PTABjWGBJM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5PTABjWGBJM"
         }
       }
     }
