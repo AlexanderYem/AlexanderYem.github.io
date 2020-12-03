@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le chef de l’ONU appelle à remettre en état la planète",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHSe_qYFk9A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DHSe_qYFk9A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vendée Globe : quand les marins aident les scientifiques à préserver les océans",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "05JzE1zj9UA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Programme alimentaire mondial reçoit le prix Nobel de la paix 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jr8ZGWN-byE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jr8ZGWN-byE"
         }
       }
     }

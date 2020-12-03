@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: البشر يشنون حربا انتحارية على الطبيعة، ولكنهم قادرون على إيجاد الحلول",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zcoaMY8E13s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zcoaMY8E13s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يطلق خطة دولية لإحياء بيروت \"القلب النابض للبنان\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nJCmv9pQrds"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مدير منظمة الصحة العالمية: حان الوقت كي يتعافى العالم، وينبذ \"القومية المضللة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YDuVDalFVmw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YDuVDalFVmw"
         }
       }
     }
