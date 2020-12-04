@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رغم اللقاح، منظمة الصحة العالمية تشدد على التمسك بالإجراءات الوقائية.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTgeLj2qEU8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kTgeLj2qEU8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليمن لا يحتمل مزيدا من الانتظار لإنهاء الحرب",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m0Ep0K1ju_8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محنة اللاجئين الفارّين من العنف في إثيوبيا مستمرة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tkJhrKbVaOE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tkJhrKbVaOE"
         }
       }
     }

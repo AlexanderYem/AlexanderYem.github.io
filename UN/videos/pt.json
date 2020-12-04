@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Zahira Virani, nova coordenadora residente da ONU em Angola (Parte 1)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_UUNY0bidrw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_UUNY0bidrw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do Brasil na sessão especial da Assembleia Geral sobre vacina contra Covid-19 (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p2ciKvKxIHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agência da ONU apoia países lusófonos em transição econômica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TjKpW0Had4c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TjKpW0Had4c"
         }
       }
     }
