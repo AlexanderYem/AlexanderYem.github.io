@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Coopération entre les Nations Unies et l'Union africaine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ds-AnIILf-M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ds-AnIILf-M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l’ONU appelle à remettre en état la planète",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HozLoNhZiFc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Semaine mondiale de l'alimentation",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/05JzE1zj9UA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "05JzE1zj9UA"
         }
       }
     }
