@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do Brasil na sessão especial da Assembleia Geral sobre vacina contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MofhSEsfShY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MofhSEsfShY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso do presidente de Angola na sessão especial da Assembleia Geral sobre vacina contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oA3gdOMrbbo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oA3gdOMrbbo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU destaca importância de voluntários na luta contra Covid-19",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "TjKpW0Had4c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Desinformação no WhatsApp: o que você pode fazer para pará-la?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2c_cWQ_NDmQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2c_cWQ_NDmQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS em Moçambique se prepara para chegada de futura vacina contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K0aTEtSqID4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K0aTEtSqID4"
         }
       }
     }
