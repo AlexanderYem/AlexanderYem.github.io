@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день добровольцев",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xvg7hiHL_iI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xvg7hiHL_iI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Как обезопаситься от \"перескока\" вирусов от животных к людям. Интервью с Марией Воронцовой",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xvHHkchGqiE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день городов - Генсек ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cIroH123w_Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cIroH123w_Y"
         }
       }
     }
