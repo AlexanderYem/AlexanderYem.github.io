@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do presidente de Moçambique na sessão especial sobre vacina contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TxlN71BR_3U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TxlN71BR_3U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Zahira Virani, nova coordenadora residente da ONU em Angola (Parte 1)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tY_fO2359No"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileiro criador de programa premiado pela Unesco explica importância da educação midiática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p2ciKvKxIHs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p2ciKvKxIHs"
         }
       }
     }
