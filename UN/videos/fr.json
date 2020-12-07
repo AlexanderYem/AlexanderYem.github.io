@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : la MONUSCO déplore des tensions politiques accrues",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8uLUbhHaV8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r8uLUbhHaV8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Coopération entre les Nations Unies et l'Union africaine",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-RGWUb8JQns"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dialoguer avec les jeunes et les groupes religieux pour réduire la transmission de la Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HozLoNhZiFc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HozLoNhZiFc"
         }
       }
     }
