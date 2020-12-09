@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День прав человека. Обращение Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hc8lVIi6TIs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Hc8lVIi6TIs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день добровольцев",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PyHVmrw7k_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день прекращения безнаказанности за преступления против журналистов - 2 ноября",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xvHHkchGqiE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xvHHkchGqiE"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU no Dia dos Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EyDourrOnOU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EyDourrOnOU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do presidente de Moçambique na sessão especial sobre vacina contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vOmNshSMhng"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Turma da Mônica: Juntos pela Igualdade!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tY_fO2359No/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tY_fO2359No"
         }
       }
     }
