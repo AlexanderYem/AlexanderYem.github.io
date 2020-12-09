@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "حوار خاص: جائزة نوبل لبرنامج الأغذية سلطت الضوء على العلاقة بين الغذاء والسلام",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LfKh-vzL_A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2LfKh-vzL_A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رغم اللقاح، منظمة الصحة العالمية تشدد على التمسك بالإجراءات الوقائية.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RDyPDSM6gvI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "منظمة الصحة العالمية تتحدث عن ارتفاع حالات كوفيد-19 في عدد من الدول العربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m0Ep0K1ju_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m0Ep0K1ju_8"
         }
       }
     }
