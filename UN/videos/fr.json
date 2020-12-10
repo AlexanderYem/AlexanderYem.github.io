@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le PAM reçoit le prix Nobel de la paix 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rDTaQrCKKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3rDTaQrCKKE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : la MONUSCO déplore des tensions politiques accrues",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZHJmlm-8KEU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "16 octobre : journée mondiale de l'alimentation",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-RGWUb8JQns/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-RGWUb8JQns"
         }
       }
     }
