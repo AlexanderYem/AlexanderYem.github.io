@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Восстановить лучше, чем было",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Qyxuhk2yzM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7Qyxuhk2yzM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День прав человека. Обращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U3esQJFYG9A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вячеслав Фетисов, Посол доброй воли ЮНЕП: инициатива по предотвращению изменения климата",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PyHVmrw7k_I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PyHVmrw7k_I"
         }
       }
     }
