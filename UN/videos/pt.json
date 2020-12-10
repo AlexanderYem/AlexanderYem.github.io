@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Falando em português, Michelle Bachelet pede reconstrução mais sustentável e justa após a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRTNI5zY5lI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GRTNI5zY5lI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Brasil, Centro de Excelência contra a Fome do PMA ajuda países em todo o mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oA3gdOMrbbo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU destaca importância de voluntários na luta contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mGBH9LBnqTw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mGBH9LBnqTw"
         }
       }
     }
