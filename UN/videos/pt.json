@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Segunda parte da entrevista com Zahira Virani, nova coordenadora residente da ONU em Angola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r1TxImoba1s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r1TxImoba1s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Após fim da Uniogbis, ONU continuará promovendo desenvolvimento socioeconômico na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_UUNY0bidrw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do Brasil na sessão especial da Assembleia Geral sobre vacina contra Covid-19 (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MofhSEsfShY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MofhSEsfShY"
         }
       }
     }
