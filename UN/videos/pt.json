@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vítimas de deslocamento aumentam em Cabo Delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/56bJGOwVgzw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "56bJGOwVgzw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Segunda parte da entrevista com Zahira Virani, nova coordenadora residente da ONU em Angola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TxlN71BR_3U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Zahira Virani, nova coordenadora residente da ONU em Angola (Parte 1)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_UUNY0bidrw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_UUNY0bidrw"
         }
       }
     }
