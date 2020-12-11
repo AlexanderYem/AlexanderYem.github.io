@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Климатические инициативы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmc8fens12A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bmc8fens12A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Восстановить лучше, чем было",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1tRtc9qxXMo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Женщина-полицейский года",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U3esQJFYG9A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U3esQJFYG9A"
         }
       }
     }
