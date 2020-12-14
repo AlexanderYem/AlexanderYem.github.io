@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Msichana mwenye uziwi afunguka!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/apLWoB0lph4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "apLWoB0lph4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Msiwe na shaka, pazeni sauti zenu!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PJYDtDI4C44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Mwanaharakati wa Hisabati??",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/25hPC8heEXs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "25hPC8heEXs"
         }
       }
     }
