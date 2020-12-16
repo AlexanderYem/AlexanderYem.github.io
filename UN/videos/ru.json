@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Вакцины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TXHAJXRrvMQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TXHAJXRrvMQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Климатические инициативы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3YRAFSdB1YU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Михаил Гусман, 1-й заместитель гендиректора ТАСС, о 75-летии ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1tRtc9qxXMo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1tRtc9qxXMo"
         }
       }
     }
