@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "70 anos da Agência da ONU para Refugiados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FpN7AgmNba4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FpN7AgmNba4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vítimas de deslocamento aumentam em Cabo Delgado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EyDourrOnOU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do presidente de Moçambique na sessão especial sobre vacina contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TxlN71BR_3U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TxlN71BR_3U"
         }
       }
     }
