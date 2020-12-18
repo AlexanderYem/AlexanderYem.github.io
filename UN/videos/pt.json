@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como proteger a saúde mental durante a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P95Eut0UJnY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P95Eut0UJnY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "70 anos da Agência da ONU para Refugiados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KuIuKw7UXSk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral da ONU no Dia dos Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EyDourrOnOU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EyDourrOnOU"
         }
       }
     }
