@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Soyez prudents : le virus de la Covid-19 ne part pas en vacances",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMRCWaUMh9c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yMRCWaUMh9c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le PAM reçoit le prix Nobel de la paix 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2q-uBrpohTA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale de la statistique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZHJmlm-8KEU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZHJmlm-8KEU"
         }
       }
     }
