@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les vaccins permettent de sauver 3 millions de vie chaque année",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GSayx-u_UmQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GSayx-u_UmQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Soyez prudents : le virus de la Covid-19 ne part pas en vacances",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dGSgq1zOfr4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Message du Secrétaire général de l'ONU à l'occasion de la Journée des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2q-uBrpohTA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2q-uBrpohTA"
         }
       }
     }
