@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Situation en République centrafricaine : conférence de presse de Mankeur Ndiaye, chef de la MINUSCA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wxmYvwmqrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1wxmYvwmqrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les vaccins permettent de sauver 3 millions de vie chaque année",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HZ_gVFgXEtg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Déborah Nguyen : travailler pour le PAM, c'est une vocation, une passion",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dGSgq1zOfr4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dGSgq1zOfr4"
         }
       }
     }
