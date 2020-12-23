@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com a Conselheira especial do secretário-geral da ONU para a África",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6LGx1PU9yUA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6LGx1PU9yUA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Coordenador residente na Guiné-Bissau explica transição no encerramento da Missão da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wNXCJ80oUMw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Moçambique, Rafael ajuda a comunicar missão do PMA contra fome no mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K2ZSyEEqbWE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K2ZSyEEqbWE"
         }
       }
     }
