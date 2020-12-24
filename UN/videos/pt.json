@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal anuncia toque de recolher no Natal e Ano Novo para conter Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NO4g1va6Dyw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NO4g1va6Dyw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com a Conselheira especial do secretário-geral da ONU para a África",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GRTNI5zY5lI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Brasil, Centro de Excelência contra a Fome do PMA ajuda países em todo o mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wNXCJ80oUMw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wNXCJ80oUMw"
         }
       }
     }
