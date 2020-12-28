@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Новогоднее обращение Генсека ООН Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gcA8M3nVPnk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gcA8M3nVPnk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Вакцины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cr4_hjlTrJQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mобильнaя клиника для Узбекистана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3YRAFSdB1YU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3YRAFSdB1YU"
         }
       }
     }

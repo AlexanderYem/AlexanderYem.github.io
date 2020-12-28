@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entenda como o novo coronavírus se propaga pelo ar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Y2eYy2MFaQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-Y2eYy2MFaQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal anuncia toque de recolher no Natal e Ano Novo para conter Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XVmB4AQ2dwA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Falando em português, Michelle Bachelet pede reconstrução mais sustentável e justa após a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GRTNI5zY5lI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GRTNI5zY5lI"
         }
       }
     }
