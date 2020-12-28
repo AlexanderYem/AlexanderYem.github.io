@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Tunawashukuru sana!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hChjizPKcaU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hChjizPKcaU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Kitenge na blanketi pia!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bSa9AgLvFLw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Msichana mwenye uziwi afunguka!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/apLWoB0lph4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "apLWoB0lph4"
         }
       }
     }
