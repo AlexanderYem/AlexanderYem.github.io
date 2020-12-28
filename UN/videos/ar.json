@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كوفيد-19 وفرص التدريب في الأمم المتحدة: تجربة شابة مغربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tPd-U025-M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3tPd-U025-M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "منظمة الصحة العالمية ترد على أسئلتكم حول فعالية وأمان اللقاحات وطبيعة الفيروس المتغير",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wsC1EHSDqVg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار خاص: جائزة نوبل لبرنامج الأغذية سلطت الضوء على العلاقة بين الغذاء والسلام",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2LfKh-vzL_A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2LfKh-vzL_A"
         }
       }
     }
