@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em mensagem de Ano Novo, secretário-geral da ONU relembra os desafios de 2020",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KwoASmEN4A4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KwoASmEN4A4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entenda como o novo coronavírus se propaga pelo ar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "r1TxImoba1s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Após fim da Uniogbis, ONU continuará promovendo desenvolvimento socioeconômico na Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XVmB4AQ2dwA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XVmB4AQ2dwA"
         }
       }
     }

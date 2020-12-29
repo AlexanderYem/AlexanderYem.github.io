@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mwaka 2020 umetububujisha machozi!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gM7fMOM6SSM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gM7fMOM6SSM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Tunawashukuru sana!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GzuzrQ_-w7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Ni kama nimekufa ingawa ni hai!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bSa9AgLvFLw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bSa9AgLvFLw"
         }
       }
     }
