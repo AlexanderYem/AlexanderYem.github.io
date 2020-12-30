@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU prepara chegada de tempestade tropical Chalane em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QtXVRTdhxnE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QtXVRTdhxnE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em mensagem de Ano Novo, secretário-geral da ONU relembra os desafios de 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "56bJGOwVgzw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Segunda parte da entrevista com Zahira Virani, nova coordenadora residente da ONU em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r1TxImoba1s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r1TxImoba1s"
         }
       }
     }
