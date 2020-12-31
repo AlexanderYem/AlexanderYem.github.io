@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Elections en République centrafricaine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XcSLxc0yh_k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XcSLxc0yh_k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2021 : une année placée sous le signe de la guérison.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bl9mLjrrb7w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "MINUSCA : UNPOL joue un rôle important dans les opérations de paix",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6vstyo2wYr4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6vstyo2wYr4"
         }
       }
     }
