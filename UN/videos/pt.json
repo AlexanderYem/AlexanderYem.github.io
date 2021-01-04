@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conselheira da ONU para África diz que ano foi de desafios e oportunidades",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ecCV8QU_Ju4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ecCV8QU_Ju4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brian Urquhart, funcionário lendário da ONU, morre aos 101 anos (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P95Eut0UJnY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "70 anos da Agência da ONU para Refugiados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FpN7AgmNba4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FpN7AgmNba4"
         }
       }
     }
