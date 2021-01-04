@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brian Urquhart, funcionário lendário da ONU, morre aos 101 anos (em inglês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwwJ3fHTciI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QwwJ3fHTciI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU se prepara para chegada da tempestade tropical Chalane em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FpN7AgmNba4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vítimas de deslocamento aumentam em Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/56bJGOwVgzw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "56bJGOwVgzw"
         }
       }
     }
