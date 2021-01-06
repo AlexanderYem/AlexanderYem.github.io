@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS elogia resposta de Timor-Leste contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8l8nBeKxgHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8l8nBeKxgHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conselheira da ONU para África diz que ano foi de desafios e oportunidades",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "91mTm8egp4w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como proteger a saúde mental durante a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P95Eut0UJnY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P95Eut0UJnY"
         }
       }
     }
