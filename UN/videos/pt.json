@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU ouviu mais de 1,5 milhão de pessoas para marcar 75 anos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCkLH8WsSus/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BCkLH8WsSus"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Quais são os três tipos de teste para a Covid-19?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6LGx1PU9yUA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Coordenador residente na Guiné-Bissau explica transição no encerramento da Missão da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qcLe1pUbWJs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qcLe1pUbWJs"
         }
       }
     }
