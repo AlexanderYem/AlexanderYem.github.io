@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "د. تيدروس يحذر من إجراءات قدر ترفع أسعار اللقاحات وتؤثر على حصول الفئات الأضعف على اللقاح",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/StLAV1BXN64/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "StLAV1BXN64"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمجد العداربة: فئة اللاجئين هي الفئة الأكثر عرضة وهشاشة للمستغلين والجماعات الإجرامية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cOtQbM76RwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الفاو: الزراعة الأسرية تطعم العالم وقادرة على تحقيق التنمية الشاملة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x3QtdNjN6iM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x3QtdNjN6iM"
         }
       }
     }
