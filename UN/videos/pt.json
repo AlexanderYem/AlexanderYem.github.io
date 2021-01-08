@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Quais são os três tipos de teste para a Covid-19?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tp3EoGPKgcY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Tp3EoGPKgcY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS elogia resposta de Timor-Leste contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qcLe1pUbWJs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU e Guiné-Bissau juntas em ação para mudar o paradigma de aproveitamento das frutas tropicais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/91mTm8egp4w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "91mTm8egp4w"
         }
       }
     }
