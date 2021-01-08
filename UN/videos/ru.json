@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Кто защищает права людей с инвалидностью в России?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AIpe6OfDpO4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AIpe6OfDpO4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Новогоднее обращение Генсека ООН Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1CytgPpyObk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Чистый север - чистая страна. Экспедиция по изучению микропластика в Белом море",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cr4_hjlTrJQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cr4_hjlTrJQ"
         }
       }
     }
