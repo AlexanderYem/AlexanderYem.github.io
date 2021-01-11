@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conheça o atleta olímpico refugiado que foi nomeado Embaixador da Boa Vontade do Acnur",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTQQYwgtSsk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TTQQYwgtSsk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU ouviu mais de 1,5 milhão de pessoas para marcar 75 anos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NO4g1va6Dyw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com a Conselheira especial do secretário-geral da ONU para a África",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6LGx1PU9yUA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6LGx1PU9yUA"
         }
       }
     }
