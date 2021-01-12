@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير الشؤون الخارجية التونسي يحذر من استغلال الإرهابيين للتداعيات المترتبة على كوفيد-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NqU9Ll-RM_E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NqU9Ll-RM_E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مفوضة حقوق الإنسان: الاعتداء على الكونغرس يظهر الأثر المدمر للتحريض على العنف والكراهية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "adlqRk_aIkk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الشتاء يحل ضيفا ثقيلا مرة أخرى على اللاجئين السوريين في لبنان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/umbmW3z-XPE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "umbmW3z-XPE"
         }
       }
     }
