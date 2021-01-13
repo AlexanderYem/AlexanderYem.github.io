@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo relatório da OIT revela tendência de aumento do trabalho em casa para os próximos anos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8IGms6jNoU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y8IGms6jNoU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conheça o atleta olímpico refugiado que foi nomeado Embaixador da Boa Vontade do Acnur",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-Y2eYy2MFaQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal anuncia toque de recolher no Natal e Ano Novo para conter Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NO4g1va6Dyw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NO4g1va6Dyw"
         }
       }
     }
