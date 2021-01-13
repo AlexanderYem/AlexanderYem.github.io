@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Jinsi ya kuishi wakati wa COVID-19.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CuF-y_XqkY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_CuF-y_XqkY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Shemeji alinionea, nikapambana!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WtJ3Kmzuwrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Mjamzito akumbuka nyumbani!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/akrZhtCg2yA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "akrZhtCg2yA"
         }
       }
     }
