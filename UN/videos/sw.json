@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Uganda inaamua. Mwanamke ana nafasi gani katika uchaguzi?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXrFqa2ys0c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yXrFqa2ys0c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Jinsi ya kuishi wakati wa COVID-19.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sKw3zb3-RXk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - Yaliyojiri 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WtJ3Kmzuwrs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WtJ3Kmzuwrs"
         }
       }
     }
