@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "République centrafricaine : un casque bleu tué dans une attaque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-AZcIcWP3Vk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-AZcIcWP3Vk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A la mémoire de Sir Brian Urquhart",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ds-AnIILf-M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le chef de l’ONU appelle à remettre en état la planète",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DHSe_qYFk9A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DHSe_qYFk9A"
         }
       }
     }
