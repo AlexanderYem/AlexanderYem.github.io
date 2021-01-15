@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Обращение Генсека ООН по поводу 2 млн смертей от COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1at8hLwZTlY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1at8hLwZTlY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Кто защищает права людей с инвалидностью в России?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fBoeznGdPRg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Один шаг. Документальный фильм о защите женщин - жертв домашнего насилия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1CytgPpyObk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1CytgPpyObk"
         }
       }
     }

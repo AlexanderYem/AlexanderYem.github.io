@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Shule za Kenya dhidi ya COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LFLD9-vIyWQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LFLD9-vIyWQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Watu milioni 2 wafa kwa Corona duniani kote!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ujGCA02hXqc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Nyumbani ni nyumbani, nje hali ni tete.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LlUSsIR_yVs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LlUSsIR_yVs"
         }
       }
     }

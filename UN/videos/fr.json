@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Deux millions de personnes mortes de la Covid-19 - Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EEp05HYhhJ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EEp05HYhhJ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "République centrafricaine : un casque bleu tué dans une attaque",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "r8uLUbhHaV8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Coopération entre les Nations Unies et l'Union africaine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ds-AnIILf-M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ds-AnIILf-M"
         }
       }
     }
