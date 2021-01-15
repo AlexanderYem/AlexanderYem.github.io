@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Watu milioni 2 wafa kwa Corona duniani kote!!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yN6XzdzuylQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yN6XzdzuylQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - 2020 miongoni mwa miaka mitatu iliyokuwa na joto kali.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LlUSsIR_yVs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Maandishi ya 'Braille' yaligunduliwa na Braille.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sjMvKyrUER0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sjMvKyrUER0"
         }
       }
     }

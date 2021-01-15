@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mundo chega a 2 milhões de mortos por Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3D-HpWH3RMI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3D-HpWH3RMI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo relatório da OIT revela tendência de aumento do trabalho em casa para os próximos anos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KwoASmEN4A4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entenda como o novo coronavírus se propaga pelo ar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-Y2eYy2MFaQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-Y2eYy2MFaQ"
         }
       }
     }
