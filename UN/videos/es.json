@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un mundo más solidario, en memoria de 2 millones de personas fallecidas por COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-IS6MRBk4E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8-IS6MRBk4E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres: 2021, un año para sanar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "szlP0P49o50"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Una fuente de esperanza: la historia de Ragini",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/izBGKX68pyQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "izBGKX68pyQ"
         }
       }
     }
