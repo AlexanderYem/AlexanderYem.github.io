@@ -125,7 +125,7 @@
           }
         ],
         "pickup": true,
-        "released": false,
+        "released": true,
         "paymentMethod": "PAID",
         "comment": "",
         "phone": "77005206831",
