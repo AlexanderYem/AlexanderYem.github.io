@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Asante sana Tanzania",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZSBosreIrk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eZSBosreIrk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Shule za Kenya dhidi ya COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_wtlYVtxCPM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Wanajeshi waliouawa, waagwa.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ujGCA02hXqc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ujGCA02hXqc"
         }
       }
     }
