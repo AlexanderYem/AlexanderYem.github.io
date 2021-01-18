@@ -124,7 +124,7 @@
             "status": "AVAILABLE"
           }
         ],
-        "pickup": false,
+        "pickup": true,
         "released": false,
         "paymentMethod": "PAID",
         "comment": "",
