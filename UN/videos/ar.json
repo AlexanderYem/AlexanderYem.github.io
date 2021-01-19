@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يدعو إلى الإتاحة العادلة للقاحات كوفيد-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtynlTx3Qa8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DtynlTx3Qa8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "خلقت الجائحة مزيجا خطيرا ورتبت كلفة إنسانية مع استمرار النزاعات والصراعات في عدد من الجبهات المفتوحة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xxdGoehoCVw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "شخصية استثنائية: توديع المسؤول الأممي البارز سير براين إيركَت، ثاني شخص يُعين في الأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z8CAvlq8KTQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Z8CAvlq8KTQ"
         }
       }
     }
