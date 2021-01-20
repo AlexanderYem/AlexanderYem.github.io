@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ЮНЕП: Как защитить диких животных от последствий пандемии?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RldibllhW7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RldibllhW7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обращение Генсека ООН по поводу 2 млн смертей от COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z99t1G8erx4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Один шаг. Документальный фильм о борьбе с насилием над женщинами. Промо",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fBoeznGdPRg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fBoeznGdPRg"
         }
       }
     }
