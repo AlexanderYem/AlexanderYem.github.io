@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Он ждал паспорта 28 лет",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nsfAAve9SQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0nsfAAve9SQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ЮНЕП: Как защитить диких животных от последствий пандемии?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Xvg7hiHL_iI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Как обезопаситься от \"перескока\" вирусов от животных к людям. Интервью с Марией Воронцовой",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z99t1G8erx4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z99t1G8erx4"
         }
       }
     }
