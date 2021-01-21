@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "l'Accord de Paris est solide",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zu34oAcq0g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7zu34oAcq0g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Deux millions de personnes mortes de la Covid-19 - Message du Secrétaire général de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3rDTaQrCKKE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : la MONUSCO déplore des tensions politiques accrues",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r8uLUbhHaV8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r8uLUbhHaV8"
         }
       }
     }
