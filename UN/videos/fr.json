@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrée en vigueur du Traité sur l'interdiction des armes nucléaires",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y67_hoVilzM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y67_hoVilzM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "En Centrafrique, la situation demeure tendue",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GSayx-u_UmQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Soyez prudents : le virus de la Covid-19 ne part pas en vacances",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yMRCWaUMh9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yMRCWaUMh9c"
         }
       }
     }
