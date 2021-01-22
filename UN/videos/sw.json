@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Tunashukuru kwa msaada kutoka TANZBATT-7",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K84g5N8KpKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K84g5N8KpKM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-TANZBATT-7 wazipumzisha bunduki DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yXrFqa2ys0c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Jinsi ya kuishi wakati wa COVID-19.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_CuF-y_XqkY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_CuF-y_XqkY"
         }
       }
     }
