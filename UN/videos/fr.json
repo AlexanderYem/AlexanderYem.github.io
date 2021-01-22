@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "En Centrafrique, la situation demeure tendue",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZEBX_tBS04/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_ZEBX_tBS04"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "l'Accord de Paris est solide",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yMRCWaUMh9c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le PAM reçoit le prix Nobel de la paix 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3rDTaQrCKKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3rDTaQrCKKE"
         }
       }
     }
