@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tratado de Proibição de Armas Nucleares entra em vigor",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_MoIJuTN4QE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_MoIJuTN4QE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIM quer inclusão de migrantes na imunização contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QwwJ3fHTciI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU se prepara para chegada da tempestade tropical Chalane em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QtXVRTdhxnE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QtXVRTdhxnE"
         }
       }
     }

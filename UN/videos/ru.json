@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Договор о запрещении ядерного оружия вступил в силу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5L4C1vaJ4U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M5L4C1vaJ4U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Он ждал паспорта 28 лет",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hc8lVIi6TIs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день добровольцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xvg7hiHL_iI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xvg7hiHL_iI"
         }
       }
     }
