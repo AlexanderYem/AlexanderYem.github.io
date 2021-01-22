@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-TANZBATT-7 wazipumzisha bunduki DRC.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ACaUHyqQPPU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ACaUHyqQPPU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Ni mashujaa wetu.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_CuF-y_XqkY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Shemeji alinionea, nikapambana!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B0lxudzMq1w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B0lxudzMq1w"
         }
       }
     }
