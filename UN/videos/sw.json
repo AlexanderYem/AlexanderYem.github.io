@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Kuanzia Uholanzi, Zambia, Msumbuji hadi Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MsCvjuTn7QE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MsCvjuTn7QE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Tunashukuru kwa msaada kutoka TANZBATT-7",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1X2gFd5L0ak"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Uganda inaamua. Mwanamke ana nafasi gani katika uchaguzi?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yXrFqa2ys0c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yXrFqa2ys0c"
         }
       }
     }
