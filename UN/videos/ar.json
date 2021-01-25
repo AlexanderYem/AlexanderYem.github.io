@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "إثر تقارير عن اعتراض هجوم جوي ضد الرياض، الأمم المتحدة تدين كل الهجمات ضد المدنيين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytD86PfYiVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ytD86PfYiVM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "د. فاوتشي: \"يشرفني أن أعلن أن الولايات المتحدة ستبقى عضوة في منظمة الصحة العالمية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "StLAV1BXN64"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أمجد العداربة: فئة اللاجئين هي الفئة الأكثر عرضة وهشاشة للمستغلين والجماعات الإجرامية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6zf8SVOQfY0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6zf8SVOQfY0"
         }
       }
     }

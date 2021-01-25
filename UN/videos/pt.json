@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - Vacinação para Migrantes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_3XUIdBpfDA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_3XUIdBpfDA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral no Dia Internacional da Educação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Tp3EoGPKgcY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS elogia resposta de Timor-Leste contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8l8nBeKxgHw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8l8nBeKxgHw"
         }
       }
     }
