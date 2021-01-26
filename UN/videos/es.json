@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensaje del Secretario General",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dr25eqNOF1o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dr25eqNOF1o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Un mundo más solidario, en memoria de 2 millones de personas fallecidas por COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Se8hbi2FdoI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Asumir desafíos: la historia de Fiona",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/szlP0P49o50/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "szlP0P49o50"
         }
       }
     }
