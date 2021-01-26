@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الولايات المتحدة تحث على تجنب الخطوات الأحادية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRWQt9DXQio/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dRWQt9DXQio"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "إثر تقارير عن اعتراض هجوم جوي ضد الرياض، الأمم المتحدة تدين كل الهجمات ضد المدنيين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ltJJ0lzf9sA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "د. تيدروس يحذر من إجراءات قدر ترفع أسعار اللقاحات وتؤثر على حصول الفئات الأضعف على اللقاح",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/StLAV1BXN64/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "StLAV1BXN64"
         }
       }
     }
