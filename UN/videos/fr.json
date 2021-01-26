@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tMipDPNhyoo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tMipDPNhyoo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrée en vigueur du Traité sur l'interdiction des armes nucléaires",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1wxmYvwmqrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les vaccins permettent de sauver 3 millions de vie chaque année",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GSayx-u_UmQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GSayx-u_UmQ"
         }
       }
     }
