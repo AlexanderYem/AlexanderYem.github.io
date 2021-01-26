@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU muito preocupada com situação humanitária em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSpDQSO4W24/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zSpDQSO4W24"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - Vacinação para Migrantes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BCkLH8WsSus"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Quais são os três tipos de teste para a Covid-19?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tp3EoGPKgcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Tp3EoGPKgcY"
         }
       }
     }
