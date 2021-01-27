@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU apoia Moçambique na resposta a ciclone Eloíse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OvssegR1Ixk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OvssegR1Ixk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres afirma que “antissemitismo, infelizmente, continua muito vivo”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y8IGms6jNoU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conheça o atleta olímpico refugiado que foi nomeado Embaixador da Boa Vontade do Acnur",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TTQQYwgtSsk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TTQQYwgtSsk"
         }
       }
     }
