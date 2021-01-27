@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres afirma que “antissemitismo, infelizmente, continua muito vivo”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/45BMUZ9xkJM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "45BMUZ9xkJM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU muito preocupada com situação humanitária em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TTQQYwgtSsk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU ouviu mais de 1,5 milhão de pessoas para marcar 75 anos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BCkLH8WsSus/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BCkLH8WsSus"
         }
       }
     }
