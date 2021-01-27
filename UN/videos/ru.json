@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Антониу Гутерриша к Международному дню памяти о жертвах Холокоста",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDH8PxCAzp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zDH8PxCAzp8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Договор о запрещении ядерного оружия вступил в силу",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7Qyxuhk2yzM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День прав человека. Обращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hc8lVIi6TIs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hc8lVIi6TIs"
         }
       }
     }
