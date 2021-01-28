@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Vipaumbele vya Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EV_Qmsj0jyk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EV_Qmsj0jyk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Simu badala ya ulimi.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Sc5Oo8-Y_9s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Asante sana Tanzania",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eZSBosreIrk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eZSBosreIrk"
         }
       }
     }
