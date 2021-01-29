@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Ndoto imetimia.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2A4mk650P1o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2A4mk650P1o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chonde chonde kila mtu apate chanjo ya COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vQQeSHbyC2A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Mshindi wa Tuzo za Kiswahili",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r9_VC8Crzz8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r9_VC8Crzz8"
         }
       }
     }
