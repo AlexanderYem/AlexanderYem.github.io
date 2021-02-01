@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - processos judiciais por mudança climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-z53Tzq8ctA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-z53Tzq8ctA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ESPECIAL: ONU apoia Moçambique na resposta ao ciclone Eloíse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3D-HpWH3RMI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo relatório da OIT revela tendência de aumento do trabalho em casa para os próximos anos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y8IGms6jNoU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y8IGms6jNoU"
         }
       }
     }
