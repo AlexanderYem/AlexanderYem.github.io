@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Representante do Unfpa em Moçambique fala da proteção aos afetados pelo ciclone Eloíse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rgmO-Kdj9hE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rgmO-Kdj9hE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - processos judiciais por mudança climática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HqfdIvdKwo8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mundo chega a 2 milhões de mortos por Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3D-HpWH3RMI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3D-HpWH3RMI"
         }
       }
     }
