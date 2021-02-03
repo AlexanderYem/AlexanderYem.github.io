@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Tunakula udongo na rojo la ukwaju.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DnNPXaGv1lE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DnNPXaGv1lE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Kusafirishwa kiharamu.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MsCvjuTn7QE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Tunashukuru kwa msaada kutoka TANZBATT-7",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K84g5N8KpKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K84g5N8KpKM"
         }
       }
     }
