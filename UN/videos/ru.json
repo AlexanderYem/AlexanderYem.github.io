@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЧЕЛОВЕЧЕСКОГО БРАТСТВА",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kC3JvF4Pgiw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kC3JvF4Pgiw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Антониу Гутерриша к Международному дню памяти о жертвах Холокоста",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bmc8fens12A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Восстановить лучше, чем было",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7Qyxuhk2yzM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7Qyxuhk2yzM"
         }
       }
     }

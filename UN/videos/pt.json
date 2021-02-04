@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário geral para o Dia Internacional da Fraternidade Humana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RggFBpw1sgs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RggFBpw1sgs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Representante do Unfpa em Moçambique fala da proteção aos afetados pelo ciclone Eloíse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_MoIJuTN4QE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIM quer inclusão de migrantes na imunização contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HqfdIvdKwo8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HqfdIvdKwo8"
         }
       }
     }
