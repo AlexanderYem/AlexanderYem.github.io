@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OIM em Moçambique fala dos desafios da ajuda humanitária aos afetados pelo ciclone Eloíse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQohrn22me0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dQohrn22me0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário geral para o Dia Internacional da Fraternidade Humana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-x8Ynl6C7fw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tratado de Proibição de Armas Nucleares entra em vigor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_MoIJuTN4QE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_MoIJuTN4QE"
         }
       }
     }
