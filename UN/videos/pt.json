@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "António Guterres marca ia Internacional das Mulheres e Meninas na Ciência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5HitYvYf64/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N5HitYvYf64"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIM em Moçambique fala dos desafios da ajuda humanitária aos afetados pelo ciclone Eloíse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NnO0rVPgVi4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Organização Pan-Americana da Saúde reforça equipes em Manaus contra pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-x8Ynl6C7fw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-x8Ynl6C7fw"
         }
       }
     }
