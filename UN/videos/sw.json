@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Siku ya mikunde.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9JhdTxKetmc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9JhdTxKetmc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Adui wa mbuzi ni mamba.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q5mL9eXhIBA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Vipaumbele vya Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EV_Qmsj0jyk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EV_Qmsj0jyk"
         }
       }
     }

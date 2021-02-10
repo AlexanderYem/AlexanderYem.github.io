@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЖЕНЩИН И ДЕВОЧЕК В НАУКЕ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMWv74ONimA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rMWv74ONimA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЧЕЛОВЕЧЕСКОГО БРАТСТВА",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TXHAJXRrvMQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Климатические инициативы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bmc8fens12A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bmc8fens12A"
         }
       }
     }
