@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - aumenta número de tráfico de pessoas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vb7-Om9PUsA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vb7-Om9PUsA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "António Guterres marca ia Internacional das Mulheres e Meninas na Ciência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_3XUIdBpfDA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral no Dia Internacional da Educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NnO0rVPgVi4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NnO0rVPgVi4"
         }
       }
     }
