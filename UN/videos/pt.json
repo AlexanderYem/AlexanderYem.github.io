@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "No Brasil, campanha \"Todos Pelas Vacinas\" ocupa Sambódromo de São Paulo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/36acYpttruo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "36acYpttruo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Programa Mundial de Alimentos usa drones para responder a desastres de forma rápida e precisa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "45BMUZ9xkJM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU muito preocupada com situação humanitária em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zSpDQSO4W24/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zSpDQSO4W24"
         }
       }
     }
