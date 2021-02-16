@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Harusi ukimbizini.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wb6oTZShuco/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wb6oTZShuco"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Redio inakufa?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tYcdV9Pnsiw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Tunakula udongo na rojo la ukwaju.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DnNPXaGv1lE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DnNPXaGv1lE"
         }
       }
     }

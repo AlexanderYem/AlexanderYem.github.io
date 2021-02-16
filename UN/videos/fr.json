@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sommet du G5 Sahel : Le chef de l'ONU appelle à aller au-delà de la seule réponse sécuritaire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/828KIXFFX7w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "828KIXFFX7w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UBuS0CrDhfw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Situation en République centrafricaine : conférence de presse de Mankeur Ndiaye, chef de la MINUSCA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1wxmYvwmqrs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1wxmYvwmqrs"
         }
       }
     }
