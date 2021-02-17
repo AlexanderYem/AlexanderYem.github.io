@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أنطونيو غوتيريش: يجب أن نضمن أن الجميع في كل مكان يمكن تطعيمهم في أسرع وقت ممكن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EnxyyxXZa4o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EnxyyxXZa4o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "د.حنان بلخي: ننتظر المزيد من الدراسات لتخبرنا كيف يتصرف فيروس كورونا في فصل الشتاء والصيف",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dRWQt9DXQio"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "إثر تقارير عن اعتراض هجوم جوي ضد الرياض، الأمم المتحدة تدين كل الهجمات ضد المدنيين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ytD86PfYiVM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ytD86PfYiVM"
         }
       }
     }
