@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - OMS investiga origens da Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oE0KISQZvw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oE0KISQZvw8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pós-vacina: uso de máscara e cuidados com a higiene devem continuar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-z53Tzq8ctA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ESPECIAL: ONU apoia Moçambique na resposta ao ciclone Eloíse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OvssegR1Ixk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OvssegR1Ixk"
         }
       }
     }
