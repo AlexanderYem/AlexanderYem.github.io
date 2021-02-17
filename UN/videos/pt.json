@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pós-vacina: uso de máscara e cuidados com a higiene devem continuar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0ptfhbhoE0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i0ptfhbhoE0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Brasil, campanha \"Todos Pelas Vacinas\" ocupa Sambódromo de São Paulo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OvssegR1Ixk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres afirma que “antissemitismo, infelizmente, continua muito vivo”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/45BMUZ9xkJM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "45BMUZ9xkJM"
         }
       }
     }
