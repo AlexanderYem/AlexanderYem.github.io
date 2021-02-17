@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Ninagawana fedha na wenzangu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma_odyekq0E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ma_odyekq0E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kikosi kimoja chaaga kingine chapokea mikoba DRC!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BLs3TproRdM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Maharagwe ya Jesca",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nZ7VCs5IUzM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nZ7VCs5IUzM"
         }
       }
     }
