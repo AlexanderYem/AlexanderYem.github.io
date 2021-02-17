@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "د.حنان بلخي: ننتظر المزيد من الدراسات لتخبرنا كيف يتصرف فيروس كورونا في فصل الشتاء والصيف",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3mwJht-n-Ko/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3mwJht-n-Ko"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "متى تنتهي الجائحة؟ يخشى البعض أنها سترافقنا لأعوام طويلة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cLzbPJ6nWa4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cLzbPJ6nWa4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "السفيرة هيفاء أبو غزالة: وجود المرأة على طاولة المفاوضات حتمي لتحقيق السلام وإدامته",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ytD86PfYiVM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "د. فاوتشي: \"يشرفني أن أعلن أن الولايات المتحدة ستبقى عضوة في منظمة الصحة العالمية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A4VepzuxqKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A4VepzuxqKM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدعو إلى الإتاحة العادلة للقاحات كوفيد-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DtynlTx3Qa8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DtynlTx3Qa8"
         }
       }
     }
