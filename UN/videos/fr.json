@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'ONU combat le racisme dans le monde et en son sein.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQmR5AZiRuw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xQmR5AZiRuw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sommet du G5 Sahel : Le chef de l'ONU appelle à aller au-delà de la seule réponse sécuritaire",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XcSLxc0yh_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2021 : une année placée sous le signe de la guérison.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UBuS0CrDhfw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UBuS0CrDhfw"
         }
       }
     }
