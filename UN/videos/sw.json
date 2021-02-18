@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Jembe mjini.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQn2B2ytRUI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nQn2B2ytRUI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Ninagawana fedha na wenzangu.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9JhdTxKetmc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Adui wa mbuzi ni mamba.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BLs3TproRdM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BLs3TproRdM"
         }
       }
     }
