@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileira ganha prêmio global com plataforma para apoiar mulheres que viajam sozinhas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAgML9pAg6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kAgML9pAg6s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - OMS investiga origens da Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rgmO-Kdj9hE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional - processos judiciais por mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-z53Tzq8ctA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-z53Tzq8ctA"
         }
       }
     }
