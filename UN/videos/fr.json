@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "António Guterres :  l'impact de la Covid-19 sur les droits civils & politiques",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI44H4X7eZ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sI44H4X7eZ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'ONU combat le racisme dans le monde et en son sein.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F2TFL6GQOjg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Elections en République centrafricaine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XcSLxc0yh_k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XcSLxc0yh_k"
         }
       }
     }
