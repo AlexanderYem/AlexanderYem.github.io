@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - sanções contra a Venezuela",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4lhEGnuwFx4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4lhEGnuwFx4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileira ganha prêmio global com plataforma para apoiar mulheres que viajam sozinhas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RggFBpw1sgs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Representante do Unfpa em Moçambique fala da proteção aos afetados pelo ciclone Eloíse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rgmO-Kdj9hE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rgmO-Kdj9hE"
         }
       }
     }
