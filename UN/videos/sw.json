@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Kazi kidijitali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/63dsr1xjAxk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "63dsr1xjAxk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Unaweza kuongea kwa lugha mama?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PTKjRS3xFcQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chun Jie Kuai Le!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uajz7wRbTig/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uajz7wRbTig"
         }
       }
     }
