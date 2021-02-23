@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Répercussions de la crise climatique sur la paix et la sécurité internationales",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aCQlpLjGbdg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aCQlpLjGbdg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "António Guterres :  l'impact de la Covid-19 sur les droits civils & politiques",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3PkiIFp1_K0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A la mémoire de Sir Brian Urquhart",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F2TFL6GQOjg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F2TFL6GQOjg"
         }
       }
     }
