@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "RCA : Renfort de troupes demandé pour la MINUSCA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JyjZoTc2hys/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JyjZoTc2hys"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mali : la MINUSMA continuera ses efforts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XHMIVBiTOJA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XHMIVBiTOJA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Répercussions de la crise climatique sur la paix et la sécurité internationales",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "7zu34oAcq0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Deux millions de personnes mortes de la Covid-19 - Message du Secrétaire général de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EEp05HYhhJ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EEp05HYhhJ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "République centrafricaine : un casque bleu tué dans une attaque",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3PkiIFp1_K0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3PkiIFp1_K0"
         }
       }
     }
