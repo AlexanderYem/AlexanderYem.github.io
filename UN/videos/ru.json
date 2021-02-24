@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Наталья Водянова",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRPySbKlwFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jRPySbKlwFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЖЕНЩИН И ДЕВОЧЕК В НАУКЕ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gcA8M3nVPnk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вакцины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TXHAJXRrvMQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TXHAJXRrvMQ"
         }
       }
     }

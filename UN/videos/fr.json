@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Il y a un an : appel à l’action pour les droits de l’homme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xgwT87jAkJ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xgwT87jAkJ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RCA : Renfort de troupes demandé pour la MINUSCA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_ZEBX_tBS04"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "l'Accord de Paris est solide",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7zu34oAcq0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7zu34oAcq0g"
         }
       }
     }

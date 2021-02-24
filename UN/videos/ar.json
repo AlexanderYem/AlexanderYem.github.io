@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بدء توزيع لقاحات كوفيد-19 على الدول الضعيفة عبر مرفق كوفاكس العالمي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3jFvpRjU80/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G3jFvpRjU80"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أنطونيو غوتيريش: يجب أن نضمن أن الجميع في كل مكان يمكن تطعيمهم في أسرع وقت ممكن",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d9eCGr-_v2s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الولايات المتحدة تحث على تجنب الخطوات الأحادية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dRWQt9DXQio/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dRWQt9DXQio"
         }
       }
     }
