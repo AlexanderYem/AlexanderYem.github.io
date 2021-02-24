@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 ameaça avanços históricos em cobertura de merenda escolar no mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5o_DdkpeiHE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5o_DdkpeiHE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - sanções contra a Venezuela",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dQohrn22me0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário geral para o Dia Internacional da Fraternidade Humana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RggFBpw1sgs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RggFBpw1sgs"
         }
       }
     }
