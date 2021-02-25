@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-Ndoto iko palepale.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpgTxb04Cks/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SpgTxb04Cks"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Tunajengeana nyumba.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wb6oTZShuco"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Redio inakufa?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K9OIZzqHXMY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K9OIZzqHXMY"
         }
       }
     }
