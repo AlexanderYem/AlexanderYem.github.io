@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الناشطة السودانية نسرين الصائم: العمل المناخي التزام أخلاقي وليس خيارا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-t4TZMUR2f0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-t4TZMUR2f0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "بدء توزيع لقاحات كوفيد-19 على الدول الضعيفة عبر مرفق كوفاكس العالمي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LkWotbsY1pM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "القاضي حاتم علي: ضحايا الاتجار بالبشر هم الفئات المستضعفة الفقيرة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/d9eCGr-_v2s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "d9eCGr-_v2s"
         }
       }
     }
