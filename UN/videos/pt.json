@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novas tecnologias podem combater as desigualdades geradas pela pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ClinApvFp5o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ClinApvFp5o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 ameaça avanços históricos em cobertura de merenda escolar no mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "N5HitYvYf64"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIM em Moçambique fala dos desafios da ajuda humanitária aos afetados pelo ciclone Eloíse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dQohrn22me0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dQohrn22me0"
         }
       }
     }
