@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Repensar os sistemas alimentares para acabar com a fome",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xh92Dhvq4xk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xh92Dhvq4xk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novas tecnologias podem combater as desigualdades geradas pela pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vb7-Om9PUsA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "António Guterres marca Dia Internacional das Mulheres e Meninas na Ciência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N5HitYvYf64/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N5HitYvYf64"
         }
       }
     }
