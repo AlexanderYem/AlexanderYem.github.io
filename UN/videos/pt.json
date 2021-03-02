@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Médica explica como pessoas com perda de audição foram impactadas na pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMhepLwxDtc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CMhepLwxDtc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Repensar os sistemas alimentares para acabar com a fome",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ITgmX-bqzto"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional - aumenta número de tráfico de pessoas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vb7-Om9PUsA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vb7-Om9PUsA"
         }
       }
     }
