@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Vida Selvagem",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dw1FYzfG-7c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dw1FYzfG-7c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - crise climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xb8Nj4s8TlE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xb8Nj4s8TlE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Médica explica como pessoas com perda de audição foram impactadas na pandemia",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "i0ptfhbhoE0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Brasil, campanha \"Todos Pelas Vacinas\" ocupa Sambódromo de São Paulo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/36acYpttruo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "36acYpttruo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Programa Mundial de Alimentos usa drones para responder a desastres de forma rápida e precisa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ITgmX-bqzto/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ITgmX-bqzto"
         }
       }
     }
