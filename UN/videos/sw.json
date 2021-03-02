@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "TANZBATT_7 warejea nyumbani kutoka DR Congo!!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xifZ0WttOtA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xifZ0WttOtA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Takataka pesa.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nQn2B2ytRUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Ninagawana fedha na wenzangu.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ma_odyekq0E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ma_odyekq0E"
         }
       }
     }
