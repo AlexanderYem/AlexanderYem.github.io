@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La valeur inestimable de la vie sauvage",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8DG-t92oyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C8DG-t92oyA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 : 600 000 doses du vaccin  sont arrivées au Ghana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tMipDPNhyoo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrée en vigueur du Traité sur l'interdiction des armes nucléaires",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y67_hoVilzM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y67_hoVilzM"
         }
       }
     }
