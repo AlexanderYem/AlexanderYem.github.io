@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день дикой природы - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu71AE6gkAs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gu71AE6gkAs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Наталья Водянова",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AIpe6OfDpO4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Новогоднее обращение Генсека ООН Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gcA8M3nVPnk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gcA8M3nVPnk"
         }
       }
     }
