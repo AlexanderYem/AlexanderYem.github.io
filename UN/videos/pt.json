@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Esforços no combate à  Covid-19 em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5rLZKD__bQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b5rLZKD__bQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Vida Selvagem",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oE0KISQZvw8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pós-vacina: uso de máscara e cuidados com a higiene devem continuar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i0ptfhbhoE0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i0ptfhbhoE0"
         }
       }
     }
