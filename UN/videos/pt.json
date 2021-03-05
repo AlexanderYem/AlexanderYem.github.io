@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Timor-Leste destaca fruto da parceria internacional para enfrentar Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFY_um_VDMQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UFY_um_VDMQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS encerra segunda semana de envio de vacinas contra Covid-19 da parceria Covax",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4lhEGnuwFx4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileira ganha prêmio global com plataforma para apoiar mulheres que viajam sozinhas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kAgML9pAg6s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kAgML9pAg6s"
         }
       }
     }
