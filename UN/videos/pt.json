@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Médica da OMS destaca a importância da liderança feminina nos momentos de crise",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m-wcPo2Pm9Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m-wcPo2Pm9Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau: liderança feminina marca pontos no combate à pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b5rLZKD__bQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Vida Selvagem",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dw1FYzfG-7c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Dw1FYzfG-7c"
         }
       }
     }
