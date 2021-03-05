@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - Kalamu inayoongea.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVRoxdqeqJ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HVRoxdqeqJ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN-Kelele za risasi.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SpgTxb04Cks"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Tunajengeana nyumba.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jTWmaK2F4hM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jTWmaK2F4hM"
         }
       }
     }
