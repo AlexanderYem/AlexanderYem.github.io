@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanawake ni nguzo!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZFnIlqwHr0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eZFnIlqwHr0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Kalamu inayoongea.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UjznNF-3BmM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Ndoto iko palepale.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SpgTxb04Cks/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SpgTxb04Cks"
         }
       }
     }
