@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный женский день - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUO-SFpI81U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zUO-SFpI81U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день дикой природы - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1at8hLwZTlY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Кто защищает права людей с инвалидностью в России?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AIpe6OfDpO4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AIpe6OfDpO4"
         }
       }
     }
