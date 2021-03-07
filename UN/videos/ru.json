@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "8 марта",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1E2EcDTnrB0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1E2EcDTnrB0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный женский день - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RldibllhW7k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обращение Генсека ООН по поводу 2 млн смертей от COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1at8hLwZTlY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1at8hLwZTlY"
         }
       }
     }
