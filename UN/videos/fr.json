@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale des femmes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWl_pcun670/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qWl_pcun670"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le peuple centrafricain a des rêves pour son pays",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xQmR5AZiRuw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sommet du G5 Sahel : Le chef de l'ONU appelle à aller au-delà de la seule réponse sécuritaire",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/828KIXFFX7w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "828KIXFFX7w"
         }
       }
     }
