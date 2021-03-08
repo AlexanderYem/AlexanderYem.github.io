@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Experiência feminina orientou resposta internacional à Covid-19 em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rVKNkJMUo3c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rVKNkJMUo3c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Médica da OMS destaca a importância da liderança feminina nos momentos de crise",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UFY_um_VDMQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS encerra segunda semana de envio de vacinas contra Covid-19 da parceria Covax",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a1TLhEYRFrs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a1TLhEYRFrs"
         }
       }
     }
