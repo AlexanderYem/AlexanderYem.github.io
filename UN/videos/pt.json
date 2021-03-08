@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres na linha de frente da pandemia e as desigualdades que persistem",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhBy35Q7oVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zhBy35Q7oVo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Experiência feminina orientou resposta internacional à Covid-19 em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CxNP1q17DgU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Timor-Leste destaca fruto da parceria internacional para enfrentar Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UFY_um_VDMQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UFY_um_VDMQ"
         }
       }
     }
