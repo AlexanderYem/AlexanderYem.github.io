@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - Nimebadilika.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zxUzTRkINcA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zxUzTRkINcA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanawake ni nguzo!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7tupnPSoIk8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Wanawake wa TANZBATT_8 wawatembelea wanawake wa Beni.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UjznNF-3BmM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UjznNF-3BmM"
         }
       }
     }
