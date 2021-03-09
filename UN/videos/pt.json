@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso da primeira-dama de Angola no Dia Internacional da Mulher",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7dsTPYfttQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c7dsTPYfttQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mulheres na linha de frente da pandemia e as desigualdades que persistem",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8uYs9xq7kYI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: Angola com todos os olhos voltados a vacinação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CxNP1q17DgU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CxNP1q17DgU"
         }
       }
     }
