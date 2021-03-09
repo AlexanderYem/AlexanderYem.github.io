@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'intelligence artificelle est un miroir du monde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/edSx_gJozgE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "edSx_gJozgE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale des femmes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sI44H4X7eZ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'ONU combat le racisme dans le monde et en son sein.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xQmR5AZiRuw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xQmR5AZiRuw"
         }
       }
     }
