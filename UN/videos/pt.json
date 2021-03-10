@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres lembra desastre de Fukushima 10 anos depois",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlcIb8RCCcY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zlcIb8RCCcY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso da primeira-dama de Angola no Dia Internacional da Mulher",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UCLjlZgvOFQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres diz que pandemia apagou décadas de avanços para igualdade de género",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8uYs9xq7kYI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8uYs9xq7kYI"
         }
       }
     }
