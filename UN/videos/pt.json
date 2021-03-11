@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha da ONU promove acesso igualitário à vacina contra a Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoF6rDK48Ng/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XoF6rDK48Ng"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres lembra desastre de Fukushima 10 anos depois",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bTVo_kJix1k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Para Ministra da Saúde de Portugal, pandemia mostrou que “não é preciso explicar” inclusão feminina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UCLjlZgvOFQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UCLjlZgvOFQ"
         }
       }
     }
