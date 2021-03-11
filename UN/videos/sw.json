@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - Chanjo ya Corona - Uganda.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_IlFJc9pX3s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_IlFJc9pX3s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Chanjo ya COVID-19 Kenya.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qgS9hJf8Lts"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Oksijeni za WHO.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AqOxAwnZemA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AqOxAwnZemA"
         }
       }
     }
