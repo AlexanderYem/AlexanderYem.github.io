@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - Mungu anajua!.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjvWLm_Oo8Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yjvWLm_Oo8Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Chanjo ya Corona - Uganda.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4dr6dKL0rz4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-Wanafunzi milioni 168 wamepoteza mwaka 1 wa masomo-Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qgS9hJf8Lts/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qgS9hJf8Lts"
         }
       }
     }
