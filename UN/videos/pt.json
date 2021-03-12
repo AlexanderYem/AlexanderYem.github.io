@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vacina chega a Cabo Verde e imunização começa na próxima semana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q4REnsdtvy8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q4REnsdtvy8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha da ONU promove acesso igualitário à vacina contra a Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0GHi-0a4ADE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Saiba como funcionam as vacinas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bTVo_kJix1k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bTVo_kJix1k"
         }
       }
     }
