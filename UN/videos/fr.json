@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#Ensemble - Appel mondial en faveur de l’équité en matière de vaccins",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/41j3E9rk548/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "41j3E9rk548"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'intelligence artificelle est un miroir du monde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aCQlpLjGbdg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "António Guterres :  l'impact de la Covid-19 sur les droits civils & politiques",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sI44H4X7eZ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sI44H4X7eZ0"
         }
       }
     }
