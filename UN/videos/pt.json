@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "De Portugal, jornalista brasileira fala sobre relaxamento de medidas de combate à Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PYe1IG2VZsI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PYe1IG2VZsI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vacina chega a Cabo Verde e imunização começa na próxima semana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jVN18ApZqNo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como as vacinas funcionam?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bbnab-NwRCg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Bbnab-NwRCg"
         }
       }
     }
