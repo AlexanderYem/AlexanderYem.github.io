@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19 e fraca campanha agrícola agravam fome na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sWAz1uVTu0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sWAz1uVTu0s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - volta às aulas presenciais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/64cS0gyFsHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "64cS0gyFsHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De Portugal, jornalista brasileira fala sobre relaxamento de medidas de combate à Covid-19",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "rVKNkJMUo3c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Médica da OMS destaca a importância da liderança feminina nos momentos de crise",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m-wcPo2Pm9Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m-wcPo2Pm9Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau: liderança feminina marca pontos no combate à pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jVN18ApZqNo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jVN18ApZqNo"
         }
       }
     }
