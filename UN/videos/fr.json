@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L’efficacité passe par une participation des femmes sur un pied d’égalité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WeKeXIoEMYM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WeKeXIoEMYM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#Ensemble - Appel mondial en faveur de l’équité en matière de vaccins",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XHMIVBiTOJA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Répercussions de la crise climatique sur la paix et la sécurité internationales",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aCQlpLjGbdg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aCQlpLjGbdg"
         }
       }
     }
