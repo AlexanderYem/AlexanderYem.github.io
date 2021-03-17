@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - Makamu wa Rais USA.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfbKBoILw_U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SfbKBoILw_U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Miaka 10 ya vita.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eZFnIlqwHr0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - Kalamu inayoongea.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HVRoxdqeqJ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HVRoxdqeqJ4"
         }
       }
     }
