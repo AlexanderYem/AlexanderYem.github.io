@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal: aumento das mulheres em processos de decisão é vantajoso para todos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0jJ8uM5aQo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t0jJ8uM5aQo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19 e fraca campanha agrícola agravam fome na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zhBy35Q7oVo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Experiência feminina orientou resposta internacional à Covid-19 em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rVKNkJMUo3c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rVKNkJMUo3c"
         }
       }
     }
