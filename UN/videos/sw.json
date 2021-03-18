@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN - John Pombe Magufuli kimataifa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctjAgKXyDzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ctjAgKXyDzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN - Makamu wa Rais USA.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zxUzTRkINcA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanawake ni nguzo!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eZFnIlqwHr0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eZFnIlqwHr0"
         }
       }
     }
