@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "د. ديما النائب: من واجبنا أن نعمل معا على دعم المرأة السورية، على تمكينها، على حمايتها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1lUahVhBnY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E1lUahVhBnY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "د. ديما النائب، مديرة مكتب صندوق الأمم المتحدة للسكان في محافظة دير الزور بسوريا،تحكي قصة سارة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oTRhK3nmWUk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الناشطة السودانية نسرين الصائم: العمل المناخي التزام أخلاقي وليس خيارا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-t4TZMUR2f0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-t4TZMUR2f0"
         }
       }
     }
