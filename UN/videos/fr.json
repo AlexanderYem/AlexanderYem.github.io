@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale pour l'élimination de la discrimination raciale",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yF8ZJ6_hsS4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yF8ZJ6_hsS4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L’efficacité passe par une participation des femmes sur un pied d’égalité",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JyjZoTc2hys"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali : la MINUSMA continuera ses efforts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XHMIVBiTOJA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XHMIVBiTOJA"
         }
       }
     }
