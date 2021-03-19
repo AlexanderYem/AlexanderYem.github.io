@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ БОРЬБЫ ЗА ЛИКВИДАЦИЮ РАСОВОЙ ДИСКРИМИНАЦИИ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-LXLQlDncaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-LXLQlDncaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Инициатива «Сначала выслушать» помогает родителям справиться с тяготами пандемии COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M5L4C1vaJ4U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Он ждал паспорта 28 лет",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0nsfAAve9SQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0nsfAAve9SQ"
         }
       }
     }
