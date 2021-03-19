@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres diz que racismo “é um mal global e profundamente enraizado\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/id-hAGysI9Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "id-hAGysI9Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal: aumento das mulheres em processos de decisão é vantajoso para todos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c7dsTPYfttQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mulheres na linha de frente da pandemia e as desigualdades que persistem",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zhBy35Q7oVo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zhBy35Q7oVo"
         }
       }
     }
