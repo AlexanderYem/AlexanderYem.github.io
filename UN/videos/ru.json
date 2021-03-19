@@ -1,13 +1,134 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "errors": [
-      {
-        "domain": "youtube.CoreErrorDomain",
-        "reason": "SERVICE_UNAVAILABLE"
+  "items": [
+    {
+      "snippet": {
+        "title": "Инициатива «Сначала выслушать» помогает родителям справиться с тяготами пандемии COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nWEdvwX0Ny8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nWEdvwX0Ny8"
+        }
       }
-    ],
-    "status": "UNAVAILABLE"
-  }
+    },
+    {
+      "snippet": {
+        "title": "8 марта",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1E2EcDTnrB0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1E2EcDTnrB0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Международный женский день - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUO-SFpI81U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zUO-SFpI81U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Всемирный день дикой природы - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu71AE6gkAs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gu71AE6gkAs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Наталья Водянова",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRPySbKlwFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jRPySbKlwFU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЖЕНЩИН И ДЕВОЧЕК В НАУКЕ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMWv74ONimA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rMWv74ONimA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЧЕЛОВЕЧЕСКОГО БРАТСТВА",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kC3JvF4Pgiw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kC3JvF4Pgiw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Послание Антониу Гутерриша к Международному дню памяти о жертвах Холокоста",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDH8PxCAzp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zDH8PxCAzp8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Договор о запрещении ядерного оружия вступил в силу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5L4C1vaJ4U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M5L4C1vaJ4U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Он ждал паспорта 28 лет",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nsfAAve9SQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0nsfAAve9SQ"
+        }
+      }
+    }
+  ]
 }
