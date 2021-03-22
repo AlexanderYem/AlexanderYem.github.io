@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: crise crescente em Cabo Delgado continua sem atenção do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wUbTmbtG6DA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wUbTmbtG6DA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres diz que racismo “é um mal global e profundamente enraizado\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zlcIb8RCCcY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso da primeira-dama de Angola no Dia Internacional da Mulher",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c7dsTPYfttQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c7dsTPYfttQ"
         }
       }
     }
