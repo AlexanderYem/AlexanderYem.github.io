@@ -1,13 +1,134 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "errors": [
-      {
-        "domain": "youtube.CoreErrorDomain",
-        "reason": "SERVICE_UNAVAILABLE"
+  "items": [
+    {
+      "snippet": {
+        "title": "Remembering Sir Brian Urquhart, legendary UN figure",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vcILqha6g5A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vcILqha6g5A"
+        }
       }
-    ],
-    "status": "UNAVAILABLE"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Sudan: Historic Darfur peacekeeping mission ends",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYySoZOD1c8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uYySoZOD1c8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Elections and Peace in the Central African Republic",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jphLICTUi1w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jphLICTUi1w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "2021 United Nations New Year's Message",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQtiOIYHlWk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EQtiOIYHlWk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "World Food Programme receives the People’s Prize",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pGOBghggEp4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pGOBghggEp4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "60 Years of independence60 Years together at the UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q7jWnauhIOk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q7jWnauhIOk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Doreen Malambo of Zambia: United Nations Woman Police Officer of the Year",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4eaI1LlZ_tM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4eaI1LlZ_tM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Beijing+25: a quarter century of women’s empowerment",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/siEjA8ZpZZM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "siEjA8ZpZZM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN holds first-ever biodiversity summit",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z6-N0I4dFh0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Z6-N0I4dFh0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Action to build back better: the UN general debate continues",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MBY3lyDXeI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4MBY3lyDXeI"
+        }
+      }
+    }
+  ]
 }
