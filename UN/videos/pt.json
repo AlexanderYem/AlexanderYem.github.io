@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional - direitos das mulheres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQX3Q53okNA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zQX3Q53okNA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: crise crescente em Cabo Delgado continua sem atenção do mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qve9AAWEeAM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres lembra desastre de Fukushima 10 anos depois",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zlcIb8RCCcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zlcIb8RCCcY"
         }
       }
     }
