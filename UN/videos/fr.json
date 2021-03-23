@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : l’ONU alerte sur l’ampleur alarmante des violences dans l’est du pays",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4FwjTFwQi3Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4FwjTFwQi3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale pour l'élimination de la discrimination raciale",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xgwT87jAkJ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RCA : Renfort de troupes demandé pour la MINUSCA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JyjZoTc2hys/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JyjZoTc2hys"
         }
       }
     }
