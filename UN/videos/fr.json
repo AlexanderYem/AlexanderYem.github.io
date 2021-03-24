@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Massacre de Sharpeville, Afrique du Sud : il y a plus de 50 ans.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtgeYkC0Ecg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xtgeYkC0Ecg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : l’ONU alerte sur l’ampleur alarmante des violences dans l’est du pays",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vS-5NqzTkNY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Il y a un an : appel à l’action pour les droits de l’homme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xgwT87jAkJ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xgwT87jAkJ8"
         }
       }
     }
