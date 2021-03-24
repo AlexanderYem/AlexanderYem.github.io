@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres pede fim do legado da escravidão no mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tD-nr8GftfM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tD-nr8GftfM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil recebe mais de 1 milhão de doses de vacinas contra Covid-19 pela parceria Covax",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PYe1IG2VZsI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vacina chega a Cabo Verde e imunização começa na próxima semana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q4REnsdtvy8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q4REnsdtvy8"
         }
       }
     }
