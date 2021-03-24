@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава Европейского бюро ВОЗ д-р Клюге знакомится с Офелией, пациентом с туберкулезом из Азербайджана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9mulJmkpGCY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9mulJmkpGCY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ БОРЬБЫ ЗА ЛИКВИДАЦИЮ РАСОВОЙ ДИСКРИМИНАЦИИ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zDH8PxCAzp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Договор о запрещении ядерного оружия вступил в силу",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M5L4C1vaJ4U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M5L4C1vaJ4U"
         }
       }
     }
