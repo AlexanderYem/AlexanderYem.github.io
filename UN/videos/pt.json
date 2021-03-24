@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil recebe mais de 1 milhão de doses de vacinas contra Covid-19 pela parceria Covax",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wzok-fp3v3I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wzok-fp3v3I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ator Wagner Moura pede que mais países ratifiquem o Protocolo da OIT sobre Trabalho Forçado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2B7i23Y24ps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2B7i23Y24ps"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - direitos das mulheres",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q4REnsdtvy8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres pede ajuda para Moçambique dois anos após ciclone Idai",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xyG59s4q1Po/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xyG59s4q1Po"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha da ONU promove acesso igualitário à vacina contra a Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qve9AAWEeAM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qve9AAWEeAM"
         }
       }
     }
