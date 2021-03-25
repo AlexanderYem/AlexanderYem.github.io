@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale : mettre fin à l'héritage raciste de l'esclavage",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EiJ3tchPQ-w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EiJ3tchPQ-w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale pour l'élimination de la discrimination raciale",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C8DG-t92oyA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19 : 600 000 doses du vaccin  sont arrivées au Ghana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vS-5NqzTkNY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vS-5NqzTkNY"
         }
       }
     }
