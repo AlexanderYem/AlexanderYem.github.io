@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ПАМЯТИ ЖЕРТВ РАБСТВА И ТРАНСАТЛАНТИЧЕСКОЙ РАБОТОРГОВЛИ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r41sBqgc8uA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r41sBqgc8uA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава Европейского бюро ВОЗ д-р Клюге знакомится с Офелией, пациентом с туберкулезом из Азербайджана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kC3JvF4Pgiw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Антониу Гутерриша к Международному дню памяти о жертвах Холокоста",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zDH8PxCAzp8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zDH8PxCAzp8"
         }
       }
     }
