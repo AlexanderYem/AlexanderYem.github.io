@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU apaga as luzes de sua sede neste sábado para a “Hora do Planeta”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PeT6Ft5eems/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PeT6Ft5eems"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Como as mulheres nas missões da ONU estão quebrando estereótipos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NbIzJzfMR-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NbIzJzfMR-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres pede fim do legado da escravidão no mundo",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "sWAz1uVTu0s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional - volta às aulas presenciais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/64cS0gyFsHs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "64cS0gyFsHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "De Portugal, jornalista brasileira fala sobre relaxamento de medidas de combate à Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PYe1IG2VZsI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PYe1IG2VZsI"
         }
       }
     }

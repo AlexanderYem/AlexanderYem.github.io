@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Час Земли",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YoLYzlassig/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YoLYzlassig"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ПАМЯТИ ЖЕРТВ РАБСТВА И ТРАНСАТЛАНТИЧЕСКОЙ РАБОТОРГОВЛИ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rMWv74ONimA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЧЕЛОВЕЧЕСКОГО БРАТСТВА",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kC3JvF4Pgiw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kC3JvF4Pgiw"
         }
       }
     }
