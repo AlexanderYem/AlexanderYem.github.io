@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Афганистан: что делать, если пандемия не пускает детей в школу?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fO7z5TKV744/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fO7z5TKV744"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Час Земли",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jRPySbKlwFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ ЖЕНЩИН И ДЕВОЧЕК В НАУКЕ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rMWv74ONimA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rMWv74ONimA"
         }
       }
     }
