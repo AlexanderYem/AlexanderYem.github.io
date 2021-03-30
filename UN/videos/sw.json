@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L39ovJSw1mc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L39ovJSw1mc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Tumekamilisha Darfur!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SfbKBoILw_U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - Miaka 10 ya vita.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JRZzM4LbG48/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JRZzM4LbG48"
         }
       }
     }
