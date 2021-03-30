@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La RDC « a déjà les yeux tournés vers les élections de 2023 »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q5C5m0K7xhU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q5C5m0K7xhU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale : mettre fin à l'héritage raciste de l'esclavage",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zrkysdVcQNg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La valeur inestimable de la vie sauvage",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C8DG-t92oyA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C8DG-t92oyA"
         }
       }
     }
