@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unicef apoia crianças que perderam os pais em ataques em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dfEQnsK7Rbw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dfEQnsK7Rbw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General brasileiro se despede da liderança da Missão de Paz na RD Congo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "id-hAGysI9Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal: aumento das mulheres em processos de decisão é vantajoso para todos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t0jJ8uM5aQo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t0jJ8uM5aQo"
         }
       }
     }
