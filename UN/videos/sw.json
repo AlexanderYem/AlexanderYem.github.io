@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g7XrSXYSpgI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g7XrSXYSpgI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Aliogopa tembo sasa anawalinda kulikoni?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uczdoyp9LRo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - John Pombe Magufuli kimataifa.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ctjAgKXyDzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ctjAgKXyDzc"
         }
       }
     }
