@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do ator Daniel Craig para Dia Internacional de Alerta e Ação sobre Minas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zCT_0DxiNR0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zCT_0DxiNR0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unicef apoia crianças que perderam os pais em ataques em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wUbTmbtG6DA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres diz que racismo “é um mal global e profundamente enraizado\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/id-hAGysI9Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "id-hAGysI9Q"
         }
       }
     }
