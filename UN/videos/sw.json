@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s78pAJmCyV4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s78pAJmCyV4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tulikuwa tumezikimbia hata nyumba za ibada DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BMY1OFAulms"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Mbona gharama ya maji ni juu?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hvEG9henTS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hvEG9henTS8"
         }
       }
     }
