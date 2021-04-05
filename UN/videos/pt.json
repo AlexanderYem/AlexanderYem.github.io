@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especialistas da ONU respondem a perguntas sobre Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZKAvgIxkhVk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZKAvgIxkhVk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do ator Daniel Craig para Dia Internacional de Alerta e Ação sobre Minas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zQX3Q53okNA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique: crise crescente em Cabo Delgado continua sem atenção do mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wUbTmbtG6DA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wUbTmbtG6DA"
         }
       }
     }
