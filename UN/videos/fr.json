@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali : la région du Sahel toujours confrontée à de nombreux défis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9DCHV59DgU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U9DCHV59DgU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La RDC « a déjà les yeux tournés vers les élections de 2023 »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qWl_pcun670"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le peuple centrafricain a des rêves pour son pays",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zrkysdVcQNg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zrkysdVcQNg"
         }
       }
     }
