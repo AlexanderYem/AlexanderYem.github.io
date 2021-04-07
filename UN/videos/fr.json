@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale de réflexion sur le génocide de 1994 au Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AU3GCcWA02E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AU3GCcWA02E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali : la région du Sahel toujours confrontée à de nombreux défis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "edSx_gJozgE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale des femmes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qWl_pcun670/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qWl_pcun670"
         }
       }
     }
