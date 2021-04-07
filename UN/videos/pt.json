@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Após ser vacinado, presidente da Guiné-Bissau pede que todos sejam imunizados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/APsaU9go97c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "APsaU9go97c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU marca Dia Internacional de Reflexão sobre Genocídio contra Tutsis em Ruanda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wzok-fp3v3I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ator Wagner Moura pede que mais países ratifiquem o Protocolo da OIT sobre Trabalho Forçado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2B7i23Y24ps/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2B7i23Y24ps"
         }
       }
     }
