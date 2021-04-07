@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU marca Dia Internacional de Reflexão sobre Genocídio contra Tutsis em Ruanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UpS4-gWKDT4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UpS4-gWKDT4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Especialistas da ONU respondem a perguntas sobre Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2B7i23Y24ps"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional - direitos das mulheres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zQX3Q53okNA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zQX3Q53okNA"
         }
       }
     }
