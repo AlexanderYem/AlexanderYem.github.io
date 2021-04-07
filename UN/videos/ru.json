@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Хоккей на льду Байкала - Вячеслав Фетисов организовал игру в защиту озера",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PbE_h4r82IA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PbE_h4r82IA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Афганистан: что делать, если пандемия не пускает детей в школу?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gu71AE6gkAs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Наталья Водянова",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jRPySbKlwFU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jRPySbKlwFU"
         }
       }
     }
