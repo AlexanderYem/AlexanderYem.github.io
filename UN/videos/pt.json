@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agências da ONU apoiam pessoas que fogem da violência no norte de Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XFbsuCqrZk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8XFbsuCqrZk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra de Relações Exteriores de Timor-Leste destaca escala de cheias no país",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4wI4Zl-FQiA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU apaga as luzes de sua sede neste sábado para a “Hora do Planeta”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PeT6Ft5eems/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PeT6Ft5eems"
         }
       }
     }
