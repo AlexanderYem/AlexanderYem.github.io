@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Projeto da ONU apoia refugiados e migrantes indígenas venezuelanos Warao no Pará",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/euAeCBF-pPI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "euAeCBF-pPI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - tratado contra pandemias",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zCT_0DxiNR0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef apoia crianças que perderam os pais em ataques em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dfEQnsK7Rbw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dfEQnsK7Rbw"
         }
       }
     }
