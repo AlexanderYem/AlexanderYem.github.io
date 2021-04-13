@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Французский астронавт - Посол доброй воли ФАО",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aqM1bse8nU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3aqM1bse8nU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "12 апреля   Международный день полета человека в космос",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1E2EcDTnrB0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный женский день - обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zUO-SFpI81U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zUO-SFpI81U"
         }
       }
     }
