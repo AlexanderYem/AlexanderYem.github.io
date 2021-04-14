@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mateus Solano apoia campanha de combate à poluição plástica",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Qm2Rmnzj9o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8Qm2Rmnzj9o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência lança iniciativa para combater Doença de Chagas e melhorar diagnósticos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UpS4-gWKDT4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especialistas da ONU respondem a perguntas sobre Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZKAvgIxkhVk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZKAvgIxkhVk"
         }
       }
     }
