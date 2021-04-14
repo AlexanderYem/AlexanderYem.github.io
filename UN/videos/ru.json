@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Телесная автономия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cfN202Ikadw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cfN202Ikadw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "12 апреля   Международный день полета человека в космос",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-LXLQlDncaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Инициатива «Сначала выслушать» помогает родителям справиться с тяготами пандемии COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nWEdvwX0Ny8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nWEdvwX0Ny8"
         }
       }
     }
