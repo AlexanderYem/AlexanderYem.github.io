@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência lança iniciativa para combater Doença de Chagas e melhorar diagnósticos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Qy78M4AtrA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_Qy78M4AtrA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Projeto da ONU apoia refugiados e migrantes indígenas venezuelanos Warao no Pará",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZKAvgIxkhVk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do ator Daniel Craig para Dia Internacional de Alerta e Ação sobre Minas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zCT_0DxiNR0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zCT_0DxiNR0"
         }
       }
     }
