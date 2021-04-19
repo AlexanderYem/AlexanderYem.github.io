@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: famílias que se separaram fugindo da violência precisam de ajuda urgente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iryq4IJkK4k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Iryq4IJkK4k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mateus Solano apoia campanha de combate à poluição plástica",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "APsaU9go97c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU marca Dia Internacional de Reflexão sobre Genocídio contra Tutsis em Ruanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UpS4-gWKDT4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UpS4-gWKDT4"
         }
       }
     }
