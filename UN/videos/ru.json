@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Парижское соглашение по климату",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAl3PXSzjm8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oAl3PXSzjm8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "День Матери-Земли",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8xNmt1DFnE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q8xNmt1DFnE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Телесная автономия",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "r41sBqgc8uA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава Европейского бюро ВОЗ д-р Клюге знакомится с Офелией, пациентом с туберкулезом из Азербайджана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9mulJmkpGCY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9mulJmkpGCY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "МЕЖДУНАРОДНЫЙ ДЕНЬ БОРЬБЫ ЗА ЛИКВИДАЦИЮ РАСОВОЙ ДИСКРИМИНАЦИИ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-LXLQlDncaY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-LXLQlDncaY"
         }
       }
     }

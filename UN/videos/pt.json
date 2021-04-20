@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como funciona o Acordo de Paris sobre o Clima?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/866bys0hkhE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "866bys0hkhE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: famílias que se separaram fugindo da violência precisam de ajuda urgente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6DCmSI2DdJg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Após ser vacinado, presidente da Guiné-Bissau pede que todos sejam imunizados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/APsaU9go97c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "APsaU9go97c"
         }
       }
     }

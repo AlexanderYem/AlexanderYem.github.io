@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Accord de Paris sur le Climat : affichez votre soutien",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNxGRORP_SM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BNxGRORP_SM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Journée internationale de la terre nourricière - Faire la paix avec la nature",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-shZU1X8trs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-shZU1X8trs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale de réflexion sur le génocide de 1994 au Rwanda",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "WeKeXIoEMYM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#Ensemble - Appel mondial en faveur de l’équité en matière de vaccins",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/41j3E9rk548/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "41j3E9rk548"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'intelligence artificelle est un miroir du monde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/edSx_gJozgE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "edSx_gJozgE"
         }
       }
     }
