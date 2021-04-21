@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ParisAgreement+Explainer+19+Apr+21+ES",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_z2VQXtY69c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_z2VQXtY69c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cómo desmontan los estereotipos las mujeres de las fuerzas de mantenimiento de la paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OygDg9c1yYA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Los orígenes de un sueño: la historia de Zohra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XwasrXzsSIk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XwasrXzsSIk"
         }
       }
     }
