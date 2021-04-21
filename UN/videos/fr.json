@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Affaire George Floyd aux Etats-Unis :  un « verdict mémorable »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_h0EGV7la4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g_h0EGV7la4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Accord de Paris sur le Climat - Affichez votre soutien",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yF8ZJ6_hsS4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’efficacité passe par une participation des femmes sur un pied d’égalité",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WeKeXIoEMYM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WeKeXIoEMYM"
         }
       }
     }
