@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres marca Dia Mundial da Mãe Terra",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghcghqnmX6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ghcghqnmX6s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Como funciona o Acordo de Paris sobre o Clima?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6wLTXOD6GL8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Embaixador de Portugal em Timor-Leste lembra solidariedade depois de enchentes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6DCmSI2DdJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6DCmSI2DdJg"
         }
       }
     }
