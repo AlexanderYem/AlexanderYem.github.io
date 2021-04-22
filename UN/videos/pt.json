@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News no programa América News da Globo Internacional -  alto consumo de álcool nas Américas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2wIa7QGLFw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2wIa7QGLFw8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Iniciativa em Moçambique promove participação de meninas na área da tecnologia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8XFbsuCqrZk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra de Relações Exteriores de Timor-Leste destaca escala de cheias no país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U1RnIlFgc6M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U1RnIlFgc6M"
         }
       }
     }
