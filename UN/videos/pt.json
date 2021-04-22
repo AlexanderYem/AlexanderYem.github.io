@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Iniciativa em Moçambique promove participação de meninas na área da tecnologia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOCxnCj1lyM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jOCxnCj1lyM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres marca Dia Mundial da Mãe Terra",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U1RnIlFgc6M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Representante da ONU realça resposta às cheias no Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6wLTXOD6GL8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6wLTXOD6GL8"
         }
       }
     }
