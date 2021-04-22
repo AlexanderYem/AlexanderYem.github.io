@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "S'attaquer de toute urgence à la crise climatique, de la biodiversité et à la pollution.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kv1PFE9_dnY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kv1PFE9_dnY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Affaire George Floyd aux Etats-Unis :  un « verdict mémorable »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4FwjTFwQi3Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale pour l'élimination de la discrimination raciale",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yF8ZJ6_hsS4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yF8ZJ6_hsS4"
         }
       }
     }
