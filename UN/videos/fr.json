@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Niger reste confronté à une urgence humanitaire complexe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M51Mgroqe-Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M51Mgroqe-Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "S'attaquer de toute urgence à la crise climatique, de la biodiversité et à la pollution.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xtgeYkC0Ecg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : l’ONU alerte sur l’ampleur alarmante des violences dans l’est du pays",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4FwjTFwQi3Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4FwjTFwQi3Y"
         }
       }
     }
