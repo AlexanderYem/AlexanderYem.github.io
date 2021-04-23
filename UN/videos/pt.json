@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Mundial do Livro, músico Stewart Sukuma destaca importância de literatura infantil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eNgzILazs7c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eNgzILazs7c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional -  alto consumo de álcool nas Américas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2NzIk__dCpY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agências da ONU apoiam pessoas que fogem da violência no norte de Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8XFbsuCqrZk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8XFbsuCqrZk"
         }
       }
     }
