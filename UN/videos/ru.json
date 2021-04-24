@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "От восстановления к развитию после Чернобыльской катастрофы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zhf-FC0H4zA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zhf-FC0H4zA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глобальные геопарки ЮНЕСКО",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fO7z5TKV744"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Час Земли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YoLYzlassig/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YoLYzlassig"
         }
       }
     }
