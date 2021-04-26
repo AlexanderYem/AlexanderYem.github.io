@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Кикбоксинг для беженок",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVMrIDYyBiA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tVMrIDYyBiA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "От восстановления к развитию после Чернобыльской катастрофы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PbE_h4r82IA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Афганистан: что делать, если пандемия не пускает детей в школу?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fO7z5TKV744/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fO7z5TKV744"
         }
       }
     }
