@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com a conselheira do secretário-geral da ONU sobre o clima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Au3yqOT2ghA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Au3yqOT2ghA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha da OIM apoia diversidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_Qy78M4AtrA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Projeto da ONU apoia refugiados e migrantes indígenas venezuelanos Warao no Pará",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/euAeCBF-pPI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "euAeCBF-pPI"
         }
       }
     }
