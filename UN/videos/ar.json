@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "استراتيجية تطعيم لتعويض المكاسب المفقودة بسبب كوفيد-19 ضد الأمراض التي يمكن تجنبها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-e35aeD6l6k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-e35aeD6l6k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"في متناول أيدينا\": كيف سيساعد اتفاق باريس في معالجة أزمة المناخ- إيدان غالاغر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vOQfdv969VY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "منظمة الصحة العالمية تحذر من بيع لقاحات \"مغشوشة تسبب أضرارا جسيمة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TC7pqSp7dFE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TC7pqSp7dFE"
         }
       }
     }
