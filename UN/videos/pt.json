@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha da OIM apoia diversidade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7alqa04WS0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p7alqa04WS0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Mundial do Livro, músico Stewart Sukuma destaca importância de literatura infantil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "euAeCBF-pPI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional - tratado contra pandemias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2NzIk__dCpY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2NzIk__dCpY"
         }
       }
     }
