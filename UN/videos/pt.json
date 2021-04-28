@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "5 de maio é Dia Mundial da Língua Portuguesa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L5n_MtoiOP8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L5n_MtoiOP8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com a conselheira do secretário-geral da ONU sobre o clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8Qm2Rmnzj9o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agência lança iniciativa para combater Doença de Chagas e melhorar diagnósticos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Qy78M4AtrA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_Qy78M4AtrA"
         }
       }
     }
