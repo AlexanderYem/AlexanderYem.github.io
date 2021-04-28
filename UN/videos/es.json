@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional del Jazz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9i853SgmrTY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9i853SgmrTY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "El periodismo es un bien público",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0rPbyLahAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P0rPbyLahAA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de la Madre Tierra",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "8-IS6MRBk4E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres: 2021, un año para sanar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1LiZM5yA5vo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1LiZM5yA5vo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Una plataforma para un propósito: la historia de Huma",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6yW4FP0Drvs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6yW4FP0Drvs"
         }
       }
     }
