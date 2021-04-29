@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День джаза - послание Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHxC8VTP4-0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VHxC8VTP4-0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Вакцины для детей",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3aqM1bse8nU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "12 апреля   Международный день полета человека в космос",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WEEbKmKIDAM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WEEbKmKIDAM"
         }
       }
     }
