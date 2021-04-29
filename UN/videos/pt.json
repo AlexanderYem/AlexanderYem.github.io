@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional do Jazz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fhe8k3K3zUc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Fhe8k3K3zUc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 de maio é Dia Mundial da Língua Portuguesa.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Iryq4IJkK4k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mateus Solano apoia campanha de combate à poluição plástica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Qm2Rmnzj9o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8Qm2Rmnzj9o"
         }
       }
     }
