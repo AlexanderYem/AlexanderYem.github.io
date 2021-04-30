@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista a Ivan Lins no Dia Internacional do Jazz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOquAzP2eSs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oOquAzP2eSs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional do Jazz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Yy0GkGaVN7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique: famílias que se separaram fugindo da violência precisam de ajuda urgente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Iryq4IJkK4k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Iryq4IJkK4k"
         }
       }
     }
