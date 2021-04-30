@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ЖУРНАЛИСТИКА  - ОБЩЕСТВЕННОЕ БЛАГО",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNjRwLr3Sig/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jNjRwLr3Sig"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Инфодемия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cfN202Ikadw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "12 апреля   Международный день полета человека в космос",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PDY_E377MWw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PDY_E377MWw"
         }
       }
     }
