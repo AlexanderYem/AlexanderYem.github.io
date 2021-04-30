@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Ivan Lins canta Madalena para ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6aaOF3rfL2I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6aaOF3rfL2I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ivan Lins fala sobre mudanças no mundo da música",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9fJKfTemRk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q9fJKfTemRk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Em dia internacional, Ivan Lins conta o que o jazz significa para ele",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VsWPvFGqRZw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VsWPvFGqRZw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres destaca papel de jornalistas durante crises em Dia Mundial da Liberdade de Imprensa",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "eNgzILazs7c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional -  alto consumo de álcool nas Américas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2wIa7QGLFw8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2wIa7QGLFw8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iniciativa em Moçambique promove participação de meninas na área da tecnologia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jOCxnCj1lyM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jOCxnCj1lyM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres marca Dia Mundial da Mãe Terra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ghcghqnmX6s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ghcghqnmX6s"
         }
       }
     }

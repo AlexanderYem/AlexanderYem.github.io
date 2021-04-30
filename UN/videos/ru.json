@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Инфодемия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UlFyx8_l6zQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UlFyx8_l6zQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День джаза - послание Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PDY_E377MWw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Французский астронавт - Посол доброй воли ФАО",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3aqM1bse8nU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3aqM1bse8nU"
         }
       }
     }
