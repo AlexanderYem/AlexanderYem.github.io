@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres destaca papel de jornalistas durante crises em Dia Mundial da Liberdade de Imprensa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXh4NLunKso/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PXh4NLunKso"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com Ivan Lins no Dia Internacional do Jazz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ghcghqnmX6s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como funciona o Acordo de Paris sobre o Clima?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Yy0GkGaVN7Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Yy0GkGaVN7Y"
         }
       }
     }
