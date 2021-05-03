@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Embaixador do Brasil destaca importância global da língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cZTnvBU8ulk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cZTnvBU8ulk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A língua portuguesa liga os continentes e promove diversidade, diz Portugal na ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Au3yqOT2ghA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha da OIM apoia diversidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p7alqa04WS0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p7alqa04WS0"
         }
       }
     }
