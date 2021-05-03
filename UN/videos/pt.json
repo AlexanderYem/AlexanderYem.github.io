@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ivan Lins conta que artistas estão fazendo doações para ajudar músicos na pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ep8HZTKzeeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ep8HZTKzeeE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News no programa América News da Globo Internacional - relatório global sobre o clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eNgzILazs7c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU News no programa América News da Globo Internacional -  alto consumo de álcool nas Américas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2wIa7QGLFw8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2wIa7QGLFw8"
         }
       }
     }
