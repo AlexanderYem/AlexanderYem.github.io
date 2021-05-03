@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A língua portuguesa liga os continentes e promove diversidade, diz Portugal na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/As6XPKAOvYA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "As6XPKAOvYA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ivan Lins conta que artistas estão fazendo doações para ajudar músicos na pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p7alqa04WS0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Mundial do Livro, músico Stewart Sukuma destaca importância de literatura infantil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eNgzILazs7c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eNgzILazs7c"
         }
       }
     }
