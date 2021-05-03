@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale de la liberté de la presse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tf4wPAXT4M8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tf4wPAXT4M8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Niger reste confronté à une urgence humanitaire complexe",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EiJ3tchPQ-w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale pour l'élimination de la discrimination raciale",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xtgeYkC0Ecg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xtgeYkC0Ecg"
         }
       }
     }

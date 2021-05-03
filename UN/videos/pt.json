@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "Ivan Lins fala sobre direitos autorais na internet",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q9fJKfTemRk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q9fJKfTemRk"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Guterres destaca papel de jornalistas durante crises em Dia Mundial da Liberdade de Imprensa",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "2wIa7QGLFw8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Iniciativa em Moçambique promove participação de meninas na área da tecnologia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOCxnCj1lyM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jOCxnCj1lyM"
         }
       }
     }
