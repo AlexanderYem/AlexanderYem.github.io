@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cplp felicita o Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8xdmrPxc4kY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8xdmrPxc4kY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Embaixador do Brasil destaca importância global da língua portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L5n_MtoiOP8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com a conselheira do secretário-geral da ONU sobre o clima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Au3yqOT2ghA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Au3yqOT2ghA"
         }
       }
     }
