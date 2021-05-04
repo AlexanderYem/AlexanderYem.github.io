@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU para o Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLYGtybbqck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lLYGtybbqck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ivan Lins fala do diferencial da língua portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6aaOF3rfL2I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres destaca papel de jornalistas durante crises em Dia Mundial da Liberdade de Imprensa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PXh4NLunKso/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PXh4NLunKso"
         }
       }
     }
