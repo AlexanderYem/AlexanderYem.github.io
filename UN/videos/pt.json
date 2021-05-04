@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ivan Lins fala do diferencial da língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_dkkujif4B8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_dkkujif4B8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Fernando Henrique Cardoso expressa sua relação com a língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pAi5hVARi2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pAi5hVARi2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente do Camões destaca importância de promover língua portuguesa",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "PXh4NLunKso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com Ivan Lins no Dia Internacional do Jazz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oOquAzP2eSs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oOquAzP2eSs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional do Jazz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fhe8k3K3zUc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fhe8k3K3zUc"
         }
       }
     }
