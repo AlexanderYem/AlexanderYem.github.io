@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "О свободе печати без лишних слов – выставка карикатуры в Москве",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nszIL76tuQ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nszIL76tuQ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ЖУРНАЛИСТИКА  - ОБЩЕСТВЕННОЕ БЛАГО",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q8xNmt1DFnE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Телесная автономия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cfN202Ikadw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cfN202Ikadw"
         }
       }
     }
