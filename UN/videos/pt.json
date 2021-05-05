@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde ressalta inovação e modernidade no Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y2o_lmcYexQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y2o_lmcYexQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral da ONU para o Dia Mundial da Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TsFFOA0PS-k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ivan Lins canta Madalena em entrevista à ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6aaOF3rfL2I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6aaOF3rfL2I"
         }
       }
     }
