@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Inde : pics  massifs d'infections à la Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_FHBbrgjNkc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_FHBbrgjNkc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale de la liberté de la presse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q5C5m0K7xhU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale : mettre fin à l'héritage raciste de l'esclavage",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EiJ3tchPQ-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EiJ3tchPQ-w"
         }
       }
     }
