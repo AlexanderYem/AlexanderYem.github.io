@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale des oiseaux migrateurs 2021 : chanter, voler, monter en flèche - comme un oiseau !",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1IpzEGejp0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I1IpzEGejp0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L’insécurité alimentaire a touché 155 millions de personnes en 2020",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AU3GCcWA02E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali : la région du Sahel toujours confrontée à de nombreux défis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U9DCHV59DgU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U9DCHV59DgU"
         }
       }
     }
