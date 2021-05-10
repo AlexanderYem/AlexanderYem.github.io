@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Desafios da pandemia inspiram música no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bgwfbWGPEHM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bgwfbWGPEHM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil recebe 3,9 milhões de vacinas contra Covid-19 via Covax",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cZTnvBU8ulk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A língua portuguesa liga os continentes e promove diversidade, diz Portugal na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/As6XPKAOvYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "As6XPKAOvYA"
         }
       }
     }
