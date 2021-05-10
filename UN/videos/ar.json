@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تقرير أممي: داعش ارتكب إبادة جماعية ضد المجتمع الإيزيدي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R1hCkZuobJw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R1hCkZuobJw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ما الذي يمكن أن تفعله الأمم المتحدة لمساعدة الهند في كبح جماح موجة كوفيد -19 المميتة؟",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uz9p7Z74uBk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تؤكد أهمية استقرار الأردن ودوره في الشرق الأوسط",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ipO2TsUeI-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ipO2TsUeI-w"
         }
       }
     }
