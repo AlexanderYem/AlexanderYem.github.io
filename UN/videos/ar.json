@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وسط ارتفاع عدد الضحايا المدنيين واستخدام القوة غير المتناسبة، دعوة إلى تكثيف الجهود لاستعادة الهدوء",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2HaozXyiZFk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2HaozXyiZFk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تقرير أممي: داعش ارتكب إبادة جماعية ضد المجتمع الإيزيدي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CQp-sy8Hp3M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مئات الملايين من النساء يعشن حياة \"يحكمها الآخرون\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uz9p7Z74uBk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uz9p7Z74uBk"
         }
       }
     }
