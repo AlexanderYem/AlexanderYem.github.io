@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек в МГИМО",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dsgkmvPNDdo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dsgkmvPNDdo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "О свободе печати без лишних слов – выставка карикатуры в Москве",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oAl3PXSzjm8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День Матери-Земли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q8xNmt1DFnE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q8xNmt1DFnE"
         }
       }
     }
