@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OIT pede apoio a profissionais da saúde sob estresse durante a pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MEXHrX0gp44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MEXHrX0gp44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O que faz o Banco Mundial?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "i5g-3l9pR9c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem da Cplp sobre o Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8xdmrPxc4kY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8xdmrPxc4kY"
         }
       }
     }
