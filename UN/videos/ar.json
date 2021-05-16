@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يدعو إلى وقف دورة العنف في الأرض الفلسطينية المحتلة وإسرائيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vvrNKcN-WAU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vvrNKcN-WAU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يهنئ المسلمين بحلول عيد الفطر، معربا عن تضامنه الخاص مع العاملين على الخطوط الأمامية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p9C0ooAQPlM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تقرير أممي: العالم على حافة هاوية مناخية في ظل استمرار ارتفاع درجات الحرارة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q8CLb7UZc3Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q8CLb7UZc3Q"
         }
       }
     }
