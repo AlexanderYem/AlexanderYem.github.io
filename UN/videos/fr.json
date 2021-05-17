@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La situation au Moyen-Orient, y compris la question palestinienne",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGqR8fWDroU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XGqR8fWDroU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale des oiseaux migrateurs 2021 : chanter, voler, planer - comme un oiseau !",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-shZU1X8trs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale de réflexion sur le génocide de 1994 au Rwanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AU3GCcWA02E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AU3GCcWA02E"
         }
       }
     }
