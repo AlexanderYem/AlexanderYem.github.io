@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Brasil tem cerca de 30 mil mortes por acidentes de trânsito ao ano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MP2g2w0TjYo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MP2g2w0TjYo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIT pede apoio a profissionais da saúde sob estresse durante a pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pAi5hVARi2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente do Camões destaca importância de promover língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i5g-3l9pR9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i5g-3l9pR9c"
         }
       }
     }
