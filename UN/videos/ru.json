@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#ЛГБТКИ+  будущее без страха",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c2pYvpZQukw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c2pYvpZQukw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек в МГИМО",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3BwCuG8GpUY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Парижское соглашение по климату",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oAl3PXSzjm8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oAl3PXSzjm8"
         }
       }
     }
