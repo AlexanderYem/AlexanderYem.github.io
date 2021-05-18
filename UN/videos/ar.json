@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المجموعة العربية في الأمم المتحدة تدعو المجتمع الدولي للتحرك وإنهاء الاحتلال الإسرائيلي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BHWtj1gzUxI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BHWtj1gzUxI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يدعو إلى وقف دورة العنف في الأرض الفلسطينية المحتلة وإسرائيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6e2gkwpfIDY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "آلاء، لاجئة سورية تمارس رياضة الملاكمة وتقوم بتدريب النساء في لبنان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p9C0ooAQPlM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p9C0ooAQPlM"
         }
       }
     }
