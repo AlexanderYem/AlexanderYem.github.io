@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: agência da ONU pede vacina para todos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7IXBI0XfLYE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7IXBI0XfLYE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Brasil tem cerca de 30 mil mortes por acidentes de trânsito ao ano",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_dkkujif4B8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fernando Henrique Cardoso expressa sua relação com a língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pAi5hVARi2M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pAi5hVARi2M"
         }
       }
     }
