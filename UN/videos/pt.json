@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Setor da música deve se recuperar em 2022, diz produtor musical João Marcello Bôscoli",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/42AlVLipq8U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "42AlVLipq8U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: agência da ONU pede vacina para todos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lLYGtybbqck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ivan Lins fala do diferencial da língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_dkkujif4B8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_dkkujif4B8"
         }
       }
     }
