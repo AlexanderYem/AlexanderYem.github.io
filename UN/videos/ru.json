@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Манижа о творчестве, социальной позиции и цели на Евровидении",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2AmORpfBAc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v2AmORpfBAc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#ЛГБТКИ+  будущее без страха",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Zhf-FC0H4zA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глобальные геопарки ЮНЕСКО",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3BwCuG8GpUY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3BwCuG8GpUY"
         }
       }
     }
