@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ماذا كان المجتمع الدولي ليفعل لو كان مكان إسرائيل وفلسطين؟",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJQ9Syzt1_4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jJQ9Syzt1_4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مدير وممثل برنامج الأغذية العالمي في فلسطين: زرت غزة في آخر أسبوع من شهر رمضان ورأيت شبابا طموحا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nj-vCWIAGyk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "استراتيجية تطعيم لتعويض المكاسب المفقودة بسبب كوفيد-19 ضد الأمراض التي يمكن تجنبها",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-e35aeD6l6k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-e35aeD6l6k"
         }
       }
     }
