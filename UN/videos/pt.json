@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9M9aOBVBuo0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9M9aOBVBuo0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Setor da música deve se recuperar em 2022, diz produtor musical João Marcello Bôscoli",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y2o_lmcYexQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral da ONU para o Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lLYGtybbqck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lLYGtybbqck"
         }
       }
     }
