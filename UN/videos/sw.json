@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN-  Nyuki wana manufaa zaidi kwa wakulima wa mazao na matunda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EggoG-_miw4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EggoG-_miw4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Wasichana wajenga nyumba Burundi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "R46f75DflpM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Mkunga ni mali!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZDKJ6jMXwcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZDKJ6jMXwcY"
         }
       }
     }
