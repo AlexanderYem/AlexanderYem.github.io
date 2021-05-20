@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمم المتحدة شددت على أهمية وقف إطلاق النار في الأرض الفلسطينية المحتلة وإسرائيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3MnTyNeTyQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M3MnTyNeTyQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ماذا كان المجتمع الدولي ليفعل لو كان مكان إسرائيل وفلسطين؟",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oDj-bcDgYY8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مخاوف من انعدام الأمن الغذائي في ميانمار",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nj-vCWIAGyk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nj-vCWIAGyk"
         }
       }
     }
