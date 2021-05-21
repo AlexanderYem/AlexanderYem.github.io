@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale de la diversité culturelle pour le dialogue et le développement",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AmtVwyt9pE4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AmtVwyt9pE4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "30 kilomètres à l’heure en ville : il faut limiter la vitesse sur les routes partagées",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "g_h0EGV7la4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Accord de Paris sur le Climat - Affichez votre soutien",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SgXahJhnWJs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SgXahJhnWJs"
         }
       }
     }
