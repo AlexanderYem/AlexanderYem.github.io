@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Manizha - посол доброй воли Управления ООН по делам беженцев (УВКБ ООН). Почему?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I44O-emd_sE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I44O-emd_sE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "M A N I Z H A Манижа о творчестве, социальной позиции и цели на \"Евровидении\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tVMrIDYyBiA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "От восстановления к развитию после Чернобыльской катастрофы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zhf-FC0H4zA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Zhf-FC0H4zA"
         }
       }
     }

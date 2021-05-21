@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يلعن التوصل لوقف لإطلاق النار بين غزة وإسرائيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/var-h_1pf8o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "var-h_1pf8o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمم المتحدة شددت على أهمية وقف إطلاق النار في الأرض الفلسطينية المحتلة وإسرائيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9oQxiOxgy0k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "155 مليون شخص واجهوا انعدام الأمن الغذائي في عام 2020 - اليمن وأفغانستان وسوريا من بين أسوأ 10 أزمات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oDj-bcDgYY8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oDj-bcDgYY8"
         }
       }
     }
