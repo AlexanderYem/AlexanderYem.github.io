@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Manizha: за равноправие и против насилия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAUUnGgj1nc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kAUUnGgj1nc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День культурного разнообразия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UlFyx8_l6zQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День джаза - послание Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VHxC8VTP4-0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VHxC8VTP4-0"
         }
       }
     }
