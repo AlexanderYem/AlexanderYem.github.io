@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A jornada de uma sobrevivente de fístula obstétrica em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5BStT6iY3Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c5BStT6iY3Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lvHFBxkzoZA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde ressalta inovação e modernidade no Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/y2o_lmcYexQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "y2o_lmcYexQ"
         }
       }
     }

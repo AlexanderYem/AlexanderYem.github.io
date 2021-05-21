@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "День культурного разнообразия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d4MRfpN3hmE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d4MRfpN3hmE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ДЕНЬ БИОЛОГИЧЕСКОГО РАЗНООБРАЗИЯ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ANkxLfjAtz0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ANkxLfjAtz0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Manizha - посол доброй воли Управления ООН по делам беженцев (УВКБ ООН). Почему?",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "VHxC8VTP4-0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вакцины для детей",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PYpt1sB-K8Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PYpt1sB-K8Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Кикбоксинг для беженок",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tVMrIDYyBiA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tVMrIDYyBiA"
         }
       }
     }

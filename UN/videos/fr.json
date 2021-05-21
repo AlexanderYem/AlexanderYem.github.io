@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cessez-le-feu entre Gaza et Israël - Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Psdz2eCBsFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Psdz2eCBsFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale de la diversité culturelle pour le dialogue et le développement",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kv1PFE9_dnY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Affaire George Floyd aux Etats-Unis :  un « verdict mémorable »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/g_h0EGV7la4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "g_h0EGV7la4"
         }
       }
     }
