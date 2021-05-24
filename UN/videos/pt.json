@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: João Marcello Bôscoli",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Sfd2HpBdtY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9Sfd2HpBdtY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A jornada de uma sobrevivente de fístula obstétrica em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I1g4BqxXFoM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Escritório de Direitos Humanos da ONU pede investigação de operação policial no Rio de Janeiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lvHFBxkzoZA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lvHFBxkzoZA"
         }
       }
     }
