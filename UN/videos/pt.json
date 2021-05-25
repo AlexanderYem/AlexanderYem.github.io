@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nações Unidas pedem investigação de ataque que matou pelo menos 14 no Peru",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ICYXy6KNq8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6ICYXy6KNq8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: João Marcello Bôscoli",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bgwfbWGPEHM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil recebe 3,9 milhões de vacinas contra Covid-19 via Covax",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I1g4BqxXFoM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I1g4BqxXFoM"
         }
       }
     }
