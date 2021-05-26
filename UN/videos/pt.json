@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pandemia no centro do debate em Assembleia Mundial da Saúde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h8dM6MCftj0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h8dM6MCftj0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nações Unidas pedem investigação de ataque que matou pelo menos 14 no Peru",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZV6mvSJECDE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Desafios da pandemia inspiram música no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bgwfbWGPEHM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bgwfbWGPEHM"
         }
       }
     }
