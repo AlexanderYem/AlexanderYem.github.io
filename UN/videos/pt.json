@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Boinas-Azuis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BwK5m3OK-Rc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BwK5m3OK-Rc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pandemia no centro do debate em Assembleia Mundial da Saúde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MEXHrX0gp44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O que faz o Banco Mundial?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZV6mvSJECDE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZV6mvSJECDE"
         }
       }
     }
