@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ziwa Tanganyika linafurika.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TvVm-Fa3QaI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TvVm-Fa3QaI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nyiragongo, vifo vimeongezeka.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D416hkrd5oI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Hospitali bila wauguzi ni gari bila injini!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JnWeiSONeCs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JnWeiSONeCs"
         }
       }
     }
