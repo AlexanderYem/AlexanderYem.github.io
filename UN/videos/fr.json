@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Art et culture : des solutions africaines pour le développement durable de l'Afrique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dW-epWsJoq0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dW-epWsJoq0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cessez-le-feu entre Gaza et Israël - Message du Secrétaire général de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M51Mgroqe-Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "S'attaquer de toute urgence à la crise climatique, de la biodiversité et à la pollution.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kv1PFE9_dnY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kv1PFE9_dnY"
         }
       }
     }
