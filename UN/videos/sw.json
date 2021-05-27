@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Saluti kwa Meja Nyaboga.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddYBXz6zEeM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ddYBXz6zEeM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ziwa Tanganyika linafurika.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P_JlG2P0iyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Hatuuzi viungo vya wagonjwa!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D416hkrd5oI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D416hkrd5oI"
         }
       }
     }
