@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Secrétaire général de l’ONU remercie les Casques bleus.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wz1DyQ2_WRQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wz1DyQ2_WRQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le maintien de la paix des Nations Unies a un impact sur la prochaine génération",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_FHBbrgjNkc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale de la liberté de la presse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tf4wPAXT4M8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tf4wPAXT4M8"
         }
       }
     }
