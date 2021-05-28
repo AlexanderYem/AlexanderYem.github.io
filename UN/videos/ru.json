@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Молодые миротворцы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jr1Tou5512A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jr1Tou5512A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Manizha: за равноправие и против насилия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jNjRwLr3Sig"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Инфодемия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UlFyx8_l6zQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UlFyx8_l6zQ"
         }
       }
     }
