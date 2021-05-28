@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غزة تعاني من \"أزمة مزمنة\" في القطاع الصحي ونقص في الأدوية والمستلزمات",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LhXpKUH1Opg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LhXpKUH1Opg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يعلن التوصل لوقف لإطلاق النار بين غزة وإسرائيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "R1hCkZuobJw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما الذي يمكن أن تفعله الأمم المتحدة لمساعدة الهند في كبح جماح موجة كوفيد -19 المميتة؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9oQxiOxgy0k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9oQxiOxgy0k"
         }
       }
     }
