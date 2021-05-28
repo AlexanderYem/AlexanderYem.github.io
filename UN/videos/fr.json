@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le maintien de la paix des Nations Unies a un impact sur la prochaine génération",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H5c9IPrJVck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H5c9IPrJVck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Art et culture : des solutions africaines pour le développement durable de l'Afrique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tf4wPAXT4M8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Niger reste confronté à une urgence humanitaire complexe",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M51Mgroqe-Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M51Mgroqe-Y"
         }
       }
     }
