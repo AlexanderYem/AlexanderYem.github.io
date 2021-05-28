@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "حوار بين الأمين العام للأمم المتحدة وثلاثة من حفظة السلام الشباب",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHpepTcQrlE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iHpepTcQrlE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غزة تعاني من \"أزمة مزمنة\" في القطاع الصحي ونقص في الأدوية والمستلزمات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2HaozXyiZFk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تقرير أممي: داعش ارتكب إبادة جماعية ضد المجتمع الإيزيدي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/R1hCkZuobJw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "R1hCkZuobJw"
         }
       }
     }
