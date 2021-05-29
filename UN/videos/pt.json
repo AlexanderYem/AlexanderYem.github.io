@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bate-papo de Guterres com jovens celebra Dia Internacional dos Boinas-Azuis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EJ8rdb_1Sg4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EJ8rdb_1Sg4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens portugueses na República Centro-Africana celebram Dia Internacional dos Boinas-Azuis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MP2g2w0TjYo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIT pede apoio a profissionais da saúde sob estresse durante a pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MEXHrX0gp44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MEXHrX0gp44"
         }
       }
     }
