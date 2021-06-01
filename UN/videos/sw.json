@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ofisi ya UN yafungwa Burundi. Amani imeimarika.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2-hW-3y718/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s2-hW-3y718"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanajeshi vijana TANZBATT-08 kazini DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "omlag5pJw3M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN-  Nyuki wana manufaa zaidi kwa wakulima wa mazao na matunda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EggoG-_miw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EggoG-_miw4"
         }
       }
     }
