@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Engenheiro moçambicano é o novo chefe de Tecnologia da Informação da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YREt9Ujo52o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YREt9Ujo52o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bate-papo de Guterres com jovens celebra Dia Internacional dos Boinas-Azuis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7IXBI0XfLYE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Brasil tem cerca de 30 mil mortes por acidentes de trânsito ao ano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MP2g2w0TjYo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MP2g2w0TjYo"
         }
       }
     }
