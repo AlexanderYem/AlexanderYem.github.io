@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "América Latina e Caribe precisam manter vigilância contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZmHoH_4gds/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mZmHoH_4gds"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Engenheiro moçambicano é o novo chefe de Tecnologia da Informação da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "42AlVLipq8U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: agência da ONU pede vacina para todos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7IXBI0XfLYE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7IXBI0XfLYE"
         }
       }
     }

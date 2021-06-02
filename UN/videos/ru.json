@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день окружающей среды",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeZKgLTQkDo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AeZKgLTQkDo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Молодые миротворцы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nszIL76tuQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ЖУРНАЛИСТИКА  - ОБЩЕСТВЕННОЕ БЛАГО",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jNjRwLr3Sig/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jNjRwLr3Sig"
         }
       }
     }
