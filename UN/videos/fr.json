@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mission Innovation : trouver des solutions et faire face au dérèglement climatique.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/60_g4q82Xfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "60_g4q82Xfc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Secrétaire général de l’ONU remercie les Casques bleus.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_3scJZ1U4n4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Inde : pics  massifs d'infections à la Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_FHBbrgjNkc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_FHBbrgjNkc"
         }
       }
     }
