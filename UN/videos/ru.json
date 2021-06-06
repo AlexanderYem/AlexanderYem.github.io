@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Поздравления с Днем русского языка - от Манижи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HV-YIwPcEk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6HV-YIwPcEk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Вячеслав Фетисов - о значении русского языка",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWXNxCYac2U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PWXNxCYac2U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Денис Мацуев - о роли русского языка",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "I44O-emd_sE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "M A N I Z H A Манижа о творчестве, социальной позиции и цели на \"Евровидении\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v2AmORpfBAc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v2AmORpfBAc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#ЛГБТКИ+  будущее без страха",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c2pYvpZQukw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c2pYvpZQukw"
         }
       }
     }
