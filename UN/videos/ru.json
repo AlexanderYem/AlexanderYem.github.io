@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Денис Мацуев - о роли русского языка",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oLRzKC9IdKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oLRzKC9IdKE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Наталья Водянова поздравляет всех с Днем русского языка!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2DGkqHt-Z8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m2DGkqHt-Z8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день окружающей среды",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "c2pYvpZQukw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек в МГИМО",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dsgkmvPNDdo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dsgkmvPNDdo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "О свободе печати без лишних слов – выставка карикатуры в Москве",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nszIL76tuQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nszIL76tuQ4"
         }
       }
     }
