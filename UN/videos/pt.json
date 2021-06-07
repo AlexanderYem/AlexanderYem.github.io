@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "África: Covid-19 expõe falhas sobre modelo de desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PNg2-ecRBfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PNg2-ecRBfc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministro do Mar de Portugal diz à ONU News que economia do setor tem se mostrado resiliente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9Sfd2HpBdtY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A jornada de uma sobrevivente de fístula obstétrica em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c5BStT6iY3Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c5BStT6iY3Q"
         }
       }
     }
