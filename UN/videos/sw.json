@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chakula chako ni salama?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_LahjvMQ34/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k_LahjvMQ34"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haijawahi kutokea Ziwa Victoria.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TvVm-Fa3QaI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nyiragongo, vifo vimeongezeka.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OjxsNAWxBCg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OjxsNAWxBCg"
         }
       }
     }
