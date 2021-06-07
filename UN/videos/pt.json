@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral da ONU faz alerta em Dia Mundial dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HwAFb8WNnhU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HwAFb8WNnhU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "África: Covid-19 expõe falhas sobre modelo de desenvolvimento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6ICYXy6KNq8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: João Marcello Bôscoli",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Sfd2HpBdtY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9Sfd2HpBdtY"
         }
       }
     }
