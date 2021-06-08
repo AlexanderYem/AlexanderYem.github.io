@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день океанов - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6dCH3VATOw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V6dCH3VATOw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Поздравления с Днем русского языка - от Манижи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ANkxLfjAtz0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Manizha - посол доброй воли Управления ООН по делам беженцев (УВКБ ООН). Почему?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I44O-emd_sE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I44O-emd_sE"
         }
       }
     }
