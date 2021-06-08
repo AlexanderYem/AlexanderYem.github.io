@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tanzania yang'ara UN.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKInQFTvEI4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cKInQFTvEI4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chakula chako ni salama?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ddYBXz6zEeM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ziwa Tanganyika linafurika.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TvVm-Fa3QaI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TvVm-Fa3QaI"
         }
       }
     }
