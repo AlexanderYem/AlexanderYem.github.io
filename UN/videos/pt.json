@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nações Unidas agradece a Portugal por contribuição para manutenção da paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q1FcoFAyC-U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q1FcoFAyC-U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU faz alerta em Dia Mundial dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h8dM6MCftj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nações Unidas pedem investigação de ataque que matou pelo menos 14 no Peru",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6ICYXy6KNq8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6ICYXy6KNq8"
         }
       }
     }
