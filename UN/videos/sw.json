@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Michuano ya Olimpiki yaja, wakimbizi ndani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOGx-BFRg0c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LOGx-BFRg0c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rais Samia Suluhu Hassan ahutubia Umoja wa Mataifa kuhusu UKIMWI.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fs3xgk4d69U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sababu zilizonifanya nijiunge jeshini ni hizi - Meja Steplyne Nyaboga.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NvQL6wlxu68/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NvQL6wlxu68"
         }
       }
     }
