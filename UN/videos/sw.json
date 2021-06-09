@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unachokula ni salama?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJRc0Kkhfmc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AJRc0Kkhfmc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Michuano ya Olimpiki yaja, wakimbizi ndani.",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "cKInQFTvEI4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chakula chako ni salama?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k_LahjvMQ34/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k_LahjvMQ34"
         }
       }
     },
