@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nilikeketwa. Ninapambana!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6slLwLVl4Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y6slLwLVl4Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unachokula ni salama?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5BS3u9-OvPI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nimepokea taarifa za ushindi kwa furaha isiyo kifani-Meja Nyaboga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fs3xgk4d69U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fs3xgk4d69U"
         }
       }
     }
