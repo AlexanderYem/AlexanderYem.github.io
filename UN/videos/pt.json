@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Trabalho infantil atinge a taxa mais alta em 20 anos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2d8zDegDOYQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2d8zDegDOYQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nações Unidas agradecem a Portugal por contribuição para manutenção da paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BwK5m3OK-Rc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pandemia no centro do debate em Assembleia Mundial da Saúde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h8dM6MCftj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h8dM6MCftj0"
         }
       }
     }
