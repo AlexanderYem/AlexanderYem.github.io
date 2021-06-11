@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil é eleito com 181 votos para o Conselho de Segurança no biênio 2022-2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fIYQSREF3A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8fIYQSREF3A"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Entrevista: General do Brasil assume comando da Missão da ONU na RD Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKIatgxREdE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IKIatgxREdE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Conscientização sobre Albinismo",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "mZmHoH_4gds"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Engenheiro moçambicano é o novo chefe de Tecnologia da Informação da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YREt9Ujo52o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YREt9Ujo52o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bate-papo de Guterres com jovens celebra Dia Internacional dos Boinas-Azuis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EJ8rdb_1Sg4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EJ8rdb_1Sg4"
         }
       }
     }
