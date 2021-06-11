@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Conscientização sobre Albinismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lVye2QO_Jg4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lVye2QO_Jg4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Trabalho infantil atinge a taxa mais alta em 20 anos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EJ8rdb_1Sg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovens portugueses na República Centro-Africana celebram Dia Internacional dos Boinas-Azuis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BwK5m3OK-Rc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BwK5m3OK-Rc"
         }
       }
     }
