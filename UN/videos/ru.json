@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "О денежных переводах мигрантов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmBrLUw4ANo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kmBrLUw4ANo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день океанов - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d4MRfpN3hmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ДЕНЬ БИОЛОГИЧЕСКОГО РАЗНООБРАЗИЯ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ANkxLfjAtz0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ANkxLfjAtz0"
         }
       }
     }
