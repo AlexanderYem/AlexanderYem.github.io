@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Juntos nos curamos, aprendemos y brillamos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iSn4TiZn-_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iSn4TiZn-_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de los Océanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_z2VQXtY69c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cómo desmontan los estereotipos las mujeres de las fuerzas de mantenimiento de la paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2hSz7JIPgis/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2hSz7JIPgis"
         }
       }
     }
