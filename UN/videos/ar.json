@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "من خلال تجربته مع الأمم المتحدة، صحفي مقدسي يأمل في تقريب الإعلام الفلسطيني للمجتمع الدولي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dndba9AQouA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dndba9AQouA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "نجاة رشدي: عدم تشكيل الحكومة في لبنان كان له أيضا تأثير هائل على ثقة المستثمرين بالبلاد",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ot9XINrsi5o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المجموعة العربية في الأمم المتحدة تدعو المجتمع الدولي للتحرك وإنهاء الاحتلال الإسرائيلي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BHWtj1gzUxI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BHWtj1gzUxI"
         }
       }
     }
