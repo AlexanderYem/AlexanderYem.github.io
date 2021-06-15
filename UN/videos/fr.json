@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les casques bleus béninois mettent leurs compétences au service de la paix au Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTt0PzTXTzI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CTt0PzTXTzI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mission Innovation : trouver des solutions et faire face au dérèglement climatique.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I1IpzEGejp0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’insécurité alimentaire a touché 155 millions de personnes en 2020",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_3scJZ1U4n4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_3scJZ1U4n4"
         }
       }
     }
