@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lutter contre la désertification et la sécheresse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTKIYIBrtqE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cTKIYIBrtqE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les casques bleus béninois mettent leurs compétences au service de la paix au Mali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XGqR8fWDroU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale des oiseaux migrateurs 2021 : chanter, voler, planer - comme un oiseau !",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I1IpzEGejp0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I1IpzEGejp0"
         }
       }
     }
