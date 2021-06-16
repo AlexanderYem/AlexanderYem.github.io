@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres marca Dia Mundial de Combate à Desertificação e à Seca",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvlsXbx8N14/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mvlsXbx8N14"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileira ganha prêmio da ONU com estudo sobre mudança climática e bioma do Cerrado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OUY0k_9ZzYU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU alerta para \"ponto sem retorno para o planeta.”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z3esza7q2_Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z3esza7q2_Y"
         }
       }
     }
