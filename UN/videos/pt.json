@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflito",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L9LfTGGmiAM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L9LfTGGmiAM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro-ministro de Portugal fala em Cúpula Mundial do Trabalho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HwAFb8WNnhU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "África: Covid-19 expõe falhas sobre modelo de desenvolvimento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PNg2-ecRBfc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PNg2-ecRBfc"
         }
       }
     }
