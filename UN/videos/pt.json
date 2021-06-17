@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro-ministro de Portugal fala em Cúpula Mundial do Trabalho",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9QoodM85aM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N9QoodM85aM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres marca Dia Mundial de Combate à Desertificação e à Seca",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PNg2-ecRBfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministro do Mar de Portugal diz à ONU News que economia do setor tem se mostrado resiliente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OUY0k_9ZzYU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OUY0k_9ZzYU"
         }
       }
     }
