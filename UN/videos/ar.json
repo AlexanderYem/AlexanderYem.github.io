@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بدعم من اليونيسيف: حملة \"اللقاح كرمالنا\" تزور ٢٧ مخيما وتجمعا فلسطينيا في لبنان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ut-rN1K9Rwc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ut-rN1K9Rwc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "حوار خاص مع مسؤول الجناح الإنساني في الأمم المتحدة مارك لوكوك الذي يغادر منصبه هذا الأسبوع",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M3MnTyNeTyQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ماذا كان المجتمع الدولي ليفعل لو كان مكان إسرائيل وفلسطين؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jJQ9Syzt1_4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jJQ9Syzt1_4"
         }
       }
     }
