@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день борьбы с сексуальным насилием в условиях конфликта",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/csH34oDEPek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "csH34oDEPek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Борьба с опустыниванием и засухой",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jr1Tou5512A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Manizha: за равноправие и против насилия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kAUUnGgj1nc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kAUUnGgj1nc"
         }
       }
     }
