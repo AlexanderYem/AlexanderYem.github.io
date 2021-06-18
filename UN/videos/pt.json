@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial do Refugiado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-iRTRRiAdE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D-iRTRRiAdE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Após reeleição, Guterres diz que mundo vive uma nova era e precisa de solidariedade e união",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2d8zDegDOYQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nações Unidas agradecem a Portugal por contribuição para manutenção da paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q1FcoFAyC-U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q1FcoFAyC-U"
         }
       }
     }
