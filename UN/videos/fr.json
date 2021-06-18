@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Ensemble, on se soigne, on apprend et on rayonne »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dui7zag5GZ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dui7zag5GZ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lutter contre la désertification et la sécheresse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ObVfqbraA0E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La situation au Moyen-Orient, y compris la question palestinienne",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XGqR8fWDroU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XGqR8fWDroU"
         }
       }
     }

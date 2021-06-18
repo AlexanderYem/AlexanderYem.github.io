@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "«Исцеление, учеба и возвышение сообща» - по случают Всемирного дня беженцев",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lUmvRYdkx3w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lUmvRYdkx3w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день борьбы с сексуальным насилием в условиях конфликта",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AeZKgLTQkDo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Молодые миротворцы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jr1Tou5512A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jr1Tou5512A"
         }
       }
     }

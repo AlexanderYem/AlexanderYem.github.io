@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tazama FAO ilivyowainua wakulima wa Dodoma, Tanzania.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTo63XXlt0Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YTo63XXlt0Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ni kweli Covid-19 ipo Uganda. Imetuathiri vijana.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KT3PiPehYmw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tanzania yang'ara UN.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cKInQFTvEI4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cKInQFTvEI4"
         }
       }
     }
