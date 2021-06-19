@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Marcelo Rebelo de Sousa diz que reeleição de Guterres confirma \"sonhos comuns\" da juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FuljwlUSxJc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FuljwlUSxJc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Refugiado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lVye2QO_Jg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Trabalho infantil atinge a taxa mais alta em 20 anos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2d8zDegDOYQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2d8zDegDOYQ"
         }
       }
     }
