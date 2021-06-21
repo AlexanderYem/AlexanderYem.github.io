@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 1)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/stqMz9XjuNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "stqMz9XjuNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Marcelo Rebelo de Sousa diz que reeleição de Guterres confirma \"sonhos comuns\" da juventude",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IKIatgxREdE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Conscientização sobre Albinismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lVye2QO_Jg4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lVye2QO_Jg4"
         }
       }
     }
