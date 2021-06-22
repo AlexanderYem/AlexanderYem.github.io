@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente da ONU é recebido na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2a9V6QGO2uA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2a9V6QGO2uA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 1)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8fIYQSREF3A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: General do Brasil assume comando da Missão da ONU na RD Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IKIatgxREdE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IKIatgxREdE"
         }
       }
     }
