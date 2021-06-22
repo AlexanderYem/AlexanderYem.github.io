@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nilichoka, nikabebwa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHIqR8KWwhY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oHIqR8KWwhY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanamichezo wakimbizi watakaoshiriki Olimpiki watangazwa.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AJRc0Kkhfmc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Michuano ya Olimpiki yaja, wakimbizi ndani.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LOGx-BFRg0c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LOGx-BFRg0c"
         }
       }
     }
