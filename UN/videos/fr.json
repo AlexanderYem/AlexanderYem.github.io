@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "errors": [
-      {
-        "message": "The service is currently unavailable.",
-        "domain": "global",
-        "reason": "backendError"
+  "items": [
+    {
+      "snippet": {
+        "title": "« Ensemble, on se soigne, on apprend et on rayonne »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dui7zag5GZ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dui7zag5GZ8"
+        }
       }
-    ],
-    "status": "UNAVAILABLE"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Lutter contre la désertification et la sécheresse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTKIYIBrtqE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cTKIYIBrtqE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Les casques bleus béninois mettent leurs compétences au service de la paix au Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTt0PzTXTzI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CTt0PzTXTzI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mission Innovation : trouver des solutions et faire face au dérèglement climatique.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/60_g4q82Xfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "60_g4q82Xfc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Le Secrétaire général de l’ONU remercie les Casques bleus.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wz1DyQ2_WRQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wz1DyQ2_WRQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Le maintien de la paix des Nations Unies a un impact sur la prochaine génération",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H5c9IPrJVck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H5c9IPrJVck"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Art et culture : des solutions africaines pour le développement durable de l'Afrique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dW-epWsJoq0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dW-epWsJoq0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Cessez-le-feu entre Gaza et Israël - Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Psdz2eCBsFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Psdz2eCBsFU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Journée mondiale de la diversité culturelle pour le dialogue et le développement",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AmtVwyt9pE4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AmtVwyt9pE4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "30 kilomètres à l’heure en ville : il faut limiter la vitesse sur les routes partagées",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ObVfqbraA0E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ObVfqbraA0E"
+        }
+      }
+    }
+  ]
 }
