@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Angola, João Lourenço, fala ao Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dk2a-qBAXyQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dk2a-qBAXyQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Angola é recebido na ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OUhrSp2fn1o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil é eleito com 181 votos para o Conselho de Segurança no biênio 2022-2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8fIYQSREF3A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8fIYQSREF3A"
         }
       }
     }
