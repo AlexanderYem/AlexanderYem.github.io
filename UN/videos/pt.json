@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 2)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7spjfUmnrK4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7spjfUmnrK4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Angola, João Lourenço, fala ao Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mvlsXbx8N14"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileira ganha prêmio da ONU com estudo sobre mudança climática e bioma do Cerrado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OUhrSp2fn1o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OUhrSp2fn1o"
         }
       }
     }
