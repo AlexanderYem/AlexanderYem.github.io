@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tazama wanakijiji walivyosaidiwa nchini Afghanstan.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBM8c7gA-lw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EBM8c7gA-lw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Baadhi ya majukumu ya Katibu Mkuu wa Umoja wa Mataifa.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HynXfDZO0tI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unataka ufadhili?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-viAFMbwvnA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-viAFMbwvnA"
         }
       }
     }

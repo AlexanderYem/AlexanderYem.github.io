@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "De onde vem a maioria dos refugiados?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBqo5Y_gjGU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LBqo5Y_gjGU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 2)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "N9QoodM85aM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres marca Dia Mundial de Combate à Desertificação e à Seca",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mvlsXbx8N14/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mvlsXbx8N14"
         }
       }
     }
