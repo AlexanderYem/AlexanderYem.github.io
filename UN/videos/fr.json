@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un avenir plus juste pour les gens de la mer",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PmUlg-1sNRM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PmUlg-1sNRM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Ensemble, on se soigne, on apprend et on rayonne »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AmtVwyt9pE4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "30 kilomètres à l’heure en ville : il faut limiter la vitesse sur les routes partagées",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ObVfqbraA0E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ObVfqbraA0E"
         }
       }
     }
