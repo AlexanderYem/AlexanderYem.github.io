@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS: “Estamos na corrida de nossas vidas e a maioria dos países mal saiu da linha de partida”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YfvlURDAcJ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YfvlURDAcJ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De onde vem a maioria dos refugiados?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L9LfTGGmiAM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Primeiro-ministro de Portugal fala em Cúpula Mundial do Trabalho",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N9QoodM85aM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N9QoodM85aM"
         }
       }
     }
