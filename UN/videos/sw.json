@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Samia Suluhu Hassan, Rais wa Tanzania awaambia ukweli wananchi wake.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3H-j9-DaiZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3H-j9-DaiZI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mbunge wako anakuwakilisha vema?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ToKVjH5MFXk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Umewahi kupokea fedha kutoka nje ya nchi?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/okffhGZrDXA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "okffhGZrDXA"
         }
       }
     }
