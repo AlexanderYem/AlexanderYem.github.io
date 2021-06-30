@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jukwaa la usawa wa kijinsia kwa kujumuisha vijana laanza rasmi nchini Ufaransa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-JS-s0HrU4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z-JS-s0HrU4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Samia Suluhu Hassan, Rais wa Tanzania awaambia ukweli wananchi wake.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YTo63XXlt0Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ni kweli Covid-19 ipo Uganda. Imetuathiri vijana.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ToKVjH5MFXk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ToKVjH5MFXk"
         }
       }
     }
