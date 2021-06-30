@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Fernando Henrique Cardoso (Parte 1)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-hNeWyvkeM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6-hNeWyvkeM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em português, chefe de Direitos Humanos da ONU pede \"abordagem transformadora\" contra racismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D-iRTRRiAdE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Após reeleição, Guterres diz que mundo vive uma nova era e precisa de solidariedade e união",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cqnvRnIc1k0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cqnvRnIc1k0"
         }
       }
     }
