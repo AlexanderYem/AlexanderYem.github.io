@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Usaidizi kukabili umaskini wakati wa COVID-19 ulikuwa mkubwa kwa wananchi wa nchi za kipato cha juu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3q2-tRDdwU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t3q2-tRDdwU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jukwaa la usawa wa kijinsia kwa kujumuisha vijana laanza rasmi nchini Ufaransa.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wKSrV9rRLIg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tazama FAO ilivyowainua wakulima wa Dodoma, Tanzania.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YTo63XXlt0Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YTo63XXlt0Q"
         }
       }
     }
