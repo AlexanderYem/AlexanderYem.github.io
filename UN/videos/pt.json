@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guiné-Bissau: ONU quer apoiar desenvolvimento sustentável fortalecendo vocação marítima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jhS2g14kz4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7jhS2g14kz4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Fernando Henrique Cardoso (Parte 1)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FuljwlUSxJc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Refugiado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D-iRTRRiAdE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D-iRTRRiAdE"
         }
       }
     }
