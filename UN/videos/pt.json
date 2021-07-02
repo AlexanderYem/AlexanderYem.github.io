@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista da ONU News com Fernando Henrique Cardoso - Parte 2",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GiE-HzHDrag/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GiE-HzHDrag"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau: ONU quer apoiar desenvolvimento sustentável fortalecendo vocação marítima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "stqMz9XjuNo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Marcelo Rebelo de Sousa diz que reeleição de Guterres confirma \"sonhos comuns\" da juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FuljwlUSxJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FuljwlUSxJc"
         }
       }
     }
