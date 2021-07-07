@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Vacinas contra Covid-19 em Moçambique e situação de Venezuelanos no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kM1GJ03izFA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kM1GJ03izFA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista da ONU News com Fernando Henrique Cardoso - Parte 2",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2a9V6QGO2uA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 1)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/stqMz9XjuNo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "stqMz9XjuNo"
         }
       }
     }
