@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La energía solar empodera a las comunidades rurales en Perú",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b08JoQ-OaYA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b08JoQ-OaYA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "¡Conviértete en un héroe de la alimentación como Peter Rabbit!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_skkHNUbtAw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Internacional del Jazz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9i853SgmrTY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9i853SgmrTY"
         }
       }
     }
