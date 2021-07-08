@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les décès dus à la Covid-19 dépassent la barre des 4 millions",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jj2UfFTeruc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jj2UfFTeruc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Un avenir plus juste pour les gens de la mer",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Psdz2eCBsFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale de la diversité culturelle pour le dialogue et le développement",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AmtVwyt9pE4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AmtVwyt9pE4"
         }
       }
     }
