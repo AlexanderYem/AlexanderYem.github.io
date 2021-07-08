@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maissata Cisse dereva pekee wa kike malori ya safari ndefu katika ukanda wa Afrika Magharibi.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rUIaUQhLJqU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rUIaUQhLJqU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nilipigwa risasi, mama akauawa, nikaikimbia Burundi na kuingia Rwanda -  Parfeit Hakizimana.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SwEoIj6vk5c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunakula udongo.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sGHTwTi_1bc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sGHTwTi_1bc"
         }
       }
     }
