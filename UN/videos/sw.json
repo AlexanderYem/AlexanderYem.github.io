@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Simulizi ya machungu kutoka Cabo Delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9fMuF7Uy-8M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9fMuF7Uy-8M"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Wanavamia vijiji na kukata watu vichwa- Cabo Delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D31HR8D4u9A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D31HR8D4u9A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Watu milioni 4 tayari wamefariki kutokana na Covid-19, ulimwengu umefikia hatua ya kutishia.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "3H-j9-DaiZI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mbunge wako anakuwakilisha vema?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/deEJa2FHBcg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "deEJa2FHBcg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tazama wanakijiji walivyosaidiwa nchini Afghanstan.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EBM8c7gA-lw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EBM8c7gA-lw"
         }
       }
     }
