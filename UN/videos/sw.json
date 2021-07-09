@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Watu milioni 4 tayari wamefariki kutokana na Covid-19, ulimwengu umefikia hatua ya kutishia.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c25FnvWBxog/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c25FnvWBxog"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maissata Cisse dereva pekee wa kike malori ya safari ndefu katika ukanda wa Afrika Magharibi.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EBM8c7gA-lw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Baadhi ya majukumu ya Katibu Mkuu wa Umoja wa Mataifa.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SwEoIj6vk5c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SwEoIj6vk5c"
         }
       }
     }
