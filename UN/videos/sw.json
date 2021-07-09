@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Simulizi ya machungu kutoka Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9fMuF7Uy-8M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9fMuF7Uy-8M"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Wanavamia vijiji na kukata watu vichwa- Cabo Delgado",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "3H-j9-DaiZI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mbunge wako anakuwakilisha vema?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/deEJa2FHBcg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "deEJa2FHBcg"
         }
       }
     }
