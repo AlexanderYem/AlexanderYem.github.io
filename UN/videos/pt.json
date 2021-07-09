@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Proteção de venezuelanos contra tráfico humano no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hm2HK4aJrWc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Hm2HK4aJrWc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Vacinas contra Covid-19 em Moçambique e situação de Venezuelanos no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dk2a-qBAXyQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Angola é recebido na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2a9V6QGO2uA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2a9V6QGO2uA"
         }
       }
     }
