@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco: momento é de pensar na reabertura segura das escolas no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KI9eQcQQqPQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KI9eQcQQqPQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Proteção de venezuelanos contra tráfico humano no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7spjfUmnrK4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Angola, João Lourenço, fala ao Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dk2a-qBAXyQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dk2a-qBAXyQ"
         }
       }
     }
