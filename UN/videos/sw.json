@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rais Samia Suluhu Hassan wa Tanzania aelezea hatua zilizopigwa katika SDGs namba 3.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0U1yCYbs3Ks/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0U1yCYbs3Ks"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanavamia vijiji na kukata watu vichwa- Cabo Delgado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3H-j9-DaiZI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mbunge wako anakuwakilisha vema?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/deEJa2FHBcg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "deEJa2FHBcg"
         }
       }
     }
