@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Watu wengine wameanza kuwaza kuchanganya chanjo za Covid-19, ni hatari. Tusubiri utafiti: WHO",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PKY5LwbUssY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PKY5LwbUssY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rais Samia Suluhu Hassan wa Tanzania aelezea hatua zilizopigwa katika SDGs namba 3.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z-JS-s0HrU4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Samia Suluhu Hassan, Rais wa Tanzania awaambia ukweli wananchi wake.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3H-j9-DaiZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3H-j9-DaiZI"
         }
       }
     }
