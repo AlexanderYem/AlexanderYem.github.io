@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Abertura das escolas no mundo e atuação do Unfpa em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zvUhAl0olpc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zvUhAl0olpc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unesco: momento é de pensar na reabertura segura das escolas no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LBqo5Y_gjGU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Marcelo Rebelo de Sousa, presidente de Portugal (Parte 2)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7spjfUmnrK4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7spjfUmnrK4"
         }
       }
     }
