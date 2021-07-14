@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde faz balanço dos ODSs na ONU (Em francês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AbGbLeigHZY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AbGbLeigHZY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Abertura das escolas no mundo e atuação do Unfpa em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YfvlURDAcJ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "De onde vem a maioria dos refugiados?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LBqo5Y_gjGU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LBqo5Y_gjGU"
         }
       }
     }
