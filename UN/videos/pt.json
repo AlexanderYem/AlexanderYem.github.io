@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola no Fórum de Alto Nível sobre o Desenvolvimento Sustentável da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NH9kzaC_Ebs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NH9kzaC_Ebs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde faz balanço dos ODSs na ONU (Em francês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OjtYc09PntI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS: “Estamos na corrida de nossas vidas e a maioria dos países mal saiu da linha de partida”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YfvlURDAcJ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YfvlURDAcJ8"
         }
       }
     }
