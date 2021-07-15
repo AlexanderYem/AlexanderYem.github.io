@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional de Nelson Mandela",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHAZLzERYfQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oHAZLzERYfQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola no Fórum de Alto Nível sobre o Desenvolvimento Sustentável da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6-hNeWyvkeM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em português, chefe de Direitos Humanos da ONU pede \"abordagem transformadora\" contra racismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OjtYc09PntI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OjtYc09PntI"
         }
       }
     }
