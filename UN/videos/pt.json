@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conheça o trabalho da Organização Internacional para as Migrações no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vj3jgWVAzKw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vj3jgWVAzKw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional de Nelson Mandela",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7jhS2g14kz4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Fernando Henrique Cardoso (Parte 1)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6-hNeWyvkeM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6-hNeWyvkeM"
         }
       }
     }
