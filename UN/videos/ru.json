@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Д-р Рамиз Алакбаров, Координатор гумпомощи ООН в Афганистане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DElId8w1exY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DElId8w1exY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "«Исцеление, учеба и возвышение сообща» - по случают Всемирного дня беженцев",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m2DGkqHt-Z8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день окружающей среды",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AeZKgLTQkDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AeZKgLTQkDo"
         }
       }
     }
