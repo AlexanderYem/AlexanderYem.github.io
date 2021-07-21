@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Olimpíadas de Tóquio, verão na Europa, e a luta de indígenas contra Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Ol2xIYl2J8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0Ol2xIYl2J8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "OMS alerta que “risco do vírus é inevitável” nas Olimpíadas de Tóquio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgU7pek_Clg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OgU7pek_Clg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conheça o trabalho da Organização Internacional para as Migrações no Brasil",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "kM1GJ03izFA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista da ONU News com Fernando Henrique Cardoso - Parte 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GiE-HzHDrag/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GiE-HzHDrag"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau: ONU quer apoiar desenvolvimento sustentável fortalecendo vocação marítima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7jhS2g14kz4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7jhS2g14kz4"
         }
       }
     }
