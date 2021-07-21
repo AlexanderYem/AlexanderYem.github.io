@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Verão na Europa tem cheias e ondas de calor",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GcSkNzcpG_A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GcSkNzcpG_A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Olimpíadas de Tóquio, verão na Europa, e a luta de indígenas contra Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hm2HK4aJrWc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Vacinas contra Covid-19 em Moçambique e situação de Venezuelanos no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kM1GJ03izFA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kM1GJ03izFA"
         }
       }
     }
