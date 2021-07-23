@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "VERIFICADO | #UmSóTime",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTW8kJLbQvY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cTW8kJLbQvY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Verão na Europa tem cheias e ondas de calor",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KI9eQcQQqPQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Proteção de venezuelanos contra tráfico humano no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hm2HK4aJrWc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hm2HK4aJrWc"
         }
       }
     }
