@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Muuguzi Stella Githaiga wa Kenyatta Hospital ya Kenya asimulia alivyouma COVID-19.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UQ28TeKbGEQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UQ28TeKbGEQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Natoka gerezani nikijiamini kwani nina stadi za ufundi - Mfungwa Jamhuri ya Afrika ya Kati, CAR.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D31HR8D4u9A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Watu milioni 4 tayari wamefariki kutokana na Covid-19, ulimwengu umefikia hatua ya kutishia.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c25FnvWBxog/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c25FnvWBxog"
         }
       }
     }
