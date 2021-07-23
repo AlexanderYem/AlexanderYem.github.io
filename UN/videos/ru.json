@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Приветствие Генсека ООН участникам Олимпиады в Токио",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWWTRhjx4L4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WWWTRhjx4L4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Д-р Рамиз Алакбаров, Координатор гумпомощи ООН в Афганистане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oLRzKC9IdKE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Наталья Водянова поздравляет всех с Днем русского языка!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m2DGkqHt-Z8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m2DGkqHt-Z8"
         }
       }
     }
