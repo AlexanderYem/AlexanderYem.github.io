@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гепатит С",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/04HOpscnsRo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "04HOpscnsRo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Приветствие Генсека ООН участникам Олимпиады в Токио",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PWXNxCYac2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Денис Мацуев - о роли русского языка",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oLRzKC9IdKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oLRzKC9IdKE"
         }
       }
     }
