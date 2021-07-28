@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rais Samia Suluhu Hassan awaambia ukweli raia wa Tanzania kuhusu chanjo za Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWq4gCJKay0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SWq4gCJKay0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ikiwa tutapuuza changamoto na mahitaji ya watu wa vijijini katika nchi maskini tutashindwa - IFAD",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EVXVCjE1tyY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Watu wengine wameanza kuwaza kuchanganya chanjo za Covid-19, ni hatari. Tusubiri utafiti: WHO",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PKY5LwbUssY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PKY5LwbUssY"
         }
       }
     }
