@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Sistemas Alimentares, Sítio Burle Marx e saúde da mulher em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGQvNi-sg6M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FGQvNi-sg6M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: O que causa a modificação de um vírus?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NH9kzaC_Ebs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde faz balanço dos ODSs na ONU (Em francês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AbGbLeigHZY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AbGbLeigHZY"
         }
       }
     }
