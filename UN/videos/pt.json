@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Um milhão de novas vacinas contra Covid-19 da Covax chegam ao Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-uXAOE1hmp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-uXAOE1hmp8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pandemia impacta uso de contraceptivos em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0Ol2xIYl2J8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS alerta que “risco do vírus é inevitável” nas Olimpíadas de Tóquio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OgU7pek_Clg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OgU7pek_Clg"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "‘Sijakomaa kuwa mwanamke’ asema mtoto nchini Burundi manusura wa usafirishaji haramu binadamu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VSOy5OUgBpc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VSOy5OUgBpc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rais Samia Suluhu Hassan awaambia ukweli raia wa Tanzania kuhusu chanjo za Covid-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EjquQbTjMWM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pombe ina uhusiano na kansa, imeeleza IARC, ambayo ni taasisi tanzu ya WHO.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EVXVCjE1tyY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EVXVCjE1tyY"
         }
       }
     }
