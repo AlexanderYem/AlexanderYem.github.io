@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Com apoio de Cafu, OMS e Fifa lançam campanha pela saúde mental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qci1bKPPGGc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qci1bKPPGGc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Um milhão de novas vacinas contra Covid-19 da Covax chegam ao Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GcSkNzcpG_A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Olimpíadas de Tóquio, verão na Europa, e a luta de indígenas contra Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0Ol2xIYl2J8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0Ol2xIYl2J8"
         }
       }
     }
