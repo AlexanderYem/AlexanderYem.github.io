@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News-um ano da explosão em Beirute; atleta em campanha do clima; amamentação e Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aSPVCS-uFps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aSPVCS-uFps"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Com apoio de Cafu, OMS e Fifa lançam campanha pela saúde mental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cTW8kJLbQvY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Verão na Europa tem cheias e ondas de calor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GcSkNzcpG_A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GcSkNzcpG_A"
         }
       }
     }
