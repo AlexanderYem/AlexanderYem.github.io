@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Roboti uwanja wa Jomo Kenyatta zapima COVID-19 na kufukiza dawa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6g7PlntQ-3Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6g7PlntQ-3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OLIMPIKI TOKYO: Wanariadha wakimbizi watumiwa salamu kutoka kambi ya wakimbizi Kakuma, Kenya.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mrNVLpDf8f4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kutana na  Tanitoluwa “Tani” Adewumi  bingwa mchanga wa mchezo wa sataranji, yaani chess.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ao0RMuRMau8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ao0RMuRMau8"
         }
       }
     }
