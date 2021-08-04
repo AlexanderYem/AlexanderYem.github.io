@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Allaiter, c'est donner le meilleur à mon bébé",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9leWYovRNk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f9leWYovRNk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale Nelson Mandela",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wz1DyQ2_WRQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le maintien de la paix des Nations Unies a un impact sur la prochaine génération",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H5c9IPrJVck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H5c9IPrJVck"
         }
       }
     }
