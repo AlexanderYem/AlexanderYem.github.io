@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Um ano após explosão, Beirute ainda precisa de ajuda para superar crises",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIVcMu_AM2U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JIVcMu_AM2U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Unicef garante ser seguro amamentar mesmo em casos positivos de Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_9hTWXvD2Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y_9hTWXvD2Q"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ultramaratonista brasileira Fernanda Maciel apoia campanha global pela ação climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WH2kFILS_zk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WH2kFILS_zk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News-um ano da explosão em Beirute; atleta em campanha do clima; amamentação e Covid-19",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "FGQvNi-sg6M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: O que causa a modificação de um vírus?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hXuh2AM61sM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hXuh2AM61sM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU em Angola assegura parceria com a Cplp para liderança na recuperação socioeconômica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5ch-SLOkOls/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5ch-SLOkOls"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "VERIFICADO | #UmSóTime",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cTW8kJLbQvY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cTW8kJLbQvY"
         }
       }
     }
