@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNICEF na KOICA wametuokoa, ukame ulikuwa unatutesa Turkana.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzYnxmr5h68/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HzYnxmr5h68"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Roboti uwanja wa Jomo Kenyatta zapima COVID-19 na kufukiza dawa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UQ28TeKbGEQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Natoka gerezani nikijiamini kwani nina stadi za ufundi - Mfungwa Jamhuri ya Afrika ya Kati, CAR.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mrNVLpDf8f4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mrNVLpDf8f4"
         }
       }
     }
