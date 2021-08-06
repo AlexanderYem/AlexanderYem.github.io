@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: campeã brasileira e ativista ambiental lança campanha global por ação climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zShOmaTMzXA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zShOmaTMzXA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau: novo estudo revela impacto da pandemia no setor privado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v9XpxD_KdLs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU promove transformação dos sistemas globais de alimentos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S4DCtjxB1-U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S4DCtjxB1-U"
         }
       }
     }
