@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ikiwa leo ni siku ya kimataifa ya watu wa asili, una ufahamu kiasi gani kuhusu jamii yako?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZc6TCYgD4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oZc6TCYgD4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Corona ilinitesa sana na imeniacha maskini",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xB_A2V_K_Iw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Homa ya ini au Hepatitis ni ugonjwa gani?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BxerSSOPDfY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BxerSSOPDfY"
         }
       }
     }
