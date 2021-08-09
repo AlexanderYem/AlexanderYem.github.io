@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Prevenção e vacinação contra Covid-19 em comunidades indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kP1eOUb90Hc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kP1eOUb90Hc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No \"Dia Internacional dos Povos Indígenas\", Pataxó chama atenção para impacto da pandemia na aldeia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-uXAOE1hmp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pandemia impacta uso de contraceptivos em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jp-2bEm0IUU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jp-2bEm0IUU"
         }
       }
     }
