@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo relatório da ONU diz que a temperatura global vai continuar subindo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwO4j7aRLg4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bwO4j7aRLg4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Destaque ONU News: Covid-19 em Portugal; aquecimento global; e o crescimento da língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OVoYc3F4gpg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OVoYc3F4gpg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prevenção e vacinação contra Covid-19 em comunidades indígenas",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "aSPVCS-uFps"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Com apoio de Cafu, OMS e Fifa lançam campanha pela saúde mental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qci1bKPPGGc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qci1bKPPGGc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Um milhão de novas vacinas contra Covid-19 da Covax chegam ao Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-uXAOE1hmp8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-uXAOE1hmp8"
         }
       }
     }
