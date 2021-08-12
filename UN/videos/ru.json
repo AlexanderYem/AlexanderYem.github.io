@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Андские горы в Перу и изменение климата",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XD3tIm4eNc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-XD3tIm4eNc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Гепатит С",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6HV-YIwPcEk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вячеслав Фетисов - о значении русского языка",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PWXNxCYac2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PWXNxCYac2U"
         }
       }
     }
