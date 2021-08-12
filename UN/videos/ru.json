@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Дети в Афганистане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hHkVFG2MgA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0hHkVFG2MgA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Андские горы в Перу и изменение климата",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V6dCH3VATOw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Поздравления с Днем русского языка - от Манижи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6HV-YIwPcEk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6HV-YIwPcEk"
         }
       }
     }
