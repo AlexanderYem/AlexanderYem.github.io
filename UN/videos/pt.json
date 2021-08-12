@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "No Dia Internacional da Juventude, jovem portuguesa explica como contribui para mundo mais saudável",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3Vctau-9M0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B3Vctau-9M0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Situação da Covid-19 em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JIVcMu_AM2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef garante ser seguro amamentar mesmo em casos positivos de Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y_9hTWXvD2Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y_9hTWXvD2Q"
         }
       }
     }
