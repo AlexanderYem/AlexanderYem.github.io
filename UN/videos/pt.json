@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo quadro de cooperação entre Nações Unidas e Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FI84FXHy7s4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FI84FXHy7s4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "“A OMS é absolutamente contrária à vacinação ser pré-requisito para viagens”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1FblQPdYPg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j1FblQPdYPg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "As culturas dos países de língua portuguesa despertam o interesse pelo idioma",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "_u4zaUBoo10"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: campeã brasileira e ativista ambiental lança campanha global por ação climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zShOmaTMzXA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zShOmaTMzXA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau: novo estudo revela impacto da pandemia no setor privado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Et0frziLWqc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Et0frziLWqc"
         }
       }
     }
