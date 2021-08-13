@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mtangazaji wa TBC aliyezushiwa kufa na Corona awashauri watu wapate chanjo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmS-rUGhtCE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DmS-rUGhtCE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malembo Farm yajizatiti kuwainua vijana kwenye Kilimo nchini Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Yr_QrxLm1lA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hizi ndizo dalili za homa ya ini au Hepatitis.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7zdZqPkKhGA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7zdZqPkKhGA"
         }
       }
     }
