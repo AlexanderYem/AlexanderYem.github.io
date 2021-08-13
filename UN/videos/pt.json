@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "As culturas dos países de língua portuguesa despertam o interesse pelo idioma",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/if4f9d8ZOJU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "if4f9d8ZOJU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Dia Internacional da Juventude, jovem portuguesa explica como contribui para mundo mais saudável",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Et0frziLWqc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Um ano após explosão, Beirute ainda precisa de ajuda para superar crises",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JIVcMu_AM2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JIVcMu_AM2U"
         }
       }
     }
