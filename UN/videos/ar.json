@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يشدد على الوحدة خلال جلسة مجلس الأمن لبحث التطورات في أفغانستان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rl0Ki4RY6e4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Rl0Ki4RY6e4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: يقف الشباب في الخطوط الأمامية للنضال من أجل بناء مستقبل أفضل للجميع",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ut-rN1K9Rwc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار خاص مع مسؤول الجناح الإنساني في الأمم المتحدة مارك لوكوك الذي يغادر منصبه هذا الأسبوع",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v56jUHxLWBc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v56jUHxLWBc"
         }
       }
     }
