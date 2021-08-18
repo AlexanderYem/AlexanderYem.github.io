@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial dos Trabalhadores Humanitários",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tM2HZrNNmEQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tM2HZrNNmEQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU mobiliza ajuda humanitária para o Haiti após o terremoto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-ELhcmLy2qg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe do Camões vê português em franco crescimento como língua de negócios",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OTLn6w77k5Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OTLn6w77k5Q"
         }
       }
     }
