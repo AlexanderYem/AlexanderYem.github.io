@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU mobiliza ajuda humanitária para o Haiti após o terremoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FrMoHToCpc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5FrMoHToCpc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Agências da ONU continuam comprometidas com entrega de ajuda humanitária no Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/43hwA7E3YAg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "43hwA7E3YAg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Afeganistão, ajuda humanitária no Haiti e a exigência de vacina para viagens",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "OTLn6w77k5Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo relatório da ONU diz que a temperatura global vai continuar subindo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bwO4j7aRLg4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bwO4j7aRLg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Covid-19 em Portugal; aquecimento global; e o crescimento da língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OVoYc3F4gpg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OVoYc3F4gpg"
         }
       }
     }
