@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Afeganistão, ajuda humanitária no Haiti e a exigência de vacina para viagens",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKTiS7gYmPk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dKTiS7gYmPk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Camões aposta na indústria criativa de países lusófonos para expandir português",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OVoYc3F4gpg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prevenção e vacinação contra Covid-19 em comunidades indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kP1eOUb90Hc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kP1eOUb90Hc"
         }
       }
     }
