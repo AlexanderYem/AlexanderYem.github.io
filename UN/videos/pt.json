@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: Agência para Migrações prioriza assistência humanitária em Cabo Delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VC6QpR_KKqk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VC6QpR_KKqk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial dos Trabalhadores Humanitários",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B3Vctau-9M0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Situação da Covid-19 em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ELhcmLy2qg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-ELhcmLy2qg"
         }
       }
     }
