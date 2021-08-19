@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День гуманитарной помощи - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lg92qpd6Hho/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Lg92qpd6Hho"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Дети в Афганистане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kmBrLUw4ANo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день океанов - обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V6dCH3VATOw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V6dCH3VATOw"
         }
       }
     }
