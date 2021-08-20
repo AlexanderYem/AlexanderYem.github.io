@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: OMS, vacinação contra a Covid-19 e viagens",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0esl5-KiZUc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0esl5-KiZUc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: Agência para Migrações prioriza assistência humanitária em Cabo Delgado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "if4f9d8ZOJU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Dia Internacional da Juventude, jovem portuguesa explica como contribui para mundo mais saudável",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B3Vctau-9M0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B3Vctau-9M0"
         }
       }
     }
