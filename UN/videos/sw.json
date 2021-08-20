@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nilikuwa mmoja wa watu wa kwanza Marekani kuugua Covid-19. Sitasahau nilivyonusurika - Ole Pertet",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/chq9hTq8kgA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "chq9hTq8kgA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kwa nini misaada ya kibinadamu hurushwa kutoka angani kwenye ndege?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oZc6TCYgD4s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Corona ilinitesa sana na imeniacha maskini",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wjvZLRxYjhY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wjvZLRxYjhY"
         }
       }
     }
