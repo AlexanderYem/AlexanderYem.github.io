@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tukio la ugaidi la mwaka 1998 Nairobi Kenya, linaniathiri hadi leo - Oscar Ikinya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMzK6Mu5HyE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XMzK6Mu5HyE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nilikuwa mmoja wa watu wa kwanza Marekani kuugua Covid-19. Sitasahau nilivyonusurika - Ole Pertet",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1tPjJSbIuj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ikiwa leo ni siku ya kimataifa ya watu wa asili, una ufahamu kiasi gani kuhusu jamii yako?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oZc6TCYgD4s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oZc6TCYgD4s"
         }
       }
     }
