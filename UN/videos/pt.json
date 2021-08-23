@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Siga o percurso de uma vacina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0qIlNixhA8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w0qIlNixhA8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: OMS, vacinação contra a Covid-19 e viagens",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j1FblQPdYPg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "As culturas dos países de língua portuguesa despertam o interesse pelo idioma",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/if4f9d8ZOJU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "if4f9d8ZOJU"
         }
       }
     }
