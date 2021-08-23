@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Siga o percurso de uma vacina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0qIlNixhA8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w0qIlNixhA8"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: OMS, vacinação contra a Covid-19 e viagens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0esl5-KiZUc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0esl5-KiZUc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique: Agência para Migrações prioriza assistência humanitária em Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VC6QpR_KKqk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VC6QpR_KKqk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial dos Trabalhadores Humanitários",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tM2HZrNNmEQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tM2HZrNNmEQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU mobiliza ajuda humanitária para o Haiti após o terremoto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5FrMoHToCpc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5FrMoHToCpc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agências da ONU continuam comprometidas com entrega de ajuda humanitária no Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/43hwA7E3YAg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "43hwA7E3YAg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Afeganistão, ajuda humanitária no Haiti e a exigência de vacina para viagens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dKTiS7gYmPk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dKTiS7gYmPk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Camões aposta na indústria criativa de países lusófonos para expandir português",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nRuKSPDUTCQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nRuKSPDUTCQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo quadro de cooperação entre Nações Unidas e Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FI84FXHy7s4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FI84FXHy7s4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“A OMS é absolutamente contrária à vacinação ser pré-requisito para viagens”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j1FblQPdYPg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j1FblQPdYPg"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
