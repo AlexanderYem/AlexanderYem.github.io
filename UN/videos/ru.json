@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Помощь для афганцев",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtGg1xzgg5Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qtGg1xzgg5Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День гуманитарной помощи - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5BqO6iFid6Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "О денежных переводах мигрантов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kmBrLUw4ANo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kmBrLUw4ANo"
         }
       }
     }
