@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vice-chefe das Nações Unidas faz visita ao Haiti após terremoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G82ShQ34mn4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G82ShQ34mn4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Siga o percurso de uma vacina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FI84FXHy7s4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“A OMS é absolutamente contrária à vacinação ser pré-requisito para viagens”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j1FblQPdYPg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j1FblQPdYPg"
         }
       }
     }
