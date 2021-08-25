@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Semana Mundial da Água",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7sLNRmCslF4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7sLNRmCslF4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Semana Mundial da Água, Unodc em Moçambique e vice-chefe da ONU no Haiti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dKTiS7gYmPk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Camões aposta na indústria criativa de países lusófonos para expandir português",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nRuKSPDUTCQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nRuKSPDUTCQ"
         }
       }
     }
