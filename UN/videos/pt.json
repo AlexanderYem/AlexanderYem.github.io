@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Semana Mundial da Água, Unodc em Moçambique e vice-chefe da ONU no Haiti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvJYGNjWKUU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NvJYGNjWKUU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vice-chefe das Nações Unidas faz visita ao Haiti após terremoto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nRuKSPDUTCQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo quadro de cooperação entre Nações Unidas e Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FI84FXHy7s4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FI84FXHy7s4"
         }
       }
     }
