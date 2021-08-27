@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wadau wa uvuvi katika Ziwa Tanganyika nchini Tanzania wanaelewa nini kuhusu Covid-19?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnAhaEWU-Wc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bnAhaEWU-Wc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tulisikia milio ya risasi, baada ya hapo nikakuta miili imelala.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OoJqhtOMwS4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mtangazaji wa TBC aliyezushiwa kufa na Corona awashauri watu wapate chanjo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DmS-rUGhtCE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DmS-rUGhtCE"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com Marco Teixeira, chefe do Escritório da ONU sobre Drogas e Crime em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sePx-hAIABo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sePx-hAIABo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Semana Mundial da Água",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "43hwA7E3YAg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Afeganistão, ajuda humanitária no Haiti e a exigência de vacina para viagens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dKTiS7gYmPk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dKTiS7gYmPk"
         }
       }
     }
