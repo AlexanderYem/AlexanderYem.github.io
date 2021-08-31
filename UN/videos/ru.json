@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ральф Банч",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOt-w3Pm2Kw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FOt-w3Pm2Kw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Помощь для афганцев",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "csH34oDEPek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба с опустыниванием и засухой",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5BqO6iFid6Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5BqO6iFid6Q"
         }
       }
     }
