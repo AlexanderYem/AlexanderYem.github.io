@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Afeganistão, combate ao racismo e nova expedição da Família Schurmann",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/unEQvQRST9o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "unEQvQRST9o"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ONU alerta sobre \"catástrofe humanitária\" iminente no Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wk_FCOSovt8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wk_FCOSovt8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com Marco Teixeira, chefe do Escritório da ONU sobre Drogas e Crime em Moçambique",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "tM2HZrNNmEQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU mobiliza ajuda humanitária para o Haiti após o terremoto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5FrMoHToCpc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5FrMoHToCpc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agências da ONU continuam comprometidas com entrega de ajuda humanitária no Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/43hwA7E3YAg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "43hwA7E3YAg"
         }
       }
     }
