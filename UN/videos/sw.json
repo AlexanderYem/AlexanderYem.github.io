@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Bado ninaamini katika jiji hili\"; kampeni kuwatetea watu wenye asili ya Asia na Pasifiki, Marekani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3TY2i53zuQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o3TY2i53zuQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tumemuomba Katibu Mkuu wa UN asiwasahau watanzania katika nafasi za juu za uongozi: Balozi Mulamula.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "chq9hTq8kgA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kwa nini misaada ya kibinadamu hurushwa kutoka angani kwenye ndege?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m8pRLcFaHbY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m8pRLcFaHbY"
         }
       }
     }
