@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Visiwa vya Marshall ambavyo havina hata mgonjwa mmoja wa Covid-19 vyapewa nguvu na WHO kujikinga",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5UfVEGdqIg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N5UfVEGdqIg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Bado ninaamini katika jiji hili\"; kampeni kuwatetea watu wenye asili ya Asia na Pasifiki, Marekani.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XMzK6Mu5HyE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nilikuwa mmoja wa watu wa kwanza Marekani kuugua Covid-19. Sitasahau nilivyonusurika - Ole Pertet",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/chq9hTq8kgA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "chq9hTq8kgA"
         }
       }
     }
