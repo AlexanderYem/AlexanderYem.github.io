@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especial: Joenia Wapichana nos 20 Anos da Declaração e Plano de Ação de Durban",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pak0rDjfCJw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Pak0rDjfCJw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Afeganistão, combate ao racismo e nova expedição da Família Schurmann",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VC6QpR_KKqk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial dos Trabalhadores Humanitários",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tM2HZrNNmEQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tM2HZrNNmEQ"
         }
       }
     }
