@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rais wa Tanzania atashiriki Baraza Kuu la UN mwezi huu wa Septemba? Fuatilia matangazo yetu ya leo.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hqFuCELS7Es/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hqFuCELS7Es"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Visiwa vya Marshall ambavyo havina hata mgonjwa mmoja wa Covid-19 vyapewa nguvu na WHO kujikinga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ue9Em36LAEw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tukio la ugaidi la mwaka 1998 Nairobi Kenya, linaniathiri hadi leo - Oscar Ikinya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XMzK6Mu5HyE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XMzK6Mu5HyE"
         }
       }
     }
