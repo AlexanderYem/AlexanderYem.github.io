@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ralph Bunche, pionnier de la paix",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JxLzGC5-_-M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JxLzGC5-_-M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Allaiter, c'est donner le meilleur à mon bébé",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "60_g4q82Xfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Secrétaire général de l’ONU remercie les Casques bleus.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wz1DyQ2_WRQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Wz1DyQ2_WRQ"
         }
       }
     }
