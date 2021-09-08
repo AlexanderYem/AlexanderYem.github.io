@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Situação humanitária no Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYJSmomoalU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mYJSmomoalU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Crise sem precedentes na Etiópia com 7 milhões passando fome",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lcJZMQEhIks/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lcJZMQEhIks"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: crise humanitária no Afeganistão, fome na Etiópia e a história de Ralph Bunche",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "G82ShQ34mn4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siga o percurso de uma vacina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0qIlNixhA8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w0qIlNixhA8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: OMS, vacinação contra a Covid-19 e viagens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0esl5-KiZUc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0esl5-KiZUc"
         }
       }
     }

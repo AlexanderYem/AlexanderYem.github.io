@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Leo ni siku ya kimataifa ya kujua kusoma na kuandika na huadhimishwa kila Septemba 8.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCgx0hEuDos/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RCgx0hEuDos"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Umoja wa Mataifa waendelea kutoa misaada kote duniani kuanzia Ethiopia, Haiti na kwingineko.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bnAhaEWU-Wc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tulisikia milio ya risasi, baada ya hapo nikakuta miili imelala.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F3Yc4GqlDAg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F3Yc4GqlDAg"
         }
       }
     }
