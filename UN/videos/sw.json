@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Taliban waunda serikali isiyo na wanawake, UN Women yasikitishwa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dhblbNmpPu4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dhblbNmpPu4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Leo ni siku ya kimataifa ya kujua kusoma na kuandika na huadhimishwa kila Septemba 8.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YBBOfkcn7zQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wadau wa uvuvi katika Ziwa Tanganyika nchini Tanzania wanaelewa nini kuhusu Covid-19?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bnAhaEWU-Wc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bnAhaEWU-Wc"
         }
       }
     }
