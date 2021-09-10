@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres lamenta morte de Jorge Sampaio: “Portugal perdeu um líder e eu perdi um grande amigo”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qiwo-pP5jXc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qiwo-pP5jXc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Situação humanitária no Afeganistão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NvJYGNjWKUU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vice-chefe das Nações Unidas faz visita ao Haiti após terremoto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G82ShQ34mn4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G82ShQ34mn4"
         }
       }
     }
