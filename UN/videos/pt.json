@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Andrew Young relembra Ralph Bunche, primeiro afro-americano a ganhar o Nobel da Paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIiq3Axe4BQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UIiq3Axe4BQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres lamenta morte de Jorge Sampaio: “Portugal perdeu um líder e eu perdi um grande amigo”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7sLNRmCslF4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Semana Mundial da Água, Unodc em Moçambique e vice-chefe da ONU no Haiti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NvJYGNjWKUU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NvJYGNjWKUU"
         }
       }
     }

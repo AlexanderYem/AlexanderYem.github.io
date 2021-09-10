@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Я все еще верю в Нью-Йорк",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZfgKYCaKHDo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZfgKYCaKHDo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ральф Банч",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lUmvRYdkx3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день борьбы с сексуальным насилием в условиях конфликта",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/csH34oDEPek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "csH34oDEPek"
         }
       }
     }

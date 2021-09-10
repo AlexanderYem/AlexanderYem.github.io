@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Notre programme commun",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hSyof2qcI6I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hSyof2qcI6I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ralph Bunche, pionnier de la paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CTt0PzTXTzI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mission Innovation : trouver des solutions et faire face au dérèglement climatique.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/60_g4q82Xfc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "60_g4q82Xfc"
         }
       }
     }
