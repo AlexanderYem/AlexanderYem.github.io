@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kigoma, Tanzania washauriwa kuliokoa Ziwa Tanganyika na mabadiliko ya tabiachi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qSHa3_y8i5M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qSHa3_y8i5M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Taliban waunda serikali isiyo na wanawake, UN Women yasikitishwa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h8FvEZ9Mwhc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alinda Mashiku mwanamke wa asili ya Tanzania ang'ara katika Kituo cha safari za anga, Marekani, NASA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YBBOfkcn7zQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YBBOfkcn7zQ"
         }
       }
     }
