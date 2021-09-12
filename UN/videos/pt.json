@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "A última entrevista em vídeo de Jorge Sampaio à ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rt_UsJP7eUw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rt_UsJP7eUw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Nações Unidas marcam Dia da Cooperação Sul-Sul",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENplwtk-LbU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ENplwtk-LbU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Andrew Young relembra Ralph Bunche, primeiro afro-americano a ganhar o Nobel da Paz",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "wk_FCOSovt8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com Marco Teixeira, chefe do Escritório da ONU sobre Drogas e Crime em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sePx-hAIABo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sePx-hAIABo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Semana Mundial da Água",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7sLNRmCslF4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7sLNRmCslF4"
         }
       }
     }
