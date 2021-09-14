@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Je crois toujours en New York » : un projet artistique contre la discrimination anti-asiatique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYR453zMvVc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jYR453zMvVc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Notre programme commun",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cTKIYIBrtqE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les casques bleus béninois mettent leurs compétences au service de la paix au Mali",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CTt0PzTXTzI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CTt0PzTXTzI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Avião do PMA faz primeiro pouso em Cabul desde que Talibã entrou no poder",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-D5BSzSaJHE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-D5BSzSaJHE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A última entrevista em vídeo de Jorge Sampaio à ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "unEQvQRST9o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU alerta sobre \"catástrofe humanitária\" iminente no Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wk_FCOSovt8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wk_FCOSovt8"
         }
       }
     }
