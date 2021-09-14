@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أعمال فنية في نيويورك تمثل الصمود والأمل في مواجهة معاداة الآسيويين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Am1hKzD108/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3Am1hKzD108"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رائد مناهض للعنصرية يروي قصة رائد آخر: أندرو يونغ يتذكر رالف بنش",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "X4tfT_cnhKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "العاملون الإنسانيون يؤكدون أهمية إبقاء آخر شريان حياة للمساعدات السورية عبر الحدود مفتوحا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eD2tqTizaAU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eD2tqTizaAU"
         }
       }
     }
