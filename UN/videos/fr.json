@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Simon Gronowski, survivant de l’Holocauste, passeur de mémoire et de musique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYV_4ISGmq8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OYV_4ISGmq8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Je crois toujours en New York » : un projet artistique contre la discrimination anti-asiatique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dui7zag5GZ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lutter contre la désertification et la sécheresse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cTKIYIBrtqE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cTKIYIBrtqE"
         }
       }
     }
