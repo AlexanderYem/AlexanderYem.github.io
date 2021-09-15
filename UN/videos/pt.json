@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nova Iorque exibe arte em espaços públicos contra violência a pessoas de origem asiática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R94n6bzMVX4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R94n6bzMVX4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Avião do PMA faz primeiro pouso em Cabul desde que Talibã entrou no poder",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Pak0rDjfCJw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Afeganistão, combate ao racismo e nova expedição da Família Schurmann",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/unEQvQRST9o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "unEQvQRST9o"
         }
       }
     }
