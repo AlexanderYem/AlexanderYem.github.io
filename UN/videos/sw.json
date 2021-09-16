@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mpaka sasa, saa trilioni 1.8 za watoto kuhudhuria darasani zimepotea",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3crPe_Z3stw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3crPe_Z3stw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Baraza Kuu la Umoja wa Mataifa la mwaka 2021 limewadia. Viongozi wakuu kutoka mataifa 193 wataongea",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QlbGipK-MsU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rais wa Tanzania atashiriki Baraza Kuu la UN mwezi huu wa Septemba? Fuatilia matangazo yetu ya leo.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hqFuCELS7Es/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hqFuCELS7Es"
         }
       }
     }
