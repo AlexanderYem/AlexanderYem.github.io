@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Todavía creo en Nueva York",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Uw5KKmNWXA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6Uw5KKmNWXA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ralph Bunche, héroe de la justica",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iSn4TiZn-_o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de los Océanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sTLy8NdEsVk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sTLy8NdEsVk"
         }
       }
     }
