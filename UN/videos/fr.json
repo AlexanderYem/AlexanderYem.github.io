@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "76e Session de l'Assemblée générale de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKaLbagQSUk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cKaLbagQSUk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Joenia Wapixana : une vie consacrée aux droits des autochtones au Brésil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZ4Ef7Tv0o0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UZ4Ef7Tv0o0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Simon Gronowski, survivant de l’Holocauste, passeur de mémoire et de musique",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jj2UfFTeruc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Un avenir plus juste pour les gens de la mer",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PmUlg-1sNRM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PmUlg-1sNRM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Ensemble, on se soigne, on apprend et on rayonne »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dui7zag5GZ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dui7zag5GZ8"
         }
       }
     }
