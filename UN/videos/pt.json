@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assembleia Geral da ONU: \"É um momento de tocar o alarme\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9K7XQ8m74iY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9K7XQ8m74iY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nova Iorque exibe arte em espaços públicos contra violência a pessoas de origem asiática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kBlYAqUcmsE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especial: Joenia Wapichana nos 20 Anos da Declaração e Plano de Ação de Durban",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Pak0rDjfCJw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Pak0rDjfCJw"
         }
       }
     }
