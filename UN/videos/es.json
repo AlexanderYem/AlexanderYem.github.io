@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Joenia Wapichana es una líder indígena pionera en Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLKIEaAPk5A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eLKIEaAPk5A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Todavía creo en Nueva York",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zR-GZfhwctc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Juntos nos curamos, aprendemos y brillamos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iSn4TiZn-_o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iSn4TiZn-_o"
         }
       }
     }
