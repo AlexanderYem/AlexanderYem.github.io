@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رسالة الأمين العام لزعماء العالم: \"استيقظوا، غيروا المسار، توحدوا\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NUKjosLmLG8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NUKjosLmLG8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "جوينيا وابيشانا، مناضلة من البرازيل كرست حياتها للدفاع عن حقوق السكان الأصليين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-0KcgfZgli4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وقف نقل الإمدادات عبر الحدود في سوريا سيعرض حياة الملايين للخطر",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TBdBPmm0mfI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TBdBPmm0mfI"
         }
       }
     }

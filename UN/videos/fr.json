@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 - Mettre fin à la guerre contre la planète",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKz8zsyrwMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BKz8zsyrwMw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "76e Session de l'Assemblée générale de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oYmTEQvWvzQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les décès dus à la Covid-19 dépassent la barre des 4 millions",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jj2UfFTeruc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jj2UfFTeruc"
         }
       }
     }
