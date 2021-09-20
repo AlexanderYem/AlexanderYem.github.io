@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "’وقفة خاصة بأهداف التنمية المستدامة‘ 2021",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJG-gjveOuk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pJG-gjveOuk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رسالة الأمين العام لزعماء العالم: \"استيقظوا، غيروا المسار، توحدوا\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-KGzFlMA45s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما زال لدى السوريين طموح وأمل في مستقبل أفضل -- باسل المدني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-0KcgfZgli4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-0KcgfZgli4"
         }
       }
     }
