@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU celebra Dia Internacional da Paz pedindo cooperação para o pós-pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DnV0iMGeyU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3DnV0iMGeyU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assembleia Geral da ONU: \"É um momento de tocar o alarme\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lcJZMQEhIks"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: crise humanitária no Afeganistão, fome na Etiópia e a história de Ralph Bunche",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kBlYAqUcmsE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kBlYAqUcmsE"
         }
       }
     }
