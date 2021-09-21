@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente do Brasil na 76ª Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zr48_Rs6_Z0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zr48_Rs6_Z0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU celebra Dia Internacional da Paz pedindo cooperação para o pós-pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mYJSmomoalU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise sem precedentes na Etiópia com 7 milhões passando fome",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lcJZMQEhIks/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lcJZMQEhIks"
         }
       }
     }
