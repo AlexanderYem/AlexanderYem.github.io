@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день мира - обращение Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xI5wQlFqjn8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xI5wQlFqjn8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Кыргызской Республики Садыр Жапаров на 76-ой сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-XD3tIm4eNc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Гепатит С",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/04HOpscnsRo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "04HOpscnsRo"
         }
       }
     }
