@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Webster: L'histoire oubliée de l’esclavage au Canada",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ak3Hoi4Qij0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ak3Hoi4Qij0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 - Mettre fin à la guerre contre la planète",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B6YS-4eGUxs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’état de la sécurité alimentaire dans le monde est sérieux",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oYmTEQvWvzQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oYmTEQvWvzQ"
         }
       }
     }
