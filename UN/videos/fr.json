@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Les trois priorités des Etats Unis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7iSBUjxIII/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e7iSBUjxIII"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Webster: L'histoire oubliée de l’esclavage au Canada",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f9leWYovRNk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale Nelson Mandela",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B6YS-4eGUxs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B6YS-4eGUxs"
         }
       }
     }
