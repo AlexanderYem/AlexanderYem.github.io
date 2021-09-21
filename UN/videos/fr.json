@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 / Suisse :  « Cultiver un monde résilient comme sa propre vigne »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6cTPzgtWEI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M6cTPzgtWEI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Président de la République démocratique du Congo",
         "thumbnails": {
           "high": {
@@ -10,6 +23,19 @@
         },
         "resourceId": {
           "videoId": "zwrhkrZ82Ck"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Durban+20 : le combat pour l'égalité raciale, passé et futur",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pp1yYHcOUgw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pp1yYHcOUgw"
         }
       }
     },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jYR453zMvVc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Notre programme commun",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hSyof2qcI6I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hSyof2qcI6I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ralph Bunche, pionnier de la paix",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JxLzGC5-_-M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JxLzGC5-_-M"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "«Дурбан+20». Борьба за расовое равенство - история и будущее",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNKWm8NT5Ho/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QNKWm8NT5Ho"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день мира - обращение Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0hHkVFG2MgA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Андские горы в Перу и изменение климата",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-XD3tIm4eNc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-XD3tIm4eNc"
         }
       }
     }

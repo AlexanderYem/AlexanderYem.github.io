@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الرئيس المصري يجدد تمسك بلاده بضرورة التوصل إلى اتفاق عاجل وشامل لقضية سد النهضة الإثيوبي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6IG9DQWcdOc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6IG9DQWcdOc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمير دولة قطر يؤكد حرص بلاده على إحلال السلام والاستقرار والتعاون في منطقة الخليج",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LbtxDcTuk4k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "جولييت توما: هناك تخوف من أن يصبح كل طفل في لبنان بحاجة إلى نوع من أنواع المساعدات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CPcc0lOXY2c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CPcc0lOXY2c"
         }
       }
     }
