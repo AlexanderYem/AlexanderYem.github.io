@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Жоэния Вапичана - борец за права коренных народов Бразилии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMPhMfTzYt0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EMPhMfTzYt0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Я все еще верю в Нью-Йорк",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DElId8w1exY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "«Исцеление, учеба и возвышение сообща» - по случают Всемирного дня беженцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lUmvRYdkx3w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lUmvRYdkx3w"
         }
       }
     }
