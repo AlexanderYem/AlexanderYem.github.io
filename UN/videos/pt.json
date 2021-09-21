@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente de Portugal na 76ª Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_Cdt15bDak/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c_Cdt15bDak"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente do Brasil na 76ª Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qiwo-pP5jXc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Situação humanitária no Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mYJSmomoalU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mYJSmomoalU"
         }
       }
     }
