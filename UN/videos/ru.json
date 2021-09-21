@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Кыргызской Республики Садыр Жапаров на 76-ой сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5pK2EOVV0Ec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5pK2EOVV0Ec"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Генсека Антониу Гутерриша на 76-ой сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "04HOpscnsRo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Приветствие Генсека ООН участникам Олимпиады в Токио",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WWWTRhjx4L4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WWWTRhjx4L4"
         }
       }
     }
