@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Генсека Антониу Гутерриша на 76-ой сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/taZOHo257ko/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "taZOHo257ko"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Жоэния Вапичана - борец за права коренных народов Бразилии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WWWTRhjx4L4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Д-р Рамиз Алакбаров, Координатор гумпомощи ООН в Афганистане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DElId8w1exY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DElId8w1exY"
         }
       }
     }
