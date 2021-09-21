@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Président de la République démocratique du Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwrhkrZ82Ck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zwrhkrZ82Ck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Les trois priorités des Etats Unis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JxLzGC5-_-M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Allaiter, c'est donner le meilleur à mon bébé",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f9leWYovRNk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f9leWYovRNk"
         }
       }
     }
