@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Allocution du Président de Madagascar à la 76e Session de l'Assemblée générale de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/exblJlibbJQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "exblJlibbJQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG-76 : Allocution du Président de la République centrafricaine",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cKaLbagQSUk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Joenia Wapixana : une vie consacrée aux droits des autochtones au Brésil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UZ4Ef7Tv0o0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UZ4Ef7Tv0o0"
         }
       }
     }

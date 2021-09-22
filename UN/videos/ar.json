@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "عشرون عاما على إعلان ديربان وما زالت العنصرية متغلغلة في المؤسسات والهياكل الاجتماعية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBBJBCHYGrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JBBJBCHYGrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الرئيس المصري يجدد تمسك بلاده بضرورة التوصل إلى اتفاق عاجل وشامل لقضية سد النهضة الإثيوبي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Rl0Ki4RY6e4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: يقف الشباب في الخطوط الأمامية للنضال من أجل بناء مستقبل أفضل للجميع",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LbtxDcTuk4k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LbtxDcTuk4k"
         }
       }
     }
