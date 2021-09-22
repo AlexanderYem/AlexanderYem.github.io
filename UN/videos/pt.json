@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente de Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzf73b5v7Pw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gzf73b5v7Pw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "20º aniversário da adoção da Declaração e Programa de Ação de Durban",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ENplwtk-LbU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Andrew Young relembra Ralph Bunche, primeiro afro-americano a ganhar o Nobel da Paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UIiq3Axe4BQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UIiq3Axe4BQ"
         }
       }
     }

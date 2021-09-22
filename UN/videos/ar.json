@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "العاهل السعودي يؤكد احتفاظ بلاده بالحق في الدفاع عن النفس في مواجهة الهجمات التي تتعرض لها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dq3n-KB_SkI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dq3n-KB_SkI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "عشرون عاما على إعلان ديربان وما زالت العنصرية متغلغلة في المؤسسات والهياكل الاجتماعية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0FkHgczkY38"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يشدد على الوحدة خلال جلسة مجلس الأمن لبحث التطورات في أفغانستان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rl0Ki4RY6e4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rl0Ki4RY6e4"
         }
       }
     }
