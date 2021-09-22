@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "AG-76 : Allocution du Président de la République centrafricaine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3xX6yz5CCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L3xX6yz5CCM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 – Retour sur les temps forts du 21 septembre 2021",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTZ2HqpLn4w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vTZ2HqpLn4w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 / Suisse :  « Cultiver un monde résilient comme sa propre vigne »",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "UZ4Ef7Tv0o0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Simon Gronowski, survivant de l’Holocauste, passeur de mémoire et de musique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OYV_4ISGmq8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OYV_4ISGmq8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Je crois toujours en New York » : un projet artistique contre la discrimination anti-asiatique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jYR453zMvVc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jYR453zMvVc"
         }
       }
     }
