@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 :  Allocution du Président du Burkina Faso",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3uQki6B_7M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V3uQki6B_7M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 - Climat et sécurité : « Nous faisons tous partie de la solution »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pp1yYHcOUgw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Les trois priorités des Etats Unis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e7iSBUjxIII/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e7iSBUjxIII"
         }
       }
     }
