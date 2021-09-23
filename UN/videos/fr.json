@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG-76 : Allocution du Président de la République Togolaise",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PmMfmcNtpxw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PmMfmcNtpxw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76- Retour sur les temps forts du 22 septembre 2021",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ak3Hoi4Qij0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 - Mettre fin à la guerre contre la planète",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BKz8zsyrwMw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BKz8zsyrwMw"
         }
       }
     }
