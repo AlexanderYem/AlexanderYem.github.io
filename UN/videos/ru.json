@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Образование - ключ к искоренению расовой дискриминации.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6jeCSskJpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I6jeCSskJpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "«Дурбан+20». Борьба за расовое равенство - история и будущее",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lg92qpd6Hho"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Дети в Афганистане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0hHkVFG2MgA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0hHkVFG2MgA"
         }
       }
     }
