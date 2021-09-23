@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 - Climat et sécurité : « Nous faisons tous partie de la solution »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ruGsODbi3-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ruGsODbi3-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG-76 : Allocution du Président de la République Togolaise",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "e7iSBUjxIII"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Webster: L'histoire oubliée de l’esclavage au Canada",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ak3Hoi4Qij0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ak3Hoi4Qij0"
         }
       }
     }
