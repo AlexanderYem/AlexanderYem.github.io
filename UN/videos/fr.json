@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Président de l'Union des Comores",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N8W-gRUXaMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N8W-gRUXaMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 :  Allocution du Président du Burkina Faso",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zwrhkrZ82Ck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Durban+20 : le combat pour l'égalité raciale, passé et futur",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pp1yYHcOUgw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pp1yYHcOUgw"
         }
       }
     }
