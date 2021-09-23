@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الملك عبد الله يشدد على ضرورة العمل المشترك لمواجهة التحديات العالمية ومن بينها أزمة اللاجئين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a-_ofzZv024/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a-_ofzZv024"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "العاهل السعودي يؤكد احتفاظ بلاده بالحق في الدفاع عن النفس في مواجهة الهجمات التي تتعرض لها",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PihOlESm-VM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: اليوم العالمي للعمل الإنساني مناسبة نشيد فيها بالعاملين في مجال تقديم المعونة بكل مكان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0FkHgczkY38/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0FkHgczkY38"
         }
       }
     }
