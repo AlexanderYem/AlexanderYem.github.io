@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Tchad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oI2XxCTy3Z4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oI2XxCTy3Z4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Président de l'Union des Comores",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M6cTPzgtWEI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Président de la République démocratique du Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zwrhkrZ82Ck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zwrhkrZ82Ck"
         }
       }
     }
