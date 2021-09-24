@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Presidente de Cabo Verde em entrevista: “sou ambicioso em relação à Cplp”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c7Nu0Ygu-HY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c7Nu0Ygu-HY"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Íntegra do discurso do presidente de Angola na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "9K7XQ8m74iY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Nova Iorque exibe arte em espaços públicos contra violência a pessoas de origem asiática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R94n6bzMVX4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R94n6bzMVX4"
         }
       }
     }
