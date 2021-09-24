@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 - L'accès à l'énergie renouvelable et abordable pour tous doit commencer aujourd'hui",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d8uaGyKJ-K0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d8uaGyKJ-K0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Sénégal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V3uQki6B_7M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 - Climat et sécurité : « Nous faisons tous partie de la solution »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ruGsODbi3-o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ruGsODbi3-o"
         }
       }
     }
