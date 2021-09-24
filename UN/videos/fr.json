@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Président du Gabon",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CwsVq29WPTk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CwsVq29WPTk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Prince Albert II de Monaco",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PmMfmcNtpxw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76- Retour sur les temps forts du 22 septembre 2021",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-XhwP7mx60/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7-XhwP7mx60"
         }
       }
     }
