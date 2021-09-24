@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 – Sommet sur les systèmes alimentaires",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnwjTmGdKUI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BnwjTmGdKUI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Tchad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vTZ2HqpLn4w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 / Suisse :  « Cultiver un monde résilient comme sa propre vigne »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M6cTPzgtWEI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M6cTPzgtWEI"
         }
       }
     }
