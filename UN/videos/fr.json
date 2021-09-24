@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 :  Allocution du Bénin",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_g2De9TBw0I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_g2De9TBw0I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76--Djibouti : travailler ensemble à la réalisation de tous les objectifs assignés.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IowmCHOP82k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IowmCHOP82k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 :  Allocution de l'Union européenne",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Lm3B_zC0go/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6Lm3B_zC0go"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 - L'accès à l'énergie renouvelable et abordable pour tous doit commencer aujourd'hui",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "BnwjTmGdKUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Tchad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oI2XxCTy3Z4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oI2XxCTy3Z4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Président de l'Union des Comores",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N8W-gRUXaMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N8W-gRUXaMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 :  Allocution du Président du Burkina Faso",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V3uQki6B_7M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V3uQki6B_7M"
         }
       }
     }
