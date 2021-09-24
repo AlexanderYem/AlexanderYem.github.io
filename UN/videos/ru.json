@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление  президента Узбекистана в ходе общих прений на 76-й сессии Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_zN9KE3gnNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_zN9KE3gnNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Образование - ключ к искоренению расовой дискриминации.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qtGg1xzgg5Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День гуманитарной помощи - обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lg92qpd6Hho/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lg92qpd6Hho"
         }
       }
     }
