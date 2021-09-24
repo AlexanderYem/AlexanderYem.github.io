@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Sénégal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HMUkDtMZzqI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HMUkDtMZzqI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Président du Gabon",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ruGsODbi3-o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG-76 : Allocution du Président de la République Togolaise",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PmMfmcNtpxw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PmMfmcNtpxw"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Durban +20: Portugal mobiliza o mundo para combater o racismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmejKerQMQ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jmejKerQMQ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Cabo Verde em entrevista: “sou ambicioso em relação à Cplp”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3DnV0iMGeyU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assembleia Geral da ONU: \"É um momento de tocar o alarme\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9K7XQ8m74iY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9K7XQ8m74iY"
         }
       }
     }
