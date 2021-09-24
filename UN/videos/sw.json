@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rais Samia na ahadi  yake kwa UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kcWO2y-ZtM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7kcWO2y-ZtM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Baraza Kuu la UN leo linajikita na kuadhimisha miaka 20 tangu kupitishwa kwa azimio la Durban",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LumJ5GzJtj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nyoka huua takribani watu 81,000 hadi 137,000 kila mwaka, imeeleza WHO.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WAkRQF98em4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WAkRQF98em4"
         }
       }
     }
