@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D4ERFr_waI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6D4ERFr_waI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76: Allocution de la République d'Haïti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nsEZ_QTzUws"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG-76 - Les points forts du 23 septembre 2021",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xbgIByRb-oQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xbgIByRb-oQ"
         }
       }
     }
