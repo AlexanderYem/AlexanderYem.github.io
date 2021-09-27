@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution de la Côte d'Ivoire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jbPHr2ElINE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jbPHr2ElINE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 - Il est urgent d’agir mais il n’est pas trop tard !",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d8uaGyKJ-K0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Sénégal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HMUkDtMZzqI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HMUkDtMZzqI"
         }
       }
     }

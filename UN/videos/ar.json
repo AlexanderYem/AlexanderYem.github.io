@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رئيس الوزراء الإسرائيلي يحذر من مرحلة التطور التي بلغها برنامج إيران النووي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Km86uV2iOWc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Km86uV2iOWc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رئيس وزراء السودان يدعو المجتمع الدولي إلى الاستمرار في دعم العملية الانتقالية في بلاده",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6BTzzWDMeoE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "’وقفة خاصة بأهداف التنمية المستدامة‘ 2021",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pJG-gjveOuk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pJG-gjveOuk"
         }
       }
     }
