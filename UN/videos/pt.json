@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com a representante de São Tomé e Príncipe na 76a. Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MVhaUWMfzMc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MVhaUWMfzMc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso da ministra de São Tomé e Príncipe na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7Zew0s0yqaM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Portugal na 76ª Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c_Cdt15bDak/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c_Cdt15bDak"
         }
       }
     }
