@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso da ministra de São Tomé e Príncipe na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OZDocw7f0xI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OZDocw7f0xI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Representante da ONU em Moçambique destaca importância da Cúpula dos Sistemas Alimentares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c_Cdt15bDak"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente do Brasil na 76ª Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zr48_Rs6_Z0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Zr48_Rs6_Z0"
         }
       }
     }

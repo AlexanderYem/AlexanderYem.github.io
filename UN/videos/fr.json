@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "aG76 : Les points forts du 5e jour du débat général",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wy4kI0nU4_U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wy4kI0nU4_U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Mali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CwsVq29WPTk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Prince Albert II de Monaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nsEZ_QTzUws/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nsEZ_QTzUws"
         }
       }
     }
