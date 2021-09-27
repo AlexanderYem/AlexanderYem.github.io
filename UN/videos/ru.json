@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление министра иностранных дел Беларуси Владимира Макея на 76-й сессии ГА ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zNQ2_N0_Vr4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zNQ2_N0_Vr4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел России Сергея Лаврова на 76-й сессии Генассамблеи ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FOt-w3Pm2Kw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Помощь для афганцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qtGg1xzgg5Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qtGg1xzgg5Y"
         }
       }
     }
