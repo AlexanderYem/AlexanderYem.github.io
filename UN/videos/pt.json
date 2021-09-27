@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso da representante de Moçambique na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVw9ApVgxb8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tVw9ApVgxb8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com a representante de São Tomé e Príncipe na 76a. Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gzf73b5v7Pw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "20º aniversário da adoção da Declaração e Programa de Ação de Durban",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7Zew0s0yqaM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7Zew0s0yqaM"
         }
       }
     }
