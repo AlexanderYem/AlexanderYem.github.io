@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "aG76 : Les points forts du 5e jour du débat général",
+        "title": "AG76 - Il est urgent d’agir mais il n’est pas trop tard !",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXXR-uBDlBc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SXXR-uBDlBc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 : Les points forts du 5e jour du débat général",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/wy4kI0nU4_U/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HMUkDtMZzqI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Président du Gabon",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CwsVq29WPTk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CwsVq29WPTk"
         }
       }
     }
