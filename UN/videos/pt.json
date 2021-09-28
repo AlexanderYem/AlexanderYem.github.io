@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do representante de Timor-Leste na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgmtgA9GFto/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OgmtgA9GFto"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso da representante de Moçambique na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hlcKJHIXgOU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Cabo Verde na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gzf73b5v7Pw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gzf73b5v7Pw"
         }
       }
     }
