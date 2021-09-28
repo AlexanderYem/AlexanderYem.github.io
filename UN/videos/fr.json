@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vers une protection sociale universelle",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KHt1SSQ5mNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KHt1SSQ5mNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution de la Belgique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A0H6pCaaBO0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution de la Côte d'Ivoire",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jbPHr2ElINE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jbPHr2ElINE"
         }
       }
     }
