@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ناج من الهولوكوست يستخدم موسيقى الجاز لرفع معنويات الناس خلال فترة الإغلاق",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XAvWnxgCQpg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XAvWnxgCQpg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رئيس الوزراء الإسرائيلي يحذر من مرحلة التطور التي بلغها برنامج إيران النووي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6IG9DQWcdOc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أمير دولة قطر يؤكد حرص بلاده على إحلال السلام والاستقرار والتعاون في منطقة الخليج",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6BTzzWDMeoE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6BTzzWDMeoE"
         }
       }
     }
