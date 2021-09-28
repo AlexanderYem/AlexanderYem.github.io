@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mjadala Mkuu wa UNGA76 wafunga pazia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwCvrA7SwgE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gwCvrA7SwgE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Urais si rahisi, iwe kwa mwanaume au mwanamke - Rais Samia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xjcZ4qOdg3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tanzania kujenga viwanda vidogo 7 vya kutengeneza hewa tiba ya oksijeni",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LBke1thw2V4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LBke1thw2V4"
         }
       }
     }
