@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Canada",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8e2E8PADKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u8e2E8PADKM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Congo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_g2De9TBw0I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76--Djibouti : travailler ensemble à la réalisation de tous les objectifs assignés.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IowmCHOP82k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IowmCHOP82k"
         }
       }
     }
