@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“Quem perde com a desigualdade entre homens e mulheres é a sociedade”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ErmA2OoQ1U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4ErmA2OoQ1U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do representante de Timor-Leste na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OWva7A2VJsI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Exclusivo: Entrevista com o presidente de Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hlcKJHIXgOU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hlcKJHIXgOU"
         }
       }
     }
