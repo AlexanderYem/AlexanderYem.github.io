@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution du Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrnzWhS4YPU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NrnzWhS4YPU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 :  Allocution du Cameroun",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/A0H6pCaaBO0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "A0H6pCaaBO0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution de la Côte d'Ivoire",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "IowmCHOP82k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 :  Allocution de l'Union européenne",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6Lm3B_zC0go/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6Lm3B_zC0go"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 - L'accès à l'énergie renouvelable et abordable pour tous doit commencer aujourd'hui",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/d8uaGyKJ-K0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "d8uaGyKJ-K0"
         }
       }
     }
