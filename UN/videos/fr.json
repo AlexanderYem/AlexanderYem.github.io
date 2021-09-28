@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76 : Allocution de la Belgique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrMdcKAyX4E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XrMdcKAyX4E"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 : Allocution de la Mauritanie (partie en français)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VR4Plq1wTSU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VR4Plq1wTSU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG76 : Allocution du Niger",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dWamJSe-Xdg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dWamJSe-Xdg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76-Allocution du Benin",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "jbPHr2ElINE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 - Il est urgent d’agir mais il n’est pas trop tard !",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SXXR-uBDlBc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SXXR-uBDlBc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Les points forts du 5e jour du débat général",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wy4kI0nU4_U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wy4kI0nU4_U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Mali",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6D4ERFr_waI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6D4ERFr_waI"
         }
       }
     }
