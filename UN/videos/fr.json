@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76-Allocution du Benin",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHvkEZABJOM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uHvkEZABJOM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AG-76 : Allocution de la Guinée",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtDrx2pTOP8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dtDrx2pTOP8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG-76 - Allocution de la France",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6D4ERFr_waI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76: Allocution de la République d'Haïti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O1ISY76M5jc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O1ISY76M5jc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Grand-Duché du Luxembourg",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SUAXaDctAOw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SUAXaDctAOw"
         }
       }
     }
