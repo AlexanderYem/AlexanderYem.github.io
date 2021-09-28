@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG-76 - Allocution de la France",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5Idkw-qir4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W5Idkw-qir4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 : Allocution du Canada",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SUAXaDctAOw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 :  Allocution du Bénin",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_g2De9TBw0I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_g2De9TBw0I"
         }
       }
     }
