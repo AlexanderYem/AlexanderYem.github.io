@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG76: 191 dirigeants à l'Assemblée générale de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gw87XnPFuFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gw87XnPFuFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76 :  Les points forts du dernier jour du débat général",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NrnzWhS4YPU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 :  Allocution du Cameroun",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A0H6pCaaBO0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A0H6pCaaBO0"
         }
       }
     }
