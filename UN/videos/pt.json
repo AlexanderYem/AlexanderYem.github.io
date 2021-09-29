@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - combate à meningite, ajuda em Moçambique e jovem guineense no Youth4Climate",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gJ7A3mk94CA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gJ7A3mk94CA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Quem perde com a desigualdade entre homens e mulheres é a sociedade”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sLuvoijjMJE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente da Guiné-Bissau na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OWva7A2VJsI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OWva7A2VJsI"
         }
       }
     }
