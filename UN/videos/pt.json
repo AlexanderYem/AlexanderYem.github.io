@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Durban + 20: Perfil de João Rosário, um afrodescendente fazendo história em Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CSBF08kt-sk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CSBF08kt-sk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - combate à meningite, ajuda em Moçambique e jovem guineense no Youth4Climate",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TwSXxiIpDT8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Angola na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sLuvoijjMJE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sLuvoijjMJE"
         }
       }
     }
