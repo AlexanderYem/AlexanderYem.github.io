@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Стрит-арт в Сараево: украшает город и очищает воздух",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NS_XALBQRxQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NS_XALBQRxQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел Беларуси Владимира Макея на 76-й сессии ГА ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZfgKYCaKHDo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ральф Банч",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FOt-w3Pm2Kw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FOt-w3Pm2Kw"
         }
       }
     }
