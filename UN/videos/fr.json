@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Chef de l'ONU visite des sites touchés par le climat à la Barbade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQ5E44etHWY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VQ5E44etHWY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG76: 191 dirigeants à l'Assemblée générale de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u8e2E8PADKM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NrnzWhS4YPU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NrnzWhS4YPU"
         }
       }
     }
