@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Нурлан Аселкан, эксперт ЮНИДИР, о потенциале Байконура",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zC3morU1gsA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zC3morU1gsA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Стрит-арт в Сараево: украшает город и очищает воздух",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EMPhMfTzYt0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Я все еще верю в Нью-Йорк",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZfgKYCaKHDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZfgKYCaKHDo"
         }
       }
     }
