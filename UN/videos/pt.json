@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Explicando o clima  A crise do presente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/suvY5J-jOEI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "suvY5J-jOEI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Durban + 20: Perfil de João Rosário, um afrodescendente fazendo história em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jmejKerQMQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Cabo Verde em entrevista: “sou ambicioso em relação à Cplp”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TwSXxiIpDT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TwSXxiIpDT8"
         }
       }
     }
