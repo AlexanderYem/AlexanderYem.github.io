@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Учитель начальных классов Юлия Лизина о работе в онлайн формате",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJd-PSy4A3s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mJd-PSy4A3s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Учитель Мария Клышбаева - о работе  во время пандемии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6CdGNci2h8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L6CdGNci2h8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Нурлан Аселкан, эксперт ЮНИДИР, о потенциале Байконура",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "5pK2EOVV0Ec"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Генсека Антониу Гутерриша на 76-ой сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/taZOHo257ko/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "taZOHo257ko"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Жоэния Вапичана - борец за права коренных народов Бразилии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EMPhMfTzYt0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EMPhMfTzYt0"
         }
       }
     }
