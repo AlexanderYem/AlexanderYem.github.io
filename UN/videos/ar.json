@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في مؤتمر أونكتاد-15 المنعقد في بربادوس، الأمين العام يحث على \"قفزة نوعية في دعم\" الدول الضعيفة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wap8VMDznK0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wap8VMDznK0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ناج من الهولوكوست يستخدم موسيقى الجاز لرفع معنويات الناس خلال فترة الإغلاق",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JBBJBCHYGrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس المصري يجدد تمسك بلاده بضرورة التوصل إلى اتفاق عاجل وشامل لقضية سد النهضة الإثيوبي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6IG9DQWcdOc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6IG9DQWcdOc"
         }
       }
     }
