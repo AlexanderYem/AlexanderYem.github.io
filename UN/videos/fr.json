@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Les enseignants au cœur de la relance de l’éducation »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4JBn4h5OW8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n4JBn4h5OW8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Chef de l'ONU visite des sites touchés par le climat à la Barbade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W5Idkw-qir4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Canada",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u8e2E8PADKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u8e2E8PADKM"
         }
       }
     }
