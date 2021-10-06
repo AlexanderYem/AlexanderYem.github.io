@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Soutenir l'avenir de l'éducation des filles en Afghanistan",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdOiQ3bw4V0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fdOiQ3bw4V0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Les enseignants au cœur de la relance de l’éducation »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dtDrx2pTOP8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG-76 - Allocution de la France",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W5Idkw-qir4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W5Idkw-qir4"
         }
       }
     }
