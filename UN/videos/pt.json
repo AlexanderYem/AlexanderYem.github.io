@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ciberataques: “ONU sofre milhares de tentativas de invasão por dia”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NAca4RwVWPw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NAca4RwVWPw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Explicando o clima: a crise do presente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JcthOwiuG08"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Durban +20: Portugal mobiliza o mundo para combater o racismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jmejKerQMQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jmejKerQMQ4"
         }
       }
     }
