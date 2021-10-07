@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Utapenda jinsi wanajeshi wa TANZBATT 8 walivyopokea nishani za Umoja wa Mataifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iu1z4zyhNPs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iu1z4zyhNPs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Walinda amani wa Tanzania nchini DRC, TANZBATT 8 watunukiwa nishani za Umoja wa Mataifa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tK25DGGe-kM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mjadala Mkuu wa UNGA76 wafunga pazia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gwCvrA7SwgE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gwCvrA7SwgE"
         }
       }
     }
