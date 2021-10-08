@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les Nations Unies lancent une stratégie pour atteindre l'équité vaccinale au niveau mondial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yfKHWLlYo7A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yfKHWLlYo7A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Soutenir l'avenir de l'éducation des filles en Afghanistan",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dWamJSe-Xdg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG-76 : Allocution de la Guinée",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dtDrx2pTOP8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dtDrx2pTOP8"
         }
       }
     }
