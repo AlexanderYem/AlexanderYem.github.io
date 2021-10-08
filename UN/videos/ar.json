@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يهنئ الصحفيين الاستقصائيين ماريا ريسا وديمتري موراتوف على فوزهما بجائزة نوبل للسلام",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAW_coaWRrM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GAW_coaWRrM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لحظة تاريخية.. منظمة الصحة العالمية توصي باستخدام لقاح ضد الملاريا لعلاج الأطفال المعرضين للخطر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a-_ofzZv024"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "العاهل السعودي يؤكد احتفاظ بلاده بالحق في الدفاع عن النفس في مواجهة الهجمات التي تتعرض لها",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dq3n-KB_SkI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dq3n-KB_SkI"
         }
       }
     }
