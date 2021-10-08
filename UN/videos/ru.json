@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ООН поздравил лауреатов Нобелевской премии мира журналистов Д.Муратова и М.Рессу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O2vlhAP-ec4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O2vlhAP-ec4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день хлопка. Сбор урожая в Узбекистане.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QNKWm8NT5Ho"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день мира - обращение Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xI5wQlFqjn8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xI5wQlFqjn8"
         }
       }
     }
