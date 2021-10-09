@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Программа ВОЗ: психологическая поддержка жителей востока  Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Det1b3TDeAY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Det1b3TDeAY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава ООН поздравил лауреатов Нобелевской премии мира журналистов Д.Муратова и М.Рессу",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I6jeCSskJpE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "«Дурбан+20». Борьба за расовое равенство - история и будущее",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QNKWm8NT5Ho/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QNKWm8NT5Ho"
         }
       }
     }
