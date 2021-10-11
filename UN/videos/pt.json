@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Alimentação | 16 de outubro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/57WWfEu2wUA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "57WWfEu2wUA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Como zerar o desperdício de alimentos  Kaká e Rita Lobo respondem",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MVhaUWMfzMc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso da ministra de São Tomé e Príncipe na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OZDocw7f0xI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OZDocw7f0xI"
         }
       }
     }

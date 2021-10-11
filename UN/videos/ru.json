@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ЮНИСЕФ: вакцины для Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vz6P_E7Arf8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vz6P_E7Arf8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Программа ВОЗ: психологическая поддержка жителей востока  Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZR7UE9Mgajo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Образование - ключ к искоренению расовой дискриминации.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I6jeCSskJpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I6jeCSskJpE"
         }
       }
     }
