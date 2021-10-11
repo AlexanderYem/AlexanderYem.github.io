@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assurer des soins de santé mentale de qualité pour tous, partout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yM0b_CyfNdk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yM0b_CyfNdk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les Nations Unies lancent une stratégie pour atteindre l'équité vaccinale au niveau mondial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VR4Plq1wTSU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution du Niger",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dWamJSe-Xdg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dWamJSe-Xdg"
         }
       }
     }
