@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Débat sur la consolidation de la paix et la paix durable",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/90Cj2kFuviY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "90Cj2kFuviY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assurer des soins de santé mentale de qualité pour tous, partout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XrMdcKAyX4E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution de la Mauritanie (partie en français)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VR4Plq1wTSU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VR4Plq1wTSU"
         }
       }
     }
