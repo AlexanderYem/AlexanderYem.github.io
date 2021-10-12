@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يحث العالم على اتخاذ الإجراءات المناسبة في أفغانستان لتفادي انهيار البلاد",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSCpVAn7Gzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tSCpVAn7Gzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "العراق: الأمين العام يثني على نساء ورجال العراق لإسماع أصواتهم عبر صناديق الاقتراع",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cUzzbnB-vh4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس العراقي: الانتخابات العراقية المقبلة مصيرية وستكون لها تبعات على كل المنطقة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9jSZuJi7CSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9jSZuJi7CSQ"
         }
       }
     }
