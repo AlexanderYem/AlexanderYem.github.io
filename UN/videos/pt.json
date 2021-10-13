@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Clima e Dia Internacional para a Redução do Risco de Desastres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xg8lAzzcDqY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xg8lAzzcDqY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Alimentação | 16 de outubro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tVw9ApVgxb8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com a representante de São Tomé e Príncipe na 76a. Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MVhaUWMfzMc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MVhaUWMfzMc"
         }
       }
     }
