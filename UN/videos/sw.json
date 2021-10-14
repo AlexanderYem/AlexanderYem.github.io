@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 imeongeza vifo vya TB kwa mara ya kwanza kwa zaidi ya muongo mmoja. Imesema ripoti ya WHO.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bAxJ0fPK7V8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bAxJ0fPK7V8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Profesa Abdulrazak Gurnah mshindi wa Tuzo ya Nobel afunguka mengi usiyoyafahamu kumuhusu.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Diul62LUJ8U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mtanzania apata tunzo ya Shirika la kimataifa la nguvu za atomiki, IAEA kwa kuvumbua mpunga mpya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ySM8nySoJik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ySM8nySoJik"
         }
       }
     }
