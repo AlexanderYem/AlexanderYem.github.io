@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Alimentação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_jnDX0FLd8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-_jnDX0FLd8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Clima e Dia Internacional para a Redução do Risco de Desastres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OgmtgA9GFto"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso da representante de Moçambique na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tVw9ApVgxb8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tVw9ApVgxb8"
         }
       }
     }
