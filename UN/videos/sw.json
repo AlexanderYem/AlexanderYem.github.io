@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aliyenusurika kujiua apaza sauti ya uimarishaji wa afya ya akili",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrSZVwJXJww/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JrSZVwJXJww"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COVID-19 imeongeza vifo vya TB kwa mara ya kwanza kwa zaidi ya muongo mmoja. Imesema ripoti ya WHO.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cs3e_-N8sn0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siku ya Walimu Duniani, UNESCO na wadau wahimiza serikali kuwapa kipaumbele walimu kufufua elimu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Diul62LUJ8U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Diul62LUJ8U"
         }
       }
     }
