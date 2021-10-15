@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée mondiale de l'alimentation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/__Sow3bemj4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "__Sow3bemj4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Débat sur la consolidation de la paix et la paix durable",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KHt1SSQ5mNo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 : Allocution de la Belgique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XrMdcKAyX4E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XrMdcKAyX4E"
         }
       }
     }
