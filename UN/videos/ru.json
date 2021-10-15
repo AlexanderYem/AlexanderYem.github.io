@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Дмитрий Муратов - о Нобелевской премии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_4o3N2qFNOM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_4o3N2qFNOM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ЮНИСЕФ: вакцины для Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zNQ2_N0_Vr4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление министра иностранных дел России Сергея Лаврова на 76-й сессии Генассамблеи ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZR7UE9Mgajo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZR7UE9Mgajo"
         }
       }
     }
