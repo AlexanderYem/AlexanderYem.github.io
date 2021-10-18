@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Урок вокала от Манижи - детям-мигрантам",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hX8QQ-DQX8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2hX8QQ-DQX8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Дмитрий Муратов - о Нобелевской премии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NS_XALBQRxQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление министра иностранных дел Беларуси Владимира Макея на 76-й сессии ГА ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zNQ2_N0_Vr4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zNQ2_N0_Vr4"
         }
       }
     }
