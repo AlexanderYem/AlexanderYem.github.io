@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Помощь Афганистану через территорию Узбекистана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOaP3Ug0WNg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dOaP3Ug0WNg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Урок вокала от Манижи - детям-мигрантам",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zC3morU1gsA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Стрит-арт в Сараево: украшает город и очищает воздух",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NS_XALBQRxQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NS_XALBQRxQ"
         }
       }
     }
