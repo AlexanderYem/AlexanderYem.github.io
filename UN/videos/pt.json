@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Explicando o clima: Impactos hoje e no futuro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bVvNs6zHHuo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bVvNs6zHHuo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Alimentação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4ErmA2OoQ1U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do representante de Timor-Leste na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OgmtgA9GFto/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OgmtgA9GFto"
         }
       }
     }
