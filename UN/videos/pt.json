@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - paz nos Grandes Lagos, série MTV Shuba, e o novo embaixador da OMS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6EaQ2TFWIM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X6EaQ2TFWIM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola destaca busca de paz nos Grandes Lagos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CSBF08kt-sk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - combate à meningite, ajuda em Moçambique e jovem guineense no Youth4Climate",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gJ7A3mk94CA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gJ7A3mk94CA"
         }
       }
     }
