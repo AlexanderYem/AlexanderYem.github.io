@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وينسلاند يدعو إلى استعادة الأمل في حل سلمي ومستدام للنزاع الفلسطيني الإسرائيلي عبر التفاوض",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-2tOJS2QNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9-2tOJS2QNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الاجتماع المباشر الأول بين الرئيسين المشاركين للجنة الدستورية السورية مع السيد بيدرسون",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qaGQ7RsoceI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محمود عباس يدعو إلى عقد مؤتمر دولي للسلام، ويعلن التوجه إلى محكمة العدل الدولية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZDkcB-8i0s4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZDkcB-8i0s4"
         }
       }
     }
