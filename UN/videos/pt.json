@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola destaca busca de paz nos Grandes Lagos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JeWShMqcL2U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JeWShMqcL2U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Explicando o clima: Impactos hoje e no futuro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gJ7A3mk94CA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Quem perde com a desigualdade entre homens e mulheres é a sociedade”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4ErmA2OoQ1U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4ErmA2OoQ1U"
         }
       }
     }
