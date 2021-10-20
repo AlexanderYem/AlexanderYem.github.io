@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "En el Día de las Naciones Unidas, afrontemos juntos los grandes retos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z4ZPKrCuCDw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z4ZPKrCuCDw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Joenia Wapichana es una líder indígena pionera en Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PybUH3SuVlk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Luchemos contra la desertificación y la sequía",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zR-GZfhwctc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zR-GZfhwctc"
         }
       }
     }
