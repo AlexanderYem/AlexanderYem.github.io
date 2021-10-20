@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Estrela do futebol, Didier Drogba é o novo embaixador da Boa Vontade da OMS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/meHnbybZqH8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "meHnbybZqH8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Séries de entretenimento têm impacto positivo na prevenção de HIV entre jovens",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7K9gLVfThdo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7K9gLVfThdo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - paz nos Grandes Lagos, série MTV Shuba, e o novo embaixador da OMS",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "NAca4RwVWPw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Explicando o clima: a crise do presente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/suvY5J-jOEI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "suvY5J-jOEI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Durban + 20: Perfil de João Rosário, um afrodescendente fazendo história em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CSBF08kt-sk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CSBF08kt-sk"
         }
       }
     }
