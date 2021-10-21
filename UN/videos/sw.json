@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanawake na usukani wa amani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhxe7fmG0A0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xhxe7fmG0A0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ng'ombe mmoja Burundi afungua milango ya heri kwa kaya maskini",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "khdXGdOZZ2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unamfahamu msichana anayetaka kuwa mwanasayansi? Kuna mtu wa kumtazama hapa. Ni Dkt. Alinda Mashiku.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q0y0fOrOUSM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q0y0fOrOUSM"
         }
       }
     }
