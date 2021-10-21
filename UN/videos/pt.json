@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileira Paloma Costa promove ação pelo clima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fkY-YDaNlXM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fkY-YDaNlXM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "África deve “vigiar e tomar conta da segurança do Mar Índico e dos Grandes Lagos”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "57WWfEu2wUA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como zerar o desperdício de alimentos  Kaká e Rita Lobo respondem",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3azv1SNTabQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3azv1SNTabQ"
         }
       }
     }
