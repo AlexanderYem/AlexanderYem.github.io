@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'importance du rôle des femmes dans la construction et le maintien de la paix",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gaCLuiT3W7g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gaCLuiT3W7g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "24 Octobre - Journée des Nations Unies",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gw87XnPFuFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76 :  Les points forts du dernier jour du débat général",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fHfXhYApxJs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fHfXhYApxJs"
         }
       }
     }
