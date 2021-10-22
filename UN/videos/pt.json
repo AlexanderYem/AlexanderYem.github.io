@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IHwLVZDKww/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3IHwLVZDKww"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileira Paloma Costa promove ação pelo clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xg8lAzzcDqY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Alimentação | 16 de outubro #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/57WWfEu2wUA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "57WWfEu2wUA"
         }
       }
     }
