@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanajeshi wa Tanzania wawafurusha wanaodhaniwa waasi wa ADF, DRC. Walishambulia msafara TANZBATT-8",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ExHR5C8zZsM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ExHR5C8zZsM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanawake na usukani wa amani",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QV6rsY710hU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Posta Tanzania yaenda na wakati, yasafirisha damu salama kwa ‘drones’",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/khdXGdOZZ2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "khdXGdOZZ2U"
         }
       }
     }
