@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "24 Octobre - Journée des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jpL8TuS34HY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jpL8TuS34HY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée mondiale de l'alimentation",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fHfXhYApxJs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vers une protection sociale universelle",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KHt1SSQ5mNo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KHt1SSQ5mNo"
         }
       }
     }
