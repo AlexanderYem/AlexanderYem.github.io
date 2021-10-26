@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agir pour le climat - pour les personnes, la planète et la prospérité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfFh1-Y2nCo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xfFh1-Y2nCo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'importance du rôle des femmes dans la construction et le maintien de la paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VQ5E44etHWY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG76: 191 dirigeants à l'Assemblée générale de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gw87XnPFuFU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gw87XnPFuFU"
         }
       }
     }
