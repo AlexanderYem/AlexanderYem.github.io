@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يجدد الدعوة إلى الإفراج عن رئيس الوزراء والمسؤولين المحتجزين \"بشكل غير قانوني\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uCMcRlxEJN0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uCMcRlxEJN0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "بحضور أمينة محمد، الأمم المتحدة تُحيي ذكرى إنشائها الـ 76 في معرض إكسبو دبي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wap8VMDznK0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ناج من الهولوكوست يستخدم موسيقى الجاز لرفع معنويات الناس خلال فترة الإغلاق",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XAvWnxgCQpg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XAvWnxgCQpg"
         }
       }
     }
