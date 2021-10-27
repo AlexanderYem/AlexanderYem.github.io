@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do dinossauro: “ser extinto é coisa ruim”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mGNq2Rln53Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mGNq2Rln53Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26: o que devemos esperar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "X6EaQ2TFWIM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola destaca busca de paz nos Grandes Lagos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JeWShMqcL2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JeWShMqcL2U"
         }
       }
     }
