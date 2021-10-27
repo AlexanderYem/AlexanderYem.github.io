@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26: o que devemos esperar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nGnK0j5_fOw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nGnK0j5_fOw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: aumento da temperatura global, COP26 e um dinossauro discursa na Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JeWShMqcL2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Explicando o clima: Impactos hoje e no futuro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bVvNs6zHHuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bVvNs6zHHuo"
         }
       }
     }
