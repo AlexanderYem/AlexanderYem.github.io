@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: aumento da temperatura global, COP26 e um dinossauro discursa na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iE8Q5hMscQg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iE8Q5hMscQg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Podemos acabar com a crise climática: Presidente da Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bVvNs6zHHuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Alimentação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-_jnDX0FLd8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-_jnDX0FLd8"
         }
       }
     }
