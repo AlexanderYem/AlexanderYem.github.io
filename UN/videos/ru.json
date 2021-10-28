@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Динозавр на трибуне ООН: \"Не дайте вашему виду вымереть!\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QO6DDTK9xfQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QO6DDTK9xfQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Помощь Афганистану через территорию Узбекистана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L6CdGNci2h8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Нурлан Аселкан, эксперт ЮНИДИР, о потенциале Байконура",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zC3morU1gsA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zC3morU1gsA"
         }
       }
     }
