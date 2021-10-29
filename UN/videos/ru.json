@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украинские новаторы - победители конкурса ПРООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/egF1drrWYBQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "egF1drrWYBQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Динозавр с трибуны ГА ООН призвал людей не допустить вымирания жизни на Земле",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mJd-PSy4A3s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Учитель Мария Клышбаева - о работе  во время пандемии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L6CdGNci2h8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L6CdGNci2h8"
         }
       }
     }

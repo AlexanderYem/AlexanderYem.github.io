@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26: cientista alerta que metas dos países do G20 não são compatíveis com Acordo de Paris",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mEJaTxmzxm8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mEJaTxmzxm8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do dinossauro: “ser extinto é coisa ruim”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7K9gLVfThdo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Paz nos Grandes Lagos, série MTV Shuba, e o novo embaixador da OMS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X6EaQ2TFWIM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X6EaQ2TFWIM"
         }
       }
     }
