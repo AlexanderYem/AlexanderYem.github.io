@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4hidSLR40Uc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4hidSLR40Uc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26: cientista alerta que metas dos países do G20 não são compatíveis com Acordo de Paris",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "meHnbybZqH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Séries de entretenimento têm impacto positivo na prevenção de HIV entre jovens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7K9gLVfThdo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7K9gLVfThdo"
         }
       }
     }
