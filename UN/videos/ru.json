@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день прекращения безнаказанности за преступления против журналистов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d8vwj-udxWU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d8vwj-udxWU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украинские новаторы - победители конкурса ПРООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9tls-Yrgyjo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Учитель начальных классов Юлия Лизина о работе в онлайн формате",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mJd-PSy4A3s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mJd-PSy4A3s"
         }
       }
     }
