@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Президент Украины Владимир Зеленский на Конференции ООН по климату",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRmUrHR0YIw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TRmUrHR0YIw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день прекращения безнаказанности за преступления против журналистов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O2vlhAP-ec4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день хлопка. Сбор урожая в Узбекистане.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9tls-Yrgyjo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9tls-Yrgyjo"
         }
       }
     }
