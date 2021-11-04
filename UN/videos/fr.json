@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26 :  Prendre les plus grandes décisions sur la crise climatique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dYEiu0skYO0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dYEiu0skYO0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Forêts, alimentation et agriculture : comment vaincre la crise climatique ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fdOiQ3bw4V0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Les enseignants au cœur de la relance de l’éducation »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n4JBn4h5OW8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n4JBn4h5OW8"
         }
       }
     }
