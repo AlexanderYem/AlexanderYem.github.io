@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Вячеслав Фетисов на #КС26",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fjiNOygX2KE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fjiNOygX2KE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Президент Украины Владимир Зеленский на Конференции ООН по климату",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Det1b3TDeAY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ООН поздравил лауреатов Нобелевской премии мира журналистов Д.Муратова и М.Рессу",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O2vlhAP-ec4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O2vlhAP-ec4"
         }
       }
     }
