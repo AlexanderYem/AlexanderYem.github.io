@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Régler un différend devant la CIJ, c'est mieux qu'un conflit armé",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWat83c_vWc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JWat83c_vWc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26 :  Prendre les plus grandes décisions sur la crise climatique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yfKHWLlYo7A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Soutenir l'avenir de l'éducation des filles en Afghanistan",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fdOiQ3bw4V0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fdOiQ3bw4V0"
         }
       }
     }
