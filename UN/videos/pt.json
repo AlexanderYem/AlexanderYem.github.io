@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Opas: “Nós esperamos que o Brasil possa vir a doar vacinas”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/frS-sHCZ-ac/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "frS-sHCZ-ac"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil: “A sensação é de que nosso dever de casa, em grande medida, já foi feito na área de energia”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3IHwLVZDKww"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileira Paloma Costa promove ação pelo clima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fkY-YDaNlXM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fkY-YDaNlXM"
         }
       }
     }
