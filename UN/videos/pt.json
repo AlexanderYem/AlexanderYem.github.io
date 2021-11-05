@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Momentos da COP26",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ajhFkYd80PE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ajhFkYd80PE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Opas: “Nós esperamos que o Brasil possa vir a doar vacinas”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fAywTUTx8XU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia das Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3IHwLVZDKww/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3IHwLVZDKww"
         }
       }
     }
