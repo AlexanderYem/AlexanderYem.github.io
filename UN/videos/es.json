@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26: El mundo llama a la acción por el clima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdnPmZtQi_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AdnPmZtQi_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "En el Día de las Naciones Unidas, afrontemos juntos los grandes retos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "46-KKChooDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fin a la violencia sexual en los conflictos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PybUH3SuVlk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PybUH3SuVlk"
         }
       }
     }
