@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Обзор событий недели, 1-5 ноября 2021 г.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nl9KPPcP0xQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Nl9KPPcP0xQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Вячеслав Фетисов на #КС26",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vz6P_E7Arf8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Программа ВОЗ: психологическая поддержка жителей востока  Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Det1b3TDeAY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Det1b3TDeAY"
         }
       }
     }
