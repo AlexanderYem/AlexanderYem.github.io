@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26: advogado destaca os maiores desafios para os povos indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Vt0M2b3EA4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3Vt0M2b3EA4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Momentos da COP26",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iE8Q5hMscQg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Podemos acabar com a crise climática: Presidente da Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fAywTUTx8XU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fAywTUTx8XU"
         }
       }
     }
