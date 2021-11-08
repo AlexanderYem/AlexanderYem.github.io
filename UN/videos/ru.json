@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украина получила новую партию вакцин от COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tx7msbEgr5Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Tx7msbEgr5Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обзор событий недели, 1-5 ноября 2021 г.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_4o3N2qFNOM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ЮНИСЕФ: вакцины для Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vz6P_E7Arf8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vz6P_E7Arf8"
         }
       }
     }
