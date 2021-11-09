@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com Izabella Teixeira: “Este século será marcado pela era climática”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdEnGQbFYf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JdEnGQbFYf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26: advogado destaca os maiores desafios para os povos indígenas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nGnK0j5_fOw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: aumento da temperatura global, COP26 e um dinossauro discursa na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iE8Q5hMscQg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iE8Q5hMscQg"
         }
       }
     }
