@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26 : Petites îles, grand impact sur l'action climatique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfLRRD4OWIA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mfLRRD4OWIA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Régler un différend devant la CIJ, c'est mieux qu'un conflit armé",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yM0b_CyfNdk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Les Nations Unies lancent une stratégie pour atteindre l'équité vaccinale au niveau mondial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yfKHWLlYo7A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yfKHWLlYo7A"
         }
       }
     }
