@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ООН в Беларуси: борьба с изменением климата",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/poi5Q00wD8g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "poi5Q00wD8g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украина получила новую партию вакцин от COVID-19",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2hX8QQ-DQX8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Дмитрий Муратов - о Нобелевской премии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_4o3N2qFNOM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_4o3N2qFNOM"
         }
       }
     }
