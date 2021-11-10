@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - situação global da pandemia e líderes mundiais na COP26",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OJQd8k1794/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_OJQd8k1794"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com Izabella Teixeira: “Este século será marcado pela era climática”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mGNq2Rln53Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26: o que devemos esperar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nGnK0j5_fOw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nGnK0j5_fOw"
         }
       }
     }
