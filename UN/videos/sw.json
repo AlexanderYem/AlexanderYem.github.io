@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Uganda yashirikiana na sekta binafsi kufikisha chanjo dhidi ya COVID-19 kwa wananchi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSpzOLhP-Rs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PSpzOLhP-Rs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vijana waanzisha miradi ya kuchagiza SDGs. Ni eAFYA na Frendilcom nchini Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1AWZ9PBfKAc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Msikubali kutoweka kama mimi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DKIK6NDeg34/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DKIK6NDeg34"
         }
       }
     }
