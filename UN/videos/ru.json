@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Участник Конференции ООН по климату - о роли молодежи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EcGe9BPMI4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0EcGe9BPMI4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН в Беларуси: борьба с изменением климата",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dOaP3Ug0WNg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Урок вокала от Манижи - детям-мигрантам",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2hX8QQ-DQX8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2hX8QQ-DQX8"
         }
       }
     }
