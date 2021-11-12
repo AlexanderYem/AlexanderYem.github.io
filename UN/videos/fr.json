@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26: « le changement climatique, ça nous concerne tous  »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2m24lSnhLg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n2m24lSnhLg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26 : 500 actions prévues dans le plan climat de la ville de Paris",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jpL8TuS34HY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée mondiale de l'alimentation",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/__Sow3bemj4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "__Sow3bemj4"
         }
       }
     }
