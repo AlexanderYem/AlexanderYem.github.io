@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: terceira dose para idosos e imunocomprometidos, mas prioridade é ampliar imunizados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHibVqHtKeg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uHibVqHtKeg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens brasileiras na luta pela ação climática na COP26",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4hidSLR40Uc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26: cientista alerta que metas dos países do G20 não são compatíveis com Acordo de Paris",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mEJaTxmzxm8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mEJaTxmzxm8"
         }
       }
     }
