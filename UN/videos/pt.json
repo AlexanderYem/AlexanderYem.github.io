@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Diabetes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zxVE0Dj6B0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4zxVE0Dj6B0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: terceira dose para idosos e imunocomprometidos, mas prioridade é ampliar imunizados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8FltkbD9YVw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4hidSLR40Uc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4hidSLR40Uc"
         }
       }
     }

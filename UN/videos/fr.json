@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26 : justice climatique pour les femmes et les filles",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/14TMfpkdAh8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "14TMfpkdAh8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26: « le changement climatique, ça nous concerne tous  »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gaCLuiT3W7g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "24 Octobre - Journée des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jpL8TuS34HY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jpL8TuS34HY"
         }
       }
     }
