@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovens brasileiras na luta pela ação climática na COP26",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pwHGiC8rNCQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pwHGiC8rNCQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - situação global da pandemia e líderes mundiais na COP26",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mEJaTxmzxm8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do dinossauro: “ser extinto é coisa ruim”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mGNq2Rln53Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mGNq2Rln53Y"
         }
       }
     }
