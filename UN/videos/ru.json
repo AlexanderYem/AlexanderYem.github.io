@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Кампания HeForShe! в университетах Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEF1nlgoNBQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fEF1nlgoNBQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Участник Конференции ООН по климату - о роли молодежи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HGWAqj0D3IU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Помощь Афганистану через территорию Узбекистана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dOaP3Ug0WNg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dOaP3Ug0WNg"
         }
       }
     }
