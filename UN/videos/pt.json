@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP26 chega ao fim com acordo final",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2lLskNj2MU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "A2lLskNj2MU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Diabetes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HZ_TxuwJ8oA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Do Brasil para a COP26, indígena fala aos líderes mundiais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8FltkbD9YVw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8FltkbD9YVw"
         }
       }
     }
