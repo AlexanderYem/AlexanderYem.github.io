@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "La prévention, une voie réaliste vers la paix",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mjQ9YMNcBk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0mjQ9YMNcBk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "COP26 : a-t-elle tenu ses promesses ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KUXH5FigA1g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KUXH5FigA1g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26 : justice climatique pour les femmes et les filles",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "OU_kbTYMPxw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agir pour le climat - pour les personnes, la planète et la prospérité",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xfFh1-Y2nCo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xfFh1-Y2nCo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'importance du rôle des femmes dans la construction et le maintien de la paix",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gaCLuiT3W7g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gaCLuiT3W7g"
         }
       }
     }
