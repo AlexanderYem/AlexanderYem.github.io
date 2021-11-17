@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مؤتمر الأطراف يؤكد أن العمل المناخي بحاجة إلى الاستثمار في النساء والفتيات",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNiWcZ6V0gc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NNiWcZ6V0gc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مؤتمر الأطراف 26 يسدل الستار بالتوصل إلى اتفاق \"تسوية\" وصفه الأمين العام بأنه غير كاف",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "gqJoIfut7aI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "النوبة بلاد الذهب: مائة وعشرون عاما على الهجرة والتراث النوبي يأبى الاندثار",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ewir3A9HfQE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ewir3A9HfQE"
         }
       }
     },
