@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - mudança climática na Guiné-Bissau, crianças detidas e consumo de tabaco",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_piokiiw7aE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_piokiiw7aE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP26 chega ao fim com acordo final",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "frS-sHCZ-ac"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil: “A sensação é de que nosso dever de casa, em grande medida, já foi feito na área de energia”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HZ_TxuwJ8oA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HZ_TxuwJ8oA"
         }
       }
     }
