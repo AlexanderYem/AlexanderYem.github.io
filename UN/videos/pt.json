@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Filosofia - Viviane Mosé explica a importância da data",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHSQbEysyMU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VHSQbEysyMU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau: conscientização e técnicas de agricultura ajudam a combater a mudança climática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3Vt0M2b3EA4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Momentos da COP26",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ajhFkYd80PE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ajhFkYd80PE"
         }
       }
     }
