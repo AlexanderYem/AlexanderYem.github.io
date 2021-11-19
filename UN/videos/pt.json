@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - situação no Afeganistão, canal de Moçambique e um professor que virou  youtuber",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_KXFBH6FPc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y_KXFBH6FPc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Filosofia - Viviane Mosé explica a importância da data",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JdEnGQbFYf4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26: advogado destaca os maiores desafios para os povos indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3Vt0M2b3EA4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3Vt0M2b3EA4"
         }
       }
     }
