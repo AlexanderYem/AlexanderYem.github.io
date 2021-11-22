@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украина открывает школы для очного обучения",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFpJm5U1NeU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QFpJm5U1NeU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Кампания HeForShe! в университетах Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "egF1drrWYBQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Динозавр с трибуны ГА ООН призвал людей не допустить вымирания жизни на Земле",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HGWAqj0D3IU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HGWAqj0D3IU"
         }
       }
     }
