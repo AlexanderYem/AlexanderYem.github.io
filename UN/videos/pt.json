@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Década do Oceano, desnutrição no Brasil e campanha contra violência infantil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/muwAzdfIzoY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "muwAzdfIzoY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - situação no Afeganistão, canal de Moçambique e um professor que virou  youtuber",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_OJQd8k1794"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com Izabella Teixeira: “Este século será marcado pela era climática”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JdEnGQbFYf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JdEnGQbFYf4"
         }
       }
     }
