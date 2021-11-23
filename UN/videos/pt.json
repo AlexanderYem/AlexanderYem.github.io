@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional para a Eliminação da Violência Contra as Mulheres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Hsw7Dn6Q5E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6Hsw7Dn6Q5E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Década do Oceano, desnutrição no Brasil e campanha contra violência infantil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pwHGiC8rNCQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - situação global da pandemia e líderes mundiais na COP26",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_OJQd8k1794/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_OJQd8k1794"
         }
       }
     }
