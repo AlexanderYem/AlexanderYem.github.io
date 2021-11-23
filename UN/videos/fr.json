@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Des repas chauds pour aider les enfants d'Haïti à se remettre du séisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KQi6gsNH_Ig/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KQi6gsNH_Ig"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dans le monde, 261.000 enfants restent encore détenus",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JWat83c_vWc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26 :  Prendre les plus grandes décisions sur la crise climatique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dYEiu0skYO0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dYEiu0skYO0"
         }
       }
     }
