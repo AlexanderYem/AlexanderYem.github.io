@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН: Против насилия в отношении женщин и девочек",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fj7GfWwDe1E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fj7GfWwDe1E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украина открывает школы для очного обучения",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d8vwj-udxWU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украинские новаторы - победители конкурса ПРООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/egF1drrWYBQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "egF1drrWYBQ"
         }
       }
     }
