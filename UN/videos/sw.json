@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ng'ombe na usugu wa madawa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QWrK97zYs2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QWrK97zYs2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Zama zenu hazikuwa kama zetu, asema mtoto Angela!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TsihNs9Jnpw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uganda yashirikiana na sekta binafsi kufikisha chanjo dhidi ya COVID-19 kwa wananchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PSpzOLhP-Rs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PSpzOLhP-Rs"
         }
       }
     }
