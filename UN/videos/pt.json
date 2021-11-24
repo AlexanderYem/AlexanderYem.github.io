@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Na Colômbia, Guterres diz que país dá mensagem clara de que vale a pena investir na paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XOFJudNzK9s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XOFJudNzK9s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional para a Eliminação da Violência Contra as Mulheres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uHibVqHtKeg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovens brasileiras na luta pela ação climática na COP26",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pwHGiC8rNCQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pwHGiC8rNCQ"
         }
       }
     }
