@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti: merendas escolares ajudam crianças e comunidades na recuperação após terremoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s759Fl29NQI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s759Fl29NQI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Destaque ONU News - recuperação após terremoto no Haiti e o combate à violência de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_M9y6VmTb8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a_M9y6VmTb8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Na Colômbia, Guterres diz que país dá mensagem clara de que vale a pena investir na paz",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "A2lLskNj2MU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Diabetes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4zxVE0Dj6B0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4zxVE0Dj6B0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: terceira dose para idosos e imunocomprometidos, mas prioridade é ampliar imunizados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uHibVqHtKeg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uHibVqHtKeg"
         }
       }
     }
