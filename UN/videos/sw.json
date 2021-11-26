@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kenya yajinadi Expo2020 Dubai",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c-Ew2lZa61M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c-Ew2lZa61M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ng'ombe na usugu wa madawa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sXxRWPcfUgI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afrika haijafanikiwa kwenye mkutano wa COP26: Dkt. Sixbert Mwanga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TsihNs9Jnpw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TsihNs9Jnpw"
         }
       }
     }
