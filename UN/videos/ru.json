@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "«Обыкновенные вещи»: выставка, посвященная борьбе с домашним насилием",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Si8PopcVSpY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Si8PopcVSpY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН: Против насилия в отношении женщин и девочек",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TRmUrHR0YIw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день прекращения безнаказанности за преступления против журналистов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/d8vwj-udxWU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "d8vwj-udxWU"
         }
       }
     }
