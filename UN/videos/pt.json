@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: Portugal volta ao estado de calamidade esta quarta-feira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUDLR-2oAJo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WUDLR-2oAJo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: A África em transição energética, tecnológica e de mercados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jduy5em4DKc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - mudança climática na Guiné-Bissau, crianças detidas e consumo de tabaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_piokiiw7aE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_piokiiw7aE"
         }
       }
     }
