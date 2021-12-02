@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Стереотипы в отношении людей с ВИЧ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FSePBL5qgU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8FSePBL5qgU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Афганистан сегодня",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Nl9KPPcP0xQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вячеслав Фетисов на #КС26",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fjiNOygX2KE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fjiNOygX2KE"
         }
       }
     }
