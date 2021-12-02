@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU volta a receber turistas em visitas guiadas, 21 meses após pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYeHwo9HaJQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OYeHwo9HaJQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: Portugal volta ao estado de calamidade esta quarta-feira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VHSQbEysyMU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau: conscientização e técnicas de agricultura ajudam a combater a mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jduy5em4DKc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jduy5em4DKc"
         }
       }
     }
