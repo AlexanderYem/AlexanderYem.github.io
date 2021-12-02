@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Je ni kosa kuzaliwa Afghanistan?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6dve8WPAoU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L6dve8WPAoU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kiswahili kutambulika kimataifa ni fursa kwa kila mtu - Balozi Shelukindo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GfBcBdRggGc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Watoto wana imani na mustakabali bora duniani kuliko watu wazima- Kura ya maoni",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ifxJ02EZdvU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ifxJ02EZdvU"
         }
       }
     }
