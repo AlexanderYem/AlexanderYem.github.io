@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Афганистан сегодня",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2JFgMMjUseY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2JFgMMjUseY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "«Обыкновенные вещи»: выставка, посвященная борьбе с домашним насилием",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fjiNOygX2KE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Президент Украины Владимир Зеленский на Конференции ООН по климату",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TRmUrHR0YIw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TRmUrHR0YIw"
         }
       }
     }
