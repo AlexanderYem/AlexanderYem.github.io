@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novos medicamentos, testes e a busca por uma vacina na luta contra a malária",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1t3Qi-axwSk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1t3Qi-axwSk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Novo apelo humanitário, inteligência artificial e ONU reabre para visitas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "muwAzdfIzoY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - situação no Afeganistão, canal de Moçambique e um professor que virou  youtuber",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y_KXFBH6FPc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y_KXFBH6FPc"
         }
       }
     }
