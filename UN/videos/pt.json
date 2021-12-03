@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Novo apelo humanitário, inteligência artificial e ONU reabre para visitas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjIKDT0jwvE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hjIKDT0jwvE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU volta a receber turistas em visitas guiadas, 21 meses após pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y_KXFBH6FPc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Filosofia - Viviane Mosé explica a importância da data",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VHSQbEysyMU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VHSQbEysyMU"
         }
       }
     }
