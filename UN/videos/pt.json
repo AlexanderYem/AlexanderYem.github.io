@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jorge Sampaio “não sabia estar quieto”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYihmwEYv3I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UYihmwEYv3I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Inteligência Artificial deve ser adotada com ética”, afirma especialista brasileiro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XOFJudNzK9s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional para a Eliminação da Violência Contra as Mulheres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6Hsw7Dn6Q5E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6Hsw7Dn6Q5E"
         }
       }
     }
