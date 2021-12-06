@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Elimu kuhusu haki za binadamu imesaidia nchini Tanzania",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hEOOwwewIQc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hEOOwwewIQc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Twapongeza Tanzania kurejesha watoto shuleni- UNICEF",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mCvE7Wnohxs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Balozi wa UNICEF - WASH",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k7JT1nTknWc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k7JT1nTknWc"
         }
       }
     }
