@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Damu ya aliyepona Covid-19 isitumike kwa anayeugua ugonjwa huo - WHO",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EJLebnrSWH0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EJLebnrSWH0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Elimu kuhusu haki za binadamu imesaidia nchini Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yoJnlKUR0rY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SIDO Tanzania na bidhaa moja wilaya moja!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mCvE7Wnohxs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mCvE7Wnohxs"
         }
       }
     }
