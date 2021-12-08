@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le racisme conduit à un \"apartheid vaccinal\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H5tl7eTiESU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H5tl7eTiESU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Des repas chauds pour aider les enfants d'Haïti à se remettre du séisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mfLRRD4OWIA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Régler un différend devant la CIJ, c'est mieux qu'un conflit armé",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JWat83c_vWc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JWat83c_vWc"
         }
       }
     }
