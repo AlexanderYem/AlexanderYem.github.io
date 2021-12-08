@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - afrodescendentes em Portugal, premiação em Moçambique, e Trolls se juntam à ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UTNxU8iL2jM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UTNxU8iL2jM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jorge Sampaio “não sabia estar quieto”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a_M9y6VmTb8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na Colômbia, Guterres diz que país dá mensagem clara de que vale a pena investir na paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XOFJudNzK9s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XOFJudNzK9s"
         }
       }
     }
