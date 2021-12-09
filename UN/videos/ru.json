@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Граница #Беларуси с #ЕС",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4z77PYc1Kw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J4z77PYc1Kw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Стереотипы в отношении людей с ВИЧ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Tx7msbEgr5Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обзор событий недели, 1-5 ноября 2021 г.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nl9KPPcP0xQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Nl9KPPcP0xQ"
         }
       }
     }
