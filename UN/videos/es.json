@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Hoy y todos los días, sigamos trabajando por los derechos humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oyWJgN9HFEs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oyWJgN9HFEs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Efectos de la COVID-19 en la conservación de la vida silvestre",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AhuEKU-o-5Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La energía solar empodera a las comunidades rurales en Perú",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b08JoQ-OaYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b08JoQ-OaYA"
         }
       }
     }
