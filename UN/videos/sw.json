@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mchakato wa haki za kisheria Uganda unahitaji ushirikiano wa kila mtu:Tume ya haki",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IAGpucBwbmI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IAGpucBwbmI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Siku 5 tu baada ya uhuru, tulijiunga UN na tunanufaika hadi leo - Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Sgm8p8kXNz8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bila choo nyumbani ni adha kubwa- Wakazi Accra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/40SYCe7s1K8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "40SYCe7s1K8"
         }
       }
     }
