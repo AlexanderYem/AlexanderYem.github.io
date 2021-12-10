@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres nas forças de paz são vitais para combater violência de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBHULqQ6-Mo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BBHULqQ6-Mo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Dia dos Direitos Humanos, ONU alerta para aumento de desigualdade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WUDLR-2oAJo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: A África em transição energética, tecnológica e de mercados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BQki7f-2rCA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BQki7f-2rCA"
         }
       }
     }
