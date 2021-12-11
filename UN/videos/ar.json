@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "فهم تاريخ العنصرية يساعدنا على فهم من نحن، وفهم تعددية هويتنا بطريقة أكثر شمولية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1qYqukoBpQ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1qYqukoBpQ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ماهر ناصر: معرض إكسبو يشكل فرصة لتبادل الخبرات ومشاركة الاختراعات والافتخار بالتراث العلمي والثقافي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LPysWnqOcBo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أنت منيحة: حملة أممية تسلط الضوء على معاناة اللاجئات السوريات في تركيا.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DS-VdWD7q-g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DS-VdWD7q-g"
         }
       }
     }
