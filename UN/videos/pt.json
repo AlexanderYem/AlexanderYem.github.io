@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O que são variantes e por que preocupam?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3OHlzH9EAE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e3OHlzH9EAE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mulheres nas forças de paz são vitais para combater violência de gênero",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hfQql4HdcBw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19: Portugal volta ao estado de calamidade esta quarta-feira",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WUDLR-2oAJo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WUDLR-2oAJo"
         }
       }
     }
