@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ushirikiano wa kijeshi kati ya DRC na Tanzania unasaidia sana kuleta amani Beni",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WWiF1wO6kA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4WWiF1wO6kA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanajeshi wa upelelezi wanawake kutoka Uingereza wanavyoshiriki ulinzi nchini Mali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L6dve8WPAoU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kiswahili kutambulika kimataifa ni fursa kwa kila mtu - Balozi Shelukindo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0eMmwsdv8d0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0eMmwsdv8d0"
         }
       }
     }
