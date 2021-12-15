@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Walinda amani wa TANBAT 4 wakabidhi kijiti kwa TANBAT 5 ili kulinda raia Jamhuri ya Afrika ya Kati",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DG5OtlQwE0I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DG5OtlQwE0I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ushirikiano wa kijeshi kati ya DRC na Tanzania unasaidia sana kuleta amani Beni",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OuxGEQ2Uvck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Je ni kosa kuzaliwa Afghanistan?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L6dve8WPAoU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L6dve8WPAoU"
         }
       }
     }
