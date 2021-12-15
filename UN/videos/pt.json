@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - fome no Afeganistão, agricultura em São Tome e Príncipe e recorde de temperatura",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DPK1fg7ZvTo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DPK1fg7ZvTo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O que são variantes e por que preocupam?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hjIKDT0jwvE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU volta a receber turistas em visitas guiadas, 21 meses após pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hfQql4HdcBw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hfQql4HdcBw"
         }
       }
     }
