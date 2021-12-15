@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Amir supera la discapacidad con arte",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCSUwCpEL7w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lCSUwCpEL7w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Hoy y todos los días, sigamos trabajando por los derechos humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o83pNUqoABw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensaje en el Día de la Asistencia Humanitaria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AhuEKU-o-5Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AhuEKU-o-5Q"
         }
       }
     }
