@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS nas Américas diz que proibição de viagens não é eficaz para conter Covid",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lse_TM5p_4Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Lse_TM5p_4Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - fome no Afeganistão, agricultura em São Tome e Príncipe e recorde de temperatura",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1t3Qi-axwSk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Novo apelo humanitário, inteligência artificial e ONU reabre para visitas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hjIKDT0jwvE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hjIKDT0jwvE"
         }
       }
     }
