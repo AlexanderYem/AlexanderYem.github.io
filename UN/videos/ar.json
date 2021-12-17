@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام للأمم المتحدة يزور بلاد الأرز - لبنان - حاملا رسالة تضامن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9SgNkVg8tjM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9SgNkVg8tjM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رئيس يونيتامس: السودان يجب أن يصبح بلدا ديمقراطيا يتمتع بكامل الحريات وتتوفر فيه العدالة لكافة الناس",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ciJDTlmxwd8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محمد الناصري: النساء والفتيات يدفعن الثمن الأفدح للعنف في المجتمعات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W7khQWK616Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W7khQWK616Y"
         }
       }
     }
