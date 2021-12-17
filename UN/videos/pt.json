@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "No Conselho de Segurança, Brasil buscará reforma e representatividade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lYjN83gmCjs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lYjN83gmCjs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS nas Américas diz que proibição de viagens não é eficaz para conter Covid",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2SBP0BjnEtg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novos medicamentos, testes e a busca por uma vacina na luta contra a malária",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1t3Qi-axwSk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1t3Qi-axwSk"
         }
       }
     }
