@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Língua Árabe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zYPGBZk6sFw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zYPGBZk6sFw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Conselho de Segurança, Brasil buscará reforma e representatividade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UYihmwEYv3I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Inteligência Artificial deve ser adotada com ética”, afirma especialista brasileiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2SBP0BjnEtg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2SBP0BjnEtg"
         }
       }
     }
