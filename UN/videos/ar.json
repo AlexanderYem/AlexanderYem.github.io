@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يشارك الناطقين باللغة العربية الاحتفال باليوم العالمي للغة العربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8cYNq82GHo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u8cYNq82GHo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "في اليوم العالمي للغة العربية، المعلمة ثريا بن فرحات تؤكد للغة العربية مكانة صدارة بين اللغات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FUn46byAB18"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "د. أمجد الخولي: أوميكرون لديه قدرة أكبر على الانتشار من المتحور السابق دلتا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3P-tlLdJyUM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3P-tlLdJyUM"
         }
       }
     }
