@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "عدم الإنصاف في توزيع اللقاحات ليس ظلما فقط، بل يهدد العالم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWEORsGP0Sw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mWEORsGP0Sw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مدير عام منظمة الصحة العالمية يدعو لأن يكون عام 2022 هو العام الذي \"ننهي فيه الجائحة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cx1q9NUPa_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ناشطة إماراتية من أصحاب الهمم تظهر ريادة في مجال الإدماج بإكسبو 2020 وما بعده",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4NY6Rjvy1OY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4NY6Rjvy1OY"
         }
       }
     }
