@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La COVID-19 no será la última pandemia a la que deba enfrentarse la humanidad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0To5LfV-a2Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0To5LfV-a2Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kiribati le planta cara al mar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6Uw5KKmNWXA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ralph Bunche, héroe de la justica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XkgVF-4PGDI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XkgVF-4PGDI"
         }
       }
     }
