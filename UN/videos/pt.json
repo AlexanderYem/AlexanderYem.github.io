@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Internacional, ONU quer mais investimento em emergências sanitárias",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U51RbgY7iYo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U51RbgY7iYo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Desigualdade em vacinas pelo mundo atrasa fim da pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BBHULqQ6-Mo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Dia dos Direitos Humanos, ONU alerta para aumento de desigualdade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lv6gNm4rGAg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lv6gNm4rGAg"
         }
       }
     }
