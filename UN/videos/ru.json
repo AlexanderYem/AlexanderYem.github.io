@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день противоэпидемической готовности",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IdyLXwooWA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8IdyLXwooWA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Кризис на границе #Беларуси с #ЕС",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "poi5Q00wD8g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украина получила новую партию вакцин от COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tx7msbEgr5Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Tx7msbEgr5Y"
         }
       }
     }
