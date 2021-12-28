@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Hagamos de la recuperación nuestro propósito para 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZaP215omGo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JZaP215omGo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La COVID-19 no será la última pandemia a la que deba enfrentarse la humanidad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eLKIEaAPk5A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Todavía creo en Nueva York",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6Uw5KKmNWXA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6Uw5KKmNWXA"
         }
       }
     }
