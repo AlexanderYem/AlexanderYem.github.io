@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Новогоднее обращение Антониу Гутерриша",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhgIQP_EwOM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UhgIQP_EwOM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день противоэпидемической готовности",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0EcGe9BPMI4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН в Беларуси: борьба с изменением климата",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/poi5Q00wD8g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "poi5Q00wD8g"
         }
       }
     }

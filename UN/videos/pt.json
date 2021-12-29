@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem de Ano Novo do secretário-geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nhTFd6ZDZ0Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nhTFd6ZDZ0Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Parceria da OMS com hospital dos EUA, St. Jude, beneficiará crianças com câncer",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lse_TM5p_4Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - fome no Afeganistão, agricultura em São Tome e Príncipe e recorde de temperatura",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DPK1fg7ZvTo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DPK1fg7ZvTo"
         }
       }
     }

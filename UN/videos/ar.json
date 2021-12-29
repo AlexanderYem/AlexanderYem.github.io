@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أمين عام الأمم المتحدة يدعو إلى جعل التعافي \"هدفنا المنشود في عام 2022\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-pr4o030bM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6-pr4o030bM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اتباع الإجراءات الاحترازية خاصة في فترة الأعياد أمر حاسم في كسر حلقة انتقال كورونا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5EGd9kHB9Ik"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فهم تاريخ العنصرية يساعدنا على فهم من نحن، وفهم تعددية هويتنا بطريقة أكثر شمولية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1qYqukoBpQ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1qYqukoBpQ8"
         }
       }
     }
