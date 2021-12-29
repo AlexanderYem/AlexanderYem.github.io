@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU investe em comunicação em missões de paz para conter violência a mulheres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlEb1ku0LbU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZlEb1ku0LbU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem de Ano Novo do secretário-geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lYjN83gmCjs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS nas Américas diz que proibição de viagens não é eficaz para conter Covid",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lse_TM5p_4Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lse_TM5p_4Y"
         }
       }
     }
