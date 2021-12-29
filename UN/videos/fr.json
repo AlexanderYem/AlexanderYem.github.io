@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vacciner 70 % de la population d'ici le milieu de l'année 2022.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXdGA6aquKg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sXdGA6aquKg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Message du Secrétaire général pour le Nouvel An",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n2m24lSnhLg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26 : 500 actions prévues dans le plan climat de la ville de Paris",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M0zPLxmHApg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M0zPLxmHApg"
         }
       }
     }
