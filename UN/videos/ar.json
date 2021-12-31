@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "منى عطايا، رائدة أعمال تساعد نساء الشرق الأوسط على دخول الاقتصاد الرقمي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/saqvXuTQhsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "saqvXuTQhsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمين عام الأمم المتحدة يدعو إلى جعل التعافي \"هدفنا المنشود في عام 2022\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jwwqf1l72_c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليمن: أفكار خلاقة للتخلص من النفايات الصلبة وإنتاج الطاقة في نفس الوقت",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5EGd9kHB9Ik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5EGd9kHB9Ik"
         }
       }
     }
