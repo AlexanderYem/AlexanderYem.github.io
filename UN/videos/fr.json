@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'équité en matière de vaccins, de traitements, de tests et en matière de santé est primordial (OMS)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/piqwzNYEhV4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "piqwzNYEhV4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vacciner 70 % de la population d'ici le milieu de l'année 2022.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "14TMfpkdAh8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26: « le changement climatique, ça nous concerne tous  »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n2m24lSnhLg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n2m24lSnhLg"
         }
       }
     }
