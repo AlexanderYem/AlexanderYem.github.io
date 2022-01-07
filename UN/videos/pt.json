@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS diz que as vacinas funcionam para todas as variantes e pedem equidade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W0nbKfDgTmc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W0nbKfDgTmc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Conselho de Segurança, Brasil promete “trabalho bem feito”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b7oKINcVles"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "FAO junta-se a agricultoras na Guiné-Bissau para promover fome zero",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zUkiwGA0pBk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zUkiwGA0pBk"
         }
       }
     }
