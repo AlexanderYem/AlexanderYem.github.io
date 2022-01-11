@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Família de refugiados de Honduras encontra uma nova vida no México",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPlGXGqxyeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZPlGXGqxyeE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS diz que as vacinas funcionam para todas as variantes e pedem equidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U51RbgY7iYo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Desigualdade em vacinas pelo mundo atrasa fim da pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b7oKINcVles/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b7oKINcVles"
         }
       }
     }
