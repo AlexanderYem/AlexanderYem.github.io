@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "4,4 млрд долларов на помощь Афганистану - запрос ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8CrUVdDibsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8CrUVdDibsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Новогоднее обращение Антониу Гутерриша",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fEF1nlgoNBQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Участник Конференции ООН по климату - о роли молодежи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0EcGe9BPMI4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0EcGe9BPMI4"
         }
       }
     }
