@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'ONU lance le plus grand appel à l'aide pour l'Afghanistan",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJgTFtCjo1Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IJgTFtCjo1Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'équité en matière de vaccins, de traitements, de tests et en matière de santé est primordiale-OMS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KUXH5FigA1g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP26 : justice climatique pour les femmes et les filles",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/14TMfpkdAh8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "14TMfpkdAh8"
         }
       }
     }
