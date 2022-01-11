@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU lança apelo humanitário histórico em favor da população do Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKiziuJ9Mfw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aKiziuJ9Mfw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Apesar da situação atual da pandemia, especialista da OMS garante haver motivos para otimismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wApKum8btTg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wApKum8btTg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Família de refugiados de Honduras encontra uma nova vida no México",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ln5-wmYWt40"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fator humano e direitos humanos são chave para sucesso da Inteligência Artificial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/85cCPm4vYgs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "85cCPm4vYgs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Internacional, ONU quer mais investimento em emergências sanitárias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U51RbgY7iYo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U51RbgY7iYo"
         }
       }
     }
