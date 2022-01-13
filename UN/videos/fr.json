@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un cauchemar se dessine en Afghanistan",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qgj4FZqV7tI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qgj4FZqV7tI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Forum mondial de la jeunesse : « Continuez à vous exprimer »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TZyMIce8yBk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La prévention, une voie réaliste vers la paix",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0mjQ9YMNcBk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0mjQ9YMNcBk"
         }
       }
     }
