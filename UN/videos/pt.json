@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Recuperação do mercado de trabalho está mais lenta do que o esperado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZG6YsFGPuo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iZG6YsFGPuo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU lança apelo humanitário histórico em favor da população do Afeganistão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nhTFd6ZDZ0Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Parceria da OMS com hospital dos EUA, St. Jude, beneficiará crianças com câncer",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ln5-wmYWt40/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ln5-wmYWt40"
         }
       }
     }
