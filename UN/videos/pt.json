@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Covid-19: OMS nas Américas lança apelo incentivando vacinação com urgência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uoquUYIPJWA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uoquUYIPJWA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Recuperação do mercado de trabalho está mais lenta do que o esperado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZlEb1ku0LbU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de Ano Novo do secretário-geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nhTFd6ZDZ0Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nhTFd6ZDZ0Y"
         }
       }
     }
