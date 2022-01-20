@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المندوب الإسرائيلي لدى الأمم المتحدة يحمل صخرة في مجلس الأمن، ووزير خارجية فلسطين يعتبرها \"حيلة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z1zn--xfu7U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z1zn--xfu7U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يؤكد استمرار العمل مع الليبيين لعقد الانتخابات في أسرع وقت ممكن",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mWEORsGP0Sw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مدير عام منظمة الصحة العالمية يدعو لأن يكون عام 2022 هو العام الذي \"ننهي فيه الجائحة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J_3TP33iz5A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J_3TP33iz5A"
         }
       }
     }
