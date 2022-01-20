@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Манижа и ее мама готовят плов и самбусу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWZ9gA6ky5A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wWZ9gA6ky5A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "4,4 млрд долларов на помощь Афганистану - запрос ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QFpJm5U1NeU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Кампания HeForShe! в университетах Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fEF1nlgoNBQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fEF1nlgoNBQ"
         }
       }
     }

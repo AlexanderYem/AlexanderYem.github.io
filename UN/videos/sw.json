@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Gaza wanufaika na elimu ya haki za binadamu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D9uOvlKaG_s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D9uOvlKaG_s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN: Wakulima wa vijiji vipya Misri wang'ara",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pynYY9Ad-qU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mkopo mmoja waleta manufaa kwa wengi Misri",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a6anGkcAmKU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a6anGkcAmKU"
         }
       }
     }
