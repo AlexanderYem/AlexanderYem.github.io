@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Missão da Unesco descobre um dos maiores recifes de corais do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CywBvam4iZs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CywBvam4iZs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Covid-19: OMS nas Américas lança apelo incentivando vacinação com urgência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n9QHbHLkTCE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU investe em comunicação em missões de paz para conter violência a mulheres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZlEb1ku0LbU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZlEb1ku0LbU"
         }
       }
     }
