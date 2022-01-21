@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Educação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-ULN5R1alg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w-ULN5R1alg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Missão da Unesco descobre um dos maiores recifes de corais do mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oGjRWujNeL0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Dificuldades para os migrantes redobraram”, avalia chefe da OIM em Portugal #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n9QHbHLkTCE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n9QHbHLkTCE"
         }
       }
     }
