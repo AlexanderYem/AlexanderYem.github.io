@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Kutoka Marekani kwa Balozi Gastorn na uchambuzi wa hotuba ya Katibu Mkuu wa UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmzP1grPTOI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zmzP1grPTOI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Gaza wanufaika na elimu ya haki za binadamu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7-ZVLvnRmtk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tulibaguliwa Afrika Kusini kwa sababu ya nywele zetu- Zulaikha",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pynYY9Ad-qU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pynYY9Ad-qU"
         }
       }
     }
