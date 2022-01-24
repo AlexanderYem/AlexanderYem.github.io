@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN: Uganda wanafunzi warejea shuleni",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sa5ynAr33o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6sa5ynAr33o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Kutoka Marekani kwa Balozi Gastorn na uchambuzi wa hotuba ya Katibu Mkuu wa UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V1EXsQctDhM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tulikoswakoswa Honduras sasa tuko Mexico, kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-ZVLvnRmtk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7-ZVLvnRmtk"
         }
       }
     }
