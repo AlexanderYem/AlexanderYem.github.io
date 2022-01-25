@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: trabalhador humanitário descreve cenário da tempestade tropical Ana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KM7j7ne4nCw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KM7j7ne4nCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Educação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P-Pp5c-HXZ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Primeira-Ministra de Barbados, Mia Mottley, no combate da crise climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oGjRWujNeL0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oGjRWujNeL0"
         }
       }
     }
