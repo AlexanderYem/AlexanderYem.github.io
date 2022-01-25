@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN- Kutoka DRC wanajamii walituona 'kupe\" tukipambana na Ebola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wVyf_pPJcZ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wVyf_pPJcZ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN: Uganda wanafunzi warejea shuleni",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dlj7LtmabCk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DNA za walinda amani wa Afrika Kusini nchini DRC zachukuliwa,kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V1EXsQctDhM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V1EXsQctDhM"
         }
       }
     }
