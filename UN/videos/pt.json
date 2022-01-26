@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional em Memória das Vítimas do Holocausto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ll_ZxkXHDug/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ll_ZxkXHDug"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: trabalhador humanitário descreve cenário da tempestade tropical Ana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W0nbKfDgTmc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Conselho de Segurança, Brasil promete “trabalho bem feito”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P-Pp5c-HXZ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P-Pp5c-HXZ4"
         }
       }
     }
