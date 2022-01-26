@@ -5,6 +5,19 @@
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
+            "url": "https://i.ytimg.com/vi/qLkwp7i9alY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qLkwp7i9alY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
             "url": "https://i.ytimg.com/vi/G3q_RANO5Ko/hqdefault.jpg"
           }
         },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3Mw6o9nfq0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uchumi wa dunia kudorora, kisa COVID-19, yasema Benki ya Dunia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dlj7LtmabCk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dlj7LtmabCk"
         }
       }
     }
