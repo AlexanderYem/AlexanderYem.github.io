@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Restons fermes contre la haine et le sectarisme partout et en tout lieu »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TVw9E5kgn_Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TVw9E5kgn_Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Urgence climatique : une des priorités du Secrétaire général de l'ONU pour 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j8J7cMvgRw4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le racisme conduit à un \"apartheid vaccinal\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H5tl7eTiESU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H5tl7eTiESU"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Видеообращение главы ООН: Международный день памяти жертв Холокоста",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FRU8khEsu0U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FRU8khEsu0U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Манижа и ее мама готовят плов и самбусу",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fj7GfWwDe1E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украина открывает школы для очного обучения",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QFpJm5U1NeU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QFpJm5U1NeU"
         }
       }
     }
