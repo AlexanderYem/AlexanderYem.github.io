@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Главная",
+    "submenu": [
+      {
+        "name": "Об ООН",
+        "url": "https://www.un.org/ru/about-us"
+      },
+      {
+        "name": "ООН в Казахстане",
+        "url": "/ru/about/about-the-un"
+      },
+      {
+        "name": "Агентства ООН в Казахстане",
+        "url": "/ru/about/un-entities-in-country"
+      },
+      {
+        "name": "Офис Постоянного координатора",
+        "url": "/ru/about/about-the-resident-coordinator-office"
+      },
+      {
+        "name": "Наша команда в Казахстане",
+        "url": "/ru/about/our-team"
+      },
+      {
+        "name": "Свяжитесь с нами",
+        "url": "/ru/contact-us"
+      },
+      {
+        "name": "Группа по устойчивому развитию",
+        "url": "https://unsdg.un.org/ru"
+      },
+      {
+        "name": "Наша деятельность",
+        "url": "/ru/key-initiatives"
+      }
+    ]
+  },
+  {
+    "name": "Цели устойчивого развития",
+    "url": "/ru/sdgs"
+  },
+  {
+    "name": "Прими участие",
+    "url": "/ru/take-action"
+  },
+  {
+    "name": "Истории",
+    "url": "/ru/stories"
+  },
+  {
+    "name": "Ресурсы",
+    "submenu": [
+      {
+        "name": "Публикации",
+        "url": "/ru/resources/publications"
+      },
+      {
+        "name": "Видео",
+        "url": "/ru/resources/video-stories"
+      }
+    ]
+  },
+  {
+    "name": "Пресс-центр",
+    "submenu": [
+      {
+        "name": "Пресс-релизы",
+        "url": "/ru/press-centre/press-releases"
+      },
+      {
+        "name": "Выступления",
+        "url": "/ru/press-centre/speeches"
+      },
+      {
+        "name": "Медиа контакты",
+        "url": "/ru/press-centre/media-contacts"
+      }
+    ]
+  }
+]
