@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/51k9ferIGkI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "51k9ferIGkI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Kutoka Marekani Dkt. Jakaya Kikwete azungumza na Idhaa ya Kiswahili",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PvbEEnQIgaw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Anayeishi na UKIMWI nchini China ataka waajiri wasiwabague",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3Mw6o9nfq0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3Mw6o9nfq0g"
         }
       }
     }
