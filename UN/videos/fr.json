@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : « Autour du feu » - Témoigner des années de guerre pour éviter que l’histoire ne se répète",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ufq-mT6fPB8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ufq-mT6fPB8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Nous ne pouvons pas abandonner le peuple afghan »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sXdGA6aquKg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Message du Secrétaire général pour le Nouvel An",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e0FMiGO3HoA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e0FMiGO3HoA"
         }
       }
     }
