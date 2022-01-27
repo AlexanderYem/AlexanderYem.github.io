@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Nous ne pouvons pas abandonner le peuple afghan »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaZetswBeSI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JaZetswBeSI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Restons fermes contre la haine et le sectarisme partout et en tout lieu »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "e0FMiGO3HoA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comment mettre fin à la Covid ? La stratégie mondiale de l'ONU en matière de vaccins",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j8J7cMvgRw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j8J7cMvgRw4"
         }
       }
     }
