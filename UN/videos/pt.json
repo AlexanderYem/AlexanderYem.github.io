@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Carreiras na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_eHlF2msPfw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_eHlF2msPfw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional em Memória das Vítimas do Holocausto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZPlGXGqxyeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS diz que as vacinas funcionam para todas as variantes e pedem equidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W0nbKfDgTmc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W0nbKfDgTmc"
         }
       }
     }
