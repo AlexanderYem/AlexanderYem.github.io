@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU em Moçambique: \"é absolutamente urgente trazer ajuda\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIQq5id8sHY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hIQq5id8sHY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Alimentação escolar no Brasil é referência no mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1PaDPxvy_4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_1PaDPxvy_4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Carreiras na ONU",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "wApKum8btTg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Família de refugiados de Honduras encontra uma nova vida no México",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZPlGXGqxyeE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZPlGXGqxyeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS diz que as vacinas funcionam para todas as variantes e pedem equidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W0nbKfDgTmc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W0nbKfDgTmc"
         }
       }
     }
