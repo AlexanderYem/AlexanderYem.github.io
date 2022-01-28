@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jakaya Kikwete azungumzia mifumo ya elimu katika nchi masikini",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3MNAQhfhtBQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3MNAQhfhtBQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ILeeRpcWfNU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN: Msichana nchini Guinea ainua jamii yake",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5mVTAusKtFk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5mVTAusKtFk"
         }
       }
     }
