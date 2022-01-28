@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Стратегия ООН по всеобщей вакцинации",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JovY79_oNHo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JovY79_oNHo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Видеообращение главы ООН: Международный день памяти жертв Холокоста",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Si8PopcVSpY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН: Против насилия в отношении женщин и девочек",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fj7GfWwDe1E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fj7GfWwDe1E"
         }
       }
     }
