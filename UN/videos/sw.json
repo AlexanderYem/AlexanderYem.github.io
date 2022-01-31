@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN: Kutoka DRC sasa tunarejea nyumbani Burundi!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlLslsOKVjQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZlLslsOKVjQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Heri ya mwaka wa Simba Marara kwa wananchi wa China: Antonio Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zmzP1grPTOI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Gaza wanufaika na elimu ya haki za binadamu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D9uOvlKaG_s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D9uOvlKaG_s"
         }
       }
     }
