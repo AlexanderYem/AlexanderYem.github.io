@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Prioridades e projetos da ONU em Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMDVwv5lu-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KMDVwv5lu-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU em Moçambique: \"é absolutamente urgente trazer ajuda\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aKiziuJ9Mfw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apesar da situação atual da pandemia, especialista da OMS garante haver motivos para otimismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wApKum8btTg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wApKum8btTg"
         }
       }
     }
