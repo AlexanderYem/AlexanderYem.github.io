@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Relatos de intensos combates na capital da Guiné-Bissau preocupam a ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8uwudtDeTf0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8uwudtDeTf0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prioridades e projetos da ONU em Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iZG6YsFGPuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU lança apelo humanitário histórico em favor da população do Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aKiziuJ9Mfw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aKiziuJ9Mfw"
         }
       }
     }
