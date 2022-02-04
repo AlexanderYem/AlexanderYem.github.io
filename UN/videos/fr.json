@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'esprit olympique est un esprit de « paix, de respect mutuel et de compréhension\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JYBlkIEXbQ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JYBlkIEXbQ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l’ONU appelle à la cessation des hostilités en Ethiopie",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IJgTFtCjo1Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'équité en matière de vaccins, de traitements, de tests et en matière de santé est primordiale-OMS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Eeap-tpzpxA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Eeap-tpzpxA"
         }
       }
     }
