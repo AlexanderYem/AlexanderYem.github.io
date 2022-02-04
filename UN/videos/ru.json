@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "МАГАТЭ помогает бороться с раком",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuhjgL9VBrE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KuhjgL9VBrE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Стратегия ООН по всеобщей вакцинации",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2JFgMMjUseY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "«Обыкновенные вещи»: выставка, посвященная борьбе с домашним насилием",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Si8PopcVSpY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Si8PopcVSpY"
         }
       }
     }
