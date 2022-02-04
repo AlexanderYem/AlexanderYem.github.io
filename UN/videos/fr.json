@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lutter contre les mutilations génitales féminines (MGF)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1yrb4HTIxs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D1yrb4HTIxs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'esprit olympique est un esprit de « paix, de respect mutuel et de compréhension\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rCn-yNRr0qs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'ONU lance le plus grand appel à l'aide pour l'Afghanistan",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IJgTFtCjo1Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IJgTFtCjo1Q"
         }
       }
     }
