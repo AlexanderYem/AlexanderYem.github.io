@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3FY8G5FQS70/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3FY8G5FQS70"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Ukame Ethiopia, Baridi Kali Lebanon!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "51k9ferIGkI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Kutoka Marekani Dkt. Jakaya Kikwete azungumza na Idhaa ya Kiswahili",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qLkwp7i9alY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qLkwp7i9alY"
         }
       }
     }
