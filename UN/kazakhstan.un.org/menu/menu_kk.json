@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Біріккен Ұлттар Ұйымы Қазақстан",
+    "url": "https://kazakhstan.un.org/kk"
+  },
+  {
+    "name": "Туралы",
+    "submenu": [
+      {
+        "name": "БҰҰ туралы",
+        "url": "https://www.un.org/en/about-us"
+      },
+      {
+        "name": "Қазақстан БҰҰ",
+        "url": "/kk/about/about-the-un"
+      },
+      {
+        "name": "БҰҰ агенттіктері Қазақстан",
+        "url": "/kk/about/un-entities-in-country"
+      },
+      {
+        "name": "Тұрақты үйлестіруші кеңсесі",
+        "url": "/kk/about/about-the-resident-coordinator-office"
+      },
+      {
+        "name": "Біздің ұжым Қазақстан",
+        "url": "/kk/about/our-team"
+      },
+      {
+        "name": "Бізбен хабарласыңыз",
+        "url": "/kk/contact-us"
+      },
+      {
+        "name": "Тұрақты даму жөніндегі топ",
+        "url": "https://unsdg.un.org/"
+      },
+      {
+        "name": "Негізгі бастамалар",
+        "url": "/kk/key-initiatives"
+      }
+    ]
+  },
+  {
+    "name": "Тұрақты даму мақсаттары",
+    "url": "/kk/sdgs"
+  },
+  {
+    "name": "Қатысыңыз",
+    "url": "/kk/take-action"
+  },
+  {
+    "name": "Оқиғалар",
+    "url": "/kk/stories"
+  },
+  {
+    "name": "Ресурстар",
+    "submenu": [
+      {
+        "name": "Жарияланымдар",
+        "url": "/kk/resources/publications"
+      },
+      {
+        "name": "Бейне",
+        "url": "/kk/resources/video-stories"
+      }
+    ]
+  },
+  {
+    "name": "Баспасөз орталығы",
+    "submenu": [
+      {
+        "name": "Баспасөз мәлімдемелер",
+        "url": "/kk/press-centre/press-releases"
+      },
+      {
+        "name": "Сөздер",
+        "url": "/kk/press-centre/speeches"
+      },
+      {
+        "name": "Медиа байланыстар",
+        "url": "/kk/press-centre/media-contacts"
+      }
+    ]
+  }
+]
