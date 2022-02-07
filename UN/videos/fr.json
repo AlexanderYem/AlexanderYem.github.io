@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Festival Amani :  rallumer l’espoir que la paix est possible en RDC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WtTzCVF6puA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WtTzCVF6puA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lutter contre les mutilations génitales féminines (MGF)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qgj4FZqV7tI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Forum mondial de la jeunesse : « Continuez à vous exprimer »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rCn-yNRr0qs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rCn-yNRr0qs"
         }
       }
     }
