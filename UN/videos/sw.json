@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2mNWV1RHZjI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2mNWV1RHZjI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Ukeketaji wafurumushwa kuanzia Somalia, Tanzania hadi Gambia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3MNAQhfhtBQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q_vVRk5GS0Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q_vVRk5GS0Y"
         }
       }
     }

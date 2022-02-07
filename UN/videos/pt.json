@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guernica de Picasso retorna à sede da ONU em Nova York",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sY05ruftt4A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sY05ruftt4A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Catarina Furtado, embaixadora do Unfpa, faz apelo ao fim da mutilação genital feminina.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ll_ZxkXHDug"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w-ULN5R1alg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w-ULN5R1alg"
         }
       }
     }
