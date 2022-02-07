@@ -5,6 +5,19 @@
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
+            "url": "https://i.ytimg.com/vi/xIC4TEnVcyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xIC4TEnVcyA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
             "url": "https://i.ytimg.com/vi/3FY8G5FQS70/hqdefault.jpg"
           }
         },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q_vVRk5GS0Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Kutoka Honduras tumeingia Malawi kisha DRC Karibu!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/51k9ferIGkI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "51k9ferIGkI"
         }
       }
     }
