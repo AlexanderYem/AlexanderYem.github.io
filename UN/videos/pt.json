@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Seis em cada sete pessoas no mundo têm sentimento de insegurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3URgynpZc0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r3URgynpZc0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guernica de Picasso retorna à sede da ONU em Nova York",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_eHlF2msPfw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional em Memória das Vítimas do Holocausto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ll_ZxkXHDug/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ll_ZxkXHDug"
         }
       }
     }
