@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nouvelles menaces pour la Sécurité Humaine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TyIiGKNHrto/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TyIiGKNHrto"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Festival Amani :  rallumer l’espoir que la paix est possible en RDC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cOVXa5BSoew"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Un cauchemar se dessine en Afghanistan",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qgj4FZqV7tI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qgj4FZqV7tI"
         }
       }
     }
