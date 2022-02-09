@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генсека ООН: женщины в науке",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DiZYcOmeYU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_DiZYcOmeYU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "МАГАТЭ помогает бороться с раком",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8FSePBL5qgU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Афганистан сегодня",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2JFgMMjUseY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2JFgMMjUseY"
         }
       }
     }
