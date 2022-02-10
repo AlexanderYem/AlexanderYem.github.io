@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Из архивов Радио ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hraD6BV_Yic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hraD6BV_Yic"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генсека ООН: женщины в науке",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J4z77PYc1Kw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Стереотипы в отношении людей с ВИЧ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8FSePBL5qgU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8FSePBL5qgU"
         }
       }
     }
