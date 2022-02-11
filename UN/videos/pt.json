@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Thiago Uberreich da Rádio Jovem Pan relembra a evolução do rádio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMYHvM5nKsU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fMYHvM5nKsU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Mulheres na ciência, ações contra aquecimento global e o Dia Mundial do Rádio",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UzfyBwt4kvk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A jornada da ativista Jaha Dukureh contra a mutilação genital feminina e o casamento infantil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V_W2oUkjPGk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V_W2oUkjPGk"
         }
       }
     }
