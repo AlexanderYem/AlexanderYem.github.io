@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Do Brasil, jornalistas da Rádio CNN exaltam o Dia Mundial do Rádio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rDoRkmgybbQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rDoRkmgybbQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Thiago Uberreich da Rádio Jovem Pan relembra a evolução do rádio",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sY05ruftt4A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Catarina Furtado, embaixadora do Unfpa, faz apelo ao fim da mutilação genital feminina.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UzfyBwt4kvk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UzfyBwt4kvk"
         }
       }
     }
