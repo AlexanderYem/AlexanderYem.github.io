@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "A importância da rádio na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgCedTyn5Lc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PgCedTyn5Lc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Rádio, o veículo presente em pandemias ou ciclones",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YD0SoNg4x5U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YD0SoNg4x5U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Inovação pode tornar pecuária aliada na redução de emissão de gases de efeito estufa #Shorts",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-S0pZupZJnY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vice-chefe da ONU pede fim do conflito na Etiópia e mais ajuda humanitária ao país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EyAgIh5tsRU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EyAgIh5tsRU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Seis em cada sete pessoas no mundo têm sentimento de insegurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r3URgynpZc0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r3URgynpZc0"
         }
       }
     }
