@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "De Porto Alegre, no Brasil, a mensagem da Rádio Guaíba para o Dia Mundial do Rádio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BKNerDmZsg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7BKNerDmZsg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Internacional das Mulheres e Meninas na Ciência, ONU pede mais igualdade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KMDVwv5lu-o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU em Moçambique: \"é absolutamente urgente trazer ajuda\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hIQq5id8sHY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hIQq5id8sHY"
         }
       }
     }

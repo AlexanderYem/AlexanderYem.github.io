@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z1bT1g1BW8A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z1bT1g1BW8A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Kutoka Niger hadi Tanzania ni wahamiaji na sayansi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vrI5x-TfjII"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN: Kutoka DRC sasa tunarejea nyumbani Burundi!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZlLslsOKVjQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZlLslsOKVjQ"
         }
       }
     }
