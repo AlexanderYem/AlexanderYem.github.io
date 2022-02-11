@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Mulheres na ciência, ações contra aquecimento global e o Dia Mundial do Rádio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sjLmhtwdag/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1sjLmhtwdag"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Apresentadora da CBN explica a transformação do rádio e a importância do podcast",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2FrKsNwC-I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B2FrKsNwC-I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "De Portugal, Sara de Melo Rocha ressalta a resistência do rádio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k659Be9WB-4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k659Be9WB-4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "De Porto Alegre, no Brasil, a mensagem da Rádio Guaíba para o Dia Mundial do Rádio",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "V_W2oUkjPGk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso das Nações Unidas na 35ª Cimeira da União Africana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q1VPtILzZp8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q1VPtILzZp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relatos de intensos combates na capital da Guiné-Bissau preocupam a ONU #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8uwudtDeTf0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8uwudtDeTf0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prioridades e projetos da ONU em Cabo Verde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KMDVwv5lu-o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KMDVwv5lu-o"
         }
       }
     }
