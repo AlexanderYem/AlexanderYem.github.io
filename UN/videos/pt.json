@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres apela para diálogo sobre Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLg0H5r6Euo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nLg0H5r6Euo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A importância da rádio na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7BKNerDmZsg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Internacional das Mulheres e Meninas na Ciência, ONU pede mais igualdade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-S0pZupZJnY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-S0pZupZJnY"
         }
       }
     }
