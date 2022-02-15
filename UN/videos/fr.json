@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine : «  il n'y a pas d'alternative à la diplomatie »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZ4o8qJfhEM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iZ4o8qJfhEM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "One Ocean Summit : António Guterres appelle à changer de cap et protéger les océans",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TVw9E5kgn_Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Urgence climatique : une des priorités du Secrétaire général de l'ONU pour 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ttrybRfoAU0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ttrybRfoAU0"
         }
       }
     }

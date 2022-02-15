@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Ukraine - Security Council Media Stakeout (15 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNqapach7UQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YNqapach7UQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "DSG Travels/Haiti, Libya, Ukraine & other topics - Daily Press Briefing (15 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TkgZmEi_4js"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2022 Day of Women & Girls in Science - UN Chief | United Nations (11 February)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2P7zvb0_wPM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2P7zvb0_wPM"
         }
       }
     }
