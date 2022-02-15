@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJ01dm2jjtw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KJ01dm2jjtw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN- Redio Kwizera ya Ngara Tanzania yaendelea kujiaminisha",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GSEvkTe_K2w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3FY8G5FQS70/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3FY8G5FQS70"
         }
       }
     }
