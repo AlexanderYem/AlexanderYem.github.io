@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "https://news.un.org/pt/story/2022/02/1779892",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvKkvDMn60s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mvKkvDMn60s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres apela para diálogo sobre Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k659Be9WB-4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "De Porto Alegre, no Brasil, a mensagem da Rádio Guaíba para o Dia Mundial do Rádio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7BKNerDmZsg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7BKNerDmZsg"
         }
       }
     }
