@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "'Managing migration & protecting rights of migrants requires international cooperation' - UN Chief",
+        "title": "France on Ukraine - Security Council Media Stakeout (16 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFX98gsO1W4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TFX98gsO1W4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "'Global Compact reflects commitment of the int'l community to make migration work for all' -UN Chief",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/L4iMxb5_1_M/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6rLbaXwJKJQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "FAO's Horn of Africa drought response - Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uRG9XTFYH9I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uRG9XTFYH9I"
         }
       }
     }
