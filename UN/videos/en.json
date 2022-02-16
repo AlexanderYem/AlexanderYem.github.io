@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Yemen: Recent attacks on the UAE & Saudi Arabia - Security Council Briefing (15 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pF9vzXdv1J8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pF9vzXdv1J8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The situation in Somalia - UN Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "N_nxuQpFweQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Libya, Sudan & other topics - Daily Press Briefing (14 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kzAb3tTMMhc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kzAb3tTMMhc"
         }
       }
     }
