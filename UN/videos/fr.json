@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Reconstruire le sud-ouest d'Haïti après le séisme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L4B-tKrVk1I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L4B-tKrVk1I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine : «  il n'y a pas d'alternative à la diplomatie »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JaZetswBeSI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Restons fermes contre la haine et le sectarisme partout et en tout lieu »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TVw9E5kgn_Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TVw9E5kgn_Q"
         }
       }
     }
