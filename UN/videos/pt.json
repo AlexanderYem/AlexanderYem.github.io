@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Carreiras na ONU - Voluntários das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BCOnWWzENc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6BCOnWWzENc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU para Migração diz que pandemia evidenciou contribuição dos migrantes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1sjLmhtwdag"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apresentadora da CBN explica a transformação do rádio e a importância do podcast",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B2FrKsNwC-I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B2FrKsNwC-I"
         }
       }
     }
