@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council on Ukraine | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ejpn2So-tPY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ejpn2So-tPY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "United Kingdom on Ukraine - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YNqapach7UQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DSG Travels/Haiti, Libya, Ukraine & other topics - Daily Press Briefing (15 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cGyQncl3-WU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cGyQncl3-WU"
         }
       }
     }
