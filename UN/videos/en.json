@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Yemen, Ethiopia & other topics - Daily Press Briefing (17 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PJExcgz83k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6PJExcgz83k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine on the situation in their country - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L4iMxb5_1_M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Yemen: Recent attacks on the UAE & Saudi Arabia - Security Council Briefing (15 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pF9vzXdv1J8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pF9vzXdv1J8"
         }
       }
     }
