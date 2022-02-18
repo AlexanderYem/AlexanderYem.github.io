@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Munich Security Conference, Haiti & other topics - Daily Press Briefing (18 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1MAowDrNYg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u1MAowDrNYg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: tensions are as high as in 2014 – UN Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PvB2yZWr2_c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "France on Ukraine - Security Council Media Stakeout (16 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TFX98gsO1W4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TFX98gsO1W4"
         }
       }
     }
