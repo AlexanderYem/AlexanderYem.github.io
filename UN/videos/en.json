@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Statement attributable to the Spokesperson for the Secretary-General (21 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QTyEI6Avx4w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QTyEI6Avx4w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, DR Congo, Iran & other topics - Daily Press Briefing (21 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "byQb1BaJa10"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council on Ukraine | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ejpn2So-tPY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ejpn2So-tPY"
         }
       }
     }
