@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Le risque d'un conflit majeur est réel et doit être évité à tout prix »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocp3e-_LWgk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ocp3e-_LWgk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Reconstruire le sud-ouest d'Haïti après le séisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ufq-mT6fPB8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Nous ne pouvons pas abandonner le peuple afghan »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JaZetswBeSI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JaZetswBeSI"
         }
       }
     }
