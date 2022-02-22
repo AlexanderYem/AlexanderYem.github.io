@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine - Security Council, 8970th meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jAMfmwMp2yk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jAMfmwMp2yk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Statement attributable to the Spokesperson for the Secretary-General (21 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kaWPvdQ6vwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on Ukraine - Security Council Media Stakeout Source",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/byQb1BaJa10/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "byQb1BaJa10"
         }
       }
     }
