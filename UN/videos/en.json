@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on the Central African Republic - Security Council Media Stakeout (22 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QXroUYe_cO4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QXroUYe_cO4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine:  'Next hours and days will be critical\" - Security Council Briefing (21 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YSc6TPNg3aY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Yemen, Ethiopia & other topics - Daily Press Briefing (17 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6PJExcgz83k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6PJExcgz83k"
         }
       }
     }
