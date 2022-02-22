@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Vice-Presidente do Parlamento de Angola, Emília Carlota Dias",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DW9Cw9W5TSU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DW9Cw9W5TSU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Por Dentro da ONU: Conheça \"O Pensador\", presente da Angola para as Nações Unidas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PgCedTyn5Lc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rádio, o veículo presente em pandemias ou ciclones",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YD0SoNg4x5U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YD0SoNg4x5U"
         }
       }
     }
