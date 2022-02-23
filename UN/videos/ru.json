@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ООН о ситуации вокруг Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLA5yrApj2A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DLA5yrApj2A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Из архивов Радио ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8IdyLXwooWA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Кризис на границе #Беларуси с #ЕС",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J4z77PYc1Kw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J4z77PYc1Kw"
         }
       }
     }
