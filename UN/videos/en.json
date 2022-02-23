@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Ukraine, the Central African Republic & other topics - Daily Press Briefing (23 February 2022)",
+        "title": "Ukraine on the situation in their Country - General Assembly Media Stakeout (23 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mikcbdGhOjg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mikcbdGhOjg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine, Central African Republic & other topics - Daily Press Briefing (23 February 2022)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/97CP8cQBePE/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "onmjRif9IO0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine - Security Council, 8970th meeting (21 Feb 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jAMfmwMp2yk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jAMfmwMp2yk"
         }
       }
     }

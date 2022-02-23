@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mariam Mwinyi, mke wa rais wa Zanzibar kusongesha SDGs kupitia Zanzibar Maisha Bora Foundation.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2ZBIi-tx9g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v2ZBIi-tx9g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mkuu wa operesheni za ulinzi wa amani wa UN aanza ziara DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NuToLh-IYhA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siku ya Radio Duniani: Kutoka kwetu kuja kwako!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0zpY1up77Kg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0zpY1up77Kg"
         }
       }
     }
