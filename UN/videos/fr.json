@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Crise ukrainienne : le chef de l’ONU appelle à la désescalade et à un cessez-le-feu immédiat",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-Lr7_-tzdk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j-Lr7_-tzdk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Le risque d'un conflit majeur est réel et doit être évité à tout prix »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "K8uqTS5o8g4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : « Autour du feu » - Témoigner des années de guerre pour éviter que l’histoire ne se répète",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ufq-mT6fPB8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ufq-mT6fPB8"
         }
       }
     }
