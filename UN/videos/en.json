@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on Ukraine - Security Council Media Stakeout | United Nations (23 Feb 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Go9ewWrqpmU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Go9ewWrqpmU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "France on Ukraine - Security Council Media Stakeout | United Nations (23 Feb 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvQVeocl0wQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NvQVeocl0wQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Assembly President on Ukraine: I call on the parties to intensify negotiations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "QXroUYe_cO4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine:  'Next hours and days will be critical\" - Security Council Briefing (21 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/23gCDe1Kl3g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "23gCDe1Kl3g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine on the situation in their Country - Security Council Media Stakeout (21 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vHfe1dolZrg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vHfe1dolZrg"
         }
       }
     }
