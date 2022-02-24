@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН обратился к России",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bySUsVdotyM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bySUsVdotyM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава ООН о ситуации вокруг Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UhgIQP_EwOM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день противоэпидемической готовности",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8IdyLXwooWA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8IdyLXwooWA"
         }
       }
     }
