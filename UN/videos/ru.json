@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Четверг: обращение Генсека ООН к В.Путину",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JruEekWKQB0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JruEekWKQB0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН обратился к России",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8CrUVdDibsQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Новогоднее обращение Антониу Гутерриша",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UhgIQP_EwOM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UhgIQP_EwOM"
         }
       }
     }

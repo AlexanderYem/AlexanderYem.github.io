@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Crise en Ukraine : l'offensive militaire actuelle est inacceptable mais pas irréversible.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtpmLF3eXNw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HtpmLF3eXNw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise en Ukraine :  « Au nom de l'humanité, ramenez vos troupes en Russie ».",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WtTzCVF6puA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lutter contre les mutilations génitales féminines (MGF)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D1yrb4HTIxs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D1yrb4HTIxs"
         }
       }
     }
