@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres faz apelo direto ao presidente Vladimir Putin por fim de ataque à Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a45ou3CoBYE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a45ou3CoBYE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres pede fim imediato da tensão na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mvKkvDMn60s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres apela para diálogo sobre Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nLg0H5r6Euo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nLg0H5r6Euo"
         }
       }
     }

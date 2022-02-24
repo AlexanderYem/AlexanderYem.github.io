@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Crise en Ukraine :  « Au nom de l'humanité, ramenez vos troupes en Russie ».",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_D8hUahtVHM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_D8hUahtVHM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : Les femmes en Ituri demandent une protection spéciale",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D1yrb4HTIxs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'esprit olympique est un esprit de « paix, de respect mutuel et de compréhension\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JYBlkIEXbQ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JYBlkIEXbQ8"
         }
       }
     }
