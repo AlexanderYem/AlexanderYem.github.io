@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "General Assembly President on Ukraine: I call on the parties to intensify negotiations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fA-zMl8yWOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fA-zMl8yWOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine on the situation in their Country - General Assembly Media Stakeout (23 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vHfe1dolZrg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United States on Ukraine - Security Council Media Stakeout (21 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/onmjRif9IO0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "onmjRif9IO0"
         }
       }
     }
