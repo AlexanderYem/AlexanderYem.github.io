@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN chief on Ukraine: Military offensive by Russia is wrong | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/llwSaQ-eYa4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "llwSaQ-eYa4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "United Kingdom on Ukraine - Security Council Media Stakeout (24 February 2022) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fA-zMl8yWOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine on the situation in their Country - General Assembly Media Stakeout (23 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mikcbdGhOjg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mikcbdGhOjg"
         }
       }
     }
