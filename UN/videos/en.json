@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Getting South African Youth Vaccinated - UNIA | United Nations | COVID-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tki5icyUzWQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tki5icyUzWQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN chief on Ukraine: \"We must give peace another chance\"  - Media Stakeout (25 February 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BvkHBgK465k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN chief on Ukraine: Military offensive by Russia is wrong | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/llwSaQ-eYa4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "llwSaQ-eYa4"
         }
       }
     }
