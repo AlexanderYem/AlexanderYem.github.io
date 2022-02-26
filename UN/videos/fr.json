@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine : « Nous devons donner une autre chance à la paix »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCDYVE-i36w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qCDYVE-i36w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise en Ukraine : l'offensive militaire actuelle est inacceptable mais pas irréversible.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TyIiGKNHrto"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Festival Amani :  rallumer l’espoir que la paix est possible en RDC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WtTzCVF6puA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WtTzCVF6puA"
         }
       }
     }
