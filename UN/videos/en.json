@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Ukraine - Security Council Media Stakeout (27 February 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vIUvaPW2Ho/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2vIUvaPW2Ho"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine - Security Council, 8980th meeting | United Nations | UNTV Live (27 Feb 2022) - Official",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Gwx3mEVhIik"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "France on Ukraine - Security Council Media Stakeout | United Nations (25 Feb 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f9xO2eRdVhY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f9xO2eRdVhY"
         }
       }
     }
