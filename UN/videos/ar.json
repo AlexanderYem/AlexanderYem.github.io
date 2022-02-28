@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: الحرب ليست هي الحل، نحن بحاجة إلى السلام الآن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dw-Se8RutVA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dw-Se8RutVA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام للأمم المتحدة: يجب عودة الجنود إلى ثكناتهم والقادة إلى مسار الحوار والسلام.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A_jChMKj6zk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة بمناسبة اليوم الدولي لإحياء ذكرى ضحايا محرقة اليهود",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ApmhjIupBZw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ApmhjIupBZw"
         }
       }
     }
