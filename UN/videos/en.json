@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Ukraine at the General Assembly Emergency Special Session | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6IvP3313LhY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6IvP3313LhY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Assembly President on Ukraine at Emergency Special Session(28 February 2022)| United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tki5icyUzWQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN chief on Ukraine: \"We must give peace another chance\"  - Media Stakeout (25 February 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NuJaj97_MGI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NuJaj97_MGI"
         }
       }
     }
