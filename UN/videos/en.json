@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: 11th Emergency Special Session of the General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2MoQnBYCqU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P2MoQnBYCqU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "General Assembly Emergency Special Session on Ukraine & other topics - Daily Press Briefing (28 Feb)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8G17QgyYEto/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8G17QgyYEto"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Ukraine at the General Assembly Emergency Special Session | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "vlLceAWlYFs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Message for “Galvanizing Momentum for Universal Vaccination” - UN Chief | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VDTlKNjU-To/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VDTlKNjU-To"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Getting South African Youth Vaccinated - UNIA | United Nations | COVID-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tki5icyUzWQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tki5icyUzWQ"
         }
       }
     }
