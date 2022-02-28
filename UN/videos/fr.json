@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "António Guterres dénonce les « autocraties, qui ont le vent en poupe »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sJRjhmA5CQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1sJRjhmA5CQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine : « Nous devons donner une autre chance à la paix »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FfqWD2euBSE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nouvelles menaces pour la Sécurité Humaine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TyIiGKNHrto/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TyIiGKNHrto"
         }
       }
     }
