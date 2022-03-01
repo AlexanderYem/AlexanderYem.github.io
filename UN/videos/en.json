@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Secretary-General/Ukraine & other topics - Daily Press Briefing (1 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuMfjiXoyng/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GuMfjiXoyng"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: General Assembly Emergency Special Session - 3rd Session | United Nations (01 March 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kpg1fW2ahUY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: General Assembly Emergency Special Session | United Nations (28 Feb 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P2MoQnBYCqU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P2MoQnBYCqU"
         }
       }
     }
