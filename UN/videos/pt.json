@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nações Unidas lançam apelo de emergência para ajuda humanitária na Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MQXFpD9THs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2MQXFpD9THs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ofensiva à Ucrânia é errada e inaceitável, mas não irreversível, diz Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6BCOnWWzENc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU para Migração diz que pandemia evidenciou contribuição dos migrantes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cQa7luNCI2k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cQa7luNCI2k"
         }
       }
     }
