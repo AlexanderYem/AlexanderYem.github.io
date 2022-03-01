@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Как покидают Украину беженцы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mStThIanjos/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mStThIanjos"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Четверг: обращение Генсека ООН к В.Путину",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wWZ9gA6ky5A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "4,4 млрд долларов на помощь Афганистану - запрос ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8CrUVdDibsQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8CrUVdDibsQ"
         }
       }
     }
