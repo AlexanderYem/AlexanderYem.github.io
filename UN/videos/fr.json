@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assemblée générale : réunion d’urgence sur la situation en Ukraine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/S0Y9ePYHYuM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "S0Y9ePYHYuM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "GIEC : « Perdre du temps, c’est périr » - António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L4B-tKrVk1I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine : «  il n'y a pas d'alternative à la diplomatie »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iZ4o8qJfhEM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iZ4o8qJfhEM"
         }
       }
     }
