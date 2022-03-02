@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "l'Assemblée générale est clair : Mettez fin aux hostilités en Ukraine, maintenant",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_MaDkYYRz4M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_MaDkYYRz4M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : une Congolaise valorise les déchets plastiques et leur donne une seconde vie",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oi0PmjQPy6g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise ukrainienne : le chef de l’ONU appelle à la désescalade et à un cessez-le-feu immédiat",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j-Lr7_-tzdk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j-Lr7_-tzdk"
         }
       }
     }
