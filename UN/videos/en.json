@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: General Assembly Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/suKYL28Q4zQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "suKYL28Q4zQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UAE and Others on the situation in Afghanistan - Security Council Media Stakeout (02 March 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M2oXiflmZHA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine on the future steps regarding the situation in the country -Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qgTt5o_NeXA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qgTt5o_NeXA"
         }
       }
     }
