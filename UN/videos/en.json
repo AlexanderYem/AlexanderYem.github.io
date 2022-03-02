@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine following the vote on a draft resolution on Ukraine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KtFsPuIv9-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KtFsPuIv9-o"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine: Conclusion of the 11th Emergency Special Session of the General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vafkMAwcn44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vafkMAwcn44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Secretary General: \"Enough is Enough\" | United Nations #Shorts",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "GuMfjiXoyng"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: General Assembly Emergency Special Session - 3rd Session | United Nations (01 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N-MYekTKGkQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N-MYekTKGkQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Colombia: 'Through dialogue it is possible to get solutions', says UN Special Representative",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iWyRL6sk5e0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iWyRL6sk5e0"
         }
       }
     }
