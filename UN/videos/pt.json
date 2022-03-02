@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Amazônia é destaque em novo relatório do Painel da ONU sobre Mudança Climática, Ipcc.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JQy3UH2FDbs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JQy3UH2FDbs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nações Unidas lançam apelo de emergência para ajuda humanitária na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dFD5ad-5nTA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Carreiras na ONU - Voluntários das Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6BCOnWWzENc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6BCOnWWzENc"
         }
       }
     }
