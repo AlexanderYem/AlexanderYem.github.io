@@ -2,7 +2,46 @@
   "items": [
     {
       "snippet": {
-        "title": "Ukraine: General Assembly Media Stakeout",
+        "title": "UN Secretary General: \"Enough is Enough\" | United Nations #Shorts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0v4XWEqV-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y0v4XWEqV-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "General Assembly vote on Ukraine | United Nations (2 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/THDHTlaSb50/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "THDHTlaSb50"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "USA on the vote on Ukraine | General Assembly | United Nations (2 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2VU1lb7_zI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P2VU1lb7_zI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Chief on Ukraine following General Assembly Vote - Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/suKYL28Q4zQ/hqdefault.jpg"
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "iWyRL6sk5e0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Charter - \"We the Peoples\" - Reading of UN Charter Preamble | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GHrqzaFT0kw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GHrqzaFT0kw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Syria: \"Any use of Chemical Weapons is unacceptable\" | United nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hM6wVNqsFnU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hM6wVNqsFnU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: 520,000 people have fled the country – UN Refugee Agency",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M2oXiflmZHA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M2oXiflmZHA"
         }
       }
     }

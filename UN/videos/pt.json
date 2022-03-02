@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Conflito na Ucrânia, situação na República Centro-Africana e desafios na Amazônia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLgC6p3V5GM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JLgC6p3V5GM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Amazônia é destaque em novo relatório do Painel da ONU sobre Mudança Climática, Ipcc.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7JZxSmGVwo0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Atriz Miriam Freeland promove nos palcos troca entre português do Brasil e de Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dFD5ad-5nTA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dFD5ad-5nTA"
         }
       }
     }

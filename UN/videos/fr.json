@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : une Congolaise valorise les déchets plastiques et leur donne une seconde vie",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBgASEreTUw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BBgASEreTUw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine : Les bailleurs de fonds promettent 1,5 milliard de dollars",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j-Lr7_-tzdk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Le risque d'un conflit majeur est réel et doit être évité à tout prix »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ocp3e-_LWgk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ocp3e-_LWgk"
         }
       }
     }
