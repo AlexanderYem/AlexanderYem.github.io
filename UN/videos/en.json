@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "General Assembly President following the vote on Ukraine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G8BWaYJI22I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G8BWaYJI22I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "European Union following the vote on a draft resolution on Ukraine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/luZqrsARHzQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "luZqrsARHzQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine following the vote on a draft resolution on Ukraine",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "KbuAD6EFZL4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United Arab Emirates: President of the UN Security Council for March 2022 - Press Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tz6XQkLJV3k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tz6XQkLJV3k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Humanitarian Support, Moldova & other topics - Daily Press Briefing (1 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GuMfjiXoyng/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GuMfjiXoyng"
         }
       }
     }
