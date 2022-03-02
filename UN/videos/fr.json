@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine : Les bailleurs de fonds promettent 1,5 milliard de dollars",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HonXtnYSVUg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HonXtnYSVUg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assemblée générale : réunion d’urgence sur la situation en Ukraine",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ocp3e-_LWgk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Reconstruire le sud-ouest d'Haïti après le séisme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L4B-tKrVk1I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L4B-tKrVk1I"
         }
       }
     }
