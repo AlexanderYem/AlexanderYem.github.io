@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Hora de ação\", afirma diretor da Agência Internacional de Energia Atômica #Shorts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ArOWn4ofDxw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ArOWn4ofDxw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Portugal vai receber ucranianos e a resolução contra a ofensiva militar russa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JmMO1Cx-iFk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Vice-Presidente do Parlamento de Angola, Emília Carlota Dias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DW9Cw9W5TSU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DW9Cw9W5TSU"
         }
       }
     }
