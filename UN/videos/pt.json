@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Portugal vai receber ucranianos e a resolução contra a ofensiva militar russa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GpT35bBnPIA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GpT35bBnPIA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do Brasil na sessão da Assembleia Geral da ONU sobre o conflito na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DW9Cw9W5TSU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Por Dentro da ONU: Conheça \"O Pensador\", presente da Angola para as Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QcCpJ7Cex4o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QcCpJ7Cex4o"
         }
       }
     }
