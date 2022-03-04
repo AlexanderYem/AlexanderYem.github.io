@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Ukraine: 'Military operations around nuclear sites are unacceptable and highly irresponsible'",
+        "title": "IAEA on Ukraine - Security Council Briefing (4 March 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8aDB-Ofmqk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g8aDB-Ofmqk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine: 'Military operations around nuclear sites are unacceptable and highly irresponsible' - DPPA",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/5HtVsKwMqrs/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GDOmrgPRqpw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "President of the General Assembly Opens 11th Emergency Special Session #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nvepPkFO1js/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nvepPkFO1js"
         }
       }
     }
