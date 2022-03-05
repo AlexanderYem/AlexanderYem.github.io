@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal recebe ucranianos que fogem da ofensiva da Rússia e prepara donativos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvvD7Z6KYB8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JvvD7Z6KYB8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Relembre: Assembleia Geral ONU deplora ofensiva da Rússia à Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ltppgsJ9Ik/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-ltppgsJ9Ik"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Hora de ação\", afirma diretor da Agência Internacional de Energia Atômica #Shorts",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "FkF5RaJfmF4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres faz apelo direto ao presidente Vladimir Putin por fim de ataque à Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a45ou3CoBYE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a45ou3CoBYE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres pede fim imediato da tensão na Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JmMO1Cx-iFk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JmMO1Cx-iFk"
         }
       }
     }
