@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine - Security Council | Humanitarian Situation | United Nations (7 March 2022) - Official",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hd7dRQhqYFI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hd7dRQhqYFI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine vs Russian Federation - Allegations of Genocide | International Court of Justice (ICJ)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4erFL0FSXWs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4erFL0FSXWs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "France & Mexico on Ukraine's humanitarian situation - Security Council Media Stakeout (7 March 2022)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "E65JBXppKcY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Damage to nuclear power plant “highly irresponsible.” | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sne3qcl4paE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Sne3qcl4paE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Food Price Index, Pakistan & other topics - Daily Press Briefing (4 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VB3fO6yOkoI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VB3fO6yOkoI"
         }
       }
     }
