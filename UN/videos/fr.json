@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L’heure est venue de faire avancer les droits des femmes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q42k1VTlqf8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q42k1VTlqf8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine : le Conseil des droits de l’homme de l’ONU décide de créer une commission d’enquête",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HtpmLF3eXNw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise en Ukraine :  « Au nom de l'humanité, ramenez vos troupes en Russie ».",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_D8hUahtVHM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_D8hUahtVHM"
         }
       }
     }
