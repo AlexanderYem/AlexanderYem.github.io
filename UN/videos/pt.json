@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU marca Dia Internacional da Mulher com destaque para liderança feminina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e4LNuiKB42s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e4LNuiKB42s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal recebe ucranianos que fogem da ofensiva da Rússia e prepara donativos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2MQXFpD9THs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ofensiva à Ucrânia é errada e inaceitável, mas não irreversível, diz Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FkF5RaJfmF4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FkF5RaJfmF4"
         }
       }
     }
