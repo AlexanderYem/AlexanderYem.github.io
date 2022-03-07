@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Es hora de avanzar en los derechos de las mujeres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTqLnEcj17U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zTqLnEcj17U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de la Vida Silvestre 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oyWJgN9HFEs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Efectos de la COVID-19 en la conservación de la vida silvestre",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vP44g3L4OWs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vP44g3L4OWs"
         }
       }
     }
