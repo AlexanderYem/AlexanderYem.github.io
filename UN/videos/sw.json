@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tamu-chungu ya wapiganaji wa zamani kurejea nyumbani Rwanda baada ya mapigano msituni DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mM2CFPhOpbs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mM2CFPhOpbs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Siku ya kimataifa ya wanawake duniani yaibua mengi mazito katika jamii.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cVUJ94Ij_zI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mariam Mwinyi, mke wa rais wa Zanzibar kusongesha SDGs kupitia Zanzibar Maisha Bora Foundation.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v2ZBIi-tx9g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v2ZBIi-tx9g"
         }
       }
     }
