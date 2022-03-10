@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especialista explica novo relatório da Unesco sobre liberdade de imprensa e proteção do jornalismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vxwwj7tKHiM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vxwwj7tKHiM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: ajuda na Ucrânia, mulheres em operações de paz e Angeline Jolie visita o Iêmen",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rOCIDj4Cn6Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Conflito na Ucrânia, situação na República Centro-Africana e desafios na Amazônia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JLgC6p3V5GM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JLgC6p3V5GM"
         }
       }
     }
