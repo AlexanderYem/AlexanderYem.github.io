@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Uvuvi katika Ziwa Tanganyika, mkombozi kwa wanawake",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cyRNV_Pm1-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cyRNV_Pm1-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wananishangaa kuona mwanamke ninaendesha gari - Babli Akter",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qGFwZKel9lw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wakazi wa maeneo ya Ziwa Albert Uganda hatarini kutokana na mabadiliko ya tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6vHqoedZbsA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6vHqoedZbsA"
         }
       }
     }
