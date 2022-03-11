@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Ucranianos chegam a Portugal, 11 anos de guerra na Síria e dois anos de pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxmRycme39U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XxmRycme39U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Especialista explica novo relatório da Unesco sobre liberdade de imprensa e proteção do jornalismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "R5Ejln97RDM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "António Guterres comenta decisão da Assembleia Geral sobre Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rOCIDj4Cn6Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rOCIDj4Cn6Q"
         }
       }
     }
