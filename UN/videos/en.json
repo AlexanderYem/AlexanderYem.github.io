@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "USA on Russia's allegations of military biological activities in Ukraine - Security Council Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/23WEhMxzZio/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "23WEhMxzZio"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Security Council on Russia allegations of military biological activities in Ukraine (11 March 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vDNAzq4qgiM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Women’s Day Celebration: UN Chamber Music Society Concert (8 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xz1aJ5goqbc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xz1aJ5goqbc"
         }
       }
     }
