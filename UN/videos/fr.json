@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine : « trouver une solution et mettre un fin à cette guerre »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJC_VyQkI5M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UJC_VyQkI5M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "11 ans de guerre en Syrie - peut-elle se terminer un jour ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3lH4ltHMO48"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "António Guterres dénonce les « autocraties, qui ont le vent en poupe »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1sJRjhmA5CQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1sJRjhmA5CQ"
         }
       }
     }
