@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal aponta saúde e emprego como prioridade ao abrigar ucranianos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKNUTnc2_I4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fKNUTnc2_I4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Ucranianos chegam a Portugal, 11 anos de guerra na Síria e dois anos de pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GpT35bBnPIA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do Brasil na sessão da Assembleia Geral da ONU sobre o conflito na Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/R5Ejln97RDM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "R5Ejln97RDM"
         }
       }
     }
