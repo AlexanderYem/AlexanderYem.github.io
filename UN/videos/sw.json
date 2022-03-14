@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Majaji wanawake huvaa kofia zaidi ya moja - Jaji Okwengu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2yRzHmxiWzg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2yRzHmxiWzg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Harakati za FAO na uvuvi katika Ziwa Tanganyika, mkombozi kwa wanawake",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YKK68-IyK60"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sitaki tena kukeketa. Ninayajua madhara ya FGM - Hawa Njolo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qGFwZKel9lw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qGFwZKel9lw"
         }
       }
     }
