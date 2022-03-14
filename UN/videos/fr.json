@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : des messages radio pour atteindre les combattants dans la brousse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6pfpFx7NmA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X6pfpFx7NmA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#CSW66: les femmes et les filles font face aux plus grandes menaces et aux plus grands défis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HonXtnYSVUg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assemblée générale : réunion d’urgence sur la situation en Ukraine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S0Y9ePYHYuM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S0Y9ePYHYuM"
         }
       }
     }
