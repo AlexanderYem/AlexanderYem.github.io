@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Sexual Exploitation, Gender Parity & other topics - Daily Press Briefing (15 March 2022)",
+        "title": "Women Rights: Alarming increase in Violence Against Women - UN chief | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZVjJacR1bVA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZVjJacR1bVA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sexual Exploitation, Gender Parity, Ukraine & other topics - Daily Press Briefing (15 March 2022)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/koXuXO8G79A/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v7f-EvaTfTQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian situation in Ukraine & other topics - Daily Press Briefing (11 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SB6kJfPBCpo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SB6kJfPBCpo"
         }
       }
     }
