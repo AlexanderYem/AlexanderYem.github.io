@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Львов, Украина. Переселенцы.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQSF9GfNOzo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CQSF9GfNOzo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Как покидают Украину беженцы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FRU8khEsu0U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Манижа и ее мама готовят плов и самбусу",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wWZ9gA6ky5A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wWZ9gA6ky5A"
         }
       }
     }
