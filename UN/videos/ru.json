@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Шестилетняя Милана из Краматорска, Украина",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RYHzPZxZlM8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RYHzPZxZlM8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Львов, Украина. Переселенцы.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JovY79_oNHo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Видеообращение главы ООН: Международный день памяти жертв Холокоста",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FRU8khEsu0U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FRU8khEsu0U"
         }
       }
     }
