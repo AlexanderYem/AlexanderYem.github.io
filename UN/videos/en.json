@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Civil Society Organizations: 'are a vital voice for human rights' - UN Chief at Townhall Meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rZ10M2Ot9uI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rZ10M2Ot9uI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Yemen, #CSW66, Ukraine & other topics - Daily Press Briefing (16 March 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b1VeUy05xL8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on the Humanitarian Situation in Ukraine - Security Council Media Stakeout (15 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/szPelL-rbEY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "szPelL-rbEY"
         }
       }
     }
