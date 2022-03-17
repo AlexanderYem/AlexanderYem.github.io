@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Norway on Afghanistan - Security Council Media Stakeout (17 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRqM4LDmmSE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aRqM4LDmmSE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "'Russia must immediately suspend military operations in Ukraine' - International Court of Justice",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZVjJacR1bVA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sexual Exploitation, Gender Parity, Ukraine & other topics - Daily Press Briefing (15 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/koXuXO8G79A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "koXuXO8G79A"
         }
       }
     }
