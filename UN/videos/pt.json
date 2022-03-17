@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola na 66ª Sessão da Comissão sobre o Estatuto da Mulher",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/abL9r8H-HEM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "abL9r8H-HEM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde: “Temos uma lei muito forte contra a violência de gênero”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JvvD7Z6KYB8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relembre: Assembleia Geral ONU deplora ofensiva da Rússia à Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ltppgsJ9Ik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-ltppgsJ9Ik"
         }
       }
     }
