@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Injeção de longa duração para prevenção do HIV chega ao Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQv0ZYoerFo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZQv0ZYoerFo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola na 66ª Sessão da Comissão sobre o Estatuto da Mulher",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "160Hl67q9LQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU marca Dia Internacional da Mulher com destaque para liderança feminina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e4LNuiKB42s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e4LNuiKB42s"
         }
       }
     }
