@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Berlim, brasileira lidera entrega de refeições a refugiados ucranianos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVz8FjuAXFo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HVz8FjuAXFo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau: Unicef apoia governo nos esforços de reforço da saúde comunitária",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XxmRycme39U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especialista explica novo relatório da Unesco sobre liberdade de imprensa e proteção do jornalismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vxwwj7tKHiM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vxwwj7tKHiM"
         }
       }
     }
