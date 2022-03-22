@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غوتيريش: استمرار الحرب في أوكرانيا أمر غير مقبول أخلاقيا ولايمكن الدفاع عنه سياسيا وغير منطقي عسكريا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6siHUgE1TvY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6siHUgE1TvY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "المهندس لؤي البسيوني: من غزة إلى كوكب المريخ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kryAlPRPDFA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليوم العالمي للإذاعة، فرصة للاحتفاء بالرادو بعد مرور أكثر من قرن على تأسيسه",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Aez8lNAMMrw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Aez8lNAMMrw"
         }
       }
     }
