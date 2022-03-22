@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundia da Água 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOugVebA8bc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DOugVebA8bc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Berlim, brasileira lidera entrega de refeições a refugiados ucranianos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fKNUTnc2_I4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Ucranianos chegam a Portugal, 11 anos de guerra na Síria e dois anos de pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XxmRycme39U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XxmRycme39U"
         }
       }
     }
