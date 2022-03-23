@@ -2,8 +2,12 @@
   "items": [
     {
       "snippet": {
-        "title": "Private video",
-        "thumbnails": {},
+        "title": "Mensagem do secretário-geral da ONU no Dia Mundial da Meteorologia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xt-wlMjOFDk/hqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "Xt-wlMjOFDk"
         }
