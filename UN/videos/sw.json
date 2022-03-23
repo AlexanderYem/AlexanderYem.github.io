@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dkt. Dorothy Gwajima wa Tanzania ndani ya UN, New York, Marekani kwa ajili ya usawa wa kijinsia.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOosUa9YYek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AOosUa9YYek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Madini yasiwe laana katika nchi zetu - Dotto Biteko Waziri wa Madini wa Tanzania.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2yRzHmxiWzg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Harakati za FAO na uvuvi katika Ziwa Tanganyika, mkombozi kwa wanawake",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cyRNV_Pm1-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cyRNV_Pm1-Q"
         }
       }
     }
