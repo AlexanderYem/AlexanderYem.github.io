@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comment le génocide est-il entré dans le droit international ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4Fy7W8Fqco/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G4Fy7W8Fqco"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : des messages radio pour atteindre les combattants dans la brousse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BBgASEreTUw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine : Les bailleurs de fonds promettent 1,5 milliard de dollars",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HonXtnYSVUg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HonXtnYSVUg"
         }
       }
     }
