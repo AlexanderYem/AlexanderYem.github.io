@@ -2,6 +2,15 @@
   "items": [
     {
       "snippet": {
+        "title": "Private video",
+        "thumbnails": {},
+        "resourceId": {
+          "videoId": "Xt-wlMjOFDk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Água 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +123,6 @@
         },
         "resourceId": {
           "videoId": "TnRXkI_XxnM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal aponta saúde e emprego como prioridade ao abrigar ucranianos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fKNUTnc2_I4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fKNUTnc2_I4"
         }
       }
     }
