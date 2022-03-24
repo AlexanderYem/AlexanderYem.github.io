@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ПРООН в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAezf0HcUKU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iAezf0HcUKU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "March 19, 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_DiZYcOmeYU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "МАГАТЭ помогает бороться с раком",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KuhjgL9VBrE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KuhjgL9VBrE"
         }
       }
     }
