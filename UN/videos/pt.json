@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: resolução sobre Ucrânia, igualdade racial e a Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BcHBgEzip2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BcHBgEzip2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia sobre Vítimas da Escravidão e Escravatura pede reflexão contra discriminação racial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "abL9r8H-HEM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Faltam 100 dias para a Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZSfy59e-21k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZSfy59e-21k"
         }
       }
     }
