@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Орландо Блум с беженцами из Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXLXlj9RmKo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IXLXlj9RmKo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день памяти жертв рабства и трансатлантической работорговли.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DLA5yrApj2A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Из архивов Радио ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hraD6BV_Yic/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hraD6BV_Yic"
         }
       }
     }
