@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan : les filles doivent retourner à l'école sans délai",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwSTWgQcZUs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DwSTWgQcZUs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comment le génocide est-il entré dans le droit international ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_MaDkYYRz4M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : une Congolaise valorise les déchets plastiques et leur donne une seconde vie",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BBgASEreTUw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BBgASEreTUw"
         }
       }
     }
