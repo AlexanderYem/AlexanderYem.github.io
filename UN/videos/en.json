@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DPR Korea & Non-Proliferation - Security Council Briefing by Political & Peacebuilding Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCVgXDL4qY8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NCVgXDL4qY8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Security Council Members on DPR Korea/ Non-proliferation - Security Council Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sZCtciCSc7U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: UN General Assembly Vote on \"Humanitarian consequences of the aggression against Ukraine\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mLuMhUo37tg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mLuMhUo37tg"
         }
       }
     }
