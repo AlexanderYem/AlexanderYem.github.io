@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guerre en Ukraine : nécessité de trouver une solution politique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXceCkVKQu4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eXceCkVKQu4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan : les filles doivent retourner à l'école sans délai",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rZ3iTZ_8JI8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'Assemblée générale est claire : mettez fin aux hostilités en Ukraine, maintenant",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_MaDkYYRz4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_MaDkYYRz4M"
         }
       }
     }
