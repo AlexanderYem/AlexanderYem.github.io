@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "The Real United Nations: An Interactive Briefing Series for Model UNs",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e97olOhKQ8k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e97olOhKQ8k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Taliban must allow Afghan girls to return to school - UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GHXwHkvxrWY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Ethiopia, DPRK Missile Launch & other topics - Daily Press Briefing (25 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VghKlHtf9YM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VghKlHtf9YM"
         }
       }
     }
