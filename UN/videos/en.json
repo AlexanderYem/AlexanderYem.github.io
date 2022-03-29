@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DRC, Ukraine & other topics - Daily Press Briefing (29 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_dlJsRyvNCg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_dlJsRyvNCg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The Real United Nations: An Interactive Briefing Series for Model UNs",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gbu16sn_FQI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council Members on Afghanistan - Security Council Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GHXwHkvxrWY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GHXwHkvxrWY"
         }
       }
     }
