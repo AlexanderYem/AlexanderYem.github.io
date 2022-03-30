@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Relatório da ONU diz que 50% das gravidezes no mundo não são planejadas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOjltGg8Puo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vOjltGg8Puo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres nomeia coordenador para buscar cessar-fogo humanitário na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GZ_UKfp2zT4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Injeção de longa duração para prevenção do HIV chega ao Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZQv0ZYoerFo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZQv0ZYoerFo"
         }
       }
     }
