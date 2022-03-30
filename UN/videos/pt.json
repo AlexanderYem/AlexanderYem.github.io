@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovens articulam força necessária para salvar planeta e garantir existência, afirma ativista",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdF8RgfXScc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZdF8RgfXScc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Relatório da ONU diz que 50% das gravidezes no mundo não são planejadas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8QrKh3NHGQg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na CSW, Brasil destaca iniciativas para inclusão feminina na política",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GZ_UKfp2zT4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GZ_UKfp2zT4"
         }
       }
     }
