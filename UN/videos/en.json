@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Concert for Peace - UN Chamber Music Society",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dMnJLbDKwY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1dMnJLbDKwY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "DRC, Ukraine & other topics - Daily Press Briefing (29 March 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o6YzFPcjuw0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on DPR Korea & Afghanistan - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gbu16sn_FQI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gbu16sn_FQI"
         }
       }
     }
