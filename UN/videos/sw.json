@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dkt. Dorothy Gwajima: Bila usawa wa kijinsia, maendeleo na amani vitaendelea kuwa mtihani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cc10xvczdPE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cc10xvczdPE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nipo peke yangu, niko peke yangu. Siwezi kutembea.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BiUQvifVHX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Acheni \"Kiswanglish\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tUprwE_IHro/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tUprwE_IHro"
         }
       }
     }
