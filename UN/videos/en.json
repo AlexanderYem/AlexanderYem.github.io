@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan Conference 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_zOrtKSvvo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y_zOrtKSvvo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Climate, Afghanistan, Ukraine & other topics - Daily Press Briefing (31 March 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7_aMWUdEDQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y7_aMWUdEDQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Concert for Peace - UN Chamber Music Society",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "F98PG0rOB4M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DPR Korea & Non-Proliferation - Security Council Briefing by Political & Peacebuilding Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NCVgXDL4qY8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NCVgXDL4qY8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council Members on DPR Korea/ Non-proliferation - Security Council Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T2aypVSy5lY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T2aypVSy5lY"
         }
       }
     }
