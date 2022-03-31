@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью с мэром Харькова",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wjcltN7cfLk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wjcltN7cfLk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Орландо Блум с беженцами из Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bySUsVdotyM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ООН о ситуации вокруг Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DLA5yrApj2A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DLA5yrApj2A"
         }
       }
     }
