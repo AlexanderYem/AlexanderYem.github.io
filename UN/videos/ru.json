@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "История Наташи, беженки из Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tEZ-NEoiqY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0tEZ-NEoiqY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Интервью с мэром Харькова",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JruEekWKQB0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН обратился к России",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bySUsVdotyM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bySUsVdotyM"
         }
       }
     }
