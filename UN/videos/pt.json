@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ucraniana refugiada que foi recebida por família em Portugal conta sua história",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LAgVVsZrAAs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LAgVVsZrAAs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens articulam força necessária para salvar planeta e garantir existência, afirma ativista",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HVz8FjuAXFo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau: Unicef apoia governo nos esforços de reforço da saúde comunitária",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8QrKh3NHGQg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8QrKh3NHGQg"
         }
       }
     }
