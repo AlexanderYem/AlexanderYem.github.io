@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يثني على الأطراف لاتفاقها على الهدنة، داعيا لأن تكون خطوة أولى نحو إنهاء الحرب",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ha1TaeEtqTc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ha1TaeEtqTc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رسالة الأمين الأمين العام بمناسبة حلول شهر رمضان الفضيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fGo4dRqhJI8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: الحرب ليست هي الحل، نحن بحاجة إلى السلام الآن",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dw-Se8RutVA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dw-Se8RutVA"
         }
       }
     }
