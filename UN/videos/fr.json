@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Témoignage : « je ne veux pas que ma fille connaisse la guerre ».",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bW76tXo4tXw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bW76tXo4tXw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guerre en Ukraine : nécessité de trouver une solution politique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q42k1VTlqf8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine : le Conseil des droits de l’homme de l’ONU décide de créer une commission d’enquête",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rZ3iTZ_8JI8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rZ3iTZ_8JI8"
         }
       }
     }
