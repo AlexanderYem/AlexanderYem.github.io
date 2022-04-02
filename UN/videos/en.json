@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "New York Times Magazine Writer on the Remembrance of Victims of Slavery & Transatlantic Slave Trade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fRVEq6-6p20/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fRVEq6-6p20"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Urgent funding needed to bridge ‘great finance divide’ | United Nations | Sustainable Development",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n2LHC-UTCsg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan Conference 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y_zOrtKSvvo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y_zOrtKSvvo"
         }
       }
     }
