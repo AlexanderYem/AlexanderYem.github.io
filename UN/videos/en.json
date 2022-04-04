@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, Yemen, Ukraine & other topics - Daily Press Briefing (4 April 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0vvrv6YBUfw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0vvrv6YBUfw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of Mine Awareness: Zeina's mission to save lives in Lebanon",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EG3IQtOlgbg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Ukraine and USA - Security Council Media Stakeout (1 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P9E6nQmU5bU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P9E6nQmU5bU"
         }
       }
     }
