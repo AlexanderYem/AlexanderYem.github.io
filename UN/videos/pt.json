@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Emissões de gases de efeito estufa atingem recorde global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_r5sWur55Bo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_r5sWur55Bo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ucraniana refugiada que foi recebida por família em Portugal conta sua história",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DOugVebA8bc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Berlim, brasileira lidera entrega de refeições a refugiados ucranianos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HVz8FjuAXFo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HVz8FjuAXFo"
         }
       }
     }
