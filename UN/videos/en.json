@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Mine Awareness: Clearing Land for the Sake of Peace and Development",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5I8utG7T6bM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5I8utG7T6bM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Holocaust Survivor and Jazz Pianist: Simon Gronowski | United Nations in Action",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P9E6nQmU5bU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on Ukraine - Security Council Media Stakeout (29 March 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RBRlmHFjK9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RBRlmHFjK9c"
         }
       }
     }
