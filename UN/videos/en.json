@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on the situation in Ukraine and its global consequences - Security Council Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHN43mEWza8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YHN43mEWza8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day for Mine Awareness and Assistance in Mine Action -Press Conference| United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4L1pdLRmmAI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Natasha's Journey, a Ukrainian Refugee in Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Mzm2W-ggrc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_Mzm2W-ggrc"
         }
       }
     }
