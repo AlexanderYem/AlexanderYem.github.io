@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« La guerre en Ukraine doit cesser - maintenant »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_xbPOYG6OvQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_xbPOYG6OvQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Témoignage : « je ne veux pas que ma fille connaisse la guerre ».",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3oetG1bodxc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’heure est venue de faire avancer les droits des femmes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q42k1VTlqf8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q42k1VTlqf8"
         }
       }
     }
