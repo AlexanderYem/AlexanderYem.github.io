@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como o genocídio se tornou parte do direito internacional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SompO1rFjk4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SompO1rFjk4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Emissões de gases de efeito estufa atingem recorde global",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Xt-wlMjOFDk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Água 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DOugVebA8bc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DOugVebA8bc"
         }
       }
     }
