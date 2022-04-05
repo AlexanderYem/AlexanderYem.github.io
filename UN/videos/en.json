@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Commemoration of the International Day of Reflection on 1994 Genocide Against the Tutsi in Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-coSJMJaS0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v-coSJMJaS0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine on the situation in the region - Security Council Media Stakeout (5 April 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5I5Wh0NSpO4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda - UN Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xKRZbfNnZ0Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xKRZbfNnZ0Q"
         }
       }
     }
