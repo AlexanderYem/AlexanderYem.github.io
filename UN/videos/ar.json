@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في اليوم العالمي للمياه: مياه الشرب الآمنة في قطاع غزة غير متاحة لجميع السكان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k7luop8ezdg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k7luop8ezdg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "إكسبو دبي يسدل الستار والمفوض الأممي ماهر ناصر يستعرض أهم معالم مشاركة الأمم المتحدة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x4nX4V56WsY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالة الأمين العام بمناسبة اليوم الدولي للمرأة 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rG3D5qbUeb4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rG3D5qbUeb4"
         }
       }
     }
