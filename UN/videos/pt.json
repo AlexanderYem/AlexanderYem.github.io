@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conselho de Segurança debate guerra na Ucrânia com participação do presidente Volodymyr Zelensky",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhwHYeA2Ek4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PhwHYeA2Ek4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: guerra na Ucrânia, significado de genocídio e novo relatório sobre o clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O1cHHvaVZk0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola: empoderamento feminino e proteção das mulheres rurais no foco para retomada da economia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KhqIsfDh6To/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KhqIsfDh6To"
         }
       }
     }
