@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Reflexão sobre o Genocídio de 1994 contra os Tutsi em Ruanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PD2OwpEWTs4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PD2OwpEWTs4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conselho de Segurança debate guerra na Ucrânia com participação do presidente Volodymyr Zelensky",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BcHBgEzip2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia sobre Vítimas da Escravidão e Escravatura pede reflexão contra discriminação racial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O1cHHvaVZk0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O1cHHvaVZk0"
         }
       }
     }

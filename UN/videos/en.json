@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ethiopia, Somalia, Ukraine & other topics - Daily Press Briefing (6 April 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gCnDPUZA0BM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gCnDPUZA0BM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Romania: Pushing back at anti-Roma hate speech | Say #NoToHate | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U9-GvM1Ln2g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on Ukraine - Security Council Media Stakeout (5 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/69milRAkK2w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "69milRAkK2w"
         }
       }
     }
