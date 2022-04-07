@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Commemoration of the International Day of Reflection on 1994 Genocide Against the Tutsi in Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-coSJMJaS0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v-coSJMJaS0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A journey into UN Peacekeeping’s Protection of Civilians work in Mali",
         "thumbnails": {
           "high": {
@@ -75,19 +88,6 @@
         },
         "resourceId": {
           "videoId": "jPFGuWXcmH0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Commemoration of the International Day of Reflection on 1994 Genocide Against the Tutsi in Rwanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v-coSJMJaS0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v-coSJMJaS0"
         }
       }
     },
