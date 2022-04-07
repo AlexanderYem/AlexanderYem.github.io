@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A journey into UN Peacekeeping’s Protection of Civilians work in Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OEU_MdMrBy4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OEU_MdMrBy4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ethiopia, Somalia, Ukraine & other topics - Daily Press Briefing (6 April 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DuAmC1TnGLM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine - Security Council | Ukraine's President | United Nations (5 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U9-GvM1Ln2g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U9-GvM1Ln2g"
         }
       }
     }
