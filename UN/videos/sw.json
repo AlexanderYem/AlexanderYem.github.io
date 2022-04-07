@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kumbukumbu mauaji ya kimbari dhidi ya watutsi wa Rwanda. Siku ya afya duniani. TANZBATT 5 gerezani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SKVX6vvnFf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SKVX6vvnFf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dola 1 imeniondoa kwenye umaskini - Debies Joseph",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cc10xvczdPE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nipo peke yangu, niko peke yangu. Siwezi kutembea.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8-nhzTgrxXU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8-nhzTgrxXU"
         }
       }
     }
