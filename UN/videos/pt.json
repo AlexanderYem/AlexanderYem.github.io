@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Brasil avalia guerra na Ucrânia, decisão da Assembleia Geral e mudança climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqCsFeJIpBs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqCsFeJIpBs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pobreza impede 68% da população da Guiné-Bissau de ter dieta nutritiva",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZdF8RgfXScc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relatório da ONU diz que 50% das gravidezes no mundo não são planejadas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vOjltGg8Puo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vOjltGg8Puo"
         }
       }
     }
