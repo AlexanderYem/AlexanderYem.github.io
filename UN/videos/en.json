@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Only Memories Live in My Family | International Day of Reflection on the Genocide in Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gz0LcyyOgGM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Gz0LcyyOgGM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "European Union on the General Assembly vote to suspend Russia from the Human Rights Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gCnDPUZA0BM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Romania: Pushing back at anti-Roma hate speech | Say #NoToHate | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ajgdhtrmbiU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ajgdhtrmbiU"
         }
       }
     }
