@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Urusi kuondolewa katika Baraza la Haki za Binadamu kuna maana gani? DRC yajiunga Afrika Mashariki",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmXvpGydoek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VmXvpGydoek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kumbukumbu mauaji ya kimbari dhidi ya watutsi wa Rwanda. Siku ya afya duniani. TANZBATT 5 gerezani.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CS4eLWJrKhU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dkt. Dorothy Gwajima: Bila usawa wa kijinsia, maendeleo na amani vitaendelea kuwa mtihani.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cc10xvczdPE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cc10xvczdPE"
         }
       }
     }
