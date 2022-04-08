@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'Assemblée générale décide de suspendre la Fédération de Russie du Conseil des droits de l'homme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HeKZmtg5Oi8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HeKZmtg5Oi8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« La guerre en Ukraine doit cesser - maintenant »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NCfnojJ5hyc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine : les Nations Unies augmentent leur aide humanitaire dans et autour du pays",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3oetG1bodxc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3oetG1bodxc"
         }
       }
     }
