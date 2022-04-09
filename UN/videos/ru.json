@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ирпень, Украина",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4GSEye2NOo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i4GSEye2NOo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "История Наташи, беженки из Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mStThIanjos"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Четверг: обращение Генсека ООН к В.Путину",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JruEekWKQB0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JruEekWKQB0"
         }
       }
     }
