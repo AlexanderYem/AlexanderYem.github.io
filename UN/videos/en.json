@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: UN Humanitarian Chief Decries 'Crime Scene,' Urges Ceasefire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y454xC8rtu0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y454xC8rtu0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Somalia, Israel & other topics - Daily Briefing (8 April 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8Ugx1hClQdU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Yemen, Security Council & other topics - Daily Briefing (7 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2WE5qcB_3Mk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2WE5qcB_3Mk"
         }
       }
     }
