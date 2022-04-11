@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Je, kuna faida gani kwa EAC kuijumuisha DRC?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tGmj6JABp3k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tGmj6JABp3k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Urusi kuondolewa katika Baraza la Haki za Binadamu kuna maana gani? DRC yajiunga Afrika Mashariki",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0vWJIQTfzpM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN- Tuseme. yaibua makubwa Tanzania",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CS4eLWJrKhU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CS4eLWJrKhU"
         }
       }
     }
