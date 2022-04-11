@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Norway on Ukraine's Women and Children - Security Council Media Stakeout (11 April 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjoqlc-TI9g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vjoqlc-TI9g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Yemen: 'optimism in operation to salvage the Safer tanker' - Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Gz0LcyyOgGM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "European Union on the General Assembly vote to suspend Russia from the Human Rights Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w3NW_7FcmmQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w3NW_7FcmmQ"
         }
       }
     }
