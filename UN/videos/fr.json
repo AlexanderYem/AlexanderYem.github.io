@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "On fait tous partie intégrante des écosystèmes et on agit!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmDzWpIE7mc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OmDzWpIE7mc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'Assemblée générale décide de suspendre la Fédération de Russie du Conseil des droits de l'homme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UJC_VyQkI5M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "11 ans de guerre en Syrie - peut-elle se terminer un jour ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NCfnojJ5hyc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NCfnojJ5hyc"
         }
       }
     }
