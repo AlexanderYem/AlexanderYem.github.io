@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial de Combate à Doença de Chagas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oahij7iZWxk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Oahij7iZWxk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News Especial: combate ao terrorismo e ao crime organizado em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZOOf7BhRtZA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como o genocídio se tornou parte do direito internacional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SompO1rFjk4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SompO1rFjk4"
         }
       }
     }
