@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News Especial: combate ao terrorismo e ao crime organizado em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZBm17q4qPI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aZBm17q4qPI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileira conselheira na ONU diz que crises forçam mudanças no sistema internacional",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SompO1rFjk4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Emissões de gases de efeito estufa atingem recorde global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_r5sWur55Bo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_r5sWur55Bo"
         }
       }
     }
