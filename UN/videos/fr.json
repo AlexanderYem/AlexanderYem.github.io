@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Groupe de réponse à la crise mondiale sur l'alimentation, l'énergie et les finances",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kVoP0GNnmec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kVoP0GNnmec"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chacun à son échelle peut agir pour la justice climatique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PPmcaWse-Qk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine : « trouver une solution et mettre un fin à cette guerre »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UJC_VyQkI5M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UJC_VyQkI5M"
         }
       }
     }
