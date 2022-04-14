@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chagas ni ugonjwa gani?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sC3FmwdWS3Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sC3FmwdWS3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nini kifanyike rasilimali za Afrika zisigeuke laana? - Waziri Dotto Biteko wa Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qGSeGH2kwwQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Risasi zilianza kusikika saa 1 asubuhi!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oyzRlccMHWI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oyzRlccMHWI"
         }
       }
     }
