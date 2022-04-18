@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vídeo premiado de estudantes brasileiros mostra importância da inclusão das pessoas refugiadas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxs9uqHBTyU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Oxs9uqHBTyU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU abrirá portas em julho para abrigar exposição sobre brasileiro Rui Barbosa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t6KUZgTK3os"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Reflexão sobre o Genocídio de 1994 contra os Tutsi em Ruanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PD2OwpEWTs4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PD2OwpEWTs4"
         }
       }
     }
