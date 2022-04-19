@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde reabre para turismo após vacinação maciça contra Covid",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nOeB0MwpZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2nOeB0MwpZI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vídeo premiado de estudantes brasileiros mostra importância da inclusão das pessoas refugiadas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "llFzp2N5hbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil “angustiado” com falta de solução no Conselho de Segurança sobre Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t6KUZgTK3os/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t6KUZgTK3os"
         }
       }
     }
