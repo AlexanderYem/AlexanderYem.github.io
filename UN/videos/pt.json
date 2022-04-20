@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A história de Marcelino, integrante da comunidade indígena venezuelana Warao que vive no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/12zAxiWcSSs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "12zAxiWcSSs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Turismo em Cabo Verde, indígenas venezuelanos no Brasil e Rui Barbosa na ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JoEnYYVUxHo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Brasil avalia guerra na Ucrânia, decisão da Assembleia Geral e mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wqCsFeJIpBs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wqCsFeJIpBs"
         }
       }
     }
