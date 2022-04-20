@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Turismo em Cabo Verde, indígenas venezuelanos no Brasil e Rui Barbosa na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIHT_MFkE80/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EIHT_MFkE80"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde reabre para turismo após vacinação maciça contra Covid",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wqCsFeJIpBs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pobreza impede 68% da população da Guiné-Bissau de ter dieta nutritiva",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/llFzp2N5hbs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "llFzp2N5hbs"
         }
       }
     }
