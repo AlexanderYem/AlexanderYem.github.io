@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Координатор ООН по кризису в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RoSwttUsY0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4RoSwttUsY0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Международный день Матери-Земли",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-Mpu_mh2f8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G-Mpu_mh2f8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ирпень, Украина",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "RYHzPZxZlM8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Львов, Украина. Переселенцы.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CQSF9GfNOzo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CQSF9GfNOzo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Как покидают Украину беженцы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mStThIanjos/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mStThIanjos"
         }
       }
     }
