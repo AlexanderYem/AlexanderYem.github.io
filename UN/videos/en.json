@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Show the world what climate action looks like | #MyClimateAction | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1-BwAkFwak/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "S1-BwAkFwak"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kosovo: 'incidents of serious concern' - Security Council Briefing (20 April 2022) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M9-bWMNs_Ig"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine on Palestine/Israel- Security Council Media Stakeout (19 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h8yGRHodnos/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h8yGRHodnos"
         }
       }
     }
