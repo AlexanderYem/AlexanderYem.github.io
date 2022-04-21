@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Criatividade e Inovação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6SLH_8bqA5o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6SLH_8bqA5o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A história de Marcelino, integrante da comunidade indígena venezuelana Warao que vive no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aT60TVqNqkE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "As soluções para os desafios de África estão dentro do continente, diz subsecretária-geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JoEnYYVUxHo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JoEnYYVUxHo"
         }
       }
     }
