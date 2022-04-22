@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Federico Villegas, presidente do Conselho de Direitos Humanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wogcMJjwsl4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wogcMJjwsl4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Escalada de violência desloca um quarto da população na Ucrânia #Shorts",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XsBeYO2EjuY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial de Combate à Doença de Chagas #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Oahij7iZWxk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Oahij7iZWxk"
         }
       }
     }
