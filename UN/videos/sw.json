@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mbinu bunifu za kutokomeza Malaria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BA3kdHayR1I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BA3kdHayR1I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Filamu ya Tanzania Royal Tour kuchagiza SDGs Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tGmj6JABp3k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Urusi kuondolewa katika Baraza la Haki za Binadamu kuna maana gani? DRC yajiunga Afrika Mashariki",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VmXvpGydoek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VmXvpGydoek"
         }
       }
     }
