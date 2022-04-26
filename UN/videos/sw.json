@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wazazi wasione aibu kuwaelimisha watoto kuhusu afya ya uzazi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ww6Qe8fR5SE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ww6Qe8fR5SE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mbinu bunifu za kutokomeza Malaria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q5qLZ9pqngo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Je, kuna faida gani kwa EAC kuijumuisha DRC?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tGmj6JABp3k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tGmj6JABp3k"
         }
       }
     }
