@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: chefe da Aiea na Ucrânia, encontro ministerial sobre  água e língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e12koGM-B3A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e12koGM-B3A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal quer mais apoio à prevenção de conflitos e a favor da paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EIHT_MFkE80"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde reabre para turismo após vacinação maciça contra Covid",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2nOeB0MwpZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2nOeB0MwpZI"
         }
       }
     }
