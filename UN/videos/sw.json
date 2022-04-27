@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Burundi kuna nuru kuelekea haki za watu wa jamii ya watwa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXLrl_-pjj4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rXLrl_-pjj4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wazazi wasione aibu kuwaelimisha watoto kuhusu afya ya uzazi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Z6z_wDss80Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nguo chakavu za mitumba zinaishia wapi? Africa Collect Textiles yaja na majibu.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q5qLZ9pqngo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q5qLZ9pqngo"
         }
       }
     }
