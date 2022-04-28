@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Siku ya kimataifa ya wasichana katika tasnia ya Habari na teknolojia ya mawasiliano ICT.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zjHNcWokl2E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zjHNcWokl2E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Burundi kuna nuru kuelekea haki za watu wa jamii ya watwa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sC3FmwdWS3Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nini kifanyike rasilimali za Afrika zisigeuke laana? - Waziri Dotto Biteko wa Tanzania",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z6z_wDss80Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Z6z_wDss80Q"
         }
       }
     }
