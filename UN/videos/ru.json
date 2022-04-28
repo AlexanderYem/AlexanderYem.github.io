@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ООН в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dG_g5-XMCv4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dG_g5-XMCv4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Координатор ООН по кризису в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Roe9kRFV3VE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Шестилетняя Милана из Краматорска, Украина",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RYHzPZxZlM8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RYHzPZxZlM8"
         }
       }
     }
