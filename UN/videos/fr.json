@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Alune Wade : « Mon rêve est d'unifier les peuples grâce à la musique et le jazz »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ucd1t1YZqGc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ucd1t1YZqGc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guerre en Ukraine : les civils paient le prix le plus élevé de la guerre",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DwSTWgQcZUs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comment le génocide est-il entré dans le droit international ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G4Fy7W8Fqco/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G4Fy7W8Fqco"
         }
       }
     }
