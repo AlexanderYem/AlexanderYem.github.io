@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral da ONU se reúne com Zelensky na Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HXWfcQQ-9r0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HXWfcQQ-9r0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Os civis sempre pagam o preço mais alto”: chefe da ONU visita a Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6SLH_8bqA5o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A história de Marcelino, integrante da comunidade indígena venezuelana Warao que vive no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/12zAxiWcSSs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "12zAxiWcSSs"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guerre en Ukraine : les civils paient le prix le plus élevé de la guerre",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDVByG0V3HA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vDVByG0V3HA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Chef de l'ONU appelle les Russes et les Ukrainiens à faire taire les armes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "G4Fy7W8Fqco"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : des messages radio pour atteindre les combattants dans la brousse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X6pfpFx7NmA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X6pfpFx7NmA"
         }
       }
     }
