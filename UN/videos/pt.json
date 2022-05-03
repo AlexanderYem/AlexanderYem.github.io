@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "\"É uma língua muito importante em termos culturais, mas também em termos de desenvolvimento\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JYz5kWWmfmE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JYz5kWWmfmE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Museu da Língua Portuguesa celebra evolução do idioma de 280 milhões de falantes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GjVG2gk8q4I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GjVG2gk8q4I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU se reúne com Zelensky na Ucrânia",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "zTQ2NADjpRg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Mãe Terra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Oa0Mz16NHJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Oa0Mz16NHJc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Criatividade e Inovação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6SLH_8bqA5o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6SLH_8bqA5o"
         }
       }
     }
