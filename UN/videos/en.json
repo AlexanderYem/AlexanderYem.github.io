@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "France on Mali - Security Council Media Stakeout (3 May 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OFyo99ivsaA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OFyo99ivsaA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on World Press Freedom Day",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6KuFX-A3OFI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Yemen, Peacekeeping Updates & other topics - Daily Press Briefing (28 April 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-gESPasZ1mg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-gESPasZ1mg"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Burna Boy afanya ziara makao makuu ya Umoja wa Mataifa na kupazia sauti umuhimu wa elimu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mxQFFlRE5Uw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mxQFFlRE5Uw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mafuriko Ziwa Albert yasumbua sekta ya elimu Uganda.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7hH-oVVb4IU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNICEF na maji safi na salama kwa wakimbizi Uganda.  UNHCR na ardhi kwa wakimbizi wa Burundi DRC.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zvbWCw1xWyY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zvbWCw1xWyY"
         }
       }
     }
