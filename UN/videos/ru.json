@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день свободы печати",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sU87VrYZAhg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sU87VrYZAhg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава ООН в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iAezf0HcUKU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "March 19, 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Roe9kRFV3VE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Roe9kRFV3VE"
         }
       }
     }
