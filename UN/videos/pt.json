@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News Especial: Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LJe-aXGmEoI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LJe-aXGmEoI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente do Instituto Camões diz que saber português é vantagem no mercado de trabalho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BOSSvqwg66Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Federico Villegas, presidente do Conselho de Direitos Humanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wogcMJjwsl4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wogcMJjwsl4"
         }
       }
     }
