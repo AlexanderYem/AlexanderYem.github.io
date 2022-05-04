@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мирные жители Мариуполя доставлены в Запорожье",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aklsm1T5hNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aklsm1T5hNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день свободы печати",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yGmg23y7Xvs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ПРООН в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iAezf0HcUKU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iAezf0HcUKU"
         }
       }
     }
