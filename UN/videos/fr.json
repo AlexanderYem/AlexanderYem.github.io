@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Burna Boy : « L'éducation est ce qui détermine ce que seront les enfant du futur ».",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sOFIgc0IQtw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sOFIgc0IQtw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Alune Wade : « Mon rêve est d'unifier les peuples grâce à la musique et le jazz »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eXceCkVKQu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan : les filles doivent retourner à l'école sans délai",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DwSTWgQcZUs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DwSTWgQcZUs"
         }
       }
     }
