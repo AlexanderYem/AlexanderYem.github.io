@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Secretary-General/Ukraine Statement, West Africa & other topics - Daily Press Briefing (3 May 2022)",
+        "title": "United States urges Russia \"to do the right thing” -Press Conference Council's presidency agenda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0IUfo-rUhM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U0IUfo-rUhM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine, West Africa & other topics - Daily Press Briefing (3 May 2022) | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/DKSJXx0cd94/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GbacjxZN77Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"The New Urban Agenda offers a clear roadmap to achieve the Sustainable Development Goals\"-UNHabitat",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vpKAQKs1whE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vpKAQKs1whE"
         }
       }
     }
