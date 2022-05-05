@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O papel da língua portuguesa na comunicação e na produção de notícias",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwkJX_JO03U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DwkJX_JO03U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Embaixador de Cabo Verde na ONU explica como a língua portuguesa conecta o país",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JYz5kWWmfmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Museu da Língua Portuguesa celebra evolução do idioma de 280 milhões de falantes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GjVG2gk8q4I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GjVG2gk8q4I"
         }
       }
     }
