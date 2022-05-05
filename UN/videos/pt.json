@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do embaixador do Brasil na ONU no Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-c6yPh0nFg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "l-c6yPh0nFg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Estudantes da Guiné-Bissau explicam a importância de falar português",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iUL24Vtx0Rw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iUL24Vtx0Rw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário executivo da Cplp, Zacarias da Costa, para o Dia Mundial da Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "QfyQpMkN_go"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: chefe da Aiea na Ucrânia, encontro ministerial sobre  água e língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e12koGM-B3A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e12koGM-B3A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal quer mais apoio à prevenção de conflitos e a favor da paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K53WYOeqvus/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K53WYOeqvus"
         }
       }
     }
