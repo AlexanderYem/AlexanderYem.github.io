@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mexico and Norway on Ukraine - Security Council Media Stakeout (6 May 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/l9DGxX1Np8M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "l9DGxX1Np8M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SG Moldova Trip, Ukraine & other topics - Daily Press Briefing (6 May 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HnvvcqGm3mQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "World Press Freedom Day 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LbOG3Db4fWs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LbOG3Db4fWs"
         }
       }
     }
