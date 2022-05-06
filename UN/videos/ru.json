@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мэр Харькова Игорь Терехов о планах возрождения города",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyKj9AxVz-c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eyKj9AxVz-c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мирные жители Мариуполя доставлены в Запорожье",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IXLXlj9RmKo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день памяти жертв рабства и трансатлантической работорговли.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yGmg23y7Xvs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yGmg23y7Xvs"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News Especial - comemorações do Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VO2nE1RVOw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VO2nE1RVOw8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O papel da língua portuguesa na comunicação e na produção de notícias",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KQGXCl2CSas"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"É uma língua muito importante em termos culturais, mas também em termos de desenvolvimento\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JYz5kWWmfmE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JYz5kWWmfmE"
         }
       }
     }
