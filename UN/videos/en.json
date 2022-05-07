@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Child protection is at the heart of UN Peacekeeping",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CS719tfIrm4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CS719tfIrm4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mexico and Norway on Ukraine - Security Council Media Stakeout (6 May 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0DdJs4yvZAc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Nigeria, Yemen & other topics - Daily Press Briefing (4 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HnvvcqGm3mQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HnvvcqGm3mQ"
         }
       }
     }
