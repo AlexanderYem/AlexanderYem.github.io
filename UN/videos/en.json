@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moldova, Ukraine, Syria & other topics - Daily Press Briefing (10 May 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bWNaIW94u10/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bWNaIW94u10"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Human Rights, Civil Society and Counter-Terrorism (Málaga, 10 May 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LO3m1zzhSYY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Security Council meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vYbwqRwNZGw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vYbwqRwNZGw"
         }
       }
     }
