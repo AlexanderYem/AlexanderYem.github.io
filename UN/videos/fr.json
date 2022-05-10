@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "le Secrétaire général de l'ONU remercie la Moldavie pour son « grand cœur »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/shtpzqy_lBU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "shtpzqy_lBU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La guerre en Ukraine a déclenché une crise de sécurité alimentaire dans le monde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_xbPOYG6OvQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Témoignage : « je ne veux pas que ma fille connaisse la guerre ».",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bW76tXo4tXw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bW76tXo4tXw"
         }
       }
     }
