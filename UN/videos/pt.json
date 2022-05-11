@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "África deve transformar crises em oportunidades",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T_3UQIb3YVs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T_3UQIb3YVs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasileiro porta-voz do Ocha descreve mais uma etapa de evacuação de civis em Mariupol.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lce-fpPcGyo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News Especial: Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LJe-aXGmEoI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LJe-aXGmEoI"
         }
       }
     }
