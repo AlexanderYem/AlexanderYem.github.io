@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Carreiras na ONU - FAO",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dcyOdjG963A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dcyOdjG963A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "África deve transformar crises em oportunidades",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f68_hctZvlI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Federico Villegas, presidente do Conselho de Direitos Humanos da ONU, conta como aprendeu português",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lce-fpPcGyo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lce-fpPcGyo"
         }
       }
     }
