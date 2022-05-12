@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE SESC - ONU News: A Notícia em Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6iKWgH-y4mY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6iKWgH-y4mY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Carreiras na ONU - FAO",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iUL24Vtx0Rw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário executivo da Cplp, Zacarias da Costa, para o Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f68_hctZvlI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f68_hctZvlI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sanaa ya kufikirika yachangia ufanikishaji wa SDGs",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/S7euSBkWQik/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "S7euSBkWQik"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chanjo dhidi ya malaria yaendelea kuonesha mafanikio Kenya",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zjHNcWokl2E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Burundi kuna nuru kuelekea haki za watu wa jamii ya watwa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rXLrl_-pjj4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rXLrl_-pjj4"
         }
       }
     }

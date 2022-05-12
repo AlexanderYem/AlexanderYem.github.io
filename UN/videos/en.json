@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Middle East & other topics - Daily Press Briefing (12 May 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yFSONu6eLjw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yFSONu6eLjw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Nuclear weapons pose an existential threat to humanity” - Top UN official at Council's Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yyyS5bFgbMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moldova, Ukraine/Secretary-General & other topics - Daily Press Briefing (9 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l2qPoKeqcRk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l2qPoKeqcRk"
         }
       }
     }
