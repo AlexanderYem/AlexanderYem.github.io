@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "MONUSCO na COMOA washirikiana kuimarisha usalama Goma, DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/158v0LOG-dA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "158v0LOG-dA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sanaa ya kufikirika yachangia ufanikishaji wa SDGs",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lIog03LaXio"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siku ya kimataifa ya wasichana katika tasnia ya Habari na teknolojia ya mawasiliano ICT.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zjHNcWokl2E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zjHNcWokl2E"
         }
       }
     }
