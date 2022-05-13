@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Quão eficazes são as vacinas?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sewvDFSsHb8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sewvDFSsHb8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE SESC - ONU News: A Notícia em Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "l-c6yPh0nFg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Estudantes da Guiné-Bissau explicam a importância de falar português",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iUL24Vtx0Rw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iUL24Vtx0Rw"
         }
       }
     }
