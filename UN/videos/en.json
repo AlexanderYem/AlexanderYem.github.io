@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Development, Climate, Libya & other topics - Daily Press Briefing (17 May 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DqEBPhFjC4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_DqEBPhFjC4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "United Nations Memorial for U.S. Secretary of State Madeleine K. Albright",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FcN2iJFNGeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Norway on Afghanistan - Security Council Media Stakeout (12 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aSuQb-t8lQU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aSuQb-t8lQU"
         }
       }
     }
