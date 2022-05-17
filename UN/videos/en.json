@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "United Nations Memorial for U.S. Secretary of State Madeleine K. Albright",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tyYfoobJGZw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tyYfoobJGZw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Cyprus: Finding friendship through a forgotten art form | UN Peacekeeping",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDqBFi8L5j8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JDqBFi8L5j8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Migration Review Forum - Press Conference (16 May 2022)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "aSuQb-t8lQU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mexico and Ireland on Ukraine - Security Council Media Stakeout (12 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NsKKtQneDwg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NsKKtQneDwg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council, Middle East & other topics - Daily Press Briefing (12 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yFSONu6eLjw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yFSONu6eLjw"
         }
       }
     }
