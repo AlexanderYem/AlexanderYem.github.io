@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Член Молодежной консультативной группы по изменению климата Владислав Каим",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnLRqymfFzw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XnLRqymfFzw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мэр Харькова Игорь Терехов о планах возрождения города",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wjcltN7cfLk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Орландо Блум с беженцами из Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IXLXlj9RmKo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IXLXlj9RmKo"
         }
       }
     }
