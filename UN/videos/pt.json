@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal aposta na integração de migrantes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YLi1HViYMvc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YLi1HViYMvc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Quão eficazes são as vacinas?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UB2CRKbJJOk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do embaixador do Brasil na ONU no Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l-c6yPh0nFg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l-c6yPh0nFg"
         }
       }
     }
