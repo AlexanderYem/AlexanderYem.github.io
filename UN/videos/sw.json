@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mkutano wa kirafiki wakutanisha walinda amani kutoka Tanzania na baadhi ya viongozi DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EubP6d1yWcw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EubP6d1yWcw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mfuko wa UN kusaidia walionyanyaswa kingono umetifikia Bukavu: Wanawake DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y3iCcazJuDY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jukwaa la UN la watu wa asili limeboresha maisha yangu na ya jami yangu ya Endorois - Carson Kibur",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZM16h2sYqn0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZM16h2sYqn0"
         }
       }
     }
