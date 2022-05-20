@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque  ONU News: insegurança alimentar global, pólio em Moçambique e mulheres na política",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xUAfU5tNRZo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xUAfU5tNRZo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres celebra os 20 anos da retomada da independência do Timor-Leste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DwkJX_JO03U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Embaixador de Cabo Verde na ONU explica como a língua portuguesa conecta o país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YjiiukRFomc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YjiiukRFomc"
         }
       }
     }

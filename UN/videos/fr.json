@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La guerre et la faim vont de pair,  alerte le chef de l’ONU devant le Conseil de sécurité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbGR5wvUmd0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fbGR5wvUmd0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "le Secrétaire général de l'ONU remercie la Moldavie pour son « grand cœur »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HeKZmtg5Oi8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« La guerre en Ukraine doit cesser - maintenant »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_xbPOYG6OvQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_xbPOYG6OvQ"
         }
       }
     }
