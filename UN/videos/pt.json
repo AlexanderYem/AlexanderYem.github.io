@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres celebra os 20 anos da retomada da independência do Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qBkInIlqGbs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qBkInIlqGbs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal aposta na integração de migrantes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YjiiukRFomc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Profissional de marketing de Moçambique fala sobre diversidade da língua portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UB2CRKbJJOk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UB2CRKbJJOk"
         }
       }
     }
