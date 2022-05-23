@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "15 anos da Agência de Saúde Global, Unitaid",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gx452cRBdeM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gx452cRBdeM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque  ONU News: insegurança alimentar global, pólio em Moçambique e mulheres na política",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VO2nE1RVOw8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O papel da língua portuguesa na comunicação e na produção de notícias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DwkJX_JO03U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DwkJX_JO03U"
         }
       }
     }
