@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU e avanços sobre migrações globais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fW0yNQFSwjo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fW0yNQFSwjo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "15 anos da Agência de Saúde Global, Unitaid",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "03Pg21cVlUw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News Especial - comemorações do Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VO2nE1RVOw8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VO2nE1RVOw8"
         }
       }
     }
