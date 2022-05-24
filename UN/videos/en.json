@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief receives an Honorary degree at Seton Hall University Commencement Ceremony | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oNrs8aP128/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8oNrs8aP128"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Africa Day at the United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bLRcb1c3Js/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8bLRcb1c3Js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Paris Peace Forum,  World Health Assembly & other topics - Daily Press Briefing (23 May 2022)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "qmbCk2A7NTQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Failure by Russia to open up ports in Odessa will be a declaration of war on global food security'",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZG4rzedyV7E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZG4rzedyV7E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pakistan: 'facing a real threat of food, water & energy insecurity' - Press Conference (19 May 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6q_wYLDdNcQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6q_wYLDdNcQ"
         }
       }
     }
