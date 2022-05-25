@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Africa Day at the United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bLRcb1c3Js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8bLRcb1c3Js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ireland on the Protection of civilians in armed conflict - Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mY58dimP_i8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Africa Day at the United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8bLRcb1c3Js/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8bLRcb1c3Js"
         }
       }
     }
