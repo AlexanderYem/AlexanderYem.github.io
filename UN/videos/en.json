@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on the Protection of Journalists - Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kajpb3fCgC8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kajpb3fCgC8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SG/Seton Hall Uni, Paris Peace Forum, SC/Sudan & other topics - Daily Press Briefing (24 May 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LzBVFVKOs58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Migration: call to int'l community to protect migrants in a post-pandemic world - Press Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JyOxwLCx754/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JyOxwLCx754"
         }
       }
     }
