@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Maria Gadú fala à ONU News sobre o pós-pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_IkJxLd77kI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_IkJxLd77kI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dia Mundial Sem Tabaco",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vKxTUkZdxVU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vKxTUkZdxVU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: varíola dos macacos, Bachelet na China, e o Dia da África",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "sewvDFSsHb8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE SESC - ONU News: A Notícia em Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6iKWgH-y4mY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6iKWgH-y4mY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - Carreiras na ONU - FAO",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dcyOdjG963A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dcyOdjG963A"
         }
       }
     }
