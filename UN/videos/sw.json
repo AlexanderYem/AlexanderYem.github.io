@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afrika ni ‘nyumba ya matumaini’, licha ya changamoto mpya: Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ueouoHdsQQQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ueouoHdsQQQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "KUELEKEA SIKU YA WALINDA AMANI: Ushirikiano, changamoto na umuhimu wa walinda amani DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ijZxEnVRZHk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ni muhimu sana sasa hivi kuwasaidia wakulima Ukraine - Pierre Vauthier wa FAO.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ysBNX-0QXDc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ysBNX-0QXDc"
         }
       }
     }
