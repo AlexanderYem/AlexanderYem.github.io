@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: varíola dos macacos, Bachelet na China, e o Dia da África",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTY62r-Lldo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fTY62r-Lldo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia da África",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dcyOdjG963A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "África deve transformar crises em oportunidades",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T_3UQIb3YVs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T_3UQIb3YVs"
         }
       }
     }
