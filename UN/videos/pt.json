@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tráfico ou contrabando de migrantes? Entenda a diferença.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TzR-gfPUgyg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TzR-gfPUgyg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maria Gadú fala à ONU News sobre o pós-pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YLi1HViYMvc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Quão eficazes são as vacinas?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sewvDFSsHb8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sewvDFSsHb8"
         }
       }
     }
