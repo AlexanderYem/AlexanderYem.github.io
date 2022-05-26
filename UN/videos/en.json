@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of United Nations Peacekeepers 2022 - UN Chief message | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3R6x408US4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q3R6x408US4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Africa Day at the United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8oNrs8aP128"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United Nations Peacekeepers Day 2022 - Medal Ceremonies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mY58dimP_i8/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mY58dimP_i8"
         }
       }
     }
