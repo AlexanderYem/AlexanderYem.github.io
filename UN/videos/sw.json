@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Amani haipatikani kwa mtutu wa bunduki bali upendo - Walinda amani DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjZ9jYwxiGc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jjZ9jYwxiGc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afrika ni ‘nyumba ya matumaini’, licha ya changamoto mpya: Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EubP6d1yWcw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mfuko wa UN kusaidia walionyanyaswa kingono umetifikia Bukavu: Wanawake DRC.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ijZxEnVRZHk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ijZxEnVRZHk"
         }
       }
     }
