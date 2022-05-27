@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день миротворцев ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fgXtZb96zqk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fgXtZb96zqk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Член Молодежной консультативной группы по изменению климата Владислав Каим",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0tEZ-NEoiqY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью с мэром Харькова",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wjcltN7cfLk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wjcltN7cfLk"
         }
       }
     }
