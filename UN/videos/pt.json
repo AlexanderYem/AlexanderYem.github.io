@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Iniciativa em Lisboa foca no desperdício zero de pescado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OcvM7TwqkG4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OcvM7TwqkG4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tráfico ou contrabando de migrantes? Entenda a diferença.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qBkInIlqGbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal aposta na integração de migrantes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YLi1HViYMvc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YLi1HViYMvc"
         }
       }
     }
