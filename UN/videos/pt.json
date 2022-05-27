@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Soldados da Paz: mensagem do secretário-geral da ONU, António Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gCeNDYH6meA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gCeNDYH6meA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Destaque ONU News Especial - Dia dos Boinas-Azuis das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OTh9jKkfXDU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OTh9jKkfXDU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Iniciativa em Lisboa foca no desperdício zero de pescado",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "gx452cRBdeM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque  ONU News: insegurança alimentar global, pólio em Moçambique e mulheres na política",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xUAfU5tNRZo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xUAfU5tNRZo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres celebra os 20 anos da retomada da independência do Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qBkInIlqGbs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qBkInIlqGbs"
         }
       }
     }
