@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Boinas-azuis celebram o 29 de maio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BkzuDMn3WCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BkzuDMn3WCM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional dos Soldados da Paz: mensagem do secretário-geral da ONU, António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fW0yNQFSwjo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "15 anos da Agência de Saúde Global, Unitaid",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gx452cRBdeM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gx452cRBdeM"
         }
       }
     }
