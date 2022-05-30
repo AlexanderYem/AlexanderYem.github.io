@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Stockholm+50 First Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wUnu-XWVVyw/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wUnu-XWVVyw"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "'Conflict creates hunger' - UN Chief at Africa Dialogue Series 2022",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "vnqWE2wxvUo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Wreath-laying Ceremony on the occasion of the International Day of United Nations Peacekeepers 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7xVrXMhbh4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V7xVrXMhbh4"
         }
       }
     }
