@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'ONU reconnaît le Major Winnet Zharare, du Zimbabwe, pour avoir donné une voix aux femmes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xe763CVRRqg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xe763CVRRqg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La guerre et la faim vont de pair,  alerte le chef de l’ONU devant le Conseil de sécurité",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OmDzWpIE7mc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'Assemblée générale décide de suspendre la Fédération de Russie du Conseil des droits de l'homme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HeKZmtg5Oi8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HeKZmtg5Oi8"
         }
       }
     }
