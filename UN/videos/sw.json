@@ -1,13 +1,134 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "errors": [
-      {
-        "domain": "youtube.CoreErrorDomain",
-        "reason": "SERVICE_UNAVAILABLE"
+  "items": [
+    {
+      "snippet": {
+        "title": "Je, unajihusisha na tumbaku kwa namna yoyote ile?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PYMALa74tdI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PYMALa74tdI"
+        }
       }
-    ],
-    "status": "UNAVAILABLE"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Tumeondoka na mambo mengi mazuri kutoka Mkutano wa Baraza la Afya Duniani - Ummy Mwalimu wa Tanzania",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AlokuZGA1zQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AlokuZGA1zQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "TANZBATT 9 walivyoadhimisha Siku ya Kimataifa ya Walinda Amani wa umoja wa Mataifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xt4WVBdXxcw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xt4WVBdXxcw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Siku ya kimataifa ya walinda amani wa Umoja wa Mataifa, wananchi wa Beni na Uvira, DRC wanasemaje?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2v1KSqFNPxU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2v1KSqFNPxU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "LEO NI SIKU YA WALINDA AMANI:  Tunawaheshimu kwa kujitolea kusaidia jamii kuachana na migogoro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jn_lVAAg5g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9jn_lVAAg5g"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ulinzi wa amani DRC, huduma, ushirikiano na changamoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6QbT2fBWIw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N6QbT2fBWIw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mashujaa watanzania wawili miongoni mwa waliotunukiwa medali ya Dag Hammarskjold",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RFYCvg_eZtc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RFYCvg_eZtc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Amani haipatikani kwa mtutu wa bunduki bali upendo - Walinda amani DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjZ9jYwxiGc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jjZ9jYwxiGc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Afrika ni ‘nyumba ya matumaini’, licha ya changamoto mpya: Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ueouoHdsQQQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ueouoHdsQQQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "KUELEKEA SIKU YA WALINDA AMANI: Ushirikiano, changamoto na umuhimu wa walinda amani DRC.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rdh4v_cPIps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rdh4v_cPIps"
+        }
+      }
+    }
+  ]
 }
