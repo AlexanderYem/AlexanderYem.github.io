@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'Security Council mandate is to uphold, to maintain, peace & security' -Council's President for June",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CPqG9rSg678/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CPqG9rSg678"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali, Yemen, Central African Republic, Ukraine - Daily Press Briefing ( 01 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yhfosDwWtbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Third Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KhyzCWU5kyo/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KhyzCWU5kyo"
         }
       }
     }
