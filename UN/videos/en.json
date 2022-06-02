@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Stockholm+50 Leadership Dialogue 1",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5aqpSCTQiQM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5aqpSCTQiQM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Stockholm+50 Second Plenary meeting",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hK-tXeC4v0w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Leadership Dialogue 3",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yf3gQBJF6YU/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yf3gQBJF6YU"
         }
       }
     }
