@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Stockholm+50 Second Plenary meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-WEl72geiA8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-WEl72geiA8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"We face the most perilous geopolitical landscape in decades\" - UN Chief",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yf3gQBJF6YU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Leadership Dialogue 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yMmTEEkdnhs/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yMmTEEkdnhs"
         }
       }
     }
