@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Stockholm+50 Closing of the Plenary meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xRPUcEe6prQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xRPUcEe6prQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Stockholm+50 Leadership Dialogue 3",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "yf3gQBJF6YU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Closing of the Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xRPUcEe6prQ/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xRPUcEe6prQ"
         }
       }
     },
