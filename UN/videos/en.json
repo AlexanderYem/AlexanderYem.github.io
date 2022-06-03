@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Stockholm+50 Leadership Dialogue 3",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yf3gQBJF6YU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yf3gQBJF6YU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Stockholm+50 Closing of the Plenary meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xRPUcEe6prQ/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xRPUcEe6prQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Stockholm+50 Fourth Plenary meeting",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-WEl72geiA8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"We face the most perilous geopolitical landscape in decades\" - UN Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f7rdx2dJj4Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f7rdx2dJj4Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 First Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wUnu-XWVVyw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wUnu-XWVVyw"
         }
       }
     }

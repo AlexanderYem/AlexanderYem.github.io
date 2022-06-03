@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: 100 dias da invasão russa na Ucrânia, Estocolmo+50 e reinfecção por Covid-19",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/apyM3CzKL9U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "apyM3CzKL9U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONGs unidas em campanha em prol dos oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_IkJxLd77kI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial Sem Tabaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vKxTUkZdxVU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vKxTUkZdxVU"
         }
       }
     }
