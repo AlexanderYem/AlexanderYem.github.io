@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONGs unidas em campanha em prol dos oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ha-y3x--AUQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ha-y3x--AUQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Ana Paula Zacarias é a primeira mulher a chefiar a Missão de Portugal na ONU (1ª. parte)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vKxTUkZdxVU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: varíola dos macacos, Bachelet na China, e o Dia da África",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fTY62r-Lldo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fTY62r-Lldo"
         }
       }
     }
