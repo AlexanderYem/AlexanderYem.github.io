@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial do Meio Ambiente: “Somos um povo e temos uma só Terra”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0a9he-NtNIM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0a9he-NtNIM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Segunda parte da entrevista da nova embaixadora de Portugal na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/53SEN1ddbKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "53SEN1ddbKE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: 100 dias da invasão russa na Ucrânia, Estocolmo+50 e reinfecção por Covid-19",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "OcvM7TwqkG4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tráfico ou contrabando de migrantes? Entenda a diferença.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TzR-gfPUgyg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TzR-gfPUgyg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Maria Gadú fala à ONU News sobre o pós-pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_IkJxLd77kI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_IkJxLd77kI"
         }
       }
     }

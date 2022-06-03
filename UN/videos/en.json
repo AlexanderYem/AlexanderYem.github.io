@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali,  Myanmar, Haiti & other topics - Daily Press Briefing (3 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWvY3dWbYp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EWvY3dWbYp8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Stockholm+50 Closing of the Plenary meeting",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5aqpSCTQiQM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Second Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-WEl72geiA8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-WEl72geiA8"
         }
       }
     }
