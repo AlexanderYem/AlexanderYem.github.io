@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maintenance of peace and security of Ukraine - Security Council meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BsmBTiLInhk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BsmBTiLInhk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali,  Myanmar, Haiti & other topics - Daily Press Briefing (3 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XpVp0mlllKs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Leadership Dialogue 1",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5aqpSCTQiQM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5aqpSCTQiQM"
         }
       }
     }
