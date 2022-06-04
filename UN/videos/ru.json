@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Амин Авад, Кризисный координатор ООН по Украине дал эксклюзивное интервью Службе новостей ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BcU7az--oq0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BcU7az--oq0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "100 дней войны в Украине: дети страдают больше других.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "G-Mpu_mh2f8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ирпень, Украина",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i4GSEye2NOo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i4GSEye2NOo"
         }
       }
     }
