@@ -41,19 +41,6 @@
     },
     {
       "snippet": {
-        "title": "Maintenance of peace and security of Ukraine - Security Council meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BsmBTiLInhk/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BsmBTiLInhk"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Mali,  Myanmar, Haiti & other topics - Daily Press Briefing (3 June 2022)",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "yMmTEEkdnhs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Justice for serious violations of international law - United Nations Human Rights Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sBT28cRFgpI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sBT28cRFgpI"
         }
       }
     }
