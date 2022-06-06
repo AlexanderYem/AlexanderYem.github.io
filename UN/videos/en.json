@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on Ukraine - Security Council Media Stakeout (6 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/btHDtvhVg4c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "btHDtvhVg4c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan, DSG travels,  Nigeria & other topics - Daily Press Briefing (6 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yhfosDwWtbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Third Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KhyzCWU5kyo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KhyzCWU5kyo"
         }
       }
     }
