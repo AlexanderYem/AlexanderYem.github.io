@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Csaba Kőrösi, President-elect of the 77th session of the UNGA - General Assembly Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b9VPoJCCXb8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b9VPoJCCXb8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Norway on Ukraine - Security Council Media Stakeout (6 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QeeuWO6797s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QeeuWO6797s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ireland on Ukraine - Security Council Media Stakeout (6 June 2022)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "xRPUcEe6prQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Leadership Dialogue 3",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yf3gQBJF6YU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yf3gQBJF6YU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stockholm+50 Fourth Plenary meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yhfosDwWtbE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yhfosDwWtbE"
         }
       }
     }
