@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfIjnzwuF8o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SfIjnzwuF8o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Meio Ambiente: “Somos um povo e temos uma só Terra”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OTh9jKkfXDU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iniciativa em Lisboa foca no desperdício zero de pescado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OcvM7TwqkG4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OcvM7TwqkG4"
         }
       }
     }
