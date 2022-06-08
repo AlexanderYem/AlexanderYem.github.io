@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Tukiitunza bahari, nayo itatutunza - Dickson Gereza wa Kilifi, Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWeYgo9jUvo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NWeYgo9jUvo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Maisha yote yanaanzia baharini. Lakini tumeipa kisogo - Milena Marrugo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/viC3bwYaMM4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "viC3bwYaMM4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mashirika ya UN na wadau wameokoa maisha yetu Turkana.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "9jn_lVAAg5g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ulinzi wa amani DRC, huduma, ushirikiano na changamoto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N6QbT2fBWIw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N6QbT2fBWIw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mashujaa watanzania wawili miongoni mwa waliotunukiwa medali ya Dag Hammarskjold",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RFYCvg_eZtc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RFYCvg_eZtc"
         }
       }
     }
