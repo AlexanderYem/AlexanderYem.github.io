@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غوتيريش: ضمان محيط صحي ومنتج هو مسؤوليتنا الجماعية، والتي لا يمكننا الوفاء بها إلا من خلال العمل معا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0kc1cG_thE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G0kc1cG_thE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمين عوض: ينبغي أن تتوقف هذه الحرب من أجل الشعب الأوكراني وبقية العالم",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z1Gqv4POKLw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "شابات من لبنان يحدثن ثورة في مجال إنتاج الفوط النسائية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LkSdSy07Flo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LkSdSy07Flo"
         }
       }
     }
