@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Спасите океаны!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-qkOFxg_2Yk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-qkOFxg_2Yk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Амин Авад, Кризисный координатор ООН по Украине дал эксклюзивное интервью Службе новостей ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4RoSwttUsY0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день Матери-Земли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G-Mpu_mh2f8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G-Mpu_mh2f8"
         }
       }
     }
