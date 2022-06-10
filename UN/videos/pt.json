@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Resiliart: João Marcello Bôscoli fala da retomada do setor musical após pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t-UupBg12yc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t-UupBg12yc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lisboa, sardinhas e os Santos Populares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DED_016g1JE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pesca sustentável e aquicultura",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nJLhobXdZLU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nJLhobXdZLU"
         }
       }
     }
