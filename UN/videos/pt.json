@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique agradece ao mundo por eleição para o Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sm5cCVdhbYc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sm5cCVdhbYc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Lisboa preparada para receber Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNB6Je4JbXE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tNB6Je4JbXE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial dos Oceanos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "BkzuDMn3WCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional dos Soldados da Paz: mensagem do secretário-geral da ONU, António Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gCeNDYH6meA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gCeNDYH6meA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News Especial - Dia dos Boinas-Azuis das Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OTh9jKkfXDU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OTh9jKkfXDU"
         }
       }
     }
