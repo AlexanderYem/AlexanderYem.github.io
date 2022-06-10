@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Worsening drought in Somalia - Press Conference (7 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tyyI1WBn_H0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tyyI1WBn_H0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian situation in Sri Lanka - Press Conference (9 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KxPQBl0gZe8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Mounting Allegations of Sexual Violence - Security Council Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OTgqCxPse8M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OTgqCxPse8M"
         }
       }
     }
