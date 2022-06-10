@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Saiba como foi a campanha de Moçambique rumo ao Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKgXfkhaeD4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bKgXfkhaeD4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Resiliart: João Marcello Bôscoli fala da retomada do setor musical após pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ha-y3x--AUQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Ana Paula Zacarias é a primeira mulher a chefiar a Missão de Portugal na ONU (1ª. parte)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DED_016g1JE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DED_016g1JE"
         }
       }
     }
