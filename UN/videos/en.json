@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Population Award Virtual Ceremony",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRXC-doT0J4/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dRXC-doT0J4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Summit of the Americas, Ukraine, Refugees & other topics - Daily Press Briefing (10 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_HA8jYyPPao"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Switzerland on being Elected as a Non-Permanent Member of the UN Security Council - General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i4UOTEYx10k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i4UOTEYx10k"
         }
       }
     }
