@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lisboa, sardinhas e os Santos Populares",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y5SjuB4ActY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y5SjuB4ActY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique agradece ao mundo por eleição para o Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nJLhobXdZLU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Boinas-azuis celebram o 29 de maio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BkzuDMn3WCM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BkzuDMn3WCM"
         }
       }
     }
