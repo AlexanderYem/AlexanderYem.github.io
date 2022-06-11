@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Call to Action for Human Rights (7 March 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NW1GZlI2DUw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NW1GZlI2DUw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Population Award Virtual Ceremony",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ob95HumxiJs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malta on Being Elected as a Non-Permanent Member of the United Nations Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_HA8jYyPPao/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_HA8jYyPPao"
         }
       }
     }
