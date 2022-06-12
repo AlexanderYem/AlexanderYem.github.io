@@ -28,19 +28,6 @@
     },
     {
       "snippet": {
-        "title": "UN Population Award Virtual Ceremony",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dRXC-doT0J4/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dRXC-doT0J4"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Summit of the Americas, Ukraine, Refugees & other topics - Daily Press Briefing (10 June 2022)",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "Ob95HumxiJs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Malta on Being Elected as a Non-Permanent Member of the United Nations Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_HA8jYyPPao/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_HA8jYyPPao"
         }
       }
     }
