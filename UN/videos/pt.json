@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique combate terrorismo em Cabo Delgado investindo em desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xS8xyHU4qkI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xS8xyHU4qkI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Saiba como foi a campanha de Moçambique rumo ao Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "apyM3CzKL9U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONGs unidas em campanha em prol dos oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ha-y3x--AUQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ha-y3x--AUQ"
         }
       }
     }
