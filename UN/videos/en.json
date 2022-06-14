@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali on the conflict in the country - Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WAVzdJRhvuA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WAVzdJRhvuA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Security in Mali - Secretary-General Special Representative | United Nations | Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ixalxwZh67w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Summit of the Americas & other topics - Daily Press Briefing (9 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-g1xgqabgvc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-g1xgqabgvc"
         }
       }
     }
