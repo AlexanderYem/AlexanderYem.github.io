@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Indonesia, Yemen & other topics - Daily Press Briefing (14 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqr75xJ_44k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqr75xJ_44k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Yoga for Humanity - 8th International Day of Yoga",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-5z-1Vg7X-s/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-5z-1Vg7X-s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali on the conflict in the country - Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "tyyI1WBn_H0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian situation in Sri Lanka - Press Conference (9 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xUFl5l5VHaM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xUFl5l5VHaM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Global Crisis Response Group (Second report) on the war - Press Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ixalxwZh67w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ixalxwZh67w"
         }
       }
     }
