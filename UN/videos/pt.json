@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Na ONU, chefe da diplomacia de Portugal fala da eleição de Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJdYzv3IDGY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WJdYzv3IDGY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Momento de vitória de Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWrtryaoZsg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rWrtryaoZsg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique combate terrorismo em Cabo Delgado investindo em desenvolvimento",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "0a9he-NtNIM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Segunda parte da entrevista da nova embaixadora de Portugal na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/53SEN1ddbKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "53SEN1ddbKE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: 100 dias da invasão russa na Ucrânia, Estocolmo+50 e reinfecção por Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/apyM3CzKL9U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "apyM3CzKL9U"
         }
       }
     }
