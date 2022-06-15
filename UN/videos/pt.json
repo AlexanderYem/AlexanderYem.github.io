@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: “Dependência desigual sobre recursos coloca os mais vulneráveis em perigo”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HeTVIU5Q6_Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HeTVIU5Q6_Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Na ONU, chefe da diplomacia de Portugal fala da eleição de Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SfIjnzwuF8o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Meio Ambiente: “Somos um povo e temos uma só Terra”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0a9he-NtNIM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0a9he-NtNIM"
         }
       }
     }
