@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lebanon's Minefields | Clearing the Hidden Remnants of War | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7-8AQnWIUU8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7-8AQnWIUU8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Children affected by the war  - Press Conference (14 June 2022) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3OWQykvc8Lo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Call to Action for Human Rights (7 March 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NW1GZlI2DUw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NW1GZlI2DUw"
         }
       }
     }
