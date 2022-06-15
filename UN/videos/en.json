@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Children affected by the war  - Press Conference (14 June 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6SUdwcRqw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e6SUdwcRqw8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Security Council Member States on Women and Girls in Yemen - Security Council Media | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NW1GZlI2DUw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Summit of the Americas, Ukraine, Refugees & other topics - Daily Press Briefing (10 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HXifPHrMhbw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HXifPHrMhbw"
         }
       }
     }
