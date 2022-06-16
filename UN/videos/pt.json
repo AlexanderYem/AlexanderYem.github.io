@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conheça a cidade americana onde vive uma grande comunidade portuguesa que vive da pesca",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yoh_13Cly_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yoh_13Cly_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral das Nações Unidas para o Modelo ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sm5cCVdhbYc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lisboa preparada para receber Conferência dos Oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tNB6Je4JbXE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tNB6Je4JbXE"
         }
       }
     }
