@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, Haiti, Ukraine & other topics - Daily Press Briefing (16 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVcEVrX9XK4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LVcEVrX9XK4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "'Today’s conflicts are amplifying gender inequality' - UN Chief at Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -106,27 +119,14 @@
     },
     {
       "snippet": {
-        "title": "Mali on the conflict in the country - Security Council Media Stakeout | United Nations",
+        "title": "Yoga for Humanity - 8th International Day of Yoga",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/WAVzdJRhvuA/hqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/-5z-1Vg7X-s/hqdefault_live.jpg"
           }
         },
         "resourceId": {
-          "videoId": "WAVzdJRhvuA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security in Mali - Secretary-General Special Representative | United Nations | Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Adu0nrWo4XE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Adu0nrWo4XE"
+          "videoId": "-5z-1Vg7X-s"
         }
       }
     }
