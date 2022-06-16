@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tanzania yatoa ufafanuzi juu ya hofu ya Wataalam wa haki za binadamu wa UN kuhusu wakazi wa Loliondo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VV7OzssfYVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VV7OzssfYVo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nilikuwa ninahesabu ng'ombe tu lakini sasa ninataka kuwa mwalimu wa hisabati - Emmanuel Tubbo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NWeYgo9jUvo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Maisha yote yanaanzia baharini. Lakini tumeipa kisogo - Milena Marrugo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/viC3bwYaMM4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "viC3bwYaMM4"
         }
       }
     }
