@@ -106,19 +106,6 @@
     },
     {
       "snippet": {
-        "title": "Yoga for Humanity - 8th International Day of Yoga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-5z-1Vg7X-s/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-5z-1Vg7X-s"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Mali on the conflict in the country - Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "WAVzdJRhvuA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Security in Mali - Secretary-General Special Representative | United Nations | Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Adu0nrWo4XE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Adu0nrWo4XE"
         }
       }
     }
