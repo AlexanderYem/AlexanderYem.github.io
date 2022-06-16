@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "Em breve: conheça a cidade americana onde vive uma grande comunidade portuguesa que vive da pesca",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qX0buijP220/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qX0buijP220"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Entrevista: “Dependência desigual sobre recursos coloca os mais vulneráveis em perigo”",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "sm5cCVdhbYc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Lisboa preparada para receber Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNB6Je4JbXE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tNB6Je4JbXE"
         }
       }
     }
