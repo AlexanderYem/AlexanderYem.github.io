@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discours de haine : agir maintenant pour prévenir la prochaine atrocité",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eFg509-rc_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eFg509-rc_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le peuple malien aspire désespérément à la paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sOFIgc0IQtw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alune Wade : « Mon rêve est d'unifier les peuples grâce à la musique et le jazz »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ucd1t1YZqGc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ucd1t1YZqGc"
         }
       }
     }

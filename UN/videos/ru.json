@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Язык ненависти: к чему он ведет? Беседа с Элис Вайриму Ндериту.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HSFOhAA7K_Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HSFOhAA7K_Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Спасите океаны!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dG_g5-XMCv4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Координатор ООН по кризису в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4RoSwttUsY0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4RoSwttUsY0"
         }
       }
     }
