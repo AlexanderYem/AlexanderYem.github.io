@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial de Combate à Desertificação e à Seca",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywuQvHhsUUw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ywuQvHhsUUw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lisboa em contagem regressiva para a Conferência dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bKgXfkhaeD4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Resiliart: João Marcello Bôscoli fala da retomada do setor musical após pandemia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t-UupBg12yc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t-UupBg12yc"
         }
       }
     }
