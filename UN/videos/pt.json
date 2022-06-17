@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal e o Combate à Violência Doméstica",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d8jY6_XEJtA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d8jY6_XEJtA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pescadores portugueses nos EUA falam à ONU News sobre saúde dos oceanos e economia azul",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y5SjuB4ActY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique agradece ao mundo por eleição para o Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sm5cCVdhbYc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sm5cCVdhbYc"
         }
       }
     }
