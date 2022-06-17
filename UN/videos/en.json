@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'If we want to protect our future, we need to save our oceans' - Upcoming UN Ocean Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4EDnOhMy0o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x4EDnOhMy0o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate, Haiti, Ukraine & other topics - Daily Press Briefing (16 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wqr75xJ_44k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Yoga for Humanity - 8th International Day of Yoga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-5z-1Vg7X-s/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-5z-1Vg7X-s"
         }
       }
     }
