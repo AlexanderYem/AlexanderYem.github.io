@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de ódio: quais são as consequências?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmGo8fTICjw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zmGo8fTICjw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial de Combate à Desertificação e à Seca",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xS8xyHU4qkI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Saiba como foi a campanha de Moçambique rumo ao Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bKgXfkhaeD4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bKgXfkhaeD4"
         }
       }
     }
