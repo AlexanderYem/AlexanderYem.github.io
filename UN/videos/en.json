@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Hate Speech & the Consequences Explained | What You Can Do to Prevent the Next Atrocity",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bQeoUQa3MiU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bQeoUQa3MiU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Major Economies Forum on Energy and Climate, Republic of Korea - Daily Press Briefing (17 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6unDyaI5gaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lebanon's Minefields | Clearing the Hidden Remnants of War | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-8AQnWIUU8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7-8AQnWIUU8"
         }
       }
     }
