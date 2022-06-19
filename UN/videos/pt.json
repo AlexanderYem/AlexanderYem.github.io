@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres visita refugiados e pede que nações desenvolvidas façam mais por reassentamento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ec27OO7lbzs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ec27OO7lbzs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso de ódio: quais são as consequências?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rWrtryaoZsg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique combate terrorismo em Cabo Delgado investindo em desenvolvimento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xS8xyHU4qkI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xS8xyHU4qkI"
         }
       }
     }
