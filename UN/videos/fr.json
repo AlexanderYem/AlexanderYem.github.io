@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Secrétaire général de l'ONU, António Guterres, rencontre des réfugiés vivant à New York",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cKRbFD2Kev8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cKRbFD2Kev8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discours de haine : agir maintenant pour prévenir la prochaine atrocité",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rdHpzzU-bvU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Burna Boy : « L'éducation est ce qui détermine ce que seront les enfant du futur ».",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sOFIgc0IQtw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sOFIgc0IQtw"
         }
       }
     }
