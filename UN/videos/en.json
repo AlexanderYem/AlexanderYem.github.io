@@ -80,19 +80,6 @@
     },
     {
       "snippet": {
-        "title": "Oceans Conference - Opening Ceremony | United Nations (27 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XUrvdzHiRaE/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XUrvdzHiRaE"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Climate, Haiti, Ukraine & other topics - Daily Press Briefing (16 June 2022)",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "l65qYD7cPFk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Albania/Security Council President on Women, Peace & Security - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHEzTMzmm_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oHEzTMzmm_I"
         }
       }
     }
