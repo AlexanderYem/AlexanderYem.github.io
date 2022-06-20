@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день беженцев",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4hdSzzz0-Dk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4hdSzzz0-Dk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Язык вражды: к чему он ведет? Беседа с Элис Вайриму Ндериту.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sU87VrYZAhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ООН в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dG_g5-XMCv4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dG_g5-XMCv4"
         }
       }
     }
