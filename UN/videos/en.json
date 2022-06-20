@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Briefing by Ireland & Norway on situation in Syria - Security Council Media Stakeout (20 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BsAX0mkPr_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BsAX0mkPr_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "World Refugee Day, Ukraine, Syria, & other topics - Daily Press Briefing (20 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LVcEVrX9XK4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Today’s conflicts are amplifying gender inequality' - UN Chief at Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XL2pw3iuep0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XL2pw3iuep0"
         }
       }
     }
