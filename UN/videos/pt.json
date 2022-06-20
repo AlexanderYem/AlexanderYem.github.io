@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres visita refugiados e faz apelo às nações desenvolvidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnuRwXjTS3g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZnuRwXjTS3g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres visita refugiados e pede que nações desenvolvidas façam mais por reassentamento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WJdYzv3IDGY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Momento de vitória de Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rWrtryaoZsg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rWrtryaoZsg"
         }
       }
     }
