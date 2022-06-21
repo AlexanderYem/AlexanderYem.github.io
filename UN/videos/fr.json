@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Education sans délai : permettre à 222 millions d'enfants de réaliser leurs rêves",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTMw1465Iec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bTMw1465Iec"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : des peintures murales pour exhorter les jeunes à la paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fbGR5wvUmd0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "le Secrétaire général de l'ONU remercie la Moldavie pour son « grand cœur »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/shtpzqy_lBU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "shtpzqy_lBU"
         }
       }
     }
