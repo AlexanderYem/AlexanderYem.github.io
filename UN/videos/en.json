@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Peacekeeping: How women are critical to UN Peacekeeping's successes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pqV6lokqHH8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pqV6lokqHH8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Syria - Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "313JXu5e2oI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Myanmar: Implications for the Rohingya minority - (15 June 2021) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PQ2rhuzT4Sg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PQ2rhuzT4Sg"
         }
       }
     }
