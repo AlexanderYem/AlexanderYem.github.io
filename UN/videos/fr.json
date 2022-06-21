@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : des peintures murales pour exhorter la paix aux jeunes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w63xD8RRDds/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w63xD8RRDds"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le Secrétaire général de l'ONU, António Guterres, rencontre des réfugiés vivant à New York",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "shtpzqy_lBU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La guerre en Ukraine a déclenché une crise de sécurité alimentaire dans le monde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rdHpzzU-bvU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rdHpzzU-bvU"
         }
       }
     }
