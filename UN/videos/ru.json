@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Человек и океан. Что они дают друг другу?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GJtQkIqeYRs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GJtQkIqeYRs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день беженцев",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aklsm1T5hNs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день свободы печати",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sU87VrYZAhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sU87VrYZAhg"
         }
       }
     }
