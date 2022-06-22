@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "First Meeting of States Parties to the Treaty on Prohibition of Nuclear Weapons - Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oF4VKHKIDCk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oF4VKHKIDCk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nuclear Weapons, Ukraine, Gaza & other topic - Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VUEwnERmta0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United Kingdom on Syria - Security Council Media Stakeout (20 June 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wrNNY7GBXtc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wrNNY7GBXtc"
         }
       }
     }
