@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Viongozi wa dini waungana na UNICEF kutokomeza Covid 19 Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7ZozWtpNLw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u7ZozWtpNLw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wengine waliuawa tukiikimbia DRC, UNHCR na Uganda wakatupokea - Mkimbizi kutoka DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "evL2oqwlnY4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mkutano wa Lisbon ni wa kubadili jinsi tunavyoiangalia bahari - Joao Cravinho",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C69uqWHxtLw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C69uqWHxtLw"
         }
       }
     }
