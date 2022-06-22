@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Ministro da Economia e do Mar de Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nJA1t_3_06E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nJA1t_3_06E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_2jrCidYt_c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: “Dependência desigual sobre recursos coloca os mais vulneráveis em perigo”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HeTVIU5Q6_Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HeTVIU5Q6_Q"
         }
       }
     }
