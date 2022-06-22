@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan recent earthquake - Press Conference (22 June 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Mw7snk4akc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_Mw7snk4akc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "First Meeting of States Parties to the Treaty on Prohibition of Nuclear Weapons - Press Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BsAX0mkPr_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United States on Syria - Security Council Media Stakeout (20 June 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VUEwnERmta0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VUEwnERmta0"
         }
       }
     }

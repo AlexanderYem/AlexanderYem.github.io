@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fcSiKC1DISg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fcSiKC1DISg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Refugiado: reassentamentos que salvam vidas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HeTVIU5Q6_Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, chefe da diplomacia de Portugal fala da eleição de Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WJdYzv3IDGY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WJdYzv3IDGY"
         }
       }
     }
