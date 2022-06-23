@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cine ONU em Lisboa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zaHEBAQU4A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3zaHEBAQU4A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Ministro da Economia e do Mar de Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yoh_13Cly_o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral das Nações Unidas para o Modelo ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_2jrCidYt_c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_2jrCidYt_c"
         }
       }
     }
