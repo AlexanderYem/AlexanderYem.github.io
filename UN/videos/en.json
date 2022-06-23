@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Let’s Smurf all together to protect our blue planet! | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ql0HWxMmmaU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ql0HWxMmmaU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Why the Oceans Matter with Cody Simpson and others - Ocean Conference 2022 | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ybTxStYE8fs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Head of UNMISS on Sudan and South Sudan - Security Council Media Stakeout (20 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fRuKCmLSqOQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fRuKCmLSqOQ"
         }
       }
     }
