@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan: Earthquake Aftermath - Humanitarian Briefing to United Nations Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SrffpZpBEQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_SrffpZpBEQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Security Council Members on Afghanistan - Joint Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tu_Wmsh73IA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tu_Wmsh73IA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Let’s Smurf all together to protect our blue planet! | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "pqV6lokqHH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Syria - Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2zkXR4mGfoc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2zkXR4mGfoc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Yoga for Humanity - 2022 International Day of Yoga | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ybTxStYE8fs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ybTxStYE8fs"
         }
       }
     }
