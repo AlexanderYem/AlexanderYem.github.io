@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministro do Mar de Cabo Verde fala sobre Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9iuFRzDWfQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H9iuFRzDWfQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lisboa recebe a Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ywuQvHhsUUw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lisboa em contagem regressiva para a Conferência dos Oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2wmuShbfgOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2wmuShbfgOY"
         }
       }
     }
