@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lisboa recebe a Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSnn1Fhuh-w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rSnn1Fhuh-w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal se prepara para a Conferência dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2wmuShbfgOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal e o Combate à Violência Doméstica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/d8jY6_XEJtA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "d8jY6_XEJtA"
         }
       }
     }
