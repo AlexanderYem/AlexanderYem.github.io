@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ni muhimu kuanza kufundisha watoto kuhusu kuilinda bahari - Katana Charo Hinzano wa Kilifi, Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuJVBE5w0iY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JuJVBE5w0iY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mfumo mbadala wa sheria umefanikiwa Kenya - UNODC, EU na wadau.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z2IQon6A42w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunavyowanusuru watoto na utumikishwaji kwenye mashamba ya tumbaku: Tanzania, ILO, na wadau.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q2xxz5QzcD0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q2xxz5QzcD0"
         }
       }
     }
