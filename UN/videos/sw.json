@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ni mwendo wa sanaa. Vijana hawana muda tena wa kubeba silaha, Goma, DRC.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BVWNHyTBaI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_BVWNHyTBaI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Changamoto moja kubwa ya kutimiza SDGs ni vijana hawana taarifa za kutosha – Paul Siniga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J01tHFQbJqw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mfuko wa ufadhili wa UN (SEA) umeniondolea mateso ya maisha – Manusura wa ukatili wa kingono",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oJZO7yUzW5U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oJZO7yUzW5U"
         }
       }
     }
