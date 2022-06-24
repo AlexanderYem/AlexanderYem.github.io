@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "البحر يعني الكثير بالنسبة لي .. إنه جزء من وجودي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DG8nsHHu_S8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DG8nsHHu_S8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أليس نديريتو: لا يولد طفل وبداخله كراهية. فالكراهية يتم تعلمها.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dW0zkcdywl0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الدكتور هاشم حسين: رواد الأعمال هم المستقبل وهم من يديرون عجلة التنمية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B1AC4462b8Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B1AC4462b8Q"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal se prepara para a Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2zqa3w6NwJo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2zqa3w6NwJo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cine ONU em Lisboa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d8jY6_XEJtA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pescadores portugueses nos EUA falam à ONU News sobre saúde dos oceanos e economia azul",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yoh_13Cly_o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yoh_13Cly_o"
         }
       }
     }
