@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vivendo da Pesca, Preservando a Cultura: Pescadores Portugueses nos Estados Unidos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4s9nSMf-70/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q4s9nSMf-70"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministro do Mar de Cabo Verde fala sobre Conferência dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zmGo8fTICjw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial de Combate à Desertificação e à Seca",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ywuQvHhsUUw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ywuQvHhsUUw"
         }
       }
     }
