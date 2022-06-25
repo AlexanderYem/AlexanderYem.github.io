@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Exposição Década do Oceano em Lisboa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wn5Uk38XJFM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wn5Uk38XJFM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vivendo da Pesca, Preservando a Cultura: Pescadores Portugueses nos Estados Unidos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ec27OO7lbzs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso de ódio: quais são as consequências?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zmGo8fTICjw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zmGo8fTICjw"
         }
       }
     }
