@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Apelo a ação rápida na relação global com os mares",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHX2sSGnseY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NHX2sSGnseY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Exposição Década do Oceano em Lisboa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZnuRwXjTS3g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres visita refugiados e pede que nações desenvolvidas façam mais por reassentamento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ec27OO7lbzs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ec27OO7lbzs"
         }
       }
     }
