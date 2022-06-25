@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "The Underground Railroad | Secret Path to Freedom over Niagara Falls | Global Lens | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fll8bf7oGHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fll8bf7oGHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SDG Roundtable: Fireside chat with Prime Minister Mia Mottley | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tu_Wmsh73IA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Let’s Smurf all together to protect our blue planet! | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ql0HWxMmmaU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ql0HWxMmmaU"
         }
       }
     }
