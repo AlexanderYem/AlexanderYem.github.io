@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Lisboa, Moçambicanos em festa falam dos oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IOeYVPxo1g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8IOeYVPxo1g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Apelo a ação rápida na relação global com os mares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fcSiKC1DISg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Refugiado: reassentamentos que salvam vidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZnuRwXjTS3g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZnuRwXjTS3g"
         }
       }
     }
