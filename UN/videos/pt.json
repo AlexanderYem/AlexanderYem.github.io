@@ -2,7 +2,46 @@
   "items": [
     {
       "snippet": {
-        "title": "Conferência #Oceanos:Guterres pede a mundo para salvar mares; Maya Gabeira nomeada campeã da Unesco",
+        "title": "Discurso do presidente de Angola na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fowwhGbiS5I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fowwhGbiS5I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso do primeiro-ministro de Portugal na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgFLd5DWSxU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zgFLd5DWSxU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso do presidente da Guiné-Bissau na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZTB8iNOuBg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aZTB8iNOuBg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Guterres pede salvação para mares; Maya Gabeira nomeada campeã da Unesco #shorts",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/WrnYw6axY1w/hqdefault.jpg"
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "NHX2sSGnseY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Exposição Década do Oceano em Lisboa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wn5Uk38XJFM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wn5Uk38XJFM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vivendo da Pesca, Preservando a Cultura: Pescadores Portugueses nos Estados Unidos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q4s9nSMf-70/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q4s9nSMf-70"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministro do Mar de Cabo Verde fala sobre Conferência dos Oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H9iuFRzDWfQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H9iuFRzDWfQ"
         }
       }
     }
