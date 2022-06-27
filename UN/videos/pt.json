@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Factos da maior Conferência dos Oceanos do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/68ziNNW4Yj8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "68ziNNW4Yj8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde na Conferência dos Oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2zqa3w6NwJo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cine ONU em Lisboa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3zaHEBAQU4A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3zaHEBAQU4A"
         }
       }
     }
