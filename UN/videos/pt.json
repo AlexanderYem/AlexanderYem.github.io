@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde na Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASyCi_qDZ-4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ASyCi_qDZ-4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens partilham experiências de sucesso em favor dos oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3zaHEBAQU4A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Ministro da Economia e do Mar de Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z1NXHA8Jyj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Z1NXHA8Jyj0"
         }
       }
     }
