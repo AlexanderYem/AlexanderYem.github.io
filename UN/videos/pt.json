@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#Oceanos:Moçambique aponta regras que atrasam uso de recursos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7QtfdJYhxAs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7QtfdJYhxAs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do presidente de Angola na Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8IOeYVPxo1g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apelo a ação rápida na relação global com os mares",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NHX2sSGnseY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NHX2sSGnseY"
         }
       }
     }
