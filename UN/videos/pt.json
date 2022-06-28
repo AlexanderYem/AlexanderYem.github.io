@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso da ministra de Moçambique na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-BLzg6Hy8ac/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-BLzg6Hy8ac"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso do ministro do Brasil na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZrWsHcyCUDQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZrWsHcyCUDQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "São Tomé e Príncipe promete abordagem nova com lei sobre a economia azul",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "g5-fO-_VbMo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Factos da maior Conferência dos Oceanos do mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/68ziNNW4Yj8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "68ziNNW4Yj8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde na Conferência dos Oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ASyCi_qDZ-4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ASyCi_qDZ-4"
         }
       }
     }
