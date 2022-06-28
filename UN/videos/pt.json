@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "São Tomé e Príncipe promete abordagem nova com lei sobre a economia azul",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXO10I1Ebtk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FXO10I1Ebtk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "É do mar que vem grande parte da nossa produção de petróleo, diz Angola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DbsCr_7HEFQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DbsCr_7HEFQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#Oceanos:Moçambique aponta regras que atrasam uso de recursos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ASyCi_qDZ-4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovens partilham experiências de sucesso em favor dos oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CWsU_qa1fdM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CWsU_qa1fdM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Lisboa, Moçambicanos em festa falam dos oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8IOeYVPxo1g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8IOeYVPxo1g"
         }
       }
     }
