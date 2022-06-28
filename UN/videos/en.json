@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "John Kerry: \"You cannot separate the ocean from the climate crisis\" - UN Ocean Conference 2022",
+        "title": "Security Council Members on Ukraine - Joint Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qPyJ-YUOg8g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qPyJ-YUOg8g"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "John Kerry (USA) at UN Ocean Conference - We can not separate the ocean from the climate crisis",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/jwWScYeyD7c/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AuelrhRy03o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN chief apologizes to young people on behalf of his generation for not protecting the oceans",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zVp7jjdPIEk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zVp7jjdPIEk"
         }
       }
     }
