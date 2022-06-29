@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do primeiro-ministro de São Tomé e Príncipe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AUFVcmILVT4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AUFVcmILVT4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso primeiro-ministro de Cabo Verde na Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fowwhGbiS5I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do primeiro-ministro de Portugal na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zgFLd5DWSxU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zgFLd5DWSxU"
         }
       }
     }
