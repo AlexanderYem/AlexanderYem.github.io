@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Documentário Rios Urbanos estreia na Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-YaOSzboiI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C-YaOSzboiI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso da ministra de Moçambique na Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WrnYw6axY1w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministro do Ambiente e Biodiversidade de Guiné-Bissau prioriza parcerias estratégicas #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/g5-fO-_VbMo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "g5-fO-_VbMo"
         }
       }
     }
