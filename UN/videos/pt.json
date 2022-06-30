@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sylvia Earle na Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wy3O6KThmuI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wy3O6KThmuI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Emanuel Gonçalves, cientista-chefe da Fundação Oceano Azul",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DbsCr_7HEFQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#Oceanos:Moçambique aponta regras que atrasam uso de recursos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7QtfdJYhxAs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7QtfdJYhxAs"
         }
       }
     }
