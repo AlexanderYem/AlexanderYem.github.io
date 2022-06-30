@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« L'océan pour moi, c'est mon meilleur ami »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fM83532upjY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fM83532upjY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pêcher pour vivre, préserver la culture : Les pêcheurs portugais aux États-Unis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2l47Bx-SXc4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sauvons les océans !",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IRAfaHmJKa0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IRAfaHmJKa0"
         }
       }
     }
