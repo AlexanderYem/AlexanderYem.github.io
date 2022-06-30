@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ACP diz que questão dos mares é existencial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9C5x-GUdcv8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9C5x-GUdcv8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sylvia Earle na Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FXO10I1Ebtk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "É do mar que vem grande parte da nossa produção de petróleo, diz Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DbsCr_7HEFQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DbsCr_7HEFQ"
         }
       }
     }
