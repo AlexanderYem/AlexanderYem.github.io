@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Emanuel Gonçalves, cientista-chefe da Fundação Oceano Azul",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgdqvGPSmVY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DgdqvGPSmVY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do primeiro-ministro de São Tomé e Príncipe",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7QtfdJYhxAs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do presidente de Angola na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fowwhGbiS5I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fowwhGbiS5I"
         }
       }
     }
