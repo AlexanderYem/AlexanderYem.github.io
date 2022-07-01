@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil assume presidência do Conselho de Segurança da ONU em julho",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cz00uMcE3aU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cz00uMcE3aU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ACP diz que questão dos mares é existencial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZrWsHcyCUDQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "São Tomé e Príncipe promete abordagem nova com lei sobre a economia azul",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FXO10I1Ebtk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FXO10I1Ebtk"
         }
       }
     }
