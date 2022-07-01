@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brazil (President of the Security Council for July) on the Programme of work - Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BhCWI1VpEv8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BhCWI1VpEv8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Turning the Tides for the Ocean: Five Key Outcomes from the Ocean Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4CGu8aVuxfM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on the Iran nuclear deal - Security Council Media Stakeout (30 June 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MwESL1iNGLs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MwESL1iNGLs"
         }
       }
     }

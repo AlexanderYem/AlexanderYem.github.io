@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "“A política é arte do encontro”, afirma ex-ministra do Mar de Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qiNN_0jdKRo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qiNN_0jdKRo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Virando as Marés para o Oceano: Cinco Principais Resultados da Conferência do Oceano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jbw6RP9qzcY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jbw6RP9qzcY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU News traz bastidores da Conferência dos Oceanos em Portugal",
         "thumbnails": {
           "high": {
@@ -15,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "Primeiro-ministro de Portugal, António Costa, fala à ONU News sobre Conferência dos Oceanos",
+        "title": "Primeiro-ministro de Portugal, António Costa, fala à ONU News sobre Conferência dos Oceanos #Shorts",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/9bO-8OdFR-Y/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "AUFVcmILVT4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso primeiro-ministro de Cabo Verde na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Uh3_2LR4CAA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Uh3_2LR4CAA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Conferência dos Oceanos levanta preocupação sobre poluição plástica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qtGYWCCoUrI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qtGYWCCoUrI"
         }
       }
     }
