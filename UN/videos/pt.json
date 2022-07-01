@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Declaração de Lisboa marca encerramento da Conferência dos Oceanos da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsIrmFVYn30/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lsIrmFVYn30"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil assume presidência do Conselho de Segurança da ONU em julho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-BLzg6Hy8ac"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do ministro do Brasil na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZrWsHcyCUDQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZrWsHcyCUDQ"
         }
       }
     }
