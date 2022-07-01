@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro-ministro de Portugal, António Costa, fala à ONU News sobre Conferência dos Oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bO-8OdFR-Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9bO-8OdFR-Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Declaração de Lisboa marca encerramento da Conferência dos Oceanos da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C-YaOSzboiI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso da ministra de Moçambique na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-BLzg6Hy8ac/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-BLzg6Hy8ac"
         }
       }
     }
