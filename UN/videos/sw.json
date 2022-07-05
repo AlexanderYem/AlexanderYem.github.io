@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lugha ya Kiswahili inaimarisha amani mashariki mwa DRC.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WOJIljGCW5M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WOJIljGCW5M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Hizi ndizo baadhi ya sababu kuu zilizoichelewesha lugha ya Kiswahili Burundi - Dorothée Nshimimana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_BVWNHyTBaI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Changamoto moja kubwa ya kutimiza SDGs ni vijana hawana taarifa za kutosha – Paul Siniga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QtjIKLtMJ3g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QtjIKLtMJ3g"
         }
       }
     }
