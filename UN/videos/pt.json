@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Na Guiné-Bissau, FAO forma especialistas para combater pragas de caju",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzXailWCgcg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qzXailWCgcg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Inauguração da exposição sobre Rui Barbosa na sede da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9C5x-GUdcv8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sylvia Earle na Conferência dos Oceanos da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wy3O6KThmuI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Wy3O6KThmuI"
         }
       }
     }
