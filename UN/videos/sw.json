@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Idhaa zote 9 za Umoja wa Mataifa zimekuja pamoja kusherehekea siku ya Kiswahili Duniani. Watazame...",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vw6jHJdcKKI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vw6jHJdcKKI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lugha ya Kiswahili inaimarisha amani mashariki mwa DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LrDcXuNIlYI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ni mwendo wa sanaa. Vijana hawana muda tena wa kubeba silaha, Goma, DRC.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_BVWNHyTBaI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_BVWNHyTBaI"
         }
       }
     }
