@@ -2,6 +2,15 @@
   "items": [
     {
       "snippet": {
+        "title": "Deleted video",
+        "thumbnails": {},
+        "resourceId": {
+          "videoId": "7wSjgYH5yRA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rais Samia Suluhu Hassan wa Tanzania ahutubia maadhimisho ya kwanza ya Kiswahili Duniani.",
         "thumbnails": {
           "high": {
@@ -114,19 +123,6 @@
         },
         "resourceId": {
           "videoId": "WOJIljGCW5M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hizi ndizo baadhi ya sababu kuu zilizoichelewesha lugha ya Kiswahili Burundi - Dorothée Nshimimana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nb215PdP84g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Nb215PdP84g"
         }
       }
     }
