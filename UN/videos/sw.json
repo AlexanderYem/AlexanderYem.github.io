@@ -2,10 +2,14 @@
   "items": [
     {
       "snippet": {
-        "title": "Deleted video",
-        "thumbnails": {},
+        "title": "Historia yaandikwa: Maadhimisho ya kwanza ya Siku ya Kiswahili Duniani yafana UN na kwingineko.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mx8H5WsOuqw/hqdefault.jpg"
+          }
+        },
         "resourceId": {
-          "videoId": "7wSjgYH5yRA"
+          "videoId": "Mx8H5WsOuqw"
         }
       }
     },
