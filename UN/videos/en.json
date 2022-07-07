@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "aespa (에스파): Strengthening the Real World as the Metaverse Accelerates #Shorts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/factFaIto4U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "factFaIto4U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN/EU Retreat, Mali, Central African Republic & other topics - Daily Press Briefing (6 July 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ARp4rYcvmbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "In Suriname, UN Chief supports indigenous peoples and nature",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/y3jlXtV_yaI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "y3jlXtV_yaI"
         }
       }
     }
