@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Salamu za Rais Filipe Nyusi wa Msumbiji kuadhimisha Siku ya Kiswahili Duniani.",
+        "title": "Rais Samia Suluhu Hassan wa Tanzania ahutubia maadhimisho ya kwanza ya Kiswahili Duniani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPW1tLnHZ_U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YPW1tLnHZ_U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kiswahili kinazungumzwa sana Msumbiji- Rais Filipe Nyusi wa Msumbiji",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/CiPmD17ggaA/hqdefault.jpg"
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Kiswahili kimeonesha kuwa jumuiya ya kimataifa inaweza kuja pamoja kwa lengo moja - Rais Ndaishimiye",
+        "title": "Muziki na sanaa vimesambaza kiswahili duniani- Rais Ndaishimiye",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/RoUzr5wMdMc/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Nb215PdP84g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uvuvi na ufugaji wa Samaki vina mchango mkubwa kwenye uhakika wa upatikanaji wa chakula: FAO",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EaCMsfovPS0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EaCMsfovPS0"
         }
       }
     }

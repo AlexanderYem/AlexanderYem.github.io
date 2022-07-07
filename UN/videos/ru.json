@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Филиппо Гранди в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t-jpQ4o6lKI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t-jpQ4o6lKI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Человек и океан. Что они дают друг другу?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eyKj9AxVz-c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мирные жители Мариуполя доставлены в Запорожье",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aklsm1T5hNs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aklsm1T5hNs"
         }
       }
     }
