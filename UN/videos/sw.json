@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Salamu za Rais Filipe Nyusi wa Msumbiji kuadhimisha Siku ya Kiswahili Duniani.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CiPmD17ggaA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CiPmD17ggaA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kiswahili kimeonesha kuwa jumuiya ya kimataifa inaweza kuja pamoja kwa lengo moja - Rais Ndaishimiye",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RoUzr5wMdMc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RoUzr5wMdMc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"𝐒𝐚𝐬𝐚 𝐰𝐚𝐬𝐨𝐦𝐚𝐣𝐢 𝐰𝐚 𝐯𝐢𝐭𝐚𝐛𝐮 𝐯𝐲𝐚𝐧𝐠𝐮 𝐯𝐲𝐚 𝐊𝐢𝐬𝐰𝐚𝐡𝐢𝐥𝐢 𝐰𝐚𝐭𝐚𝐨𝐧𝐠𝐞𝐳𝐞𝐤𝐚.\" - Pauline Kea",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "EaCMsfovPS0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kukubalika Kiswahili kimataifa kutabadili mwelekeo wa lugha ya kufundishia Tanzania?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WrDA6lTTylw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WrDA6lTTylw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kilimo cha mwani baharini kimenitoa kwenye nyumba ya tope – Amiri wa Kibuyuni, Kwale - Kenya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZYnA0-aPD6A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZYnA0-aPD6A"
         }
       }
     }
