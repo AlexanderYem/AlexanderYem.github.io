@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Updates on West Africa and the Sahel - Press Conference (7 July 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BC7lAwwVBWw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BC7lAwwVBWw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Liita's Conversa - 'AI-assisted Digital Dialogue with Bolivian citizens' | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PC_bVPmkMn4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "aespa (에스파):We’ll work to represent sustainable goals in reality & in the metaverse | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sUpCP6pjq3Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sUpCP6pjq3Y"
         }
       }
     }
