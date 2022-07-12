@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guinea-Bissau: Combatiendo las nuevas rutas del narcotráfico",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nV1eIyW6pVs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nV1eIyW6pVs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día del Idioma Español en la ONU 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JZaP215omGo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La COVID-19 no será la última pandemia a la que deba enfrentarse la humanidad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0To5LfV-a2Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0To5LfV-a2Y"
         }
       }
     }
