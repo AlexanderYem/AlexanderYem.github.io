@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Presidente de Portugal, Marcelo Rebelo de Sousa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yg0NfcavK5E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Yg0NfcavK5E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comunicação estratégica é pilar importante para missões de paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qiNN_0jdKRo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Virando as Marés para o Oceano: Cinco Principais Resultados da Conferência do Oceano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jbw6RP9qzcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jbw6RP9qzcY"
         }
       }
     }
