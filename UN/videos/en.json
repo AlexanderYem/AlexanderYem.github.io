@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "United Nations - LIVE",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QmS91wXEpFs/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QmS91wXEpFs"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "UN Chief updates on Ukraine Grain Talks in Istanbul: \"We've seen a critical step forward\"",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "mSbokmoEEmM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Chief on cross-border aid to Syria - Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/29Wx-bqOdKY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "29Wx-bqOdKY"
         }
       }
     }
