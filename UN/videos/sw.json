@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wadau wa elimu DRC watoa wito Kiswahili kiwe lugha ya mawasiliano shuleni.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNPwRHhG1hM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VNPwRHhG1hM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bila UNDP, Zanzibar Covid 19 ilikuwa imeua biashara yetu kabisa - Ahmed Alawi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "l-7mX1u_pw0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Heri ya Siku ya Kiswahili Duniani.\" - Kayamba Africa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6tiZUEP926Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6tiZUEP926Y"
         }
       }
     }
