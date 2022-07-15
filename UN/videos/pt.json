@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Presidência brasileira no Conselho de Segurança e mostra sobre Rui Barbosa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnY8_zkiglo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bnY8_zkiglo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Presidente de Portugal, Marcelo Rebelo de Sousa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E4Oat7GL4HU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“A política é arte do encontro”, afirma ex-ministra do Mar de Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qiNN_0jdKRo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qiNN_0jdKRo"
         }
       }
     }
