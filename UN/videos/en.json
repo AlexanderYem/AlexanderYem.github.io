@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Nelson Mandela Day with Prince Harry as Keynote speaker | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/F5i7KpqMnCw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "F5i7KpqMnCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Sri Lanka, South Sudan & other topics - Daily Press Briefing (15 July 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EDhUaRLeeCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Act Together to Tackle the Biggest Challenge We Face - UN Climate Thought Leaders: Catherine McKenna",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gIYgMb1sos8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gIYgMb1sos8"
         }
       }
     }
