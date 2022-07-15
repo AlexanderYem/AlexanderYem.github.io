@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "(PREMIERE) UN Chamber Music Society Concert in Celebration of International Nelson Mandela Day",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_9jFzHJjs4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_9jFzHJjs4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Colombia: Peace Process update - Security Council Stakeout (14 July 2022)",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "Tob8xkDCofM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(PREMIERE) UN Chamber Music Society Concert in Celebration of International Nelson Mandela Day",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yzciXgjsRbs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yzciXgjsRbs"
         }
       }
     },
