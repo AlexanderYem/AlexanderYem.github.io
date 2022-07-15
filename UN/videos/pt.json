@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guiné-Bissau destaca rumo aos ODS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdq7rmpNfqM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hdq7rmpNfqM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Presidência brasileira no Conselho de Segurança e mostra sobre Rui Barbosa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "susm96ex6hM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Suriname, chefe da ONU diz que indígenas convivem em sabedoria com a natureza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E4Oat7GL4HU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E4Oat7GL4HU"
         }
       }
     }
