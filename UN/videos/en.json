@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nelson Mandela International Day 2022- UN Chief Message",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d7xPdmv3m1A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d7xPdmv3m1A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Nelson Mandela Day with Prince Harry as Keynote speaker | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EsZJ8VpsbLQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nigeria, Ukraine, Holocaust & other topics - Daily Press Briefing (13 July 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EDhUaRLeeCM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EDhUaRLeeCM"
         }
       }
     }
