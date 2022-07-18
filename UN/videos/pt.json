@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Família Schurmann segue expedição para acelerar fim da poluição plástica nos mares",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HMa5cDZUkgY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HMa5cDZUkgY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau destaca rumo aos ODS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qzXailWCgcg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Inauguração da exposição sobre Rui Barbosa na sede da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/susm96ex6hM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "susm96ex6hM"
         }
       }
     }
