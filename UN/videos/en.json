@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Prince Harry, The Duke of Sussex, on Mandela: \"A man with the weight of the world on his shoulders\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/snWkrzLepts/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "snWkrzLepts"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Climate, Nelson Mandela International Day, MH17 & other topics - Daily Press Briefing (18 July 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vImKqS2Bj20/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vImKqS2Bj20"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Nelson Mandela Day with Prince Harry, The Duke of Sussex as Keynote speaker | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "33wLmPXX-YA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Colombia, Secretary General & other topics - Daily Press Briefing (14 July 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ghX3GKkde3M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ghX3GKkde3M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland & European Union Special Envoy on the Transitional Justice in Colombia - Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mgCNm8kK97o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mgCNm8kK97o"
         }
       }
     }
