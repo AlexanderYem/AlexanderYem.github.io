@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola e a Declaração de Lisboa sobre oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BctjjMdd-7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BctjjMdd-7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Portugal diz que “Brasil é uma grande potência”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-pOQcUNk9xo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente da Fundação Casa de Rui Barbosa lembra como ele escreveu “Oração aos Moços”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TKgLpaeaufA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TKgLpaeaufA"
         }
       }
     }
