@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Portugal diz que “Brasil é uma grande potência”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TpeN4WItteY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TpeN4WItteY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Família Schurmann segue expedição para acelerar fim da poluição plástica nos mares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TKgLpaeaufA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na Guiné-Bissau, FAO forma especialistas para combater pragas de caju",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qzXailWCgcg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qzXailWCgcg"
         }
       }
     }
