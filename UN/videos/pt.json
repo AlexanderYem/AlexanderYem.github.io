@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres e ações pós-conferência de Lisboa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXrcZae7Phk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UXrcZae7Phk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola e a Declaração de Lisboa sobre oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vxcfwM-PoAA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Por Dentro da ONU: Conheça “Guerra e Paz”, os painéis icônicos do brasileiro Candido Portinari",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-pOQcUNk9xo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-pOQcUNk9xo"
         }
       }
     }
