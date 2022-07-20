@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moment for Nature - UN Chief message | United Nations | Climate Action",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/949fRce3HBY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "949fRce3HBY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Traveling virtually to the Pacific – The UN uses Virtual Reality for advocacy on climate security",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ep_LrD1K_Wo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nelson Mandela Day: UN General Assembly President: \"To honor him, we must channel his perseverance\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z-Q2gMzcxWY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z-Q2gMzcxWY"
         }
       }
     }
