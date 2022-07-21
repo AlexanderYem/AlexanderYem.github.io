@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti: Joint Security Council Stakeout (21 July 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VBWMIdAwKk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8VBWMIdAwKk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan, Sudan, Syria & other topics - Daily Press Briefing (20 July 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LvlO-NNC5Ik"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prince Harry, The Duke of Sussex, on Mandela: \"A man with the weight of the world on his shoulders\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/snWkrzLepts/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "snWkrzLepts"
         }
       }
     }
