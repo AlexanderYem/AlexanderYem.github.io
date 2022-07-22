@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "«Маяк надежды»: в Турции подписали соглашения о поставках сельхозпродукции из Украины и России",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RUlHoZfdUjs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RUlHoZfdUjs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Экспозиция «Во что вы были одеты?» в штаб-квартире ООН в Нью-Йорке",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gams81k1Dc4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день миротворцев ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fgXtZb96zqk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fgXtZb96zqk"
         }
       }
     }
