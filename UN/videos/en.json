@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"A Life-long Quest for Justice\" Interview with Serge Brammertz (IRMCT) - Awake at Night",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M1OMM-UChPE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M1OMM-UChPE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Black Sea Initiative, Ukraine, Iraq & other topics - Daily Press Briefing (22 July 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "949fRce3HBY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Traveling virtually to the Pacific – The UN uses Virtual Reality for advocacy on climate security",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gr7Q4CDE1sY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gr7Q4CDE1sY"
         }
       }
     }
