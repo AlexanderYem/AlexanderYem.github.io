@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde prepara-se para acolher grande regata",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Yb-sxkDtWI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1Yb-sxkDtWI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Família Schurmann promove reciclagem em veleiro sustentável Kat",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TpeN4WItteY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Família Schurmann segue expedição para acelerar fim da poluição plástica nos mares",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HMa5cDZUkgY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HMa5cDZUkgY"
         }
       }
     }
