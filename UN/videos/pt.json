@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS responde o que você precisa saber sobre a varíola dos macacos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b_r9xbUG8PE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b_r9xbUG8PE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde prepara-se para acolher grande regata",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BctjjMdd-7k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Portugal diz que “Brasil é grande potência” ao comentar Bicentenário da Independência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TpeN4WItteY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TpeN4WItteY"
         }
       }
     }
