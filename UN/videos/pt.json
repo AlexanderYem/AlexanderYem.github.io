@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Dados sobre HIV, diretos das mulheres e meninas afegãs e varíola dos macacos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wnzv4NZuoJs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wnzv4NZuoJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS responde o que você precisa saber sobre a varíola dos macacos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UXrcZae7Phk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola e a Declaração de Lisboa sobre oceanos #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BctjjMdd-7k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BctjjMdd-7k"
         }
       }
     }
