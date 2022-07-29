@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Afghanistan & other topics - Daily Press Briefing (29 July 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2r7xqlEN_9k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2r7xqlEN_9k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Black Sea Grain Initiative  - Press Conference (28 July 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-59Qaq3ZgNE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Myanmar, Afghanistan & other topics - Daily Press Briefing (25 July 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GJI2oP8b__E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GJI2oP8b__E"
         }
       }
     }
