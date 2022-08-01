@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: First commercial ship since February sails from Odesa - UN Chief Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cUhbaAqy3ew/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cUhbaAqy3ew"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The situation of Women and Girls in Afghanistan - Press Conference (25 July 2022) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3DVZxYZZm60"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel on Israel/Palestine - Security Council Media Stakeout (26 July 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xmBWwZeDnqs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xmBWwZeDnqs"
         }
       }
     }
