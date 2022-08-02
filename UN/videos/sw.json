@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vijana walioshiriki mafunzo ya uongozi (YALI) Marekani, wayapeleka maarifa Afrika.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHO9ko1yf4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xHO9ko1yf4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanajeshi wa MONUSCO waliouawa katika maandamano DRC waagwa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zhunTRmLfvw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siku ya Kimataifa ya kuzuia kuzama maji",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ItlTUtV3FL8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ItlTUtV3FL8"
         }
       }
     }
