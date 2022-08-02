@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le Chef de l'ONU souligne l'importance du traité de non-prolifération",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGxg22vxGEE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UGxg22vxGEE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La variole du singe - 5 choses à savoir",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Nin2-HywpIM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Education sans délai : permettre à 222 millions d'enfants de réaliser leurs rêves",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bTMw1465Iec/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bTMw1465Iec"
         }
       }
     }
