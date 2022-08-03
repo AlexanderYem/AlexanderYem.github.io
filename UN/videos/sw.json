@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Tunaishukuru UNICEF kutupatia mafunzo ya ndege zisizo na rubani – Vijana Afrika",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DPWyPDB2MvI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DPWyPDB2MvI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mbinu bunifu za kuokoa maisha ya watoto Afar, Ethiopia.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFOZKdznxeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QFOZKdznxeE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vijana walioshiriki mafunzo ya uongozi (YALI) Marekani, wayapeleka maarifa Afrika.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "0V-z8PdjHGA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ulikuwa umevaa nini? Moja ya maswali yasiyofaa, wanayoulizwa manusura wa ubakaji.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bp3z2R0XPo0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bp3z2R0XPo0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Walinda amani wa UN kutoka Tanzania walenga kuhamasisha amani DRC kupitia Kiswahili",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zhunTRmLfvw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zhunTRmLfvw"
         }
       }
     }
