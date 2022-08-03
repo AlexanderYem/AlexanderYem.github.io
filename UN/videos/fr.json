@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'ONU peut-elle arrêter une guerre ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBV_ccJADXU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oBV_ccJADXU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l'ONU souligne l'importance du traité de non-prolifération",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XgcQZvYv_94"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pourquoi les océans sont importants ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nin2-HywpIM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Nin2-HywpIM"
         }
       }
     }
