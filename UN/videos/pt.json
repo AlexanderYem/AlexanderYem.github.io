@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: “Armas nucleares são garantia de insegurança”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkO6nYQcOOU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UkO6nYQcOOU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A ONU pode impedir uma guerra?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mx2xuMvBnXM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Aquele que população brasileira eleger irá tomar posse\" #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sabZigoMzFE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sabZigoMzFE"
         }
       }
     }
