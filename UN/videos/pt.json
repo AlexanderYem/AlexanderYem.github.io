@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Povos Indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w3wUTUwQX-k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w3wUTUwQX-k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU faz novo apelo para responder ao agravamento da crise na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wnzv4NZuoJs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS responde o que você precisa saber sobre a varíola dos macacos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b_r9xbUG8PE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b_r9xbUG8PE"
         }
       }
     }
