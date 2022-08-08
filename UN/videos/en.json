@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Peace Memorial Ceremony in Hiroshima with UN Chief (6 August 2022)",
+        "title": "Israel on Palestine- Security Council Media Stakeout (8 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qt1sEAGSAOA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qt1sEAGSAOA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Surviving Victims of Atomic Bombs in Hiroshima & Nagasaki | Peace Memorial Ceremony | UN Chief",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/mcD3n4TLaC0/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Rn_tU-hFpmY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Democratic Republic of the Congo & other topics - Daily Press Briefing (2 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gdlua0fwYrg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gdlua0fwYrg"
         }
       }
     }
