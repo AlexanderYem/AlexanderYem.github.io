@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Trip to Mongolia, Israel/Gaza, Ukraine & other topics - Daily Press Briefing (8 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3j5Pkao4VW4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3j5Pkao4VW4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel on Palestine- Security Council Media Stakeout (8 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fs17jW16CTY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Global Crisis Response Group (Third report) on the war - Press Conference (3 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rn_tU-hFpmY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rn_tU-hFpmY"
         }
       }
     }
