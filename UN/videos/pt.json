@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU faz novo apelo para responder ao agravamento da crise na Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zaz-dJZmRH8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zaz-dJZmRH8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Jovem Terena envia mensagem para Dia Internacional dos Povos Indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/epNvqM5aXHc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "epNvqM5aXHc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Brasileiro na Ucrânia explica a retomada das exportações de grãos no país",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "b_r9xbUG8PE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde prepara-se para acolher grande regata",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1Yb-sxkDtWI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1Yb-sxkDtWI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Família Schurmann promove reciclagem em veleiro sustentável Kat",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jAELjMAgcmM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jAELjMAgcmM"
         }
       }
     }
