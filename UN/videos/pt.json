@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres indígenas na conservação e transmissão dos conhecimentos tradicionais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8l0QWl11D4o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8l0QWl11D4o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional dos Povos Indígenas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9uwh-WkGhuk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Dados sobre HIV, diretos das mulheres e meninas afegãs e varíola dos macacos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wnzv4NZuoJs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wnzv4NZuoJs"
         }
       }
     }
