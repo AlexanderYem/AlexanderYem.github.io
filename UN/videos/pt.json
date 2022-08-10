@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Guterres na Ásia, violência contra mulheres e dia dos povos indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KAwwijY6dJw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KAwwijY6dJw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mulheres indígenas na conservação e transmissão dos conhecimentos tradicionais",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I4jTbRnkEhU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Varíola dos macacos: cinco fatos para entender a nova emergência de saúde global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9uwh-WkGhuk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9uwh-WkGhuk"
         }
       }
     }
