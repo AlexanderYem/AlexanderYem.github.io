@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Norway on Ukraine - Security Council Media Stakeout (11 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GxloKIBSNb4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GxloKIBSNb4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Voices of Change: Turn that anger into collective action - Interview with Nicole Becker",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AjWshLMOppc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza: 'fragile' truce between Israel and Palestinian Islamic Jihad militants - Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tw8xVOmK_iY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Tw8xVOmK_iY"
         }
       }
     }
