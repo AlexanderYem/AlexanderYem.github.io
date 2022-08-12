@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря по случаю Международного дня молодежи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y5htZ-lY3w4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y5htZ-lY3w4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генеральный секретарь ООН приветствовал выход из Одессы судна с украинским зерном",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-qkOFxg_2Yk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Амин Авад, Кризисный координатор ООН по Украине дал эксклюзивное интервью Службе новостей ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BcU7az--oq0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BcU7az--oq0"
         }
       }
     }
