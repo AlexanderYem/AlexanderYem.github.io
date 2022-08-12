@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Hatimaye Washona wapiga kura kwa mara ya kwanza tangu walipoingia nchini humo mwanzoni mwa 1960.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHPj2Fk9IUo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JHPj2Fk9IUo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mshikamano wa marika yote unawasaidia vijana kufikia malengo yao kwa haraka.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cZkaUvIHe_Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "NDOTO YA KAKENYA: Kufanikisha lengo namba 5 la SDGs.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tnkLTPNF_I8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tnkLTPNF_I8"
         }
       }
     }

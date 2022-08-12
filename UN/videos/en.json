@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Youth Day 2022 - UN Chief Video Message (12 August)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hKyIgI1uQo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2hKyIgI1uQo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Ukraine - Security Council Media Stakeout (11 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "avwMhUHqe50"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mongolia, Japan, Gaza & other topics - Daily Press Briefing (9 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sMN7rV7VWWY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sMN7rV7VWWY"
         }
       }
     }
