@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista a Nicole Becker: \"Convertir esa rabia en acción colectiva\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jV299f0UBZY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jV299f0UBZY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guinea-Bissau: Combatiendo las nuevas rutas del narcotráfico",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5yKxKMv05HY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hagamos de la recuperación nuestro propósito para 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JZaP215omGo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JZaP215omGo"
         }
       }
     }
