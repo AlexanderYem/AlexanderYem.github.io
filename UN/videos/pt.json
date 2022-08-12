@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_mSwJKNLkM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w_mSwJKNLkM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Espero que Irã não desenvolva armas nucleares, afirma ex-alto representante para Desarmamento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UkO6nYQcOOU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A ONU pode impedir uma guerra?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t7FhXkDegcE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t7FhXkDegcE"
         }
       }
     }
