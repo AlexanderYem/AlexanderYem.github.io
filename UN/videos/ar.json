@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "حوار: مبادرة شبابية سعودية معنية بترقية جودة الحياة في المدن العربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2lrkDCgydE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e2lrkDCgydE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأونروا تواصل جهود إعادة إعمار منازل اللاجئين الفلسطينيين في قطاع غزة",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "K8gx19rTGq4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار: مبادرة شبابية سعودية معنية بترقية جودة الحياة في المدن العربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e2lrkDCgydE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e2lrkDCgydE"
         }
       }
     },
