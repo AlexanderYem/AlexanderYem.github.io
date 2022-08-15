@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "TEDI Tanzania tunalenga kuhamasisha kuwe elimu inayoendana na hali ya sasa duniani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQk8z8sCZ0k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YQk8z8sCZ0k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwaka mmoja wa kuengua watoto wa kike kwenye elimu Afghanistan, kwagharimu dola milioni 500",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_Po5kLfTY8w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kuna watu wana ujuzi mkubwa hawana vyeti, sasa tunawatambua - FAO Kenya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-EgMCw5NAec/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-EgMCw5NAec"
         }
       }
     }
