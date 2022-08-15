@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Um ano do retorno do Talibã ao poder no Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_qyNnDmDC84/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_qyNnDmDC84"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: situação em usina nuclear na Ucrânia, fome na Somália e o Dia da Juventude",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HLIddGV0aAI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“É mito que o álcool faz bem para a saúde”, diz médica da Opas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6oY6NRrqKC0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6oY6NRrqKC0"
         }
       }
     }
