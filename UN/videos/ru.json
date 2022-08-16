@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Сухогруз Brave Commander вышел из порта Южный",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H2VeGV5TUmw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H2VeGV5TUmw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря по случаю Международного дня молодежи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4hdSzzz0-Dk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Язык вражды: к чему он ведет? Беседа с Элис Вайриму Ндериту.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HSFOhAA7K_Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HSFOhAA7K_Q"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "MONUSCO yawawezesha vijana waliokuwa wakipigana vita msituni na sasa ni mafundi simu huko Goma, DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmgPU_sBKdA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SmgPU_sBKdA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "TEDI Tanzania tunalenga kuhamasisha kuwe elimu inayoendana na hali ya sasa duniani",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JHPj2Fk9IUo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mshikamano wa marika yote unawasaidia vijana kufikia malengo yao kwa haraka.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Po5kLfTY8w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_Po5kLfTY8w"
         }
       }
     }
