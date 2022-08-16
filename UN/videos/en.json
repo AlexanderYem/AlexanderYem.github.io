@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan: one year since the Taliban takeover  - Press Conference (15 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9spDquzJHwA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9spDquzJHwA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"We need to end the conflict, not merely manage it\" - Special Envoy for Yemen | Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2hKyIgI1uQo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Ukraine - Security Council Media Stakeout (11 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ePsC6oQHCNI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ePsC6oQHCNI"
         }
       }
     }
