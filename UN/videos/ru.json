@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Памяти Кофи Аннана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0RN898iDqk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h0RN898iDqk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Сухогруз Brave Commander вышел из порта Южный",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GJtQkIqeYRs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день беженцев",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4hdSzzz0-Dk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4hdSzzz0-Dk"
         }
       }
     }
