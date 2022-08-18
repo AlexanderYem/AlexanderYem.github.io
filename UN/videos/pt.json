@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O trabalho do PMA em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvGggUexBxg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nvGggUexBxg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Um ano do retorno do Talibã ao poder no Afeganistão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "epNvqM5aXHc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Brasileiro na Ucrânia explica a retomada das exportações de grãos no país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HLIddGV0aAI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HLIddGV0aAI"
         }
       }
     }

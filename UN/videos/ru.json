@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmCn_ftFHOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FmCn_ftFHOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Памяти Кофи Аннана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t-jpQ4o6lKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Человек и океан. Что они дают друг другу?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GJtQkIqeYRs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GJtQkIqeYRs"
         }
       }
     }

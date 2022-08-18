@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un millón de corales por Colombia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jz89ypr6XDM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jz89ypr6XDM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista a Nicole Becker: \"Convertir esa rabia en acción colectiva\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nLYXr8hpYtU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "¿Qué son las emisiones netas cero?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5yKxKMv05HY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5yKxKMv05HY"
         }
       }
     }
