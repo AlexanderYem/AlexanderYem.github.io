@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional de Memória e Tributo às Vítimas do Terrorismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xgSWoK4eS4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9xgSWoK4eS4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Na frente humanitária “temos que ser ágeis e inovadores”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KAwwijY6dJw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mulheres indígenas na conservação e transmissão dos conhecimentos tradicionais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8l0QWl11D4o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8l0QWl11D4o"
         }
       }
     }
