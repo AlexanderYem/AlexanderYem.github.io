@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Afghanistan, Palestine & other topics - Daily Press Briefing (19 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SGNtFcsaC78/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SGNtFcsaC78"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine’s Odesa port: UN Secretary-General's remarks to the Press | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9spDquzJHwA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"We need to end the conflict, not merely manage it\" - Special Envoy for Yemen | Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gxAUFoY_Qps/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gxAUFoY_Qps"
         }
       }
     }
