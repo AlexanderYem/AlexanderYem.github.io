@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Fake news, protestos e mortes na RD Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_q5wD5nUeYQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_q5wD5nUeYQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial Humanitário 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "w3wUTUwQX-k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU faz novo apelo para responder ao agravamento da crise na Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zaz-dJZmRH8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zaz-dJZmRH8"
         }
       }
     }
