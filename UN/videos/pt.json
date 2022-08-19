@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial Humanitário 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3ik3mtQ_AI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B3ik3mtQ_AI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O trabalho do PMA em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zaz-dJZmRH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovem Terena envia mensagem para Dia Internacional dos Povos Indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/epNvqM5aXHc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "epNvqM5aXHc"
         }
       }
     }
