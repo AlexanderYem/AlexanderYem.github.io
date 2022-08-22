@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especialista explica riscos da instabilidade e falta de regulação das criptomoedas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/omXgFLMfJ9U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "omXgFLMfJ9U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional de Memória e Tributo às Vítimas do Terrorismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GXzAzlMuyPY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Guterres na Ásia, violência contra mulheres e dia dos povos indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KAwwijY6dJw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KAwwijY6dJw"
         }
       }
     }
