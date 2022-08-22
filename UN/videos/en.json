@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Security Council & other topics - Daily Press Briefing (22 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6MjAn9nT3II/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6MjAn9nT3II"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "China on Ukraine & other topics - Security Council Media Stakeout (22 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TE-vqte-fq0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "World Humanitarian Day 2022 - UN Chief message",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PillH4jjcbQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PillH4jjcbQ"
         }
       }
     }
