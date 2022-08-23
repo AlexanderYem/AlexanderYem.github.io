@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'Today’s collective security system is being tested like never before' -UN Chief at Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UeGrCNWjhZo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UeGrCNWjhZo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Security Council & other topics - Daily Press Briefing (22 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cJKLeck7kLo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Twitter Promo #Shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TE-vqte-fq0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TE-vqte-fq0"
         }
       }
     }
