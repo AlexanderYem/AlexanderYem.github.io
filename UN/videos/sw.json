@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kabila la washona waishukuru Kenya kwa kuwapatia hati ya utaifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lDNvF82xb9M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lDNvF82xb9M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "WFP laongeza usaidizi katika pembe ya Afrika",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VOAJzsILU_w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kiswahili: Juhudi binafsi za kukiendeleza sambamba na kinavyoleta ahueni kwa walioko kwenye mizozo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I5NziRlaVlo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I5NziRlaVlo"
         }
       }
     }
