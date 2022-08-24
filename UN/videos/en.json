@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Ethiopia, Iraq & other topics - Daily Press Briefing (24 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1G3UwznSt9w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1G3UwznSt9w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Ukraine - Security Council Media Stakeout (24 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x3xrGMnJleI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mexico on Sudan and South Sudan - Security Council Media Stakeout (23 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l6OrfB0WITI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l6OrfB0WITI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Guerra na Ucrânia, crianças em risco na África e eleições em São Tomé e Príncipe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rBdz3dsI7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6rBdz3dsI7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência da ONU na Guiné-Bissau que apoiar o empreendedorismo juvenil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SqwnIIiV6M0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w_mSwJKNLkM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w_mSwJKNLkM"
         }
       }
     }
