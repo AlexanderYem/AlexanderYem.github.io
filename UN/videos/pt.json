@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência da ONU na Guiné-Bissau que apoiar o empreendedorismo juvenil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NzDlzmOre6Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NzDlzmOre6Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Especialista explica riscos da instabilidade e falta de regulação das criptomoedas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "w_mSwJKNLkM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Espero que Irã não desenvolva armas nucleares, afirma ex-alto representante para Desarmamento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GXzAzlMuyPY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GXzAzlMuyPY"
         }
       }
     }
