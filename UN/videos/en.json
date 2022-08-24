@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Ukraine - Security Council Media Stakeout (24 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMOs1ngKIz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wMOs1ngKIz8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine & other UN Members on Ukraine/Russian War - Security Council Media Stakeout (24 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5imYqs4Zkis/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5imYqs4Zkis"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Maintenance of peace and security - Security Council, 9115th meeting | Live | Official",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "l6OrfB0WITI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, South Sudan, Horn of Africa & other topics - Daily Press Briefing (23 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/klLn74rn--A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "klLn74rn--A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Today’s collective security system is being tested like never before' -UN Chief at Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UeGrCNWjhZo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UeGrCNWjhZo"
         }
       }
     }
