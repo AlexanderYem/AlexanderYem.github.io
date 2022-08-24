@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maintenance of peace and security of Ukraine - Security Council, 9115th meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DcUW69210o/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_DcUW69210o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Ukraine - Security Council Media Stakeout (23 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4WWCoqES9NQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Surviving Terrorism: The Power of Memories",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3CWmtkZtqxE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3CWmtkZtqxE"
         }
       }
     }
