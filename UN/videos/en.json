@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "China on Afghanistan - Security Council Media Stakeout (25 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uywPAe1ZCmQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uywPAe1ZCmQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(LIVE) Palestine: UN Security Council on the situation in the Middle East | United Nations | Full",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "l2lOCNX-f1c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Norway on Ukraine - Security Council Media Stakeout (24 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xKa71mIHVMM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xKa71mIHVMM"
         }
       }
     }
