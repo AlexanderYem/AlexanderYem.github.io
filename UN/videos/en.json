@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "(LIVE) Palestine: UN Security Council on the situation in the Middle East | United Nations | Full",
+        "title": "Ukraine, Ethiopia, Yemen & other topics - Daily Press Briefing (25 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YY0WtZNvBdQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YY0WtZNvBdQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Palestine: UN Security Council on the situation in the Middle East | United Nations | Full",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/8XpPSMflXw4/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_DcUW69210o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on Ukraine - Security Council Media Stakeout (24 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-9mMhoW6gh0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-9mMhoW6gh0"
         }
       }
     }
