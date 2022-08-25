@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: \"Any further escalation of the situation could lead to self-destruction.” - UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYzJCKotVl4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jYzJCKotVl4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Ethiopia, Iraq & other topics - Daily Press Briefing (24 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QaKLG0eWgmo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Education is not reading or maths, it is to create a protective environment\" - ECW Press Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x3xrGMnJleI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x3xrGMnJleI"
         }
       }
     }
