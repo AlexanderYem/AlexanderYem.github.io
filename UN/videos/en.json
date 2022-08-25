@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Palestine on Israel/Palestine Conflict - Security Council Media Stakeout (25 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdkeBL_-GFo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XdkeBL_-GFo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "China on Afghanistan - Security Council Media Stakeout (25 August 2022)",
         "thumbnails": {
           "high": {
@@ -18,7 +31,7 @@
         "title": "(LIVE) Palestine: UN Security Council on the situation in the Middle East | United Nations | Full",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/8XpPSMflXw4/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/8XpPSMflXw4/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-9mMhoW6gh0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United Kingdom on Ukraine - Security Council Media Stakeout (24 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l2lOCNX-f1c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l2lOCNX-f1c"
         }
       }
     }
