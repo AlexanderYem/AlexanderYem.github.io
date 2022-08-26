@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Taarifa za wizara za afya Afrika",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vJSv4MBGXHM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vJSv4MBGXHM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afya kwa vijana balehe ni msingi mzuri wa kuyafikia maelengo mengine ya maendeleo endelevu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T0qmbA3Y84A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "NENO MOJA LA FARAJA LINAWEZA MFANYA MTU ASIJIUE",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_DK9eIBz_2g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_DK9eIBz_2g"
         }
       }
     }
