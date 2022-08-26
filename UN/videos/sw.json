@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afya kwa vijana balehe ni msingi mzuri wa kuyafikia maelengo mengine ya maendeleo endelevu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0U7RtXQFr3g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0U7RtXQFr3g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwanza Tanzania wavuvi wazipa kisogo karabai na kugeukia taa za sola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_DK9eIBz_2g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "MONUSCO yawawezesha vijana waliokuwa wakipigana vita msituni na sasa ni mafundi simu huko Goma, DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SmgPU_sBKdA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SmgPU_sBKdA"
         }
       }
     }
