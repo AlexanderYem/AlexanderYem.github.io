@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sonhos em português: “Bom dia” foi o que aprendi primeiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nalzpdVtbw0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nalzpdVtbw0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Guerra na Ucrânia, crianças em risco na África e eleições em São Tomé e Príncipe",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_qyNnDmDC84"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: situação em usina nuclear na Ucrânia, fome na Somália e o Dia da Juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SqwnIIiV6M0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SqwnIIiV6M0"
         }
       }
     }
