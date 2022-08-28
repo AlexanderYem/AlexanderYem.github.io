@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "The situation in Afghanistan: UN Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZTTRktiVhwI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZTTRktiVhwI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Security Council on the situation in the Middle East | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBF-q7pXxoY/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LBF-q7pXxoY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Press Briefing: Gustavo Zlauvinen, President of the Tenth NPT Review Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "D0QjZyO2PHY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: \"Any further escalation of the situation could lead to self-destruction.” - UN Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jYzJCKotVl4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jYzJCKotVl4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Ethiopia, Iraq & other topics - Daily Press Briefing (24 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1G3UwznSt9w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1G3UwznSt9w"
         }
       }
     }
