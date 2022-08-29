@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Afghanistan: UN Security Council | United Nations | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZTTRktiVhwI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZTTRktiVhwI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day Against Nuclear Tests & other topics - Daily Press Briefing (29 August 2022)",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "9_iV-hOHl9k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - Afghanistan: UN Security Council | United Nations | Full",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZTTRktiVhwI/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZTTRktiVhwI"
         }
       }
     },
