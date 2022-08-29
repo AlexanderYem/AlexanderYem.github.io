@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "LIVE - Afghanistan: UN Security Council | United Nations | Full",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZTTRktiVhwI/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZTTRktiVhwI"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Syria: UN Security Council on the situation in the Middle East | United Nations | Full",
         "thumbnails": {
           "high": {
@@ -23,6 +10,32 @@
         },
         "resourceId": {
           "videoId": "LBF-q7pXxoY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "China on Syria, Taiwan & other topics -  Security Council Media Stakeout (29 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_iV-hOHl9k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9_iV-hOHl9k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "LIVE - Afghanistan: UN Security Council | United Nations | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZTTRktiVhwI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZTTRktiVhwI"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uywPAe1ZCmQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rosemary DiCarlo (DPPA) on maintenance of peace and Security in Ukraine - Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D0QjZyO2PHY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D0QjZyO2PHY"
         }
       }
     }
