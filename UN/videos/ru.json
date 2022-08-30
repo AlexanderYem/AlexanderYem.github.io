@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "31 августа 2022 года Мишель Бачелет покидает пост Верховного комиссара ООН по правам человека.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lYyodeFFPBQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lYyodeFFPBQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Визит Генерального секретаря ООН Антониу Гутерриша во Львов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mvit9pDmF2I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН по случаю Международного дня Нельсона Манделы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yxY6x0pL83k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yxY6x0pL83k"
         }
       }
     }
