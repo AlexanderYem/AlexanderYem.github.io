@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Mali & Libya: UN Security Council Meetings | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/On2coU76wFY/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "On2coU76wFY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan: \"people continue to face extreme hardship and uncertainty\" - UN Humanitarian chief",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YY0WtZNvBdQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine: UN Security Council on the situation in the Middle East | United Nations | Full",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8XpPSMflXw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8XpPSMflXw4"
         }
       }
     }
