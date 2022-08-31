@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haut-Commissaire des Nations Unies des droits de l'homme : un poste difficile",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VezvWM8kRTE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VezvWM8kRTE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l'ONU dénonce les profits immoraux dans le contexte de la crise énergétique mondiale",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fM83532upjY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pêcher pour vivre, préserver la culture : Les pêcheurs portugais aux États-Unis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S1TvLMtUkDw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S1TvLMtUkDw"
         }
       }
     }
