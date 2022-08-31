@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "The Middle East & Africa - Security Council Meetings | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDzU92ZGG0k/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zDzU92ZGG0k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Mali & Libya: UN Security Council Meetings | Full",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9_iV-hOHl9k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Press Briefing: Gustavo Zlauvinen, President of the Tenth NPT Review Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tLC8sa2FjlE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tLC8sa2FjlE"
         }
       }
     }
