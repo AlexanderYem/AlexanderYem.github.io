@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sonhos em português: A saudade do Brasil aperta em Lisboa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdKZo8av2NY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cdKZo8av2NY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Michelle Bachelet, policial mulher do ano e treinamento para jornalistas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B3ik3mtQ_AI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O trabalho do PMA em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nvGggUexBxg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nvGggUexBxg"
         }
       }
     }
