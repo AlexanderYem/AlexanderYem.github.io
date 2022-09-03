@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sexual Orientation & Gender Identity - Press Conference (30 August 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6lcAAt15HoE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6lcAAt15HoE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pakistan, Ukraine,  South Caucasus & other topics - Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OKz2wZhLf4w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2022 United Nations Woman Police Officer Of The Year",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3KLsWAb0NpY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3KLsWAb0NpY"
         }
       }
     }
