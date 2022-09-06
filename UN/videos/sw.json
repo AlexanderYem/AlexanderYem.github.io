@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bintou Keita: Taarifa nyingi mbaya kuhusu MONUSCO ni upotoshaji.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yDtI3tyRfs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_yDtI3tyRfs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ZIARA YA MNADHIMU MKUU WA JWTZ NCHINI JAMHURI YA AFRIKA YA KATI",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0U7RtXQFr3g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mwanza Tanzania wavuvi wazipa kisogo karabai na kugeukia taa za sola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/refQhCDu36s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "refQhCDu36s"
         }
       }
     }

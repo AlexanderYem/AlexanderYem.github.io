@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Internacional do Ar Limpo, ONU alerta que poluição afeta 99% da população global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8QhhI-g5Aiw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8QhhI-g5Aiw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sonhos em português: A saudade do Brasil aperta em Lisboa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_q5wD5nUeYQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial Humanitário 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B3ik3mtQ_AI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B3ik3mtQ_AI"
         }
       }
     }
