@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pakistan, Bangladesh, Peacekeeping & other topics - Daily Press Briefing (6 September 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/luNwQGxicRQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "luNwQGxicRQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sexual Orientation & Gender Identity - Press Conference (30 August 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wctZ_rVZtm8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pakistan, Mali, Central African Republic & other topics - Daily Press Briefing (31 August 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OKz2wZhLf4w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OKz2wZhLf4w"
         }
       }
     }
