@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Des métiers porteurs d'espoir et de résilience chez les victimes d'abus sexuels",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UoY_KvceWW0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UoY_KvceWW0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Une Casque bleu du Burkina Faso est la femme policière de l'année pour 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wFzSVdb9Z7I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Colombie : Le plus grand projet de restauration de récifs coralliens des Amériques",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mKtRE7CTB9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mKtRE7CTB9c"
         }
       }
     }
