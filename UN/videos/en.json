@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Somalia: UN Security Council | United Nations | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TCp1-4Ef4OM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TCp1-4Ef4OM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Action for Peacekeeping Plus (A4P+): 'notable progress' - UN peacekeeping operations chief briefing",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "oW2iOkhlxSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Somalia: UN Security Council | United Nations | Full",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TCp1-4Ef4OM/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TCp1-4Ef4OM"
         }
       }
     },
