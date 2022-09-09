@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Moçambique, Declaração de Maputo marca encontro internacional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJ4IAyWqbf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XJ4IAyWqbf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Morre a rainha Elizabeth II, a monarca que ficou mais tempo no poder no Reino Unido",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W4PeRbS-Lso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sonhos em português: “Bom dia” foi o que aprendi primeiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nalzpdVtbw0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nalzpdVtbw0"
         }
       }
     }
