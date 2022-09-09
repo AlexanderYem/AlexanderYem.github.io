@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Threats to international peace and security: UN Security Council Meetings | Full",
+        "title": "UN Chief on the passing of Queen Elizabeth II | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJN-SpWlrnk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MJN-SpWlrnk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine: Threats to international peace and security: UN Security Council | Full",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/xx9thEuSvio/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SOohXxFp9NA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on Ukraine - Security Council Media Stakeout (7 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eC2FVSF8DCk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eC2FVSF8DCk"
         }
       }
     }

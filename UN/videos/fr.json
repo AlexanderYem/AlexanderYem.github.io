@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Décès de sa majesté Elizabeth II",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFHZE_mSdxs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AFHZE_mSdxs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Des métiers porteurs d'espoir et de résilience chez les victimes d'abus sexuels",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TKjMA1HbiUQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Chef de l'ONU salue l'avancée décisive vers la reprise des exportations de céréales de l'Ukraine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wFzSVdb9Z7I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wFzSVdb9Z7I"
         }
       }
     }
