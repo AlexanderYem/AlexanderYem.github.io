@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Des métiers porteurs d'espoir et de résilience chez les victimes d'abus sexuels",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZpdSVwprlg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sZpdSVwprlg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Décès de sa majesté Elizabeth II",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "AFHZE_mSdxs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Des métiers porteurs d'espoir et de résilience chez les victimes d'abus sexuels",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UoY_KvceWW0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UoY_KvceWW0"
         }
       }
     },
