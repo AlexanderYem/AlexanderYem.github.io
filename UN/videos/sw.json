@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wakazi wa Turkana, Kenya waishukuru UNICEF kwa kuwapunguzia adha ya maji.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5blyeLiKjfk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5blyeLiKjfk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Molteno wa Afrika Kusini walivyoitwaa tuzo ya Confucius ya 2022 ya kujua kusoma na kuandika.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_yDtI3tyRfs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ZIARA YA MNADHIMU MKUU WA JWTZ NCHINI JAMHURI YA AFRIKA YA KATI",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q0YKuJjLyms/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q0YKuJjLyms"
         }
       }
     }
