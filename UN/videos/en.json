@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Sudan & South Sudan: Security Council Meeting | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJzKCDFE2gg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jJzKCDFE2gg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Get Ready for #UNGA77 | United Nations | General Assembly General Debate #shorts",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JPq4s04lMg0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 20 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wpnpBS1Zsts/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wpnpBS1Zsts"
         }
       }
     }
