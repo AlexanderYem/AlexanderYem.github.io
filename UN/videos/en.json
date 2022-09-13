@@ -5,11 +5,24 @@
         "title": "LIVE - Sudan & South Sudan: Security Council Meeting | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/58DDiTD7uX0/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/58DDiTD7uX0/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "58DDiTD7uX0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "LIVE - General Debate: 1st plenary meeting (Opening of the 77th session)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dkt5WrG6r3c/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dkt5WrG6r3c"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u1Jn7hRtcqM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 22 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mJzG-AdUAhY/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mJzG-AdUAhY"
         }
       }
     }
