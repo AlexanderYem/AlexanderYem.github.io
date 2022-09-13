@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Образование для детей-беженцев в России",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLcAKziP6X0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HLcAKziP6X0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН: Памяти Елизаветы II",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RSFQxC7pWCc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "«Маяк надежды»: в Турции подписали соглашения о поставках сельхозпродукции из Украины и России",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RUlHoZfdUjs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RUlHoZfdUjs"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Press Conference on the upcoming 77th General Debate | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g4ddfMWLZxw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g4ddfMWLZxw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - United Nations General Assembly: 1st plenary meeting (Opening of the 77th session)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vd1sIbUYRUc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "In Memoriam to all victims and survivors of terrorism - UN Chamber Music Society Performance",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u1Jn7hRtcqM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u1Jn7hRtcqM"
         }
       }
     }
