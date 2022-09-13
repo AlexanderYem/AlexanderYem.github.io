@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Joint UN Chief & Pakistan Foreign Minister Press Conference in Islamabad (9 September 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Whr6iaA5Gog/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Whr6iaA5Gog"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Sudan & South Sudan: Security Council Meeting | Full",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mJzG-AdUAhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 21 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JPq4s04lMg0/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JPq4s04lMg0"
         }
       }
     }
