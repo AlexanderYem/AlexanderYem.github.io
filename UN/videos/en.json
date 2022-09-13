@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - Sudan & South Sudan: Security Council Meeting | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/58DDiTD7uX0/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "58DDiTD7uX0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Joint UN Chief & Pakistan Foreign Minister Press Conference in Islamabad (9 September 2022)",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "Whr6iaA5Gog"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - Sudan & South Sudan: Security Council Meeting | Full",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jJzKCDFE2gg/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jJzKCDFE2gg"
         }
       }
     },
