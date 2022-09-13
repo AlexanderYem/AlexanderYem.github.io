@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Becky Telford (UNHCR) on the annual UNHCR education report",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pAHJ8CcZLAQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pAHJ8CcZLAQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Armenia and Azerbaijan, United Kingdom, Human Rights & other topics    Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "05V1dT1ipLs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 24 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ayU2fcLL2nI/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ayU2fcLL2nI"
         }
       }
     }
