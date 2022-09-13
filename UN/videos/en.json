@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Armenia and Azerbaijan, United Kingdom, Human Rights & other topics    Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ymiOUCdyUyQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ymiOUCdyUyQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief Press Conference on the upcoming 77th General Debate | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ayU2fcLL2nI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 23 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vd1sIbUYRUc/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vd1sIbUYRUc"
         }
       }
     }
