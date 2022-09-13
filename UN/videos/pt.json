@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vem aí a 77ª sessão da Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8J1VanPJfzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8J1VanPJfzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Paquistão, Guterres vê resistência humana e heroísmo em meio a \"carnificina climática\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8QhhI-g5Aiw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sonhos em português: A saudade do Brasil aperta em Lisboa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cdKZo8av2NY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cdKZo8av2NY"
         }
       }
     }

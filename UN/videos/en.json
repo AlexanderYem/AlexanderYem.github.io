@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE - United Nations General Assembly: 1st plenary meeting (Opening of the 77th session)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dkt5WrG6r3c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dkt5WrG6r3c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "LIVE - Sudan & South Sudan: Security Council Meeting | United Nations",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "58DDiTD7uX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - United Nations General Assembly: 1st plenary meeting (Opening of the 77th session)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dkt5WrG6r3c/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Dkt5WrG6r3c"
         }
       }
     },

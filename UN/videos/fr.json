@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Préparez-vous pour l'#AG77",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ov1JNH2e5Dk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ov1JNH2e5Dk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pakistan : Le Chef de l'ONU dénonce « un carnage climatique »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UGxg22vxGEE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La variole du singe - 5 choses à savoir",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gcq9jdd4FJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gcq9jdd4FJg"
         }
       }
     }
