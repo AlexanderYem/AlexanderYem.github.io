@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Press Conference on the upcoming 77th General Debate | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g4ddfMWLZxw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g4ddfMWLZxw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief Opening remarks at the new UNGA 77th session  | United Nations",
         "thumbnails": {
           "high": {
@@ -88,19 +101,6 @@
         },
         "resourceId": {
           "videoId": "ymiOUCdyUyQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief Press Conference on the upcoming 77th General Debate | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/g4ddfMWLZxw/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "g4ddfMWLZxw"
         }
       }
     },
