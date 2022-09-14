@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Becky Telford (UNHCR) on the annual UNHCR education report",
+        "title": "Ukraine/Russia: 'Black Sea agreements were essential in making food affordable' - Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ERykE5ZCRw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9ERykE5ZCRw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Education: 'disturbing disparity in the quality of education provided to refugees' - UNHCR",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/pAHJ8CcZLAQ/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MF_yrO7XgSc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live - 26 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/05V1dT1ipLs/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "05V1dT1ipLs"
         }
       }
     }
