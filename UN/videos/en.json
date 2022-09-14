@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Opening remarks at the new UNGA 77th session  | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ME3shQQa3dw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ME3shQQa3dw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ireland on Syria - Security Council Stakeout (14 September 2022)",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Norway on the situation in Syria - Security Council Media Stakeout",
+        "title": "Norway on Syria - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/wqbJuiTfjB8/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "58DDiTD7uX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Joint UN Chief & Pakistan Foreign Minister Press Conference in Islamabad (9 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Whr6iaA5Gog/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Whr6iaA5Gog"
         }
       }
     }
