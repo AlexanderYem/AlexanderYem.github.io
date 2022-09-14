@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Transforming Education Summit - Leaders Day",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jienkuqNrJI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jienkuqNrJI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "SDG Moment 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgzkqGsCjpw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UgzkqGsCjpw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief Press Conference on the upcoming 77th General Debate | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ymiOUCdyUyQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - United Nations General Assembly: 1st plenary meeting (Opening of the 77th session)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dkt5WrG6r3c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Dkt5WrG6r3c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE - Sudan & South Sudan: Security Council Meeting | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/58DDiTD7uX0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "58DDiTD7uX0"
         }
       }
     }

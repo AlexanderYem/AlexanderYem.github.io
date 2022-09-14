@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Educação para refugiados, abertura da Assembleia Geral e o mural do Kobra na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhRH2m4iXAU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OhRH2m4iXAU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vem aí a 77ª sessão da Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7TPZz6lg31w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Internacional do Ar Limpo, ONU alerta que poluição afeta 99% da população global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8QhhI-g5Aiw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8QhhI-g5Aiw"
         }
       }
     }
