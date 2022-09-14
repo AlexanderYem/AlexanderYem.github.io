@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/STi8kCE82zk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "STi8kCE82zk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Transforming Education Summit - Leaders Day",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pAHJ8CcZLAQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Armenia and Azerbaijan, United Kingdom, Human Rights & other topics    Daily Press Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ymiOUCdyUyQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ymiOUCdyUyQ"
         }
       }
     }

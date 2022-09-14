@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le chef de l’ONU appelle les dirigeants du monde à redonner espoir à un monde fracturé",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4662lm6fJ7Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4662lm6fJ7Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Préparez-vous pour l'#AG77",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oBV_ccJADXU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le chef de l'ONU souligne l'importance du traité de non-prolifération",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UGxg22vxGEE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UGxg22vxGEE"
         }
       }
     }
