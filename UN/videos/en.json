@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on Syria - Security Council Stakeout (14 September 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gJi1I09nvYs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gJi1I09nvYs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Norway on the situation in Syria - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqbJuiTfjB8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqbJuiTfjB8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "President of the 77th General Assembly opens the new UNGA session | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Whr6iaA5Gog"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Get Ready for #UNGA77 | United Nations | General Assembly General Debate #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/REJ86AhgRY0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "REJ86AhgRY0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "General Assembly, Pakistan, Ukraine & other topics - Daily Press Briefing (12 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FMFpp6KyyGU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FMFpp6KyyGU"
         }
       }
     }
