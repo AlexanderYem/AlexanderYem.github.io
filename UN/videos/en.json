@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "President of the 77th General Assembly opens the new UNGA session | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKCpNbP0KCU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bKCpNbP0KCU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine/Russia: 'Black Sea agreements were essential in making food affordable' - Press Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FMFpp6KyyGU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Pakistan is paying the price of something that was created by others' - UN Chief message",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MF_yrO7XgSc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MF_yrO7XgSc"
         }
       }
     }
