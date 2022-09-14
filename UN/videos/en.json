@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Transforming Education Summit - Youth-led Mobilization Day",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzOJoGKt59I/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hzOJoGKt59I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9ERykE5ZCRw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Education: 'disturbing disparity in the quality of education provided to refugees' - UNHCR",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pAHJ8CcZLAQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pAHJ8CcZLAQ"
         }
       }
     }
