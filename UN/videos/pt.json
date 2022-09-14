@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Mural do brasileiro Kobra é inaugurado na sede da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ckn3HA6rcRQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ckn3HA6rcRQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dia Internacional da Democracia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAp1L9XeN_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mAp1L9XeN_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Educação para refugiados, abertura da Assembleia Geral e o mural do Kobra na ONU",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jBMa6NElOPE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Declaração de Maputo traz mais apoio para instituições dedicadas à observação e previsão do tempo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bIXVyID2410/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bIXVyID2410"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Levar esperança e proteger os civis deve ser prioridade da polícia da ONU, afirma conselheiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7TPZz6lg31w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7TPZz6lg31w"
         }
       }
     }
