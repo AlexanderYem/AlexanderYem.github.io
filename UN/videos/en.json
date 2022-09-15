@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LIVE Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/STi8kCE82zk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "STi8kCE82zk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Time to Transform Education following COVID-19 | Transforming Education Summit | United Nations",
         "thumbnails": {
           "high": {
@@ -62,19 +75,6 @@
         },
         "resourceId": {
           "videoId": "hzOJoGKt59I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LIVE Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/STi8kCE82zk/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "STi8kCE82zk"
         }
       }
     },
