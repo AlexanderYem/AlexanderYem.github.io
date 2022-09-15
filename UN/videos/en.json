@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Democracy 2022 - UN Chief message (15 September)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWSYyZTOY74/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EWSYyZTOY74"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria: Hostilities continue - Humanitarian Chief: Security Council Briefing (14 September 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wqbJuiTfjB8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "President of the 77th General Assembly opens the new UNGA session | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bKCpNbP0KCU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bKCpNbP0KCU"
         }
       }
     }
