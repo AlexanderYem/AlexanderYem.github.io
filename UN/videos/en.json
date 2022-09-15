@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Peace - UN Chief message (21 September 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSVSJBKevsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zSVSJBKevsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of Democracy 2022 - UN Chief message (15 September)",
         "thumbnails": {
           "high": {
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
+        "title": "LIVE Tribute to the memory of Her Majesty Queen Elizabeth II - General Assembly",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/STi8kCE82zk/hqdefault_live.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gJi1I09nvYs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Norway on Syria - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wqbJuiTfjB8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wqbJuiTfjB8"
         }
       }
     }
