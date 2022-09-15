@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Time to Transform Education following COVID-19 | Transforming Education Summit | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjFzTLatV4I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rjFzTLatV4I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of Peace - UN Chief message (21 September 2022)",
         "thumbnails": {
           "high": {
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "Transforming Education Summit - Youth-led Mobilization Day",
+        "title": "Youth-led Mobilization Day | Transforming Education Summit | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/hzOJoGKt59I/hqdefault_live.jpg"
@@ -67,7 +80,7 @@
     },
     {
       "snippet": {
-        "title": "Transforming Education Summit - Leaders Day",
+        "title": "Leaders Day | Transforming Education Summit | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/jienkuqNrJI/hqdefault_live.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ME3shQQa3dw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on Syria - Security Council Stakeout (14 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gJi1I09nvYs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gJi1I09nvYs"
         }
       }
     }
