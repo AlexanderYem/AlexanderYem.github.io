@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'éducation est un droit humain",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KbqC6JTzRPA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KbqC6JTzRPA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le chef de l’ONU appelle les dirigeants du monde à redonner espoir à un monde fracturé",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eCiQ0lRbyGA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'ONU peut-elle arrêter une guerre ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oBV_ccJADXU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oBV_ccJADXU"
         }
       }
     }
