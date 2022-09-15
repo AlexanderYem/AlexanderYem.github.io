@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "«Картина мира» выставлена на обозрение в ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pLrq2E74SII/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pLrq2E74SII"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Образование для детей-беженцев в России",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8-AUbfY42PE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН приветствовал выход из Одессы судна с украинским зерном",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RSFQxC7pWCc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RSFQxC7pWCc"
         }
       }
     }
