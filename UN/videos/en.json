@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Tribute to the memory of Her Majesty Queen Elizabeth II | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/44PdBa5M4Ps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "44PdBa5M4Ps"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vanessa Nakate (Ugandan climate activist) appointed as UNICEF Goodwill Ambassador | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hzOJoGKt59I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Leaders Day | Transforming Education Summit | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jienkuqNrJI/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jienkuqNrJI"
         }
       }
     }
