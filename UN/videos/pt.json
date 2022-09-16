@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Estudantes e professores portugueses participam da Cúpula da Educação Transformadora",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tW2sMo8EujY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tW2sMo8EujY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mural do brasileiro Kobra é inaugurado na sede da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pyIb3wToiQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Kobra fala sobre exposição na ONU e a mensagem que quer passar com seus murais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jBMa6NElOPE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jBMa6NElOPE"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les filles sont tout aussi aptes à l’apprentissage des mathématiques que les garçons",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FEfXuJibgj4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FEfXuJibgj4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'éducation est un droit humain",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VezvWM8kRTE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le chef de l'ONU dénonce les profits immoraux dans le contexte de la crise énergétique mondiale",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eCiQ0lRbyGA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eCiQ0lRbyGA"
         }
       }
     }
