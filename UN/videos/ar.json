@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: إذا كان عليّ أن أختار شيئا واحدا لتحسين الوضع العالمي في السلام والأمن، فسيكون التعليم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZcsEQdbbMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BZcsEQdbbMw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الرئيس الجديد للجمعية العامة للأمم المتحدة، تشابا كوروشي: العالم يعاني بشدة من انعدام الثقة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ITH-6oq0Ut8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الاتفاق بين روسيا وأوكرانيا هو منارة على البحر الأسود",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K8gx19rTGq4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K8gx19rTGq4"
         }
       }
     }
