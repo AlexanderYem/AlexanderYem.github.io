@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'éducation traverse une crise",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/88_oO5_s0M0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "88_oO5_s0M0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les filles sont tout aussi aptes à l’apprentissage des mathématiques que les garçons",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "X16LHj7bRrw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haut-Commissaire des Nations Unies aux droits de l'homme : un poste pas toujours facile",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VezvWM8kRTE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VezvWM8kRTE"
         }
       }
     }

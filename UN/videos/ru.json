@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН о Черноморской зерновой инициативе и деликатной дипломатии - фрагмент интервью",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjCHlDEFuno/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IjCHlDEFuno"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Глава ООН о войне в Украине - фрагмент интервью",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nUdaPXEcCe4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nUdaPXEcCe4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "К открытию 77-й сессии Генеральной Ассамблеи ООН.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "h0RN898iDqk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Сухогруз Brave Commander вышел из порта Южный",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H2VeGV5TUmw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H2VeGV5TUmw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря по случаю Международного дня молодежи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/y5htZ-lY3w4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "y5htZ-lY3w4"
         }
       }
     }

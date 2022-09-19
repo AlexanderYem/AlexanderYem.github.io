@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU fala sobre expectativas para a Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVzHqa0Kw_0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RVzHqa0Kw_0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Estudantes e professores portugueses participam da Cúpula da Educação Transformadora",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NkZheWyjKdo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ondas de rádio promovem educação sexual em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pyIb3wToiQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pyIb3wToiQ4"
         }
       }
     }
