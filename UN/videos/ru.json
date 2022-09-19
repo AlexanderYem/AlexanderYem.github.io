@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "К открытию 77-й сессии Генеральной Ассамблеи ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwTFwM6vkYQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gwTFwM6vkYQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "«Картина мира» выставлена на обозрение в ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y5htZ-lY3w4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Завление Генерального секретаря ООН по поводу Международного дня молодежи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8-AUbfY42PE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8-AUbfY42PE"
         }
       }
     }
