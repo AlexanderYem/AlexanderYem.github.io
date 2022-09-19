@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام: لدينا الآن حرب بين دولتين  بمستويات من التسلح وتعبئة القوات لم يسبق لها مثيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kX4p2LvM98A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kX4p2LvM98A"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "الأمين العام: الانقسامات الجيوسياسية التي نشهدها اليوم مروعة.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_lxlKf8ODio/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_lxlKf8ODio"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: إذا كان عليّ أن أختار شيئا واحدا لتحسين الوضع العالمي في السلام والأمن، فسيكون التعليم",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "e2lrkDCgydE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأونروا تواصل جهود إعادة إعمار منازل اللاجئين الفلسطينيين في قطاع غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fskw6wegpBM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fskw6wegpBM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"لن أتوقف أبدا عن سرد قصتي\": التصدي لمسألة لوم الضحية على الاعتداء الجنسي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ITH-6oq0Ut8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ITH-6oq0Ut8"
         }
       }
     }
