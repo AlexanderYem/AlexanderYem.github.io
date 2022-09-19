@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ni lazima kwanza viongozi wayafahamu matatizo ya elimu ni ni yapi ndipo tuyatatue - Cherinet Harifo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DM-zHje_9Lc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DM-zHje_9Lc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mchechemuzi wa vijana UNICEF Tanzania, Emmanuel Msoka: Maneno ni bei nafuu sana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "74t90xA0TBU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Napenda mambo yanayonipa changamoto: Sintyashi mnufaika wa mafunzo ya MONUSCO",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8K6E3ZBXDDU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8K6E3ZBXDDU"
         }
       }
     }
