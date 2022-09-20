@@ -2,6 +2,58 @@
   "items": [
     {
       "snippet": {
+        "title": "(Español) 🇵🇪 Peru - President Addresses United Nations General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c2de1ziNuoQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c2de1ziNuoQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇵🇪 Peru - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IslcdxjM_kU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IslcdxjM_kU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Español) 🇧🇴 Bolivia - President Addresses United Nations General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pB2vZ6O_SD8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pB2vZ6O_SD8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇧🇴 Bolivia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/58uzWQ0JRNg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "58uzWQ0JRNg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇷🇴 Romania - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -75,58 +127,6 @@
         },
         "resourceId": {
           "videoId": "0s7qtwJCPnc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇫🇷 France - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dIfolnlwFVs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dIfolnlwFVs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇮  Slovakia - President Addresses General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r9krgOQoRGg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r9krgOQoRGg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇨🇭 Switzerland - President Addresses General Debate, 77th Session",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rDLxBlRatT4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rDLxBlRatT4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Español) 🇵🇾 Paraguay - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xH95b9mXN_M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xH95b9mXN_M"
         }
       }
     }
