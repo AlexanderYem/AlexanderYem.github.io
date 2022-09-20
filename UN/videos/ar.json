@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة رئيس الجمعية العامة للأمم المتحدة تشابا كروسي في افتتاح المناقشة العامة للدورة السابعة والسبعين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZb4oD17bvg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iZb4oD17bvg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة الأمين العام أنطونيو غوتيريش في افتتاح الدورة السابعة والسبعين للجمعية العامة للأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MGcwTbW_EJg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MGcwTbW_EJg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: لدينا الآن حرب بين دولتين  بمستويات من التسلح وتعبئة القوات لم يسبق لها مثيل",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "YENxkomJh34"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بعد أكثر من 15 عاما على حصار غزة، ثلث سكان القطاع بحاجة إلى دعم نفسي واجتماعي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vMeuBMtCs_I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vMeuBMtCs_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار: مبادرة شبابية سعودية معنية بترقية جودة الحياة في المدن العربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e2lrkDCgydE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e2lrkDCgydE"
         }
       }
     }
