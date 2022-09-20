@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью Генерального секретаря Организации Объединенных Наций  Службе новостей ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_O0hDKuT4VU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_O0hDKuT4VU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН о Черноморской зерновой инициативе и деликатной дипломатии - фрагмент интервью",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FmCn_ftFHOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Памяти Кофи Аннана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h0RN898iDqk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h0RN898iDqk"
         }
       }
     }
