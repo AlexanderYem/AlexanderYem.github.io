@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG77/UNGA77 : Transformer l'éducation : l'ONU s'engage à agir",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DvJ48p6MA1E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DvJ48p6MA1E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'éducation traverse une crise",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lof66gLA5io"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le Pakistan est inondé de souffrances",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X16LHj7bRrw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X16LHj7bRrw"
         }
       }
     }
