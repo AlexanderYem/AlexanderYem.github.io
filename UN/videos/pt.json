@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do presidente do Brasil na 77ª sessão da Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJnIDXkjMyc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UJnIDXkjMyc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Presidente Jair Bolsonaro fala à ONU News após discurso na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YqdBB4Le44g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YqdBB4Le44g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU fala sobre expectativas para a Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "XJ4IAyWqbf4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Morre a rainha Elizabeth II, a monarca que ficou mais tempo no poder no Reino Unido",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qlJED9vxnMc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qlJED9vxnMc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lusófonos e desenvolvimento humano 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NkZheWyjKdo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NkZheWyjKdo"
         }
       }
     }
