@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Paz quer acelerar o fim do racismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vs7rOmAu2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1vs7rOmAu2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do presidente do Brasil na 77ª sessão da Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vqds1166qVQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Moçambique, Declaração de Maputo marca encontro internacional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XJ4IAyWqbf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XJ4IAyWqbf4"
         }
       }
     }

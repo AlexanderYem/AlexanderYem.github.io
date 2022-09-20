@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "🇫🇮 Finland - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w83fK_F1Nf0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w83fK_F1Nf0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇰🇿 Kazakhstan - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NmvxGglPf_w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇨🇴 Colombia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rFIBY0tDoSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rFIBY0tDoSg"
         }
       }
     }
