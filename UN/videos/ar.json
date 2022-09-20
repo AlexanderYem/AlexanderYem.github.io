@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الشيخ تميم بن حمد آل ثاني أمير دولة قطر في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2jy4NHd5m_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2jy4NHd5m_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة العاهل الأردني الملك عبد الله الثاني بن الحسين في افتتاح المناقشة العامة للدورةالسابعة والسبعين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sTEObf3nbKM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "من باكستان، الأمين العام يدعو إلى تقديم دعم عالمي \"هائل\" للتصدي لكارثة الفيضانات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KOVlpr_Mp4k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KOVlpr_Mp4k"
         }
       }
     }
