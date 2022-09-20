@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Judith Hill sings Blowing in the Wind during SDG Moment #shorts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DUMDSxPdgco/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DUMDSxPdgco"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Daily Wrap - Transforming Education: A United Nations Summit Pledges Action",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VxfV3dOTjlk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghan Youth Activist - Somaya Faruqi | Transforming Education Summit | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WfNpBNFsXe0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WfNpBNFsXe0"
         }
       }
     }
