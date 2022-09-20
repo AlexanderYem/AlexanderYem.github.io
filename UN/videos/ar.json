@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة العاهل الأردني الملك عبد الله الثاني بن الحسين في افتتاح المناقشة العامة للدورةالسابعة والسبعين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zK6f87PEyV0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zK6f87PEyV0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة رئيس الجمعية العامة للأمم المتحدة تشابا كروسي في افتتاح المناقشة العامة للدورة السابعة والسبعين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KOVlpr_Mp4k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: الملكة إليزابيث الثانية \"حضور مطمئن\" على مدى عقود من \"التغيير الشامل\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YENxkomJh34/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YENxkomJh34"
         }
       }
     }
