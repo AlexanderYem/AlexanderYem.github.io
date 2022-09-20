@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇲🇭 Marshall Islands - President Addresses UN General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uLKShQDwHYY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uLKShQDwHYY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇸🇨 Seychelles - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_Vel_hf4tg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P_Vel_hf4tg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(Español) 🇵🇪 Peru - President Addresses United Nations General Debate, 77th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "69uwKIBwA-g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇭🇳 Honduras - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/261VgCIFK70/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "261VgCIFK70"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇫🇷 France - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0s7qtwJCPnc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0s7qtwJCPnc"
         }
       }
     }
