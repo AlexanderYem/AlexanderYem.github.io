@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇵🇾 Paraguay - President Addresses General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vFbnYaRPuMA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vFbnYaRPuMA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇨🇭 Switzerland - President Addresses General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WkQbDOVMSJ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WkQbDOVMSJ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇫🇮 Finland - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "vNKEJIizH5g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇹🇷 Türkiye - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-J0NQxnMrpo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-J0NQxnMrpo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(türkçe) 🇹🇷 Türkiye - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NmvxGglPf_w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NmvxGglPf_w"
         }
       }
     }
