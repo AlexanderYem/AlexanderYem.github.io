@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Educação em Portugal lida com experiências de trauma de ucranianos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKpDM1Blbxs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yKpDM1Blbxs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conselheira do secretário-geral da ONU fala sobre representação de jovens em diálogos climáticos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OhRH2m4iXAU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vem aí a 77ª sessão da Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8J1VanPJfzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8J1VanPJfzc"
         }
       }
     }
