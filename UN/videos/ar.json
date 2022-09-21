@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الرئيس الأمريكي جو بايدن أمام المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ho3-umHo2rs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ho3-umHo2rs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة السيد عزيز أخنوش، رئيس حكومة المملكة المغربية، أمام المناقشة العامة للدورة 77 للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AzBr9SnkmMA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"أمل الصغيرة\" هي دمية عملاقة تجسد فتاة لاجئة من سوريا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t7ViRYH2Exw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t7ViRYH2Exw"
         }
       }
     }
