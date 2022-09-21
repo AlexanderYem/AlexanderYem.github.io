@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "🇳🇬 Nigeria - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-iBasNl9Aw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8-iBasNl9Aw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief: \"It's a suicide that climate change has moved out of the priorities for decision makers\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QI34xK8rC5Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇯🇵 Japan - Prime Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GzQiLEfhNrU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GzQiLEfhNrU"
         }
       }
     }
