@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة السيد عزيز أخنوش، رئيس حكومة المملكة المغربية، أمام المناقشة العامة للدورة 77 للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmfGAT_GV6E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OmfGAT_GV6E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الشيخ تميم بن حمد آل ثاني أمير دولة قطر في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t7ViRYH2Exw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بالحوار لا بالأسلحة، تحل النزاعات- لهذا السبب أنشئت الأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sTEObf3nbKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sTEObf3nbKM"
         }
       }
     }

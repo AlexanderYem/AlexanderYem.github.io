@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇷🇼 Rwanda - President Addresses General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/16tPpd9jYzU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "16tPpd9jYzU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(فارسى) Iran 🇮🇷 - President Addresses United Nations General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcxWjyLBZzs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DcxWjyLBZzs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇳🇬 Nigeria - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6gQLCT6OHLA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇩🇪 Germany -  Chancellor Addresses General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vwpkayOqbrI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vwpkayOqbrI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Deutsch) 🇩🇪 Germany - Chancellor Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QI34xK8rC5Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QI34xK8rC5Y"
         }
       }
     }
