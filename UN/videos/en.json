@@ -2,6 +2,58 @@
   "items": [
     {
       "snippet": {
+        "title": "🇨🇮 Côte d'Ivoire - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGC8G-es5d0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lGC8G-es5d0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇸🇱 Sierra Leone - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gamkpbHtQEo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gamkpbHtQEo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇬🇾 Guyana - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w05V6Iw2dD4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w05V6Iw2dD4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Français) 🇨🇮 Côte d'Ivoire - President Addresses UN General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-3MZ5YSCebY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-3MZ5YSCebY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇭🇺 Hungary - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -75,58 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y70-jCMiJek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇲🇬 Madagascar - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xEpL9RQ6zDs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xEpL9RQ6zDs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇳🇦 Namibia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4wqCXNktGl8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4wqCXNktGl8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇪🇨 Ecuador - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3jlhlgcJ2wY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3jlhlgcJ2wY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Español) 🇪🇨 Ecuador - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WfzmQBe7tUg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WfzmQBe7tUg"
         }
       }
     }
