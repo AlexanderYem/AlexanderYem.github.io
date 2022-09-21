@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇬🇭 Ghana - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRPohxozYV0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zRPohxozYV0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇪🇪 Estonia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pTmPg1twVuk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pTmPg1twVuk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇨🇮 Côte d'Ivoire - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "bQXzZnjVAZM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇮 Slovenia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JFqP4n9ulIk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JFqP4n9ulIk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇲🇩 Moldova - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y70-jCMiJek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y70-jCMiJek"
         }
       }
     }

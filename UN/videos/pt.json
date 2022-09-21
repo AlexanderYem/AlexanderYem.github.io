@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Cabo Verde, José Maria Neves, diz que mundo deve aproveitar momento de mudança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2XBmWN8eFA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z2XBmWN8eFA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cúpula da Educação Transformadora busca ação para inovar setor",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RVzHqa0Kw_0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Estudantes e professores portugueses participam da Cúpula da Educação Transformadora",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tW2sMo8EujY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tW2sMo8EujY"
         }
       }
     }
