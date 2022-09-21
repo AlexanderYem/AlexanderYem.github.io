@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief: \"It's a suicide that climate change has moved out of the priorities for decision makers\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEYlxOstQXY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fEYlxOstQXY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Daily Wrap - A Call for Solidarity | United Nations General Assembly Opens Annual Debate",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GzQiLEfhNrU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(日本語) 🇯🇵 Japan - Prime Minister Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PBsxLWblFNk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PBsxLWblFNk"
         }
       }
     }
