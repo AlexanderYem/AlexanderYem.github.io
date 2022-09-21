@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة رئيس المجلس الرئاسي الليبي محمد يونس المنفي أمام الدورة السابعة والسبعين للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNjBTfMNyhY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VNjBTfMNyhY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الرئيس الأمريكي جو بايدن أمام المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BZcsEQdbbMw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس الجديد للجمعية العامة للأمم المتحدة، تشابا كوروشي: العالم يعاني بشدة من انعدام الثقة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AzBr9SnkmMA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AzBr9SnkmMA"
         }
       }
     }

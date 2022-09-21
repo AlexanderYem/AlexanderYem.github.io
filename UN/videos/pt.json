@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileira entre os 17 novos Jovens Líderes para Objetivos de Desenvolvimento Sustentável",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FVwd8qFnHXs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FVwd8qFnHXs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Educação em Portugal lida com experiências de trauma de ucranianos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mAp1L9XeN_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Educação para refugiados, abertura da Assembleia Geral e o mural do Kobra na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OhRH2m4iXAU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OhRH2m4iXAU"
         }
       }
     }
