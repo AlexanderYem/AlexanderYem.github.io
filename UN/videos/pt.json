@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do presidente da Guiné-Bissau na 77ª sessão da Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvW6ztDRYgA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JvW6ztDRYgA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente da Guiné-Bissau, Umaro Sissoco Embaló, fala à ONU News sobre mensagem à Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1vs7rOmAu2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do presidente do Brasil na 77ª sessão da Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UJnIDXkjMyc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UJnIDXkjMyc"
         }
       }
     }

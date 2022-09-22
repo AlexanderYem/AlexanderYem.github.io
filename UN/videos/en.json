@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇸🇴 Somalia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jEsrrA-4-0c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jEsrrA-4-0c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇱🇷 Liberia - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xxXqISRAWY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9xxXqISRAWY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇿🇼 Zimbabwe - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "lqOYCdSgy5g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇳🇪 Niger  - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QjMW2697Kek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QjMW2697Kek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇳🇪 Niger  - President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cuh1Lw8Gdnw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cuh1Lw8Gdnw"
         }
       }
     }
