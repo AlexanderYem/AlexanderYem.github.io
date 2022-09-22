@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "ملالا يوسفزاي: طالما أن هناك فتاة واحدة خارج المدرسة، فسأواصل النضال من أجل حقها في التعليم.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/haVWrp-abxE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "haVWrp-abxE"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "كلمة رئيس المجلس الرئاسي الليبي محمد يونس المنفي أمام الدورة السابعة والسبعين للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "_lxlKf8ODio"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "الأمين العام: إذا كان عليّ أن أختار شيئا واحدا لتحسين الوضع العالمي في السلام والأمن، فسيكون التعليم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZcsEQdbbMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BZcsEQdbbMw"
         }
       }
     }
