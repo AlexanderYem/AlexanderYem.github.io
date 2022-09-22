@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ترجمة فورية لكلمة الرئيس الصومالي حسن شيخ محمود في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JA3tIz63gic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JA3tIz63gic"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الفريق أول ركن عبد الفتاح البرهان رئيس مجلس السيادة الانتقالي السوداني في المناقشة العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iZb4oD17bvg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الأمين العام أنطونيو غوتيريش في افتتاح الدورة السابعة والسبعين للجمعية العامة للأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MGcwTbW_EJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MGcwTbW_EJg"
         }
       }
     }
