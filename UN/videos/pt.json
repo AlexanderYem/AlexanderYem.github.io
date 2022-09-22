@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Minorias e clima, são destaques no terceiro dia da Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FIKn7qo4lwU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FIKn7qo4lwU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: António Costa, primeiro-ministro de Portugal, na 77ª Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yKpDM1Blbxs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conselheira do secretário-geral da ONU fala sobre representação de jovens em diálogos climáticos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Mv9OpjpY-9U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Mv9OpjpY-9U"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guerre en Ukraine : Un impact inacceptable sur les droits humains",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5dXt5ylPqE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O5dXt5ylPqE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG77/#UNGA77 : Jour 2 – Justice pour les minorités, climat et les jeunes leaders à l'ordre du jour",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4662lm6fJ7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Préparez-vous pour l'#AG77",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ov1JNH2e5Dk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ov1JNH2e5Dk"
         }
       }
     }
