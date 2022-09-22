@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الفريق أول ركن عبد الفتاح البرهان رئيس مجلس السيادة الانتقالي السوداني في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJbIiXxfLgw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NJbIiXxfLgw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الدكتور رشاد العليمي رئيس مجلس القيادة الرئاسي اليمني في المناقشة العامة للدورة الـ ٧٧",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MGcwTbW_EJg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: لدينا الآن حرب بين دولتين  بمستويات من التسلح وتعبئة القوات لم يسبق لها مثيل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kX4p2LvM98A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kX4p2LvM98A"
         }
       }
     }

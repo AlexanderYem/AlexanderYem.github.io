@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: António Costa, primeiro-ministro de Portugal, na 77ª Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vo-HS4FtKJM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vo-HS4FtKJM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Cúpula da Educação Transformadora busca ação para inovar setor",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0TkWZtnwoz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0TkWZtnwoz8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do presidente da Guiné-Bissau na 77ª sessão da Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -54,19 +80,6 @@
     },
     {
       "snippet": {
-        "title": "Cúpula da Educação Transformadora busca ação para inovar setor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JAeTmnGPjlk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JAeTmnGPjlk"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Assembleia Geral da ONU abre debate anual com apelo à solidariedade internacional",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Mv9OpjpY-9U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Paz quer acelerar o fim do racismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1vs7rOmAu2M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1vs7rOmAu2M"
         }
       }
     }

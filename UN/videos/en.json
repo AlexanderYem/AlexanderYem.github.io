@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇲🇼 Malawi - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KV2r84A8anI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KV2r84A8anI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇧🇧 Barbados - Prime Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y4lUZK1YJNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y4lUZK1YJNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇵🇬 Papua New Guinea - Prime Minister Addresses UN General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "e6xv9mKrIIk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Português) 🇬🇼 Guinea-Bissau - President Addresses UN General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UImeVhQr7l0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UImeVhQr7l0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇬🇼 Guinea-Bissau - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/USS8NP68zG4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "USS8NP68zG4"
         }
       }
     }
