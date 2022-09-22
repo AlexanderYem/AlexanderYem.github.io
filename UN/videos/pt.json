@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente da Guiné-Bissau, Umaro Sissoco Embaló, fala à ONU News sobre mensagem à Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDp7oWPw1CY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uDp7oWPw1CY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Cabo Verde, José Maria Neves, discursa na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UJnIDXkjMyc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente Jair Bolsonaro fala à ONU News após discurso na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YqdBB4Le44g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YqdBB4Le44g"
         }
       }
     }
