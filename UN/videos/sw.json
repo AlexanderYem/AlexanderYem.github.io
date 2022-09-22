@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Marais wa nchi za Jumuiya ya Afrika Mashariki wana nia ya kutatua changamoto za DRC - Dkt. Mathuki",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-g4ElWF2g0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z-g4ElWF2g0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Viongozi wa mashirika ya UN waungana na wadau kupigania mabadiliko ya elimu.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VmMjfWfd6wA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukaguzi katika Makao Makuu ya Umoja wa Mataifa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vv-jGsYw_i4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vv-jGsYw_i4"
         }
       }
     }
