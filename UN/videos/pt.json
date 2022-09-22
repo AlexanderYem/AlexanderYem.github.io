@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Cabo Verde, José Maria Neves, discursa na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KQ6AfrOupaM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KQ6AfrOupaM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Cabo Verde, José Maria Neves, diz que mundo deve aproveitar momento de mudança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YqdBB4Le44g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU fala sobre expectativas para a Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RVzHqa0Kw_0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RVzHqa0Kw_0"
         }
       }
     }

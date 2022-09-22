@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة رئيس مجلس الوزراء اللبناني محمد نجيب عزمي ميقاتي أمام الجمعية العامة للأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXVwdA-v2ic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AXVwdA-v2ic"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة رئيس المجلس الرئاسي الليبي محمد يونس المنفي أمام الدورة السابعة والسبعين للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_lxlKf8ODio"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: إذا كان عليّ أن أختار شيئا واحدا لتحسين الوضع العالمي في السلام والأمن، فسيكون التعليم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BZcsEQdbbMw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BZcsEQdbbMw"
         }
       }
     }
