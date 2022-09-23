@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "(Français) European Union 🇪🇺 - President Addresses United Nations General Debate, 77th Session",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fvJT3Nl3buI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fvJT3Nl3buI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇵🇸 State of Palestine - President Addresses UN General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqUemsuPP8U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MqUemsuPP8U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(العربية) State of Palestine 🇵🇸 - President Addresses UN General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrSFPQR03rM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wrSFPQR03rM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇻🇺 Vanuatu - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "84WoH75JwCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Daily Wrap: War in Ukraine, Funding for Palestine Refugees & Sahel Region Challenges| United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yglCI69wK6c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yglCI69wK6c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA77 General Debate Live (Somalia, Israel, Portugal, Armenia & More) - 22 September 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mJzG-AdUAhY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mJzG-AdUAhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇷 Iran - Second Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z5Be9w93MnM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z5Be9w93MnM"
         }
       }
     }
