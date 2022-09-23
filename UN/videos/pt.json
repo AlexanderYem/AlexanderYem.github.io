@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente do Timor-Leste, José Ramos Horta, fala à Assembleia Geral da ONU (em inglês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1cUzGUclYQw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1cUzGUclYQw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente do Timor-Leste fala sobre paz no país e papel da comunidade internacional",
         "thumbnails": {
           "high": {
@@ -28,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "Minorias e clima, são destaques no terceiro dia da Assembleia Geral",
+        "title": "Minorias e clima são destaques no terceiro dia da Assembleia Geral",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/FIKn7qo4lwU/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z2XBmWN8eFA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assembleia Geral da ONU abre debate anual com apelo à solidariedade internacional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oUZHdIu-RcE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oUZHdIu-RcE"
         }
       }
     }
