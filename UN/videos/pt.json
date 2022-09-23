@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Zacarias da Costa, líder da Comunidade dos Países de Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvCNZgIXykU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UvCNZgIXykU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Quarto dia da Assembleia Geral: guerra na Ucrânia, refugiados palestinos e desafios no Sahel",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JvW6ztDRYgA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente da Guiné-Bissau, Umaro Sissoco Embaló, fala à ONU News sobre mensagem à Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uDp7oWPw1CY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uDp7oWPw1CY"
         }
       }
     }

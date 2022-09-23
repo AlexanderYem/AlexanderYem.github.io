@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة رئيس الوزراء العراقي مصطفى الكاظمي في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NBfnAwM9QBk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NBfnAwM9QBk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الرئيس الفلسطيني محمود عباس في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ho3-umHo2rs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة السيد عزيز أخنوش، رئيس حكومة المملكة المغربية، أمام المناقشة العامة للدورة 77 للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OmfGAT_GV6E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OmfGAT_GV6E"
         }
       }
     }
