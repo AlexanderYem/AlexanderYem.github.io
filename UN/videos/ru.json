@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Члены независимой комиссии ООН рассказали о военных преступлениях в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZdU35E_Fek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XZdU35E_Fek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Интервью Генерального секретаря Организации Объединенных Наций  Службе новостей ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vsBB-WF5J04"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FmCn_ftFHOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FmCn_ftFHOY"
         }
       }
     }

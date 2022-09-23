@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇬🇷 Greece - Prime Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0_Xdy_44cs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G0_Xdy_44cs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇲🇺 Mauritius - Prime Minister Addresses UN General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1JS7GuroDR0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1JS7GuroDR0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇦🇩 Andorra - Head of Government Addresses UN General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "wet7aFsnKUY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇪🇺 European Union - President Addresses United Nations General Debate, 77th Session (English)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qAh9cEu8F7g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qAh9cEu8F7g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇳🇿 New Zealand - Prime Minister Addresses UN General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q_4Cjki3SOM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q_4Cjki3SOM"
         }
       }
     }

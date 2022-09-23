@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ramos Horta: Até 2030, metade da população do Timor-Leste deve falar português",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I665KUUZVb4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I665KUUZVb4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente do Timor-Leste, José Ramos Horta, fala à Assembleia Geral da ONU (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KQ6AfrOupaM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Cabo Verde, José Maria Neves, diz que mundo deve aproveitar momento de mudança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z2XBmWN8eFA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z2XBmWN8eFA"
         }
       }
     }
