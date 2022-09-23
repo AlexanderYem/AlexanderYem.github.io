@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do primeiro-ministro de Portugal na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nv4seKHBk2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Nv4seKHBk2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Minorias e clima, são destaques no terceiro dia da Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FVwd8qFnHXs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Educação em Portugal lida com experiências de trauma de ucranianos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yKpDM1Blbxs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yKpDM1Blbxs"
         }
       }
     }

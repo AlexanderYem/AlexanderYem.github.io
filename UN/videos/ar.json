@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة صاحب السمو الشيخ أحمد نواف الأحمد الصباح رئيس وزراء دولة الكويت أمام المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pzfJ9gZJw4Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pzfJ9gZJw4Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ترجمة فورية لكلمة الرئيس الصومالي حسن شيخ محمود في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zK6f87PEyV0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة رئيس الجمعية العامة للأمم المتحدة تشابا كروسي في افتتاح المناقشة العامة للدورة السابعة والسبعين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iZb4oD17bvg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iZb4oD17bvg"
         }
       }
     }

@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "🇯🇲 Jamaica - Prime Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a9NXFfyjzIo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a9NXFfyjzIo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Español) 🇪🇸 Spain - President of the Government Addresses UN General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G6438TCTHBU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G6438TCTHBU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇪🇸 Spain - President of the Government Addresses UN General Debate (English), 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WffMmL2TMy4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WffMmL2TMy4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇰🇼 Kuwait - Prime Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "No3O4ltLHvw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇵🇦 Panama - Vice President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HMGw1Y8AmT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HMGw1Y8AmT8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Español) 🇵🇦 Panama - Vice President Addresses United Nations General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vwvJal36Un0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vwvJal36Un0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇺🇬 Uganda - Vice President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/94ZffTVwLpA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "94ZffTVwLpA"
         }
       }
     }
