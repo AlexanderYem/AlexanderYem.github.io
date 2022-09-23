@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇲🇦 Morocco - First Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_S0P93iDlUg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_S0P93iDlUg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Français) 🇲🇦 Morocco - First Right of Reply, United Nations General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/84WoH75JwCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "84WoH75JwCM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Daily Wrap: War in Ukraine, Funding for Palestine Refugees & Sahel Region Challenges| United Nations",
         "thumbnails": {
           "high": {
@@ -23,15 +49,6 @@
         },
         "resourceId": {
           "videoId": "mJzG-AdUAhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Private video",
-        "thumbnails": {},
-        "resourceId": {
-          "videoId": "D4QbwTnMTYk"
         }
       }
     },
@@ -110,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A5ckbpDNZHM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇹 Austria - Minister Addresses United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kdcsCFFK18Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kdcsCFFK18Y"
         }
       }
     }
