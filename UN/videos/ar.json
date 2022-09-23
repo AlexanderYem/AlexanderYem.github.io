@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الرئيس الفلسطيني محمود عباس في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXwdS24pgOE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yXwdS24pgOE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الدكتور عبد اللطيف بن راشد الزياني وزير خارجية مملكة البحرين أمام المناقشة العامة للدورة الـ٧٧",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OmfGAT_GV6E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الشيخ تميم بن حمد آل ثاني أمير دولة قطر في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2jy4NHd5m_I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2jy4NHd5m_I"
         }
       }
     }

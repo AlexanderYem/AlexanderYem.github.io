@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AG77 : Les temps forts du jour 3 de l’#UNGA77",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZrhINKusmac/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZrhINKusmac"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AG-77/UNGA77 : Andore : défendre les droits humains, la démocratie et l’Etat de droit,",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FEfXuJibgj4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'éducation est un droit humain",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KbqC6JTzRPA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KbqC6JTzRPA"
         }
       }
     }
