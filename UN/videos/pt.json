@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Quarto dia da Assembleia Geral: guerra na Ucrânia, refugiados palestinos e desafios no Sahel",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vlBYu6KZqnk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vlBYu6KZqnk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ramos Horta: Até 2030, metade da população do Timor-Leste deve falar português",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uDp7oWPw1CY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Cabo Verde, José Maria Neves, discursa na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KQ6AfrOupaM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KQ6AfrOupaM"
         }
       }
     }
