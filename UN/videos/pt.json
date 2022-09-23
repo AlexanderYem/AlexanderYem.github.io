@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente do Timor-Leste fala sobre paz no país e papel da comunidade internacional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpJV2dnz72U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LpJV2dnz72U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso do primeiro-ministro de Portugal na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oUZHdIu-RcE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileira entre os 17 novos Jovens Líderes para Objetivos de Desenvolvimento Sustentável",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FVwd8qFnHXs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FVwd8qFnHXs"
         }
       }
     }

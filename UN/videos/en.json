@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "🇹🇱 Timor-Leste - President Addresses United Nations General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VDbmz7j_-yo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VDbmz7j_-yo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇲🇦 Morocco - First Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pk-VPdJICQc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇲🇽 Mexico - Minister of Foreign Affairs Addresses UN General Debate (English), 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A5ckbpDNZHM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A5ckbpDNZHM"
         }
       }
     }
