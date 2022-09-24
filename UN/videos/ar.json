@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ترجمة فورية مصورة لكلمة وزير خارجية الإتحاد الروسي، سيرغي لافروف، في المناقشة العامة للدورة الـ٧٧",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n21OYfGOpow/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n21OYfGOpow"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة رئيس الوزراء العراقي مصطفى الكاظمي في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VNjBTfMNyhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الرئيس الأمريكي جو بايدن أمام المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ho3-umHo2rs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ho3-umHo2rs"
         }
       }
     }
