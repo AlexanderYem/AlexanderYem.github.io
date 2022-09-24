@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso do primeiro-ministro de Moçambique na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6M6ybhQXKt4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6M6ybhQXKt4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: primeiro-ministro de Moçambique, Adriano Maleiane",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vo-HS4FtKJM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cúpula da Educação Transformadora busca ação para inovar setor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0TkWZtnwoz8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0TkWZtnwoz8"
         }
       }
     }
