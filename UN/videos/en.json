@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "🇺🇿 Uzbekistan - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t1-A8jUYzIE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t1-A8jUYzIE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Español) 🇻🇪 Venezuela - Foreign Minister Addresses United Nations General Debate | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIRsg6xXAVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pIRsg6xXAVM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇻🇪 Venezuela - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBbjjlGiERM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wBbjjlGiERM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russian Federation on Ukraine | Press Conference | United Nations (24 Sept 2022)",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "cyzipI5r2PY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇧🇾 Belarus - Minister for Foreign Affairs Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zb7RkOwkCzU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Zb7RkOwkCzU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇬 Singapore - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TKDqX9uF4Zg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TKDqX9uF4Zg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇿 Azerbaijan - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lZi9WuQjA-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lZi9WuQjA-Q"
         }
       }
     }

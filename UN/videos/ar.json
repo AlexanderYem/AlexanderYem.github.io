@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة وزير الخارجية السعودي سمو الأمير فيصل بن فرحان بن عبدالله آل سعود في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-86JOTm36hc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-86JOTm36hc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة وزير الخارجية المصري سامح حسن شكري سليم في المناقشة العامة للدورة الـ ٧٧ للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "koTQgsH5Mjc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة رئيس مجلس الوزراء اللبناني محمد نجيب عزمي ميقاتي أمام الجمعية العامة للأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AXVwdA-v2ic/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AXVwdA-v2ic"
         }
       }
     }
