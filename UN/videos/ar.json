@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة ريم إبراهيم الهاشمي وزيرة الدولة لشؤون التعاون الدولي في دولة الإمارات في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fyvZGrtwX8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2fyvZGrtwX8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة وزير الخارجية السعودي سمو الأمير فيصل بن فرحان بن عبدالله آل سعود في المناقشة العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NJbIiXxfLgw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الدكتور رشاد العليمي رئيس مجلس القيادة الرئاسي اليمني في المناقشة العامة للدورة الـ ٧٧",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/koTQgsH5Mjc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "koTQgsH5Mjc"
         }
       }
     }
