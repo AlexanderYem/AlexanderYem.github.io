@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Global Week to #Act4SDGs - #FlipTheScript around the world",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vREU0f-U8wA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vREU0f-U8wA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "António Guterres (UN Secretary-General) on the High-level event on ending the COVID-19 pandemic",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L5CRmZhrSrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇭🇹 Haiti - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TY6I5Vj6w4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TY6I5Vj6w4M"
         }
       }
     }
