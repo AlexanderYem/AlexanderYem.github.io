@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "António Guterres (UN Secretary-General) on the High-level event on ending the COVID-19 pandemic",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yVer6-I0jWs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yVer6-I0jWs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unlocking the Future of Education: Harnessing the Power of Digital Technology to Transform Education",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TY6I5Vj6w4M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇸 Iceland - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AT0lAA77uZs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AT0lAA77uZs"
         }
       }
     }
