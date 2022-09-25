@@ -2,6 +2,58 @@
   "items": [
     {
       "snippet": {
+        "title": "(Français) 🇭🇹 Haiti - Foreign Minister Addresses United Nations General Debate | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L5CRmZhrSrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L5CRmZhrSrs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇭🇹 Haiti - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TY6I5Vj6w4M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TY6I5Vj6w4M"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇮🇸 Iceland - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AT0lAA77uZs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AT0lAA77uZs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇹🇹 Trinidad and Tobago - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3VyS-G8skXg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3VyS-G8skXg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇺🇿 Uzbekistan - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -75,58 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ur-uxn3eMs8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(العربية) 🇸🇦 Saudi Arabia - Foreign Minister Addresses United Nations General Debate | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0_LPt9RQ9wQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0_LPt9RQ9wQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇦 Saudi Arabia - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jl_YKPe7u7g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jl_YKPe7u7g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇲 San Marino - Foreign Minister Addresses United Nations General Debate (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mbT1nn89lso/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mbT1nn89lso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Русский) 🇧🇾 Belarus - Minister for Foreign Affairs Addresses United Nations General Debate | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cyzipI5r2PY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cyzipI5r2PY"
         }
       }
     }
