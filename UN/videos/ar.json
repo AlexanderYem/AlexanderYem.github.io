@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ترجمة فورية لكلمة السفير محمد سياد دواله، المندوب الدائم لجيبوتي لدى الأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZodxl3ndgI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bZodxl3ndgI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة المندوب الدائم لسلطنة عُمان لدى الأمم المتحدة، السفير محمد بن عوض الحسان أمام المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLN-2jfIisE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iLN-2jfIisE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة وزير الخارجية التونسي عثمان الجرندي أمام المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "n21OYfGOpow"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة رئيس الوزراء العراقي مصطفى الكاظمي في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NBfnAwM9QBk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NBfnAwM9QBk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الرئيس الفلسطيني محمود عباس في المناقشة العامة للدورة السابعة والسبعين للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yXwdS24pgOE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yXwdS24pgOE"
         }
       }
     }
