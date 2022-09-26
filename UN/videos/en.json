@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "🇺🇳 General Assembly President - Addresses General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QUeRIhlMkZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QUeRIhlMkZI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇦🇿 Azerbaijan - Second Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZRixj7IpQFs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇿 Azerbaijan - First Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2Tk3H_0EH4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2Tk3H_0EH4M"
         }
       }
     }
