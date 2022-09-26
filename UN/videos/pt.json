@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso da embaixadora de Angola na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GcYZOmXT6DA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GcYZOmXT6DA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Quarto dia da Assembleia Geral: guerra na Ucrânia, refugiados palestinos e desafios no Sahel",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FIKn7qo4lwU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: António Costa, primeiro-ministro de Portugal, na 77ª Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vo-HS4FtKJM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vo-HS4FtKJM"
         }
       }
     }
