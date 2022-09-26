@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇸🇾 Syria - Minister for Foreign Affairs Addresses UN General Debate, 77th Session (English) | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_HYCHw5GYk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i_HYCHw5GYk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(العربية) 🇸🇾 Syria - Minister for Foreign Affairs Addresses UN General Debate, 77th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PvPAzohAavc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PvPAzohAavc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Global Week to #Act4SDGs - #FlipTheScript around the world",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "905mMboTUfs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇬🇳 Guinea - Prime Minister Addresses United Nations General Debate | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/co6n6zd3pCM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "co6n6zd3pCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Français) 🇭🇹 Haiti - Foreign Minister Addresses United Nations General Debate | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L5CRmZhrSrs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L5CRmZhrSrs"
         }
       }
     }
