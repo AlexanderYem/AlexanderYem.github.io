@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "USA on Ukraine - Security Council Media Stakeout (27 September 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w4SS1JoQEsk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w4SS1JoQEsk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine: Maintenance of peace & security of Ukraine - Security Council | United Nations | Full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/acCSfRrG5HI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "acCSfRrG5HI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine on Russia & Nuclear Threats - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "oj3Fbn5J5VU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇪 United Arab Emirates - First Right of Reply, UN General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vv-LEAHZ-CA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vv-LEAHZ-CA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(العربية) 🇦🇪 United Arab Emirates - First Right of Reply, UN General Debate, 77th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pN25li4-Hd8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pN25li4-Hd8"
         }
       }
     }
