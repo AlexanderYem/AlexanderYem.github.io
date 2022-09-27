@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine on Russia & Nuclear Threats - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0bNFRYDBIo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z0bNFRYDBIo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ireland on Ukraine - Security Council Media Stakeout (27 September 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iq19QHgXGMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iq19QHgXGMw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Albania on Russia - Security Council Media Stakeout (27 September 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BUdwD7Gv1xM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BUdwD7Gv1xM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan, Haiti, Pakistan & other topics - Daily Press Briefing (27 September 2022)",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "pN25li4-Hd8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇰🇵 Democratic People's Republic of Korea - First Right of Reply, UN General Debate (English)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ov07x64_MV0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ov07x64_MV0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇷 Iran - Fourth Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xX0vO07M6i0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xX0vO07M6i0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇲 Armenia - Second Right of Reply, United Nations General Debate, 77th Session (English) | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p2Caa-51cYU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p2Caa-51cYU"
         }
       }
     }
