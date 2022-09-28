@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Referendo da Rússia, posição dos EUA sobre a guerra e Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/APvhnzvSmbY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "APvhnzvSmbY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "EUA investe em eventos educativos sobre diplomacia e multilateralismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I665KUUZVb4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente do Timor-Leste, José Ramos Horta, fala à Assembleia Geral da ONU (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1cUzGUclYQw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1cUzGUclYQw"
         }
       }
     }
