@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Черноморская инициатива по зерну. Пять фактов. https://news.un.org/ru/story/2022/09/1431761",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AcFVSwZYFQQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AcFVSwZYFQQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Члены независимой комиссии ООН рассказали о военных преступлениях в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lYyodeFFPBQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Визит Генерального секретаря ООН Антониу Гутерриша во Львов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vsBB-WF5J04/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vsBB-WF5J04"
         }
       }
     }
