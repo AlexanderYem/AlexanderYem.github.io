@@ -2,14 +2,27 @@
   "items": [
     {
       "snippet": {
-        "title": "Porta-voz de Assistência Humanitária fala sobre novo ataque em Zaporizhzhia",
+        "title": "ONU em Cabo Verde atua para mitigar mudanças climáticas e criar empregos",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/uWjCpoMytVU/hqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/CPHV3XfUTDA/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "uWjCpoMytVU"
+          "videoId": "CPHV3XfUTDA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Porta-voz de Assistência Humanitária fala sobre novo ataque a civis em Zaporizhzhia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5Aeyxixhu8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g5Aeyxixhu8"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6M6ybhQXKt4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: primeiro-ministro de Moçambique, Adriano Maleiane",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nuPYMEMWtgU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nuPYMEMWtgU"
         }
       }
     }
