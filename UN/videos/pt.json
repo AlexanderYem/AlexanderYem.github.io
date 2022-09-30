@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Porta-voz de Assistência Humanitária fala  sobre novo ataque em Zaporizhzhia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uWjCpoMytVU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uWjCpoMytVU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Quero acabar com a pandemia da Covid-19 nas Américas”, diz novo chefe da Opas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nuPYMEMWtgU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Zacarias da Costa, líder da Comunidade dos Países de Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UvCNZgIXykU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UvCNZgIXykU"
         }
       }
     }

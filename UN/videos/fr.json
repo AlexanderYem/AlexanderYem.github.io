@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'exploitation et les abus sexuels n'ont pas leur place au sein des Nations Unies",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B0BsaHsI0c0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B0BsaHsI0c0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AG77/ #UNGA77 - Jour 4 - Covid 19 , emploi et énergie propre  pour tous",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DvJ48p6MA1E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'éducation traverse une crise",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/88_oO5_s0M0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "88_oO5_s0M0"
         }
       }
     }
