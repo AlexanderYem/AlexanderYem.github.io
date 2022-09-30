@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Tradução",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIwbxdMBYpk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eIwbxdMBYpk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU em Cabo Verde atua para mitigar mudanças climáticas e criar empregos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2BLq7PWt440"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do primeiro-ministro de Moçambique na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6M6ybhQXKt4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6M6ybhQXKt4"
         }
       }
     }

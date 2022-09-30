@@ -5,11 +5,37 @@
         "title": "(LIVE) Peace and security of Ukraine | Security Council | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/Cv1MsuHshds/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/Cv1MsuHshds/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "Cv1MsuHshds"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(LIVE) Peace and security of Ukraine | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UM2VdRDLfY/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8UM2VdRDLfY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Yemen, Ukraine, Mali & other topics - Daily Press Briefing (30 September 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/adLAQwCpLyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "adLAQwCpLyA"
         }
       }
     },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "X85Sq76AR6o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Historic General Assembly wraps with calls for action on nuclear arms | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TxbS3qa6XZo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TxbS3qa6XZo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on Ukraine - Security Council Media Stakeout (27 September 2022) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w4SS1JoQEsk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w4SS1JoQEsk"
         }
       }
     }
