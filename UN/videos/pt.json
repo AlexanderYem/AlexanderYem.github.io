@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do Mundo em Língua Portuguesa na Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yepsD6MPBJ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yepsD6MPBJ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Tradução",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GcYZOmXT6DA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Quarto dia da Assembleia Geral: guerra na Ucrânia, refugiados palestinos e desafios no Sahel",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2BLq7PWt440/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2BLq7PWt440"
         }
       }
     }
