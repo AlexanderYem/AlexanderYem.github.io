@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "(LIVE) Peace and security of Ukraine - Nord Stream pipeline | Security Council | United Nations",
+        "title": "Highlights of the International Day of Peace Youth Observance 2022 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/msAlv1kzzR8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "msAlv1kzzR8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine - Nord Stream pipeline | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/8UM2VdRDLfY/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NKiZkjfzGpQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Blue Man Group at UN for International Day of Peace #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/05ROkXMBlhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "05ROkXMBlhg"
         }
       }
     }
