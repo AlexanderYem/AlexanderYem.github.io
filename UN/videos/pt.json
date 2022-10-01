@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional das Pessoas Idosas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qpZzgEEMvXc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qpZzgEEMvXc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do Mundo em Língua Portuguesa na Assembleia Geral",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sEit2k46XPM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso da embaixadora de Angola na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GcYZOmXT6DA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GcYZOmXT6DA"
         }
       }
     }
