@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "errors": [
-      {
-        "message": "The service is currently unavailable.",
-        "domain": "global",
-        "reason": "backendError"
+  "items": [
+    {
+      "snippet": {
+        "title": "موئل الأمم المتحدة اليابان في بيروت يختتمان مشروع إعادة تأهيل المباني التراثية بعد انفجار المرفأ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQvzFAxOtro/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vQvzFAxOtro"
+        }
       }
-    ],
-    "status": "UNAVAILABLE"
-  }
+    },
+    {
+      "snippet": {
+        "title": "ما هي مبادرة حبوب البحر الأسود؟",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R9T5ZnDkjBI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R9T5ZnDkjBI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ترجمة فورية لكلمة السفير محمد سياد دواله، المندوب الدائم لجيبوتي لدى الأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZodxl3ndgI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bZodxl3ndgI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة المندوب الدائم لسلطنة عُمان لدى الأمم المتحدة، السفير محمد بن عوض الحسان أمام المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLN-2jfIisE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iLN-2jfIisE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة وزير الخارجية التونسي عثمان الجرندي أمام المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xEprzRmHUo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3xEprzRmHUo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة وزير الشؤون الخارجية الجزائرية رمضان لعمامرة في المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/10-jbZJe1j8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "10-jbZJe1j8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة وزير الخارجية الموريتاني محمد سالم ولد مرزوك أمام المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FdS47eoWVU0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FdS47eoWVU0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة الدكتور فيصل المقداد وزير الخارجية والمغتربين في الجمهورية العربية السورية في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jzg4WeUSMD0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jzg4WeUSMD0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة ريم إبراهيم الهاشمي وزيرة الدولة لشؤون التعاون الدولي في دولة الإمارات في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fyvZGrtwX8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2fyvZGrtwX8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة وزير الخارجية السعودي سمو الأمير فيصل بن فرحان بن عبدالله آل سعود في المناقشة العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-86JOTm36hc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-86JOTm36hc"
+        }
+      }
+    }
+  ]
 }
