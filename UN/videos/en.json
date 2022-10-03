@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SDG Media Zone Year-in-Review | Sustainable Development Goals | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WpphpoKK4ik/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WpphpoKK4ik"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN International Day of Older Persons 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "duMcbrHadrM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Burkina Faso, Middle East & other topics - Daily Press Briefing (28 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bb_acFxUI2w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bb_acFxUI2w"
         }
       }
     }
