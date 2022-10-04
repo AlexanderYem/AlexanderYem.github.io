@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الدورة السابعة والسبعون للجمعية العامة .. كم كانت نسبة المشاركة النسائية؟",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YiQUTWZgJYs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YiQUTWZgJYs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "موئل الأمم المتحدة اليابان في بيروت يختتمان مشروع إعادة تأهيل المباني التراثية بعد انفجار المرفأ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2fyvZGrtwX8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة وزير الخارجية السعودي سمو الأمير فيصل بن فرحان بن عبدالله آل سعود في المناقشة العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-86JOTm36hc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-86JOTm36hc"
         }
       }
     }
