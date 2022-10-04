@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wapiganaji wa M23 wasababisha watoto wengi kukosa elimu Rutshuru DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI50eBO3dyw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sI50eBO3dyw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Huduma ya choo nyumbani yaleta nuru kwa kaya huko Accra ,Ghana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BbP8GGQIZas"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Marais wa nchi za Jumuiya ya Afrika Mashariki wana nia ya kutatua changamoto za DRC - Dkt. Mathuki",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z-g4ElWF2g0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z-g4ElWF2g0"
         }
       }
     }
