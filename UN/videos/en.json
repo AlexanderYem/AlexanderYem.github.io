@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Iraq, Somalia & other topics - Daily Press Briefing (4 October 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3JcNK00uUY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q3JcNK00uUY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti, Climate Change, Yemen, Myanmar & Other Topics  - Daily Press Briefing (30 September 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cv1MsuHshds"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Yemen, Ukraine, Mali & other topics - Daily Press Briefing (30 September 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/adLAQwCpLyA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "adLAQwCpLyA"
         }
       }
     }
