@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Haiti, Prêmio Nansen Global do Acnur e a boneca gigante refugiada da Síria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oH6hASjdAeU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oH6hASjdAeU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unctad alerta que sem mudanças urgentes, mundo pode atingir recessão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "twBKpS66UxY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Covid-19, criação de empregos, energia e segurança: Líderes se encontram na ONU para buscar soluções",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CtXnVFROG8c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CtXnVFROG8c"
         }
       }
     }
