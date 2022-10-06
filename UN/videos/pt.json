@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "FAO quer garantir a produção de alimentos para deslocados em Cabo Delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGWMTqg3VmA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EGWMTqg3VmA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal quer promover mulheres na política",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8hsLpjFGmrA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Referendo da Rússia, posição dos EUA sobre a guerra e Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/APvhnzvSmbY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "APvhnzvSmbY"
         }
       }
     }
