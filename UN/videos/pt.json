@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal quer promover mulheres na política",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ho0oH_7Glj0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ho0oH_7Glj0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Haiti, Prêmio Nansen Global do Acnur e a boneca gigante refugiada da Síria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "APvhnzvSmbY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "EUA investe em eventos educativos sobre diplomacia e multilateralismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/twBKpS66UxY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "twBKpS66UxY"
         }
       }
     }

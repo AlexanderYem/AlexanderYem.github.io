@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الصندوق الإسلامي العالمي للاجئين .. مبادرة مبتكرة ومستدامة لإغاثة المهجرين قسرا عن ديارهم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDo0XRVDerk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pDo0XRVDerk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الدورة السابعة والسبعون للجمعية العامة .. كم كانت نسبة المشاركة النسائية؟",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jzg4WeUSMD0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة ريم إبراهيم الهاشمي وزيرة الدولة لشؤون التعاون الدولي في دولة الإمارات في المناقشة العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2fyvZGrtwX8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2fyvZGrtwX8"
         }
       }
     }
