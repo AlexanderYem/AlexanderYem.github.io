@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cheti cha kuzaliwa ndani ya dakika 5 nchini Chad kutokana na usaidizi wa UNICEF.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfM8MbrGKbA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CfM8MbrGKbA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNCDF wamenipatia elimu na kuniunganisha na taasisi za kifedha – Mkurugenzi Nabuhima Foods",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XpniN10RHF0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hata ukiwa ukimbizini, usiache kuitafuta elimu - Nhial Deng",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JlRgHgM1DfI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JlRgHgM1DfI"
         }
       }
     }
