@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Global Citizen Festival 2022 | World Leaders Pledge to End Extreme Poverty",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4hvMU5GWoWo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4hvMU5GWoWo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Thailand, DSG, Security Council & other topics - Daily Press Briefing (6 October 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gxZeZQiDu7M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SDG Media Zone Year-in-Review | Sustainable Development Goals | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WpphpoKK4ik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WpphpoKK4ik"
         }
       }
     }
