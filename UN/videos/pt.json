@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Saúde Mental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Of9lb-guvHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Of9lb-guvHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Inverno na Ucrânia, Coreia do Norte e igualdade de gênero em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CPHV3XfUTDA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Porta-voz de Assistência Humanitária fala sobre novo ataque a civis em Zaporizhzhia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/g5Aeyxixhu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "g5Aeyxixhu8"
         }
       }
     }
