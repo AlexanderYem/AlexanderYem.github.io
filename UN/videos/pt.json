@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Menina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPnsPzQgqp4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vPnsPzQgqp4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Saúde Mental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eIwbxdMBYpk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU em Cabo Verde atua para mitigar mudanças climáticas e criar empregos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CPHV3XfUTDA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CPHV3XfUTDA"
         }
       }
     }
