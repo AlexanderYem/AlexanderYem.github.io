@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aliviar dívida de países mais pobres é crucial para promover desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lBVZHj49Wzw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lBVZHj49Wzw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Tecnologia, ataque de resgate, terrorismo e outros crimes cibernéticos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qpZzgEEMvXc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do Mundo em Língua Portuguesa na Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yepsD6MPBJ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yepsD6MPBJ0"
         }
       }
     }
