@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Tecnologia, ataque de resgate, terrorismo e outros crimes cibernéticos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCeGU-ZBYV4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hCeGU-ZBYV4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Menina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yepsD6MPBJ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Tradução",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eIwbxdMBYpk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eIwbxdMBYpk"
         }
       }
     }
