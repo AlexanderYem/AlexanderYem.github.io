@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem sobre o Dia Internacional par a Redução do Risco de Desastres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/icR86Nzhvvk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "icR86Nzhvvk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aliviar dívida de países mais pobres é crucial para promover desenvolvimento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1D5lJSGUBvs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional das Pessoas Idosas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qpZzgEEMvXc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qpZzgEEMvXc"
         }
       }
     }
