@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "G20, Yemen & other topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ErbOUpUirKk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ErbOUpUirKk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day for Disaster Risk Reduction 2022 - UN Chief message | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uiHRF8bgOq4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(Part 2) Countering the use of new and emerging technologies for terrorist purposes - CTC meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eZQWD1ULi_s/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eZQWD1ULi_s"
         }
       }
     }
