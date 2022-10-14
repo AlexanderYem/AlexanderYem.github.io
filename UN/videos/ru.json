@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Может ли ООН остановить войну?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZDg6lRgwfRw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZDg6lRgwfRw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Черноморская инициатива по зерну. Пять фактов. https://news.un.org/ru/story/2022/09/1431761",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h_r6uaVc4bU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "31 августа 2022 года Мишель Бачелет покидает пост Верховного комиссара ООН по правам человека.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lYyodeFFPBQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lYyodeFFPBQ"
         }
       }
     }
