@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Guterres discute economia, anexações na Ucrânia e Dia Mundial da Alimentação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BP2QSBEoIQ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BP2QSBEoIQ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem sobre o Dia Internacional par a Redução do Risco de Desastres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oH6hASjdAeU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unctad alerta que sem mudanças urgentes, mundo pode atingir recessão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1D5lJSGUBvs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1D5lJSGUBvs"
         }
       }
     }
