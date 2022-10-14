@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral da ONU, António Guterres, divulga mensagem sobre Dia Mundial da Alimentação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/St3sbU9npho/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "St3sbU9npho"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Unicef apoia construção de sanitários e pontos de água nas escolas para prevenir doenças",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLonn2HzRYM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vLonn2HzRYM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Guterres discute economia, anexações na Ucrânia e Dia Mundial da Alimentação",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "EGWMTqg3VmA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal quer promover mulheres na política",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ho0oH_7Glj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ho0oH_7Glj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Haiti, Prêmio Nansen Global do Acnur e a boneca gigante refugiada da Síria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oH6hASjdAeU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oH6hASjdAeU"
         }
       }
     }
