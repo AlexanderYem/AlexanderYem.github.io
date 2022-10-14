@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unicef apoia construção de sanitários e pontos de água nas escolas para prevenir doenças",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bny0WrHQyfU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bny0WrHQyfU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU, António Guterres, divulga mensagem sobre Dia Mundial da Alimentação",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "St3sbU9npho"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef apoia construção de sanitários e pontos de água nas escolas para prevenir doenças",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vLonn2HzRYM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vLonn2HzRYM"
         }
       }
     },
