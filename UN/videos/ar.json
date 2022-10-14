@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "حوار مع د. مروان عورتاني وزير التربية والتعليم الفلسطيني",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HT1R7pTkTAc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HT1R7pTkTAc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الدمية أمل الصغيرة تجوب العالم للتذكير بمحنة اللاجئين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3xEprzRmHUo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة وزير الشؤون الخارجية الجزائرية رمضان لعمامرة في المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/10-jbZJe1j8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "10-jbZJe1j8"
         }
       }
     }
