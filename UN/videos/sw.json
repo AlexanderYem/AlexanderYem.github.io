@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti inahitaji msaada wa haraka",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2n3XC3zze0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s2n3XC3zze0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nchi ya Somalia yaomba kujiunga na jumuiya ya Afrika Mashariki",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sI50eBO3dyw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Huduma ya choo nyumbani yaleta nuru kwa kaya huko Accra ,Ghana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J7Tc8ySCUmw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J7Tc8ySCUmw"
         }
       }
     }

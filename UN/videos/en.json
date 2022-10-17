@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ethiopia: \"Violence and destruction have reached alarming levels\" - UN Chief Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXDQ2RaMi4Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gXDQ2RaMi4Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Famine in Somalia – 6.7 million Somalis are expected to face acute food insecurity | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bJVPwXFMld8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vote on Ukraine: Majority of Assembly agreed Russia attempted illegal annexation | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jWG_ms9h_a4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jWG_ms9h_a4"
         }
       }
     }

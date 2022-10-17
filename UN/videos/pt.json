@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres grava mensagem sobre Dia Internacional para Erradicação da Pobreza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8tqhvvNcdxk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8tqhvvNcdxk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unicef apoia construção de sanitários e pontos de água nas escolas para prevenir doenças",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "22efQ0J--Go"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "FAO quer garantir a produção de alimentos para deslocados em Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EGWMTqg3VmA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EGWMTqg3VmA"
         }
       }
     }
