@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nchi ya Somalia yaomba kujiunga na jumuiya ya Afrika Mashariki",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0c8pq6GFHFc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0c8pq6GFHFc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mradi wa Benki ya Dunia Msumbiji waleta nuru kwa familia zilizokata tamaa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J7Tc8ySCUmw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Atumia bahari kujumuisha wanawake wazee katika miradi ya maendeleo na mnepo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_7Q25ovT8Q8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_7Q25ovT8Q8"
         }
       }
     }
