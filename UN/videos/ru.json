@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украинские фермеры пытаются сохранить свой бизнес в условиях конфликта.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/960-0TaOiYA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "960-0TaOiYA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Может ли ООН остановить войну?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HLcAKziP6X0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН: Памяти Елизаветы II",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h_r6uaVc4bU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h_r6uaVc4bU"
         }
       }
     }
