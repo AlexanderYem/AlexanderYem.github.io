@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti: Insecurity & Humanitarian Crisis -Security Council Briefing (17 October 2022) |United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ds4ziasQNis/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ds4ziasQNis"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretary-General, Mali, Black Sea Grain Initiative & other topics  - Daily Press Briefing (17 Oct)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "upxiLv1xfps"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Older adults and COVID-19 vaccines | Science in 5 | World Health Organization (WHO)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w_nPId0PKEk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w_nPId0PKEk"
         }
       }
     }
