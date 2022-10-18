@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الصندوق العالمي لمكافحة الإيدز والسل والملاريا ينقذ حياة أكثر من 50 مليون شخص منذ إنشائه",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtJXeDc3Nzw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DtJXeDc3Nzw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "حوار مع د. مروان عورتاني وزير التربية والتعليم الفلسطيني",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iLN-2jfIisE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة وزير الخارجية التونسي عثمان الجرندي أمام المناقشة العامة للدورة الـ٧٧ للجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3xEprzRmHUo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3xEprzRmHUo"
         }
       }
     }
