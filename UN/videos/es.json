@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Tengo derecho\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3h8923aQtSg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3h8923aQtSg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Blue Man Group en la ONU por el Día Internacional de la Paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P5KFsZBfH0Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kiribati le planta cara al mar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NzMUWuCG-BQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NzMUWuCG-BQ"
         }
       }
     }
