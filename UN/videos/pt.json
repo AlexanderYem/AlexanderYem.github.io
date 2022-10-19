@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Economia de Cabo Verde projeta “muito otimismo”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G5MgTxgD26k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G5MgTxgD26k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres grava mensagem sobre Dia Internacional para Erradicação da Pobreza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Of9lb-guvHw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Inverno na Ucrânia, Coreia do Norte e igualdade de gênero em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/22efQ0J--Go/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "22efQ0J--Go"
         }
       }
     }
