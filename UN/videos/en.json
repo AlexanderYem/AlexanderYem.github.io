@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council Open Debate on Women and Peace and Security",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtJn4Bh--MQ/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XtJn4Bh--MQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SG/India, Central African Republic, Mali & other topics - Daily Press Briefing (19 Oct 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YHFD5GkQgq4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Day for the Eradication of Poverty 2022 - António Guterres (Secretary-General)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fBfWF2XaRSM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fBfWF2XaRSM"
         }
       }
     }
