@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ireland on Haiti - Security Council Media Stakeout (21 October 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Psn5JDrcqDU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Psn5JDrcqDU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#COP27: Get Ready.....We need to come together to ramp up #climateaction | UNFCCC | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QAQLkko68Vk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Central African Republic: Explosives near border making humanitarian assistance nearly impossible",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4ILv8ddZ9aI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4ILv8ddZ9aI"
         }
       }
     }
