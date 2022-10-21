@@ -2,14 +2,14 @@
   "items": [
     {
       "snippet": {
-        "title": "U.S.A. on Ethiopia - Security Council Media Stakeout (21 October 2022) | United Nations",
+        "title": "France on Ukraine - Security Council Media Stakeout (21 October 2022) | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/FfHeoouZmRY/hqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/cLt6revtj2E/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "FfHeoouZmRY"
+          "videoId": "cLt6revtj2E"
         }
       }
     },
@@ -18,11 +18,24 @@
         "title": "Maintenance of peace and security of Ukraine - Security Council (21 October)",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/fcOtkyvC4a8/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/fcOtkyvC4a8/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "fcOtkyvC4a8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "U.S.A. on Ethiopia - Security Council Media Stakeout (21 October 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FfHeoouZmRY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FfHeoouZmRY"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_cilr3ilHTA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chad, Burkina Faso, Nigeria & other topics - Daily Press Briefing (20 October 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XcXkjUmm3tM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XcXkjUmm3tM"
         }
       }
     }
