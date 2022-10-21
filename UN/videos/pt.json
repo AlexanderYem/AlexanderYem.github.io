@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU no Brasil destaca ações para enfrentar desafios pós-pandemia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Avg4bKRquBo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Avg4bKRquBo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Economia de Cabo Verde projeta “muito otimismo”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vPnsPzQgqp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Saúde Mental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Of9lb-guvHw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Of9lb-guvHw"
         }
       }
     }
