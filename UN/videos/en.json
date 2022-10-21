@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "U.S.A. on Ethiopia - Security Council Media Stakeout (21 October 2022) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FfHeoouZmRY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FfHeoouZmRY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maintenance of peace and security of Ukraine - Security Council (21 October)",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "UN Chief's trip to India & other topics - Daily Press Briefing (21 October 2022)",
+        "title": "UN Chief's trip to India, Ukraine, Haiti & other topics - Daily Press Briefing (21 October 2022)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/zIokJ1VVUE0/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XcXkjUmm3tM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Signatories to Women and Peace and Security (WPS) Commitments - Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IIBfJVKZCMo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IIBfJVKZCMo"
         }
       }
     }
