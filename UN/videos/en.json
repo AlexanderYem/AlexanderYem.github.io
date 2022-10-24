@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Climate Change: \"Human rights are negatively impacted and violated\" -Press Conference|United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j98fgbynZL8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j98fgbynZL8"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Celebration of the 77th Anniversary of the United Nations - UN Chamber Music Society Concert",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "igtKOjZjJYs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Climate Change: \"Human rights are negatively impacted and violated\" -Press Conference|United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j98fgbynZL8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j98fgbynZL8"
         }
       }
     },
