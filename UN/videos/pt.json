@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem de António Guterres sobre o Dia das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vD4I7uJHj7w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vD4I7uJHj7w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU no Brasil destaca ações para enfrentar desafios pós-pandemia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hCeGU-ZBYV4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Menina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vPnsPzQgqp4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vPnsPzQgqp4"
         }
       }
     }
