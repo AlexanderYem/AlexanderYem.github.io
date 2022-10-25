@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le terrorisme, une des menaces les plus graves pour la paix et la sécurité internationales.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0K_4DNz9LQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w0K_4DNz9LQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : Une jeune femme entrepreneure veut changer l’image que les gens ont du Kivu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D_S6O87gb30"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG77/UNGA77 : Jour 1 – Un appel à la solidarité internationale et à l’égalité des sexes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rLq8heban8U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rLq8heban8U"
         }
       }
     }
