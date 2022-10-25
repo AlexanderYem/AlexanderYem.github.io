@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tai Tanzania na haki za binadamu: Msichana Njaro avuka vigingi vya unyanyapaa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RehXByTCQqw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RehXByTCQqw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kuna mafanikio makubwa yaliyopatikana katika ushirika baina ya Rwanda na UN: Josephine Ulimwengu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WslKFkqJMZU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uwezo na rasilimali za kushamiri mtoto wa kike ziko ndani yake: Mwandishi Yejide Aina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MuK-dvPRhdk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MuK-dvPRhdk"
         }
       }
     }
