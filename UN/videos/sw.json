@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mafunzo ya kilimo cha kisasa cha samaki nchini Gabon",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZV0naqYDoco/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZV0naqYDoco"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kamishna Mkuu wa UNHCR atembelea wakimbizi nchini Somalia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "s2n3XC3zze0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nchi ya Somalia yaomba kujiunga na jumuiya ya Afrika Mashariki",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0c8pq6GFHFc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0c8pq6GFHFc"
         }
       }
     }

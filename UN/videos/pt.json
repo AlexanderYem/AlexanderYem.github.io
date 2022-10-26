@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Sírios sofrem impacto da guerra Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EURRQ1Is6go/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EURRQ1Is6go"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Iniciativa do Brasil que recebe migrantes e refugiados venezuelanos vira tema de exposição",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "icR86Nzhvvk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aliviar dívida de países mais pobres é crucial para promover desenvolvimento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lBVZHj49Wzw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lBVZHj49Wzw"
         }
       }
     }
