@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Miaka 58 ya WHO kuimarisha afya za wanyarwanda.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOYCb2ILhpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QOYCb2ILhpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mafunzo ya ufugaji wa kisasa wa samaki nchini Gabon",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EumGso8xTBA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haiti inahitaji msaada wa haraka",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/s2n3XC3zze0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "s2n3XC3zze0"
         }
       }
     }
