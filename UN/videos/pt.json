@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Contraterrorismo reúne Conselho de Segurança na Índia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gko_etukqQI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Gko_etukqQI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Sírios sofrem impacto da guerra Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BP2QSBEoIQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem sobre o Dia Internacional par a Redução do Risco de Desastres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/icR86Nzhvvk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "icR86Nzhvvk"
         }
       }
     }
