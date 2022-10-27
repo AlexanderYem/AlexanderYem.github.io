@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Ukraine/legality of investigation - Security Council Media Stakeout (26 October 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yu_NnOofJcA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Yu_NnOofJcA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate, Ukraine, Myanmar and other topics - Daily Press Briefing (26 October 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uvN650FgCG0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Democratic Republic of the Congo, Syria & other topics - Daily Press Briefing (24 Oct 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tz4YRuBFTQs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tz4YRuBFTQs"
         }
       }
     }
