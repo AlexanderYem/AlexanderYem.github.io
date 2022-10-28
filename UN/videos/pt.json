@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres de Moçambique falam sobre como enfrentam doenças oncológicas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R51Y22AMbkQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R51Y22AMbkQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Contraterrorismo reúne Conselho de Segurança na Índia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "St3sbU9npho"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Guterres discute economia, anexações na Ucrânia e Dia Mundial da Alimentação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BP2QSBEoIQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BP2QSBEoIQ4"
         }
       }
     }
