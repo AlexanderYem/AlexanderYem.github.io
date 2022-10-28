@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un expert encourage le Burundi à coopérer avec l'ONU sur les droits de l'homme",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FSjo06-VoFw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FSjo06-VoFw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le terrorisme, une des menaces les plus graves pour la paix et la sécurité internationales",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MQAeMGGrGQ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG77 : Trois priorités politiques clés pour les Etats-Unis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D_S6O87gb30/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D_S6O87gb30"
         }
       }
     }
