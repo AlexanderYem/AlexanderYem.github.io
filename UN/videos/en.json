@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "State of Palestine on the Israeli occupation - Security Council Media Stakeout (28 October 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/64HSe1N5wLE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "64HSe1N5wLE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Founding of the United Nations - San Francisco 1945 | Archives | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_URmzs925Og"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine/Russia: IAEA on Nuclear Threats to Peace and Security - Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cZAl3UxQW40/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cZAl3UxQW40"
         }
       }
     }

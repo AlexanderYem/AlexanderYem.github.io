@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украинские фермеры переживают тяжелейший кризис аграрной отрасли.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2AKh9GfCTM4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2AKh9GfCTM4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украинские фермеры пытаются сохранить свой бизнес в условиях конфликта.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pLrq2E74SII"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Образование для детей-беженцев в России",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HLcAKziP6X0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HLcAKziP6X0"
         }
       }
     }
