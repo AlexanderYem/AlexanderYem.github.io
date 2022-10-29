@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Declaração de Delhi busca combater o uso de novas tecnologias para fins terroristas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EEu2wBQvhU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0EEu2wBQvhU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise climática: compromissos na COP27 precisam ser mais ambiciosos, diz especialista",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8tqhvvNcdxk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unicef apoia construção de sanitários e pontos de água nas escolas para prevenir doenças",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bny0WrHQyfU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bny0WrHQyfU"
         }
       }
     }
