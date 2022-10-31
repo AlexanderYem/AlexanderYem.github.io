@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU em São Tomé e Príncipe aposta em estimular uma economia inclusiva",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W1NW0oKPFqI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W1NW0oKPFqI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Declaração de Delhi busca combater o uso de novas tecnologias para fins terroristas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "G5MgTxgD26k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres grava mensagem sobre Dia Internacional para Erradicação da Pobreza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8tqhvvNcdxk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8tqhvvNcdxk"
         }
       }
     }
