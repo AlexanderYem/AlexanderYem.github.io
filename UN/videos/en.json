@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Music and the Holocaust: History, Memory and Justice",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9rzR4r-IMs/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T9rzR4r-IMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Albania on Belarus/Ryanair Flight 4978 - Security Council Media Stakeout (31 October 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ip1Et_gDjeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine: Actions by Israeli governments may amount to international crimes-Independent Commission",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DUOBeOYwmqQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DUOBeOYwmqQ"
         }
       }
     }
