@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ميّادة عادل تجمع بين تصميم الأزياء ونشاطها في مجال حقوق الإنسان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2kUViKzJbQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m2kUViKzJbQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لجنة مكافحة الإرهاب التابعة لمجلس الأمن ستراجع التهديد المتزايد الذي تشكله التكنولوجيا الحديثة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YiQUTWZgJYs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "موئل الأمم المتحدة اليابان في بيروت يختتمان مشروع إعادة تأهيل المباني التراثية بعد انفجار المرفأ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vQvzFAxOtro/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vQvzFAxOtro"
         }
       }
     }
