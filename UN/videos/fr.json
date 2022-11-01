@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La CIJ ne peut traiter d'une affaire que si les Etats ont donné un consentement",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQ8g3i6_C-c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eQ8g3i6_C-c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Il faut interdire la « pauvrophobie » au même titre que le racisme et le sexisme",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PrU3EPBTQlY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guerre en Ukraine : Un impact inacceptable sur les droits humains",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O5dXt5ylPqE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O5dXt5ylPqE"
         }
       }
     }
