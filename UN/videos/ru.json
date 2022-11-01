@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Климатический кризис вынуждает миллионы людей покидать свои дома",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sl_m7Vnlv6Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sl_m7Vnlv6Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украинские фермеры переживают тяжелейший кризис аграрной отрасли",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gwTFwM6vkYQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "«Картина мира» выставлена на обозрение в ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pLrq2E74SII/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pLrq2E74SII"
         }
       }
     }
