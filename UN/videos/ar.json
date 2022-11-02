@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مؤتمر الأطراف في اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ 27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cha9N1KFEKo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cha9N1KFEKo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ميّادة عادل تجمع بين تصميم الأزياء ونشاطها في مجال حقوق الإنسان",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_os0pJiCzPg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الدورة السابعة والسبعون للجمعية العامة .. كم كانت نسبة المشاركة النسائية؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YiQUTWZgJYs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YiQUTWZgJYs"
         }
       }
     }
