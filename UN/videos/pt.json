@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Braga será sede de conferência da Unesco em 2024",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjirE4nZGyQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AjirE4nZGyQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Impunidade em crimes contra jornalistas, mecanização na produção agrícola e COP27",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EURRQ1Is6go"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iniciativa do Brasil que recebe migrantes e refugiados venezuelanos vira tema de exposição",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CwddsTCdIKY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CwddsTCdIKY"
         }
       }
     }
