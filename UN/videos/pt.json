@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Impunidade em crimes contra jornalistas, mecanização na produção agrícola e COP27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VN2lujAV3BU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VN2lujAV3BU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27 avalia ações de governos do G20 para políticas climáticas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CwddsTCdIKY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de António Guterres sobre o Dia das Nações Unidas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vD4I7uJHj7w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vD4I7uJHj7w"
         }
       }
     }
