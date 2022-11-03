@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ghana/Security Council President on Ethiopia - Security Council Media Stakeout (3 November 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1rlehTrWAIE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1rlehTrWAIE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ireland on peacekeeping & peacebuilding  - Security Council Media Stakeout (3 November 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7NLMECn2lls"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN High Commissioner on the global situation of refugees - Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YQklDNct6gg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YQklDNct6gg"
         }
       }
     }
