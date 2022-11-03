@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Rwanda: Umuganda ni daraja muhimu la kukabili mabadiliko ya tabianchi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBEvi1I-23w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JBEvi1I-23w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Umuganda ni daraja muhimu la kukabili mabadiliko ya tabianchi Rwanda :UN Rwanda.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "H_7YOdcdbX8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tai Tanzania na haki za binadamu: Msichana Njaro avuka vigingi vya unyanyapaa.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RehXByTCQqw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RehXByTCQqw"
         }
       }
     }

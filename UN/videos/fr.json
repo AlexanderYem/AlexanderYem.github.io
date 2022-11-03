@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La #COP27 doit jeter les bases d'une action climatique beaucoup plus audacieuse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/llewry0AR6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "llewry0AR6s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La CIJ ne peut traiter d'une affaire que si les Etats ont donné un consentement",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZrhINKusmac"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AG-77/UNGA77 : Andorre : défendre les droits humains, la démocratie et l’Etat de droit,",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PrU3EPBTQlY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PrU3EPBTQlY"
         }
       }
     }
