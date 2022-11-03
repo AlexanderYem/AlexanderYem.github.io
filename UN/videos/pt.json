@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP27 e apoio a economias em desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjJasietwOo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rjJasietwOo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Braga será sede de conferência da Unesco em 2024",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Gko_etukqQI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Sírios sofrem impacto da guerra Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EURRQ1Is6go/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EURRQ1Is6go"
         }
       }
     }
