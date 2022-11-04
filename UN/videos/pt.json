@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "América Latina precisa de mais inclusão, defende presidente do Conselho de Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0GnVM4PiZU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z0GnVM4PiZU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Juiz recém-eleito para a Corte Internacional de Justiça fala à ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Yi8tZSD6Js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5Yi8tZSD6Js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique acolhe reunião pelo fim da fístula obstétrica",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "0EEu2wBQvhU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise climática: compromissos na COP27 precisam ser mais ambiciosos, diz especialista",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xOWkeAcodK4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xOWkeAcodK4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mulheres de Moçambique falam sobre como enfrentam doenças oncológicas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/R51Y22AMbkQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "R51Y22AMbkQ"
         }
       }
     }
