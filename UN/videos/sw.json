@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rwanda imetupokea na kutukirimu: Wahamiaji toka DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1FBHcKPgL4c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1FBHcKPgL4c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kutoka wazo la darasani mpaka Kampuni : Digital Kiota",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QOYCb2ILhpE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mafunzo ya ufugaji wa kisasa wa samaki nchini Gabon",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZV0naqYDoco/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZV0naqYDoco"
         }
       }
     }
