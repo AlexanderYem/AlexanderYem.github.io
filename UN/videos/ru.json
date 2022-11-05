@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "В канун открытия Конференции ООН по климату КС-27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wlp-qmbvtgY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wlp-qmbvtgY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Климатический кризис вынуждает миллионы людей покидать свои дома",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nUdaPXEcCe4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "К открытию 77-й сессии Генеральной Ассамблеи ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gwTFwM6vkYQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gwTFwM6vkYQ"
         }
       }
     }
