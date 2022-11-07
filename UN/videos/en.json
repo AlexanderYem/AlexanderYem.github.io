@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Secretary-General & Pakistan Prime Minister joint press encounter | United Nations | #COP27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vSbqBrsIUMk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vSbqBrsIUMk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rewa Assi – Adapting to Changing environment, UNICEF Youth Rep | United Nations | Voices of Change",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1rlehTrWAIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ireland on peacekeeping & peacebuilding  - Security Council Media Stakeout (3 November 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Lo4wdoHH_48/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Lo4wdoHH_48"
         }
       }
     }
