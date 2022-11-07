@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanasayansi wanawake San andres, Colombia watumia taaluma yao kurejesha matumbawe yaliyoharibiwa.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XtyrOZzBINI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XtyrOZzBINI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rwanda imetupokea na kutukirimu: Wahamiaji toka DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yagG_WrHIkY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Miaka 58 ya WHO kuimarisha afya za wanyarwanda.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QOYCb2ILhpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QOYCb2ILhpE"
         }
       }
     }
