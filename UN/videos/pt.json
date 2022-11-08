@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro dia da Cúpula de Líderes Mundiais na COP27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Wp8ITvB9Ag/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7Wp8ITvB9Ag"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "América Latina precisa de mais inclusão, defende presidente do Conselho de Direitos Humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W1NW0oKPFqI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Declaração de Delhi busca combater o uso de novas tecnologias para fins terroristas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0EEu2wBQvhU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0EEu2wBQvhU"
         }
       }
     }
