@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU promove resiliência comunitária a choques climáticos na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T-kqV3RDD14/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T-kqV3RDD14"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro dia da Cúpula de Líderes Mundiais na COP27",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UPJ050JwbCs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU em São Tomé e Príncipe aposta em estimular uma economia inclusiva",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W1NW0oKPFqI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W1NW0oKPFqI"
         }
       }
     }

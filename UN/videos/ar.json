@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مؤتمر الأطراف COP27: حان الوقت لكي تتحد الدول من أجل عملية التنفيذ.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lz7MVZs0QvI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Lz7MVZs0QvI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مبادرة «بلدنا تستضيف قمة المناخ السابعة والعشرين» تختتم فعاليات أنشطتها بعقد مؤتمرها الختامي في مصر",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HT1R7pTkTAc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الدمية أمل الصغيرة تجوب العالم للتذكير بمحنة اللاجئين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-KNn1_6QR2k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-KNn1_6QR2k"
         }
       }
     }

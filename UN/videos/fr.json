@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP27 : « Nous avons la capacité collective de transformer les choses »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ipOYWpLS6IU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ipOYWpLS6IU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La #COP27 doit jeter les bases d'une action climatique beaucoup plus audacieuse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SvKPI1Me8Eg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AG77/#UNGA77 : Jour 3 - Ukraine, Sahel, UNRWA, crise humanitaire et climatique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZrhINKusmac/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZrhINKusmac"
         }
       }
     }
