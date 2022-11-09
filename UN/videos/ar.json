@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "\"خضرنة\" التعليم لمكافحة تغير المناخ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmXZzS5QwKs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DmXZzS5QwKs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "إشراق السويدي من اليمن تعمل على توعية المجتمع بقضايا المناخ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vVEAPV1rts/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7vVEAPV1rts"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مؤتمر الأطراف COP27: حان الوقت لكي تتحد الدول من أجل عملية التنفيذ.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "aiqcX5tzbRA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الصندوق العالمي لمكافحة الإيدز والسل والملاريا ينقذ حياة أكثر من 50 مليون شخص منذ إنشائه",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DtJXeDc3Nzw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DtJXeDc3Nzw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار مع د. مروان عورتاني وزير التربية والتعليم الفلسطيني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HT1R7pTkTAc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HT1R7pTkTAc"
         }
       }
     }
