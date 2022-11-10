@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Music and the Holocaust: History, Memory and Justice",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9rzR4r-IMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T9rzR4r-IMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief Meets Young Climate Activists at COP27 #shorts | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bdQuU6U9RZU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sexual exploitation and abuse: implementing a zero-tolerance policy - General Assembly Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dtkwYNaOKCs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dtkwYNaOKCs"
         }
       }
     }
