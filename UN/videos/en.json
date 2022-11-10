@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council President/Ghana on Counterterrorism in Africa - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtMAf9jokSA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rtMAf9jokSA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Music and the Holocaust: History, Memory and Justice",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RMACBZzdcTQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Choosing between Cooperation & Death - Climate Implementation Summit #COP27 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bdQuU6U9RZU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bdQuU6U9RZU"
         }
       }
     }
