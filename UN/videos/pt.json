@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Para Guterres, jovens dão esperança na piora da crise climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMRFcyQ7k04/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oMRFcyQ7k04"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU conversa com jovens sobre clima na COP27",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VN2lujAV3BU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP27 avalia ações de governos do G20 para políticas climáticas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NTD7CYnEsGA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NTD7CYnEsGA"
         }
       }
     }
