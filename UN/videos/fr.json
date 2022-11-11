@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#COP27 : le Chef de l'ONU  rencontre des jeunes militants pour le climat",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9yoS-GShSU8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9yoS-GShSU8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27 : « Nous avons la capacité collective de transformer les choses »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B0BsaHsI0c0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AG77/ #UNGA77 - Jour 4 - Covid 19 , emploi et énergie propre  pour tous",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SvKPI1Me8Eg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SvKPI1Me8Eg"
         }
       }
     }
