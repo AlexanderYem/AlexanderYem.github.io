@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especialista da OMS fala à ONU sobre Dia Mundial da Pneumonia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUwOzYeDJDo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GUwOzYeDJDo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Com agravamento da crise climática, chefe da ONU acredita que ação da juventude traz esperança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AjirE4nZGyQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Impunidade em crimes contra jornalistas, mecanização na produção agrícola e COP27",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VN2lujAV3BU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VN2lujAV3BU"
         }
       }
     }
