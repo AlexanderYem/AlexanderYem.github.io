@@ -2,10 +2,36 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Eleventh Emergency Special Session of the General Assembly resumed (continued) | UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQGJ7R9ckpc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eQGJ7R9ckpc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#COP27: Now the hard work begins | UN News | Climate Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bj2NlkDpm3I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bj2NlkDpm3I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Eleventh Emergency Special Session of the General Assembly resumed | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/I2aPc0Om6cI/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/I2aPc0Om6cI/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "nkCe6rWqIDE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dangerous Rhetoric Raising Nuclear Tensions - UN Chief at 12th ASEAN-UN Summit | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TyvJn0Zw4TA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TyvJn0Zw4TA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council President/Ghana on Counterterrorism in Africa - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rtMAf9jokSA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rtMAf9jokSA"
         }
       }
     }
