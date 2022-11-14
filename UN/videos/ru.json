@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гуманитарная помощь ООН прибыла в Херсон",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Miv78ZUwZnM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Miv78ZUwZnM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "В канун открытия Конференции ООН по климату КС-27",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IjCHlDEFuno"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ООН о войне в Украине - фрагмент интервью",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nUdaPXEcCe4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nUdaPXEcCe4"
         }
       }
     }
