@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanawake wa jamii ya asili wachukua hatua kurejesha misitu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZvS2GTolww/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TZvS2GTolww"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Viongozi wa dini wataka hatua za kukabiliana na mabadiliko ya tabianchi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JBEvi1I-23w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Umuganda ni daraja muhimu la kukabili mabadiliko ya tabianchi Rwanda :UN Rwanda.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LOQeRZFhoYI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LOQeRZFhoYI"
         }
       }
     }
