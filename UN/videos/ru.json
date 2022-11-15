@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Население Земли - 8 миллиардов: новые возможности для человечества",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ATRkOAHTqA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8ATRkOAHTqA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Доставка гуманитарной помощи ООН в Херсон",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_O0hDKuT4VU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН о Черноморской зерновой инициативе и деликатной дипломатии - фрагмент интервью",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IjCHlDEFuno/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IjCHlDEFuno"
         }
       }
     }
