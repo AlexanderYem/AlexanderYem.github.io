@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mundo chega a 8 bilhões de pessoas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6Aj24MOtQQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E6Aj24MOtQQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Especialista da OMS fala à ONU sobre Dia Mundial da Pneumonia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rjJasietwOo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Braga será sede de conferência da Unesco em 2024",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AjirE4nZGyQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AjirE4nZGyQ"
         }
       }
     }
