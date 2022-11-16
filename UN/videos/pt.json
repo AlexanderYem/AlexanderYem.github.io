@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ucrânia: brasileiro fala sobre a situação de Kherson",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qudtpqrWix0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qudtpqrWix0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mundo chega a 8 bilhões de pessoas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fxwam7g9qV4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP27 e apoio a economias em desenvolvimento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rjJasietwOo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rjJasietwOo"
         }
       }
     }
