@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileira Katiúscia Ribeiro destaca importância do Dia Mundial da Filosofia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4gqv4mKVh8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u4gqv4mKVh8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ativista brasileira na COP27 fala à ONU News sobre criação de Ministério dos Povos Originários",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NYCXet-T27Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NYCXet-T27Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ucrânia: brasileiro fala sobre a situação de Kherson",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "z0GnVM4PiZU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Juiz recém-eleito para a Corte Internacional de Justiça fala à ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5Yi8tZSD6Js/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5Yi8tZSD6Js"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique acolhe reunião pelo fim da fístula obstétrica",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fxwam7g9qV4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fxwam7g9qV4"
         }
       }
     }
