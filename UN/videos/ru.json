@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ООН и МККК: бомбардировка гражданских объектов не имеет оправдания",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-EaZqqLxls8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-EaZqqLxls8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Население Земли - 8 миллиардов: новые возможности для человечества",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XZdU35E_Fek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью Генерального секретаря Организации Объединенных Наций  Службе новостей ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_O0hDKuT4VU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_O0hDKuT4VU"
         }
       }
     }
