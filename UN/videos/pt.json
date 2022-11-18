@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ativistas pelo clima fazem Plenária dos Povos na COP27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1RU2HfpEik/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G1RU2HfpEik"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27: Ativista do Brasil pede mais empenho com o futuro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GNNvg20tDsM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU promove resiliência comunitária a choques climáticos na Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T-kqV3RDD14/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T-kqV3RDD14"
         }
       }
     }

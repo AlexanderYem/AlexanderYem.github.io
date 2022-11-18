@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Townhall Meeting with the President of the General Assembly Csaba Kőrösi with Civil Society",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NsZzm-yhWJs/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NsZzm-yhWJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27, Black Sea Grain Initiative, Ukraine  & other topics - Daily Press Briefing (17 November 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ED7EW2YuUgM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Call for unique and specific policing responses to global challenges - Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/asX6_ARW9Xc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "asX6_ARW9Xc"
         }
       }
     }
