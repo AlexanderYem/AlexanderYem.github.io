@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Kama uonavyo, ni mwendo mrefu hadi kufika kisimani. Dumu la maji nalo ni zito mno.\" - Mtoto Zufan",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSw2hxK7MMk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OSw2hxK7MMk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Wanaharakati huko COP27 wasema hakuna hatua kwa tabianchi bila kujali haki za binadamu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x2lntFFxE-8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x2lntFFxE-8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kisima kinachotumia nishati ya jua chawa mkombozi wa elimu kijijini Daley, Garissa, Kenya.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "1xI48KanjhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wataalamu wa Afrika ongezeni kasi ya kufanya tafiti za mabadiliko ya tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TQWp_fD--Ck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TQWp_fD--Ck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tanzania kushirikiana na SADC kuzalisha nishati jadidifu.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TUMiFTmWIJE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TUMiFTmWIJE"
         }
       }
     }
