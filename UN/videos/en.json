@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "General Assembly President on Security Council reform - General Assembly Stakeout (17 November 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_ws_yWVD6o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "S_ws_yWVD6o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27, Iran, Ukraine & other topics - Daily Press Briefing (18 November 2022))",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wyRKxrKOu9U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "G20 Bali Summit, Haiti, Ukraine & other topics - Daily Press Briefing (15 November 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ADpuuBz08Q0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ADpuuBz08Q0"
         }
       }
     }
