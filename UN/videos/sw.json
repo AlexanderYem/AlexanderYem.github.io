@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kisima kinachotumia nishati ya jua chawa mkombozi wa elimu kijijini Daley, Garissa, Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FMNcc0Iq22M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FMNcc0Iq22M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haki za watu wenye ualbino Uganda sasa zatambulika kisheria, waliowabagua watozwa fedha.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TUMiFTmWIJE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tuliona fursa katika kuchakata taka hatukusita tukaichangamkia:Greencare Rwanda Ltd",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nm-MXwfQem4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nm-MXwfQem4"
         }
       }
     }
