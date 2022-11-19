@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Toalete",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cV6v9VgFO1A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cV6v9VgFO1A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ativistas pelo clima fazem Plenária dos Povos na COP27",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oMRFcyQ7k04"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU conversa com jovens sobre clima na COP27",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GNNvg20tDsM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GNNvg20tDsM"
         }
       }
     }
