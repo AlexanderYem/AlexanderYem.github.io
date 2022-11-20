@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on the Closing of COP 27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iz5YTbPEhpc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iz5YTbPEhpc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#COP27 Dialogues – A Just and Green Transition | Amina Mohammed | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HlO-OmwYj6U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Polluter Pays: Global South Demands Climate Reparations #shorts | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1MEfRRDHj6w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1MEfRRDHj6w"
         }
       }
     }
