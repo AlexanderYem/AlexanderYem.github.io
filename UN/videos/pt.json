@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP27 aprova acordo sobre perdas e danos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OY1uFbMWXHk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OY1uFbMWXHk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Toalete",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GUwOzYeDJDo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Com agravamento da crise climática, chefe da ONU acredita que ação da juventude traz esperança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oMRFcyQ7k04/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oMRFcyQ7k04"
         }
       }
     }
