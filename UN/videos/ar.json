@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مؤتمر المناخ COP27 \"خطوة إلى الأمام من أجل العدالة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/to4RkaKEuwY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "to4RkaKEuwY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مستودع الأدوية المركزي في الكرنتينا ينهض بعد عامين من الانفجار ويحوي مخزون لعام كامل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Lz7MVZs0QvI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مبادرة «بلدنا تستضيف قمة المناخ السابعة والعشرين» تختتم فعاليات أنشطتها بعقد مؤتمرها الختامي في مصر",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xXcnre25QIY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xXcnre25QIY"
         }
       }
     }
