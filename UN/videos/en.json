@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"[The Alliance is] more needed than  ever\" - UN Chief at UNAOC Ministerial Group",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dt5Q4N9emoU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dt5Q4N9emoU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "9th UN Alliance of Civilizations Global Forum - Opening Ceremony",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bAcAh8ItnVI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on the Closing of COP 27",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iz5YTbPEhpc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iz5YTbPEhpc"
         }
       }
     }
