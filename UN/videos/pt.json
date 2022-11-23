@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News:  Aliança pela Paz, deslocados em Moçambique e prevenção à diabetes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xpmyr-S_INQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xpmyr-S_INQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP27 aprova acordo sobre perdas e danos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E6Aj24MOtQQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especialista da OMS fala à ONU sobre Dia Mundial da Pneumonia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GUwOzYeDJDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GUwOzYeDJDo"
         }
       }
     }
