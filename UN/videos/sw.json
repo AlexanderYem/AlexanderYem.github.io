@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Opira Bosco Okot mkimbizi kutoka Sudan Kusini anayeleta mabadiliko chanya kwenye mazingira Uganda.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lc0-hihyx4w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lc0-hihyx4w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "SALIMA MUKANSANGA: Mwamuzi katika Kombe la Dunia na pia Mchehemuzi wa UNICEF Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iPDucsKC494/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iPDucsKC494"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mji wa Libiąż, Poland wanuia kutokomeza makaa ya mawe licha ya bei ya nishati duniani kupanda",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "FMNcc0Iq22M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haki za watu wenye ualbino Uganda sasa zatambulika kisheria, waliowabagua watozwa fedha.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hlPKD-rbtxg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hlPKD-rbtxg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kijiji cha kwanza nchini India kinachotumia nishati ya jua pekee.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/95ysAcTd5Zo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "95ysAcTd5Zo"
         }
       }
     }
