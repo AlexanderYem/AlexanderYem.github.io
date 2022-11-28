@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "اختتام أعمال المنتدى العالمي التاسع لمكتب الأمم المتحدة لتحالف الحضارات في المغرب",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRLGgWXAX6I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tRLGgWXAX6I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "حوار خاص مع المقررة الخاصة بشأن الحالة في فلسطين فرانشيسكا ألبانيز",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jn-bN2DmzH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"خضرنة\" التعليم لمكافحة تغير المناخ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DmXZzS5QwKs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DmXZzS5QwKs"
         }
       }
     }
