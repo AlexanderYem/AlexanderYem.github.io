@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Filho do pintor Candido Portinari fala sobre 65 anos dos painéis Guerra e Paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VswawA3RDTw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VswawA3RDTw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem de Catarina Furtado sobre o  Dia Internacional para Eliminação da Violência contra Mulheres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NYCXet-T27Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ucrânia: brasileiro fala sobre a situação de Kherson",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qudtpqrWix0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qudtpqrWix0"
         }
       }
     }
