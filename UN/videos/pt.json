@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News:  Dia Mundial de Combate à Aids, inflação e perdas e o filme \"As nadadoras\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZYxX_C0zj-w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZYxX_C0zj-w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unctad pede mais investimentos nas cadeias de abastecimento marítimo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VTCeq62FypM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasileira Katiúscia Ribeiro destaca importância do Dia Mundial da Filosofia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u4gqv4mKVh8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u4gqv4mKVh8"
         }
       }
     }
