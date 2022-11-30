@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Erenest Nlinagira: Mkimbizi anayesaidia watoto wakimbizi kupata elimu kambini Nyarugusu, Tanzania.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSeXoO3jlyI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TSeXoO3jlyI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tabia ya kusoma vitabu ijengwe tangu mtoto akiwa tumboni - Marynsia Mangu, Success Hands Initiative",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OSw2hxK7MMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanaharakati huko COP27 wasema hakuna hatua kwa tabianchi bila kujali haki za binadamu.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x2lntFFxE-8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x2lntFFxE-8"
         }
       }
     }
