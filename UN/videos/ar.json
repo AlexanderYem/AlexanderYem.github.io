@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رئيس الجمعية العامة يحث رئيس على خلق ظروف موائمة لإعادة مسار حل الدولتين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/19qcIzYfEz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "19qcIzYfEz8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مشروع المساعدات القانونية في وكالة الأونروا بلبنان يصل إلى أكثر من ٧ آلاف فلسطيني سنوياً",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h2R-GIg33EU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "لينا أبو عاقلة: شيرين اختارت الصحافة كي تكون قريبة من الناس",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/szwSkfUphLM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "szwSkfUphLM"
         }
       }
     }
