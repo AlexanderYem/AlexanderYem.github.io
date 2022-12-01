@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Центр поддержки «СПIЛЬНО» во Львове",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZafq_LgDKI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XZafq_LgDKI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН и МККК: бомбардировка гражданских объектов не имеет оправдания",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AcFVSwZYFQQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Члены независимой комиссии ООН рассказали о военных преступлениях в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XZdU35E_Fek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XZdU35E_Fek"
         }
       }
     }
