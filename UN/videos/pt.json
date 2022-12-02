@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovens de Moçambique querem ter voz em decisões sobre mudanças climáticas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FbH58d1efj0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FbH58d1efj0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: relatório sobre transporte marítimo, murais Guerra e Paz, ONU News lança podcast",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OY1uFbMWXHk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Toalete",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cV6v9VgFO1A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cV6v9VgFO1A"
         }
       }
     }
