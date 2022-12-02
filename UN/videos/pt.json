@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: relatório sobre transporte marítimo, murais Guerra e Paz, ONU News lança podcast",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CUzWun3UEmk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CUzWun3UEmk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cineasta fala sobre filme baseado no início da pandemia de Aids no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cV6v9VgFO1A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ativistas pelo clima fazem Plenária dos Povos na COP27",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G1RU2HfpEik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G1RU2HfpEik"
         }
       }
     }
