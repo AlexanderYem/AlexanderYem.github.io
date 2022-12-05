@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Фолкер Тюрк в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0sOYNwQT0o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L0sOYNwQT0o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Центр поддержки «СПIЛЬНО» во Львове",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZDg6lRgwfRw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Черноморская инициатива по зерну. Пять фактов. https://news.un.org/ru/story/2022/09/1431761",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AcFVSwZYFQQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AcFVSwZYFQQ"
         }
       }
     }
