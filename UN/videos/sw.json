@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Adhabu kwa wanaofanya ukatili wa kijinsia ziongezwe.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkKOpxhz09s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xkKOpxhz09s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mtoto anapaswa kuwa shuleni na sio kwenye ajira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TSeXoO3jlyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tabia ya kusoma vitabu ijengwe tangu mtoto akiwa tumboni - Marynsia Mangu, Success Hands Initiative",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rYpKlTtHww0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rYpKlTtHww0"
         }
       }
     }
