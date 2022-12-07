@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Верховный комиссар ООН по правам человека посетил украинский город Изюм",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiahYeO6H3U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tiahYeO6H3U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Фолькер Тюрк в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "960-0TaOiYA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Может ли ООН остановить войну?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZDg6lRgwfRw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZDg6lRgwfRw"
         }
       }
     }

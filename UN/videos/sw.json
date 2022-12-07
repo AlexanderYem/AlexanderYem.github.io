@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Teknolojia ya nyuklia yaleta matumaini kwa wakulima nchini Kenya.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cU393y6OdC0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cU393y6OdC0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nilijua watoto wangu wameshafariki dunia sitawaona. Asante UNICEF. Asante CAJED – Mzazi DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9gPN7x2dWnc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Asante UNICEF kwa kutuwezesha kufanya mtihani - Wanafunzi Uganda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J58xGbUyojQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J58xGbUyojQ"
         }
       }
     }
