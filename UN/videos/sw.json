@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nilijua watoto wangu wameshafariki dunia sitawaona. Asante UNICEF. Asante CAJED – Mzazi DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HGDs2FOoXlw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HGDs2FOoXlw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Adhabu kwa wanaofanya ukatili wa kijinsia ziongezwe.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J58xGbUyojQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Erenest Nlinagira: Mkimbizi anayesaidia watoto wakimbizi kupata elimu kambini Nyarugusu, Tanzania.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TSeXoO3jlyI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TSeXoO3jlyI"
         }
       }
     }
