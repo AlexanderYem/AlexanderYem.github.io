@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Inverno na Ucrânia, COP de Biodiversidade e Fórum Permanente de Afrodescendentes.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ge6tkM3lBOg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ge6tkM3lBOg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens de Moçambique querem ter voz em decisões sobre mudanças climáticas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Xpmyr-S_INQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP27 aprova acordo sobre perdas e danos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OY1uFbMWXHk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OY1uFbMWXHk"
         }
       }
     }
