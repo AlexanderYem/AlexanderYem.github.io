@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#COP15 : Agissez pour la nature, agissez pour l'humanité appelle le Chef de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-mebka1-j8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u-mebka1-j8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#COP27 : le Chef de l'ONU  rencontre des jeunes militants pour le climat",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rwp4groycOw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'exploitation et les abus sexuels n'ont pas leur place au sein des Nations Unies",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B0BsaHsI0c0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B0BsaHsI0c0"
         }
       }
     }
