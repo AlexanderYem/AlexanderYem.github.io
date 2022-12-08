@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Casos de infecção e mortes por malária permaneceram estáveis em 2021",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJzubxf_Tok/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NJzubxf_Tok"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Inverno na Ucrânia, COP de Biodiversidade e Fórum Permanente de Afrodescendentes.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WXl0afodZcM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News:  Aliança pela Paz, deslocados em Moçambique e prevenção à diabetes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xpmyr-S_INQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xpmyr-S_INQ"
         }
       }
     }
