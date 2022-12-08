@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря ООН Антониу Гутерриша по случаю Дня прав человека.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w4dF_Ddv-XA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w4dF_Ddv-XA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Верховный комиссар ООН по правам человека посетил украинский город Изюм",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tgJE_2bFVl8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украинские фермеры пытаются сохранить свой бизнес в условиях конфликта.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/960-0TaOiYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "960-0TaOiYA"
         }
       }
     }
