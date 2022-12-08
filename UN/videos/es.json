@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensaje del Secretario General en el Día de los Derechos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hnDwC2Qruk4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hnDwC2Qruk4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Tengo derecho\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zTqLnEcj17U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de la Vida Silvestre 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P5KFsZBfH0Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P5KFsZBfH0Y"
         }
       }
     }
