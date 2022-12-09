@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DPR Korea: Joint statement on human rights delivered by USA - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RuzxIeUFLsU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RuzxIeUFLsU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "USA on the human rights situation in DPR Korea - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2UvMo8vTWb4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Biodiversity, South Sudan, Myanmar & other topics - Daily Press Briefing (7 December 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/peW_l8mdf3Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "peW_l8mdf3Y"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Podcast sobre violência contra mulheres na política",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jj3rKMaau1c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jj3rKMaau1c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Casos de infecção e mortes por malária permaneceram estáveis em 2021",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VswawA3RDTw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de Catarina Furtado sobre o  Dia Internacional para Eliminação da Violência contra Mulheres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WXl0afodZcM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WXl0afodZcM"
         }
       }
     }
