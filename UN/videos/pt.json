@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU, António Guterres, sobre o Dia dos Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_XKNg5tq-Q4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_XKNg5tq-Q4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Podcast sobre violência contra mulheres na política",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pReVCzLLmgY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Filho do pintor Candido Portinari fala sobre 65 anos dos painéis Guerra e Paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VswawA3RDTw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VswawA3RDTw"
         }
       }
     }
