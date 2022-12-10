@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanajeshi walinda amani wa UN kutoka Tanzania wanaohudumu DRC wavishwa nishani za Umoja wa Mataifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZU0P14y84js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZU0P14y84js"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Uhaba wa maji Turkana nchini Kenya waanza kupatiwa majawabu.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FugJt4JSPjA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FugJt4JSPjA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Waziri wa mambo ya nje wa UK atembelea waathirika wa ukame Ethiopia, ushirikiano na UN utaendelea.",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Bk_75HeP65Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kamishna wa Haki za Binadamu wa UN ziarani nchini Ukraine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t0pFOjNWElo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t0pFOjNWElo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Rejeeni nyumbani tujenge nchi yetu.\" - Mkimbizi aliyerejea nyumbani Burundi kutoka Tanzania.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4a2-dCqK6cY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4a2-dCqK6cY"
         }
       }
     }
