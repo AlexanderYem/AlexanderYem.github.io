@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Episódio 1 - “Nossa Voz”: Professora Silvia Pimentel, ex-presidente do comitê Cedaw",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-WIHS7tqzpA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-WIHS7tqzpA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Dia Internacional da Montanha, montanhista pede conservação de ecossistemas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C6pkaDrSmps"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News:  Dia Mundial de Combate à Aids, inflação e perdas e o filme \"As nadadoras\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZYxX_C0zj-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZYxX_C0zj-w"
         }
       }
     }
