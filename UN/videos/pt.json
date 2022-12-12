@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia da Cobertura Universal de Saúde é comemorado com evento na Copa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jlNnI8mpvko/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jlNnI8mpvko"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Episódio 1 - “Nossa Voz”: Professora Silvia Pimentel, ex-presidente do comitê Cedaw",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3a_CQIGEq4o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral sobre o Dia Mundial de Combate à Aids",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C6pkaDrSmps/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C6pkaDrSmps"
         }
       }
     }
