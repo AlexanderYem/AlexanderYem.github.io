@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بطاقة حمراء في وجه الكراهية: حملة أممية في المغرب لمكافحة خطاب الكراهية على وسائل التواصل الاجتماعي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wUCrKLFj8Y8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wUCrKLFj8Y8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "رئيس الجمعية العامة يحث على خلق ظروف موائمة لإعادة مسار حل الدولتين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KgIERQb46WY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "السياحة الكبيرة والتلوث وتغير المناخ يتسببون بتدهور مقلق في الغطاء المرجاني الحي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h2R-GIg33EU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h2R-GIg33EU"
         }
       }
     }
