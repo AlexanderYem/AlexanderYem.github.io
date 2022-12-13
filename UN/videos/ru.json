@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Пекарня в Николаеве, Украина",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-K-Ii22JJs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b-K-Ii22JJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря ООН Антониу Гутерриша по случаю Дня прав человека.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sl_m7Vnlv6Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украинские фермеры переживают тяжелейший кризис аграрной отрасли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tgJE_2bFVl8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tgJE_2bFVl8"
         }
       }
     }
