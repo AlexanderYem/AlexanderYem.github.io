@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Assistência na Ucrânia, visitas guiadas na ONU e Maya Gabeira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/25yb_hLaq2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "25yb_hLaq2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia da Cobertura Universal de Saúde é comemorado com evento na Copa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CUzWun3UEmk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cineasta fala sobre filme baseado no início da pandemia de Aids no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3a_CQIGEq4o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3a_CQIGEq4o"
         }
       }
     }
