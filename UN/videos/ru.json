@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Насколько эффективны миротворческие миссии ООН?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZfefJ6tFJu8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZfefJ6tFJu8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Пекарня в Николаеве, Украина",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wlp-qmbvtgY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Климатический кризис вынуждает миллионы людей покидать свои дома",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sl_m7Vnlv6Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sl_m7Vnlv6Y"
         }
       }
     }
