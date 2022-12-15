@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Заместитель Генерального секретаря ООН Мартин Гриффитс в Херсоне",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/41cTgOD_J4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "41cTgOD_J4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Насколько эффективны миротворческие миссии ООН?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "22eHX4O4kFc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "В канун открытия Конференции ООН по климату КС-27",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wlp-qmbvtgY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Wlp-qmbvtgY"
         }
       }
     }
