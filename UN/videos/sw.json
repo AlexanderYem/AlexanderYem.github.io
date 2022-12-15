@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Harakati za Mwalimu Clemence Mukamuhoza kuhamasisha Kiswahili Rwanda.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4LMy309aeg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I4LMy309aeg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ushirikiano kati ya walinda amani wa UN na wananchi utachochea kasi ya kufikia amani DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6m9wPLpw2JQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bila bayonuai hakuna maisha - Katibu Mtendaji CBD Elizabeth Mrema",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZGih915mmvA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZGih915mmvA"
         }
       }
     }
