@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Migrante italiano fala sobre sua experiência vivendo na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctQ8RRwSe0o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ctQ8RRwSe0o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo episódio do podcast “Nossa Voz” conversa com ex-presidente do Brasil, Dilma Rousseff",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_XKNg5tq-Q4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Podcast sobre violência contra mulheres na política",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jj3rKMaau1c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jj3rKMaau1c"
         }
       }
     }
