@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "70 anos das visitas guiadas na sede das Nações Unidas em Nova Iorque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsFeTI8PmqQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rsFeTI8PmqQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Assistência na Ucrânia, visitas guiadas na ONU e Maya Gabeira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FbH58d1efj0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: relatório sobre transporte marítimo, murais Guerra e Paz, ONU News lança podcast",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CUzWun3UEmk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CUzWun3UEmk"
         }
       }
     }
