@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo episódio do podcast “Nossa Voz” conversa com ex-presidente do Brasil, Dilma Rousseff",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6GV3V2A63SA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6GV3V2A63SA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Episódio 2 - “Nossa Voz”: Ex-presidente do Brasil, Dilma Rousseff",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tjNleDsG08w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tjNleDsG08w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: contraterrorismo, Dia do Migrante e filme com Lázaro Ramos e Taís Araújo",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jj3rKMaau1c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Casos de infecção e mortes por malária permaneceram estáveis em 2021",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NJzubxf_Tok/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NJzubxf_Tok"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Inverno na Ucrânia, COP de Biodiversidade e Fórum Permanente de Afrodescendentes.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ge6tkM3lBOg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ge6tkM3lBOg"
         }
       }
     }
