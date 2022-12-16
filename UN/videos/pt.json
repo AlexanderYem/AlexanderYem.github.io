@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: contraterrorismo, Dia do Migrante e filme com Lázaro Ramos e Taís Araújo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z-pNsk88B_c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Z-pNsk88B_c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "70 anos das visitas guiadas na sede das Nações Unidas em Nova Iorque",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ge6tkM3lBOg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovens de Moçambique querem ter voz em decisões sobre mudanças climáticas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FbH58d1efj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FbH58d1efj0"
         }
       }
     }

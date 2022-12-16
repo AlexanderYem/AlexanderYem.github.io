@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Matumizi ya umeme wa Sola yawezesha huduma za mahakama kupatikana muda wote nchini Kenya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/os7mzE4b7_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "os7mzE4b7_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwalimu Clemence Mukamuhoza na harakati za kukuza Kiswahili Rwanda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FugJt4JSPjA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Waziri wa mambo ya nje wa UK atembelea waathirika wa ukame Ethiopia, ushirikiano na UN utaendelea.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6m9wPLpw2JQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6m9wPLpw2JQ"
         }
       }
     }
