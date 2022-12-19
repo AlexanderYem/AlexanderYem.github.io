@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Lázaro Ramos e Taís Araújo falam à ONU News sobre combate ao racismo em festival em Nova Iorque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3vFsTB_J1I0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3vFsTB_J1I0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mais dicas para não prejudicar o meio ambiente nas suas férias",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jI7973aBhUM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jI7973aBhUM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Migrante italiano fala sobre sua experiência vivendo na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-WIHS7tqzpA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Dia Internacional da Montanha, montanhista pede conservação de ecossistemas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E3HVYY8t2Ng/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E3HVYY8t2Ng"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral da ONU, António Guterres, sobre o Dia dos Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_XKNg5tq-Q4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_XKNg5tq-Q4"
         }
       }
     }
