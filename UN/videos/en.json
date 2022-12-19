@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief End-of-Year Press Conference 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ejm1wTe3Sjw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ejm1wTe3Sjw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sea of Island – Virtual Reality Experience on Climate Change in the Asia Pacific | UN DPPA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CugxzWltW2g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "General Assembly President on Intl Peace and Security - Media Stakeout (14 December 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ujGOkNP5gn0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ujGOkNP5gn0"
         }
       }
     }
