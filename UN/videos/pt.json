@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Um quinto dos deslocados forçados do mundo está nas Américas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3oeA5BzQ0KY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3oeA5BzQ0KY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lázaro Ramos e Taís Araújo falam à ONU News sobre combate ao racismo em festival em Nova Iorque",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jlNnI8mpvko"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Episódio 1 - “Nossa Voz”: Professora Silvia Pimentel, ex-presidente do comitê Cedaw",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-WIHS7tqzpA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-WIHS7tqzpA"
         }
       }
     }
