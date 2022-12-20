@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP15 : Un accord historique pour protéger 1/3 de la biodiversité de la planète",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PZQ5zFxChkc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PZQ5zFxChkc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP15 : Le Chef de l'ONU rencontre des jeunes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cmz4SFP1FKM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "RDC : Une jeune femme entrepreneure veut changer l’image que les gens ont du Kivu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OIejQLTaTUo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OIejQLTaTUo"
         }
       }
     }
