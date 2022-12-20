@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Norway on Afghanistan - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXxSobybc3M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jXxSobybc3M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief End-of-Year Press Conference 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uC0y_tRpWJc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mexico and Ireland on Women, peace and security - Security Council Media Stakeout (14 December 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CugxzWltW2g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CugxzWltW2g"
         }
       }
     }
