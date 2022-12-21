@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: refugiados em Moçambique, ministro das Relações Exteriores de Angola e COP15",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdCFQWs7Nbs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hdCFQWs7Nbs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em 2023, Angola deve reforçar cooperação com ONU em iniciativas regionais",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rsFeTI8PmqQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Assistência na Ucrânia, visitas guiadas na ONU e Maya Gabeira",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/25yb_hLaq2k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "25yb_hLaq2k"
         }
       }
     }
