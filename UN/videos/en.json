@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Afghanistan, South Sudan & other topics - Daily Press Briefing (22 December 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BqZGrPt0inc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BqZGrPt0inc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kenya on its experiences as the Security Council member for 2021-2022 - Security Council Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LT8WSdXzsUM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Norway on Afghanistan - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jXxSobybc3M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jXxSobybc3M"
         }
       }
     }
