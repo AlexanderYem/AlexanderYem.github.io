@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Episódio 3 - “Nossa Voz”: ex-presidente da Assembleia Geral da ONU, María Fernanda Espinosa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ki0VlIxVW9k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ki0VlIxVW9k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: refugiados em Moçambique, ministro das Relações Exteriores de Angola e COP15",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Z-pNsk88B_c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "70 anos das visitas guiadas na sede das Nações Unidas em Nova Iorque",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rsFeTI8PmqQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rsFeTI8PmqQ"
         }
       }
     }
