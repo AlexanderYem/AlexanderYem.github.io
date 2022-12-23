@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: top 5 da ONU News em 2022 no YouTube",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7_0lvROUAo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u7_0lvROUAo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ex-presidente da Assembleia Geral é entrevistada no 3o episódio do podcast da ONU News “Nossa Voz”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5sR0Aoqd0I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k5sR0Aoqd0I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Episódio 3 - “Nossa Voz”: ex-presidente da Assembleia Geral da ONU, María Fernanda Espinosa",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6GV3V2A63SA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Episódio 2 - “Nossa Voz”: Ex-presidente do Brasil, Dilma Rousseff",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tjNleDsG08w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tjNleDsG08w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: contraterrorismo, Dia do Migrante e filme com Lázaro Ramos e Taís Araújo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z-pNsk88B_c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Z-pNsk88B_c"
         }
       }
     }
