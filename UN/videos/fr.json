@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le maintien de la paix de l'ONU fonctionne-t-il ? Voici les faits",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hi8ax22JVy0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Hi8ax22JVy0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP15 : Un accord historique pour protéger 1/3 de la biodiversité de la planète",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FSjo06-VoFw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le terrorisme, une des menaces les plus graves pour la paix et la sécurité internationales",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cmz4SFP1FKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cmz4SFP1FKM"
         }
       }
     }
