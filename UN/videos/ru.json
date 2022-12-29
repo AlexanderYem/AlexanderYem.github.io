@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Новогоднее обращение Генерального Секретаря ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0UKyscNByVY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0UKyscNByVY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Заместитель Генерального секретаря ООН Мартин Гриффитс в Херсоне",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8ATRkOAHTqA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Доставка гуманитарной помощи ООН в Херсон",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/22eHX4O4kFc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "22eHX4O4kFc"
         }
       }
     }
