@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral António Guterres para 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WXzzsi51-UQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WXzzsi51-UQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: top 5 da ONU News em 2022 no YouTube",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ctQ8RRwSe0o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo episódio do podcast “Nossa Voz” conversa com ex-presidente do Brasil, Dilma Rousseff",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6GV3V2A63SA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6GV3V2A63SA"
         }
       }
     }

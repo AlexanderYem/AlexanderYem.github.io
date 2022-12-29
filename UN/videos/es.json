@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Por un 2023 de paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sy4v-6UB-7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Sy4v-6UB-7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensaje del Secretario General en el Día de los Derechos Humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3xaRWCefpbg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Es hora de avanzar en los derechos de las mujeres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zTqLnEcj17U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zTqLnEcj17U"
         }
       }
     }
