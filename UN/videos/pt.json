@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Filho e ex-mulher falam do legado de Pelé, o rei do futebol",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tK1r8FCz9DM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tK1r8FCz9DM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pelé em livro de Thiago Uberreich, autor do livro “1970: O Brasil é Tri”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3oeA5BzQ0KY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lázaro Ramos e Taís Araújo falam à ONU News sobre combate ao racismo em festival em Nova Iorque",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3vFsTB_J1I0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3vFsTB_J1I0"
         }
       }
     }
