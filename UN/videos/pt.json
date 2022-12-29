@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Pelé em livro de Thiago Uberreich, autor do livro “1970: O Brasil é Tri”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MkWpQm-nH4k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MkWpQm-nH4k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Como o rei Pelé “nunca mais” - Thiago Uberreich",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qAbBAsBQpVY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qAbBAsBQpVY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral António Guterres para 2023",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "3vFsTB_J1I0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mais dicas para não prejudicar o meio ambiente nas suas férias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jI7973aBhUM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jI7973aBhUM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Migrante italiano fala sobre sua experiência vivendo na Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ctQ8RRwSe0o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ctQ8RRwSe0o"
         }
       }
     }

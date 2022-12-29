@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan: UN Resident Coordinator on the situation in the country - Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZ9w7cxkLmw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BZ9w7cxkLmw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "New Year’s Message 2023 - António Guterres (Secretary-General) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nqgYZjgXtoU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lebanon, Mali, Ukraine & other topics - Daily Press Briefing (20 December 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RSxnQdqlFu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RSxnQdqlFu8"
         }
       }
     }
