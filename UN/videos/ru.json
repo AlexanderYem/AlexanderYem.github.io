@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "2022 год глазами ООН. Каким мы его запомним?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLWITgOPB78/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xLWITgOPB78"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Новогоднее обращение Генерального Секретаря ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-EaZqqLxls8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Население Земли - 8 миллиардов: новые возможности для человечества",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8ATRkOAHTqA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8ATRkOAHTqA"
         }
       }
     }
