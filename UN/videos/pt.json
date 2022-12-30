@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Último episódio do podcast “Nossa Voz” reúne análise de especialistas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zo8q7gRdVyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zo8q7gRdVyA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Episódio 4 - “Nossa Voz”: análise de especialistas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjKMXZu0H7Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LjKMXZu0H7Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Filho e ex-mulher de Pelé falam à ONU News sobre legado do rei do futebol",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "hdCFQWs7Nbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em 2023, Angola deve reforçar cooperação com ONU em iniciativas regionais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3WfwaJWlG54/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3WfwaJWlG54"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Um quinto dos deslocados forçados do mundo está nas Américas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3oeA5BzQ0KY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3oeA5BzQ0KY"
         }
       }
     }
