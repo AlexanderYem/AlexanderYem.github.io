@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro mandato de Moçambique como membro não permanente do Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfpQuMRizI0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LfpQuMRizI0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Último episódio do podcast “Nossa Voz” reúne análise de especialistas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ki0VlIxVW9k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: refugiados em Moçambique, ministro das Relações Exteriores de Angola e COP15",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hdCFQWs7Nbs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hdCFQWs7Nbs"
         }
       }
     }
