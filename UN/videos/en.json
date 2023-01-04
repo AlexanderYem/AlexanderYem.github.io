@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Flag Installation Ceremony for the non-permanent Security Council members from 2023-2024",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDZRYas8Gc0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mDZRYas8Gc0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Israel, Mynmar, Syria & other topics - Daily Press Briefing (1 January 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vBH9igdAYtc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan, Secretary-General/Syria & other topics - Daily Press Briefing (21 December 2022)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lua7HumWVFY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lua7HumWVFY"
         }
       }
     }
