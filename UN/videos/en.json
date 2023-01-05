@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Palestine accompanied by Ambassadors from other Member States - Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ea0yNqfU0j8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ea0yNqfU0j8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "South Sudan, Mali & other topics - Daily Press Briefing (4 January 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8M0aOBvRUo4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Myanmar on Myanmar - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Eo7cnxbxkus/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Eo7cnxbxkus"
         }
       }
     }
