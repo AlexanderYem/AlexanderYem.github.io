@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Trabalho e equilíbrio entre vida profissional e pessoal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZSO3AW5aGU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0ZSO3AW5aGU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro mandato de Moçambique como membro não permanente do Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k5sR0Aoqd0I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Episódio 3 - “Nossa Voz”: ex-presidente da Assembleia Geral da ONU, María Fernanda Espinosa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ki0VlIxVW9k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ki0VlIxVW9k"
         }
       }
     }
