@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Embaixador do Brasil na ONU fala de eventos de Brasília",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAv7sFpjNPw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gAv7sFpjNPw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIT no Brasil diz que todos podem ajudar a manter saúde mental no trabalho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WXzzsi51-UQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: top 5 da ONU News em 2022 no YouTube",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u7_0lvROUAo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u7_0lvROUAo"
         }
       }
     }
