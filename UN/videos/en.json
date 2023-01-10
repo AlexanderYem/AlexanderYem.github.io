@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "West Africa, Brundi, Senegal & other topics - Daily Press Briefing ( 10 January 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_b7LursikI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N_b7LursikI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretary-General's Travel,  Brazil, Sudan & other topics - Daily Press Briefing (9 January 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "coVayND3mME"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan: UN Resident Coordinator on the situation in the country - Press Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BZ9w7cxkLmw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BZ9w7cxkLmw"
         }
       }
     }
