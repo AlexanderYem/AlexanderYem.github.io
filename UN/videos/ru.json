@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Экономический прогноз Всемирного банка на 2023 год",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nAPSvMipJRc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nAPSvMipJRc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2022 год глазами ООН. Каким мы его запомним?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XZafq_LgDKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН и МККК: бомбардировка гражданских объектов не имеет оправдания",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-EaZqqLxls8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-EaZqqLxls8"
         }
       }
     }
