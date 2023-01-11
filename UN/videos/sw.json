@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kauli ya UN kuhusu tishio la Rwanda kwa DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfsMHq9VJOQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SfsMHq9VJOQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mradi unaotekelezwa na UNICEF na wadau nchini Rwanda wapunguza vifo vya watoto wachanga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "G5icnHLDKIU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nilichoka maisha ya kuwa ngariba, hata jela nilifika -  Paulina Robi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G8dBjahI7bQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G8dBjahI7bQ"
         }
       }
     }
