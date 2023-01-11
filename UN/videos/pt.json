@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: mudanças climáticas causam erosão na comunidade de Monkey River em Belize",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WSaOHzFL0k4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WSaOHzFL0k4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Embaixador do Brasil na ONU fala de eventos de Brasília",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qAbBAsBQpVY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral António Guterres para 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WXzzsi51-UQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WXzzsi51-UQ"
         }
       }
     }
