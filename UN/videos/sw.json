@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kenya na harakati za kuboresha elimu kufanikisha SDG4",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BmYPNUxS9m0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BmYPNUxS9m0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNCDF kugeuza maeneo ya vijijini Kigoma, Tanzania kuwa uchumi jumuishi wa kidijitali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QCBhozGnV7g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Magartu Dedefu mtoto mkimbizi kambini Kakuma-Kenya aibuka na ushindi mkubwa.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xl-ftBe8c7E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xl-ftBe8c7E"
         }
       }
     }
