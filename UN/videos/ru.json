@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Еврейское кладбище Феса, символ культурной гармонии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nnF0USaVCLo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nnF0USaVCLo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Экономический прогноз Всемирного банка на 2023 год",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L0sOYNwQT0o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Центр поддержки «СПIЛЬНО» во Львове",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XZafq_LgDKI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XZafq_LgDKI"
         }
       }
     }
