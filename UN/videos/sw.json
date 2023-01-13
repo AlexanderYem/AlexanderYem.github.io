@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mchagua kazi si mfanyakazi wasema vijana walioamua kujiajiri baada ya kukosa ajira Rwanda.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZGhWKnmYLk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GZGhWKnmYLk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Walinda amani wa UN kikosi cha 6 cha Tanzania nchini CAR wafanya matibabu kwa wananchi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1uDNApUWc40"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Baada ya Mavivi, walinda amani wa UN kutoka Tanzania wafikisha misaada Hospitali ya Oicha, DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lBTkja06j8A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lBTkja06j8A"
         }
       }
     }
