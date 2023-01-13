@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: revivendo o cemitério judaico em Fez",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vlKi20zWM6c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vlKi20zWM6c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: mudanças climáticas causam erosão na comunidade de Monkey River em Belize",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MkWpQm-nH4k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Como o rei Pelé “nunca mais” - Thiago Uberreich",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qAbBAsBQpVY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qAbBAsBQpVY"
         }
       }
     }
