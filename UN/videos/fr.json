@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maroc : le cimetière juif de Fès témoigne de la cohabitation interreligieuse pacifique du pays",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4oc0HckNBG4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4oc0HckNBG4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lutter pour l'inclusion avec un beat hip-hop",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eQ8g3i6_C-c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Il faut interdire la « pauvrophobie » au même titre que le racisme et le sexisme",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rKOerJeTiRY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rKOerJeTiRY"
         }
       }
     }
