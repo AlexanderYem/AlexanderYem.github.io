@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretary-General Travel, Ukraine, Yemen & Other Topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X-eRHMGedVc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X-eRHMGedVc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The World Social Report 2023 - Press Conference (12 January 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "N_b7LursikI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General's Travel,  Brazil, Sudan & other topics - Daily Press Briefing (9 January 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lwNKUKKcXO4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lwNKUKKcXO4"
         }
       }
     }
