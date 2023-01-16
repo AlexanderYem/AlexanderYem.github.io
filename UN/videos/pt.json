@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Conheça Melissa, venezuelana interiorizada com vaga de emprego sinalizada",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUG8wSp91mc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pUG8wSp91mc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Total de jornalistas assassinados subiu pela metade em 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8uzGBUPdUI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T8uzGBUPdUI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: revivendo o cemitério judaico em Fez",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "LjKMXZu0H7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Filho e ex-mulher de Pelé falam à ONU News sobre legado do rei do futebol",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7PgFhVh1ZcE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7PgFhVh1ZcE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pelé em livro de Thiago Uberreich, autor do livro “1970: O Brasil é Tri”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MkWpQm-nH4k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MkWpQm-nH4k"
         }
       }
     }
