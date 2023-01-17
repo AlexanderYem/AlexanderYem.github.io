@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Liban : des sapeurs-pompiers français au sein de la FINUL",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KlvxVRR6aAk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KlvxVRR6aAk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maroc : le cimetière juif de Fès témoigne de la cohabitation interreligieuse pacifique du pays",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "llewry0AR6s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La CIJ ne peut traiter d'une affaire que si les Etats ont donné un consentement",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eQ8g3i6_C-c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eQ8g3i6_C-c"
         }
       }
     }
