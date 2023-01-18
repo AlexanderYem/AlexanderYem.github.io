@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Makaburi ya wayahudi mjini Fez nchini Morocco, ushahidi wa jamii tofauti kuishi pamoja kwa amani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5YZyZeaMJc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u5YZyZeaMJc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Idris na Sabrina waibuka kidedea DAVOS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dHSlWS6pS0s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mchagua kazi si mfanyakazi wasema vijana walioamua kujiajiri baada ya kukosa ajira Rwanda.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GZGhWKnmYLk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GZGhWKnmYLk"
         }
       }
     }
