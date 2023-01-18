@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Burkina Faso, Humanitarian, SG Travels & other topics - Daily Press Briefing (17 January  2023)",
+        "title": "Palestine on the situation in region - Security Council Stakeout (January 18, 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OaMOV39xGLI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OaMOV39xGLI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Burkina Faso, Humanitarian, SG Travels & other topics - Daily Press Briefing (17 January 2023)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/zofbU0sZHXY/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q_9_y3Qtuew"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Colombia:'Rural reform is finally moving to the center of efforts to build a more peaceful Colombia'",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/46k6itQWGkM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "46k6itQWGkM"
         }
       }
     }
