@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aiea inicia presença permanente de especialistas em usinas da Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4EeIPMgWbPA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4EeIPMgWbPA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: secretário-geral em Davos, ameaças a jornalistas e missão da ONU no Líbano",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LfpQuMRizI0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Último episódio do podcast “Nossa Voz” reúne análise de especialistas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zo8q7gRdVyA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zo8q7gRdVyA"
         }
       }
     }
