@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: secretário-geral em Davos, ameaças a jornalistas e missão da ONU no Líbano",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z6tZPe2YtiE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z6tZPe2YtiE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Conheça Melissa, venezuelana interiorizada com vaga de emprego sinalizada",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zo8q7gRdVyA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Episódio 4 - “Nossa Voz”: análise de especialistas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LjKMXZu0H7Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LjKMXZu0H7Y"
         }
       }
     }
