@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН по случаю Международного дня образования",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-9lmPcBAmt4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-9lmPcBAmt4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Еврейское кладбище Феса, символ культурной гармонии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tiahYeO6H3U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Фолькер Тюрк в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L0sOYNwQT0o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L0sOYNwQT0o"
         }
       }
     }
