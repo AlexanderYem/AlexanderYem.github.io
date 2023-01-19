@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNHCR yajenga makazi mapya 3,000 kusaidia wakimbizi wa ndani Nyiragongo DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwWEFzID928/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NwWEFzID928"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Makaburi ya wayahudi mjini Fez nchini Morocco, ushahidi wa jamii tofauti kuishi pamoja kwa amani",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "arBkmOSuzfE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mboga za majani na virutubisho vimemuokoa mwanangu- Furaha",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dHSlWS6pS0s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dHSlWS6pS0s"
         }
       }
     }
