@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: General Otávio Rodrigues de Miranda Filho chefe dos boinas-azuis na RD Congo.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6n6vP1Me-0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E6n6vP1Me-0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Artista Elias Abdula Naguib explica o significado da obra Magandzelo, presente de Moçambique à ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gAv7sFpjNPw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIT no Brasil diz que todos podem ajudar a manter saúde mental no trabalho",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qWon3s9eFrw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qWon3s9eFrw"
         }
       }
     }
