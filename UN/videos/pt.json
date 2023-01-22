@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres agradece a Cabo Verde por parceria na luta por mais ação climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UpIo5zh4GQg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UpIo5zh4GQg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU, António Guterres, fala a jornalistas em Cabo Verde - Parte 2",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T8uzGBUPdUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: revivendo o cemitério judaico em Fez",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vlKi20zWM6c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vlKi20zWM6c"
         }
       }
     }
