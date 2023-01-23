@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: ao deixar Cabo Verde, Guterres apela por mais ação para proteger oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JNT3lJWwNmE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JNT3lJWwNmE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Com alta de preços, nutricionista diz que acesso a alimentos é direito constitucional",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z6tZPe2YtiE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Conheça Melissa, venezuelana interiorizada com vaga de emprego sinalizada",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pUG8wSp91mc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pUG8wSp91mc"
         }
       }
     }
