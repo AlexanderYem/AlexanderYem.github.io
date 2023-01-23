@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Intl Day of Education: United Nations Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6Hwkqm5pBU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b6Hwkqm5pBU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ocean Climate Activist Bodhi Patil: The World is our Oyster | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zIc4z84TZlE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan, Ukraine Security Council, Ethiopia & other topics - Daily Press Briefing (13 Jan 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OeTvGivOLQI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OeTvGivOLQI"
         }
       }
     }
