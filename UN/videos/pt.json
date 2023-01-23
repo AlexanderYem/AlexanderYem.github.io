@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nutricionista Fabiane Alheira falou sobre riscos da gordura trans à saúde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q7ZrNXOOltY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q7ZrNXOOltY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: ao deixar Cabo Verde, Guterres apela por mais ação para proteger oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SLx0EsC57rA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: secretário-geral em Davos, ameaças a jornalistas e missão da ONU no Líbano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z6tZPe2YtiE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z6tZPe2YtiE"
         }
       }
     }
