@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Com alta de preços, nutricionista diz que acesso a alimentos é direito constitucional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9RuMp2RTE0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f9RuMp2RTE0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres agradece a Cabo Verde por parceria na luta por mais ação climática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pUG8wSp91mc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Total de jornalistas assassinados subiu pela metade em 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T8uzGBUPdUI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T8uzGBUPdUI"
         }
       }
     }
