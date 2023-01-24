@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral António Guterres para o Dia Internacional da Educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P4iocSpYSd4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P4iocSpYSd4"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "Nutricionista Fabiane Alheira falou sobre riscos da gordura trans à saúde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q7ZrNXOOltY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q7ZrNXOOltY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: ao deixar Cabo Verde, Guterres apela por mais ação para proteger oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JNT3lJWwNmE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JNT3lJWwNmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Com alta de preços, nutricionista diz que acesso a alimentos é direito constitucional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f9RuMp2RTE0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f9RuMp2RTE0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres agradece a Cabo Verde por parceria na luta por mais ação climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UpIo5zh4GQg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UpIo5zh4GQg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU, António Guterres, fala a jornalistas em Cabo Verde - Parte 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HdsX309-UdM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HdsX309-UdM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU, António Guterres, fala a jornalistas em Cabo Verde - Parte 1",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GgmJTDxNBdw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GgmJTDxNBdw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Otávio Rodrigues de Miranda Filho, novo chefe das forças de paz na RD Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E6n6vP1Me-0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E6n6vP1Me-0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Artista Elias Abdula Naguib explica o significado da obra Magandzelo, presente de Moçambique à ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4bgXHFZ94bU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4bgXHFZ94bU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aiea inicia presença permanente de especialistas em usinas da Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4EeIPMgWbPA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4EeIPMgWbPA"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
