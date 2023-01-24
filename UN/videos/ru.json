@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Вакцинация против гриппа в Кыргызстане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTQQQgddiSQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iTQQQgddiSQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН по случаю Международного дня образования",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "w4dF_Ddv-XA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Верховный комиссар ООН по правам человека посетил украинский город Изюм",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tiahYeO6H3U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tiahYeO6H3U"
         }
       }
     }
