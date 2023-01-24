@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Hakuna kitakachomzuia msichana au mwanamke kufikia malengo kielimu ikiwa anajiamini - Murekatete",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_-tfIvvhs8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B_-tfIvvhs8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mtandao wa intaneti, kundi sogozi na vifaa vinginevyo, chachu ya elimu bora Rwanda- Mwalimu Kabiligi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wJto_A707iI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hadi makaburi ya ndugu zetu yamesombwa na mabadiliko ya tabianchi - Wakazi Belize",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YfR4GtQ4Np0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YfR4GtQ4Np0"
         }
       }
     }
