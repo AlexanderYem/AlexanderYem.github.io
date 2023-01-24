@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Education - Leonardo Garnier, Special Adviser | United Nations (24 January)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h81GOUwySWE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h81GOUwySWE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretary General/Cabo Verde, Afghanistan, Iraq & other topics - Daily Press Briefing (23 Jan 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zofbU0sZHXY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General Travel, Ukraine, Yemen & Other Topics - Daily Press Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X-eRHMGedVc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X-eRHMGedVc"
         }
       }
     }
