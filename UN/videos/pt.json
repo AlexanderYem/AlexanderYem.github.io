@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral António Guterres para o Dia Internacional da Educação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P4iocSpYSd4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P4iocSpYSd4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nutricionista Fabiane Alheira falou sobre riscos da gordura trans à saúde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4EeIPMgWbPA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral para o Ano Novo Lunar Chinês",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SLx0EsC57rA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SLx0EsC57rA"
         }
       }
     }
