@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "errors": [
-      {
-        "message": "Internal error encountered.",
-        "domain": "global",
-        "reason": "backendError"
+  "items": [
+    {
+      "snippet": {
+        "title": "Soma Bag: Mabegi ya mgongoni yanayotumia sola mkombozi kwa wanafunzi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TycKifJKsOo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TycKifJKsOo"
+        }
       }
-    ],
-    "status": "INTERNAL"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Hakuna kitakachomzuia msichana au mwanamke kufikia malengo kielimu ikiwa anajiamini - Murekatete",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_-tfIvvhs8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B_-tfIvvhs8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mtandao wa intaneti, kundi sogozi na vifaa vinginevyo, chachu ya elimu bora Rwanda- Mwalimu Kabiligi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Gao2SfC1w4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5Gao2SfC1w4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mradi wa RRT wa paneli za sola waangaza nuru Kusini mwa Madagascar:WFP",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/glVY1tfxGoo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "glVY1tfxGoo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UNHCR yajenga makazi mapya 3,000 kusaidia wakimbizi wa ndani Nyiragongo DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1WAXjU5CLg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G1WAXjU5CLg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Tunatoka 'kuwese' tukiwa wasafi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5QiHM-Za1I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b5QiHM-Za1I"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mashirika ya UN yanavyohaha kuwasaidia waathirika wa mizozo na ukame Baidoa Somalia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4aASNWwJj0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4aASNWwJj0s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "WHO ukanda wa ulaya waendesha kampeni ya utoaji chanjo ya homa ya mafua makali.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qEweLbaJd-w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qEweLbaJd-w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UNHCR yajenga makazi mapya 3,000 kusaidia wakimbizi wa ndani Nyiragongo DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwWEFzID928/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NwWEFzID928"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Makaburi ya wayahudi mjini Fez nchini Morocco, ushahidi wa jamii tofauti kuishi pamoja kwa amani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5YZyZeaMJc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u5YZyZeaMJc"
+        }
+      }
+    }
+  ]
 }
