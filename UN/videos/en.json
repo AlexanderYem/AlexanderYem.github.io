@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Peace in the Street Global Film Festival (PSGFF)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UjvZkCXTDrc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UjvZkCXTDrc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Deputy Secretary-General on her trip to Afghanistan - Press Conference",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "h81GOUwySWE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Peace in the Street Global Film Festival (PSGFF)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UjvZkCXTDrc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UjvZkCXTDrc"
         }
       }
     },

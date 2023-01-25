@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: guerra na Ucrânia, secretário-geral em Cabo Verde e  riscos da gordura trans",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RlbIn-Pg9-c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RlbIn-Pg9-c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral António Guterres para o Dia Internacional da Educação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4bgXHFZ94bU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aiea inicia presença permanente de especialistas em usinas da Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4EeIPMgWbPA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4EeIPMgWbPA"
         }
       }
     }
