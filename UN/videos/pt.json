@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Contexto lusófono e situação econômica mundial 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/48y5HW_pC_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "48y5HW_pC_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: guerra na Ucrânia, secretário-geral em Cabo Verde e  riscos da gordura trans",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E6n6vP1Me-0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Artista Elias Abdula Naguib explica o significado da obra Magandzelo, presente de Moçambique à ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4bgXHFZ94bU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4bgXHFZ94bU"
         }
       }
     }
