@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sio kwa ajili ya elimu tu bali pia mazingira na afya: Mradi wa Soma Bag",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dDgbEB3JaE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9dDgbEB3JaE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Soma Bag: Mabegi ya mgongoni yanayotumia sola mkombozi kwa wanafunzi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NwWEFzID928"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Makaburi ya wayahudi mjini Fez nchini Morocco, ushahidi wa jamii tofauti kuishi pamoja kwa amani",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u5YZyZeaMJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u5YZyZeaMJc"
         }
       }
     }
