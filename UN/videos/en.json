@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Deputy Secretary-General on her trip to Afghanistan - Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaVa6RWbxkQ/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UaVa6RWbxkQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of Education, Ukraine & other topics - Daily Press Briefing (24 January 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5A3E-EpAWXU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Appointment, Secretary General, DSG & other topics - Daily Press Briefing (18 Jan 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5t0x2W0OlNQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5t0x2W0OlNQ"
         }
       }
     }
