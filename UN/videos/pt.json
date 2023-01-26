@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional em Memória das Vítimas do Holocausto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ScFP9ENmuGY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ScFP9ENmuGY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau e agência da alimentos da ONU reforçam novo plano estratégico",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HdsX309-UdM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU, António Guterres, fala a jornalistas em Cabo Verde - Parte 1",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GgmJTDxNBdw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GgmJTDxNBdw"
         }
       }
     }
