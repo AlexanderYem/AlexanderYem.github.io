@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Morogoro Tanzania na utekelezaji wa Ajenda 2030 ya UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DTswQklKGgM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DTswQklKGgM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Walinda amani wa UN kutoka Tanzania wafanya doria barabara inayounganisha DRC na Uganda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "G1WAXjU5CLg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunatoka 'kuwese' tukiwa wasafi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b5QiHM-Za1I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b5QiHM-Za1I"
         }
       }
     }
