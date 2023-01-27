@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: vítimas do Holocausto, mulheres afegãs e fome na Guiné-Bissau.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qn9nAz6K0c8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qn9nAz6K0c8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional em Memória das Vítimas do Holocausto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UpIo5zh4GQg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU, António Guterres, fala a jornalistas em Cabo Verde - Parte 2",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HdsX309-UdM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HdsX309-UdM"
         }
       }
     }
