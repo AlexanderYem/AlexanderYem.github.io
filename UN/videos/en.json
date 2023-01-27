@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Commemoration of the victims of the Holocaust 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jY8951_x90Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jY8951_x90Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on International Day of Commemoration in Memory of the Victims of the Holocaust",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "kRNUSpDKdHM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of Commemoration of the victims of the Holocaust 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jY8951_x90Y/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jY8951_x90Y"
         }
       }
     },
