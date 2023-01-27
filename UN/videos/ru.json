@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Эксперты МАГАТЭ теперь постоянно присутствуют на всех действующих АЭС Украины и в Чернобыле",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L44exkN1SEw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L44exkN1SEw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Вакцинация против гриппа в Кыргызстане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b-K-Ii22JJs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН Антониу Гутерриша по случаю Дня прав человека.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w4dF_Ddv-XA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w4dF_Ddv-XA"
         }
       }
     }
