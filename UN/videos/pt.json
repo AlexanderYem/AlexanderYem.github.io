@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Acnur revela atuação em Cabo Delgado, Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8nFmPH7TRME/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8nFmPH7TRME"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Novo chefe das forças de paz na RD Congo quer ampliar grupo brasileiro na selva",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JNT3lJWwNmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Com alta de preços, nutricionista diz que acesso a alimentos é direito constitucional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f9RuMp2RTE0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f9RuMp2RTE0"
         }
       }
     }
