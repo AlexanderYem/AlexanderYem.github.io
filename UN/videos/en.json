@@ -2,6 +2,15 @@
   "items": [
     {
       "snippet": {
+        "title": "Deleted video",
+        "thumbnails": {},
+        "resourceId": {
+          "videoId": "cxFcunBmgnU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Mock Trial on Human Rights | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +123,6 @@
         },
         "resourceId": {
           "videoId": "tZYaP0qySwU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan, Middle East & other topics - Daily Press Briefing (26 January 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SgGQ_b2CzhU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SgGQ_b2CzhU"
         }
       }
     }
