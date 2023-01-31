@@ -2,10 +2,14 @@
   "items": [
     {
       "snippet": {
-        "title": "Deleted video",
-        "thumbnails": {},
+        "title": "Young people’s message to leaders at COP27",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wnEavmXGMTo/hqdefault.jpg"
+          }
+        },
         "resourceId": {
-          "videoId": "cxFcunBmgnU"
+          "videoId": "wnEavmXGMTo"
         }
       }
     },
