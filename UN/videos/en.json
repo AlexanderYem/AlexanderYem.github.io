@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Mock Trial on Human Rights | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aJo0jnpMKjA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aJo0jnpMKjA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Young people’s message to leaders at COP27",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "wnEavmXGMTo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Mock Trial on Human Rights | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aJo0jnpMKjA/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aJo0jnpMKjA"
         }
       }
     },
