@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: situação no Mianmar, tributo a boina-azul e preparativos para Conferência da Água",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o94islmuuu4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o94islmuuu4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Acnur revela atuação em Cabo Delgado, Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q7ZrNXOOltY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: ao deixar Cabo Verde, Guterres apela por mais ação para proteger oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JNT3lJWwNmE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JNT3lJWwNmE"
         }
       }
     }
