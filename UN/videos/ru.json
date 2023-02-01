@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Болотные угодья – важный элемент естественной защиты Земли",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yk3n_eVmW1Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yk3n_eVmW1Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Эксперты МАГАТЭ теперь постоянно присутствуют на всех действующих АЭС Украины и в Чернобыле",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZfefJ6tFJu8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Пекарня в Николаеве, Украина",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b-K-Ii22JJs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b-K-Ii22JJs"
         }
       }
     }
