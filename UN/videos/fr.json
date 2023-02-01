@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les zones humides peuvent-elles arrêter le changement climatique ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DZT1Lomuyw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8DZT1Lomuyw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Devenir une source d'inspiration pour les jeunes de son âge",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9yoS-GShSU8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP27 : « Nous avons la capacité collective de transformer les choses »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OoKgGYlLEQw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OoKgGYlLEQw"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan, Ukraine & other topics - Daily Press Briefing (1 February 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/--9WliqIFtI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "--9WliqIFtI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Mock Trial on Human Rights | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jY8951_x90Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on International Day of Commemoration in Memory of the Victims of the Holocaust",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tZYaP0qySwU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tZYaP0qySwU"
         }
       }
     }
