@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Peace Begins With Me: 75 years of UN Peacekeeping | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTdmOh7QYrY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TTdmOh7QYrY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan, Ukraine & other topics - Daily Press Briefing (1 February 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zcpAhAi5aIw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of Commemoration of the victims of the Holocaust 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jY8951_x90Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jY8951_x90Y"
         }
       }
     }
