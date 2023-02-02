@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мир начинается с меня",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDn4NhwqdKc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CDn4NhwqdKc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Болотные угодья – важный элемент естественной защиты Земли",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mNne8AMrYik"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Насколько эффективны миротворческие миссии ООН?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZfefJ6tFJu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZfefJ6tFJu8"
         }
       }
     }
