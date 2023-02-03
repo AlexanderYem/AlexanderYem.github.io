@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Combate à mutilação genital feminina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kuYiB2huhw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7kuYiB2huhw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: refugiados na Ásia, Dia Mundial de Combate ao Câncer e proteção das áreas úmidas.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "48y5HW_pC_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: guerra na Ucrânia, secretário-geral em Cabo Verde e  riscos da gordura trans",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RlbIn-Pg9-c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RlbIn-Pg9-c"
         }
       }
     }
