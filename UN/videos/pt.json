@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: refugiados na Ásia, Dia Mundial de Combate ao Câncer e proteção das áreas úmidas.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBaiRgEWLx4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pBaiRgEWLx4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial das Zonas Úmidas ressalta ações para contrariar perda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RlbIn-Pg9-c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral António Guterres para o Dia Internacional da Educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P4iocSpYSd4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P4iocSpYSd4"
         }
       }
     }
