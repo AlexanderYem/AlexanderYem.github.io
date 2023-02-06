@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: entrevista com ministra do Trabalho, Solidariedade e Segurança Social em Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/65V1TjpaKN8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "65V1TjpaKN8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Líder associativo guineense atua contra mutilação genital feminina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qn9nAz6K0c8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional em Memória das Vítimas do Holocausto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ScFP9ENmuGY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ScFP9ENmuGY"
         }
       }
     }
