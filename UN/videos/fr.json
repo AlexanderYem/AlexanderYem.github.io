@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La paix commence avec moi : 75 ans de maintien de la paix de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7kuK0bGg4U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x7kuK0bGg4U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les zones humides peuvent-elles arrêter le changement climatique ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u-mebka1-j8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#COP27 : le Chef de l'ONU  rencontre des jeunes militants pour le climat",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9yoS-GShSU8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9yoS-GShSU8"
         }
       }
     }
