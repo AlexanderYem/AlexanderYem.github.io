@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ameaças da mudança climática e resistência antimicrobiana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uPVJWIV6Ks0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uPVJWIV6Ks0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News entrevista ministra do Trabalho de Portugal, Ana Mendes Godinho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5i_o4S5V9Ng"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: vítimas do Holocausto, mulheres afegãs e fome na Guiné-Bissau.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qn9nAz6K0c8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qn9nAz6K0c8"
         }
       }
     }
