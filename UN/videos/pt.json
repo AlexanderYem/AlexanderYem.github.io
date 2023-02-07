@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha “A Paz Começa Comigo” marca 75 anos das missões de paz da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XOBu2aCAAQk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XOBu2aCAAQk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ameaças da mudança climática e resistência antimicrobiana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8nFmPH7TRME"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Novo chefe das forças de paz na RD Congo quer ampliar grupo brasileiro na selva",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5i_o4S5V9Ng/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5i_o4S5V9Ng"
         }
       }
     }
