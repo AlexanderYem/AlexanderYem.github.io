@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Priorités 2023 : protèger les droits à la liberté d’expression et des médias",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7yB7z3Cu-s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t7yB7z3Cu-s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La paix commence avec moi : 75 ans de maintien de la paix de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Voi2VSnVPZQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#COP15 : Agissez pour la nature, agissez pour l'humanité appelle le Chef de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u-mebka1-j8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u-mebka1-j8"
         }
       }
     }
