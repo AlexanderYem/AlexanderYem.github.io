@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Eu senti um forte impacto às 4:20 da manhã, acordei com o terremoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLJvZm19hz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KLJvZm19hz8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha “A Paz Começa Comigo” marca 75 anos das missões de paz da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o94islmuuu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Acnur revela atuação em Cabo Delgado, Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8nFmPH7TRME/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8nFmPH7TRME"
         }
       }
     }
