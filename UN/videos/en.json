@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Syria-Türkiye Earthquake Humanitarian Crisis - Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7-PIQa-cxPQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7-PIQa-cxPQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria and Russia on OPCW IIT's Report on the Use of Chemical Weapons in Syria - Joint Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "--9WliqIFtI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Mock Trial on Human Rights | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aJo0jnpMKjA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aJo0jnpMKjA"
         }
       }
     }
