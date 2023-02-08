@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Turquia e Síria após o terremoto, resistência antimicrobiana e operações de paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_-6rUqH_-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t_-6rUqH_-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Eu senti um forte impacto às 4:20 da manhã, acordei com o terremoto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gtLzdUL_B7o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: situação no Mianmar, tributo a boina-azul e preparativos para Conferência da Água",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/o94islmuuu4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "o94islmuuu4"
         }
       }
     }
