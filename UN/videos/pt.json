@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal acolhe jovens profissionais dos países lusófonos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xdfMDKVMhPA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xdfMDKVMhPA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Turquia e Síria após o terremoto, resistência antimicrobiana e operações de paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pBaiRgEWLx4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial das Zonas Úmidas ressalta ações para contrariar perda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gtLzdUL_B7o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gtLzdUL_B7o"
         }
       }
     }

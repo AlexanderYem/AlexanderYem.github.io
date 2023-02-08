@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الزلزال تسبب في أزمة مزدوجة ونبذل قصارى جهدنا لمساعدة المتضررين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tlkb4S7WXis/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Tlkb4S7WXis"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "دقيقة صمت في الجمعية العامة حدادا على أرواح ضحايا زلزال #تركيا و #سوريا #shorts",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eaKpim3KP0Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "هديل العباسي: عندما يعتز الشاب العربي بلغته العربية فسوف يتحدثها وسيؤثر على أقرانه للتحدث بها",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ym8eT6jS5eo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ym8eT6jS5eo"
         }
       }
     }
