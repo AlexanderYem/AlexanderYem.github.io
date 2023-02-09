@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день женщин и девочек в науке",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eo2qiq_AATc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eo2qiq_AATc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мир начинается с меня: 75 лет миротворческим операциям ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0UKyscNByVY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заместитель Генерального секретаря ООН Мартин Гриффитс в Херсоне",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mNne8AMrYik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mNne8AMrYik"
         }
       }
     }
