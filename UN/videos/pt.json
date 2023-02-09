@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ouça na íntegra o depoimento do General Affonso da Costa sobre o ataque de 5 de fevereiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKup0qVddtI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aKup0qVddtI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal acolhe jovens profissionais dos países lusófonos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7kuYiB2huhw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: refugiados na Ásia, Dia Mundial de Combate ao Câncer e proteção das áreas úmidas.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pBaiRgEWLx4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pBaiRgEWLx4"
         }
       }
     }
