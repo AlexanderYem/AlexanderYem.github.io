@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brazil & Switzerland on the humanitarian situation in Syria - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfTTolcj3_k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vfTTolcj3_k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Türkiye/Syria Humanitarian, Earthquake & other topics - Daily Press Briefing (9 February 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "g2ZpYZZQH6I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General, Ukraine, Food Price Index & other topics - Daily Press Briefing (3 February 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2-YGkdcdjSw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2-YGkdcdjSw"
         }
       }
     }
