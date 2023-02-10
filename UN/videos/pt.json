@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional das Mulheres e Meninas na Ciência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AI1Dy9Z2V0o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AI1Dy9Z2V0o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ouça na íntegra o depoimento do General Affonso da Costa sobre o ataque de 5 de fevereiro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3ntsgcuMSAQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Combate à mutilação genital feminina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7kuYiB2huhw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7kuYiB2huhw"
         }
       }
     }
