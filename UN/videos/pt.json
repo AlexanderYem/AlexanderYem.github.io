@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jornalista português lembra da importância do rádio durante crise em Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mtvpra9GdxQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mtvpra9GdxQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Mali, Mikado FM promove amizade entre comunidades com programa bilíngue",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uPVJWIV6Ks0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News entrevista ministra do Trabalho de Portugal, Ana Mendes Godinho",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/65V1TjpaKN8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "65V1TjpaKN8"
         }
       }
     }
