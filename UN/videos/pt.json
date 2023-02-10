@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News:  Síria e Turquia, Haiti e  Dia Internacional de Mulheres e Meninas na Ciência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/snrR7oK0HLI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "snrR7oK0HLI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional das Mulheres e Meninas na Ciência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gEgb3brhJUQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mutilação genital: “Uma luta não é feita só no feminino”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3ntsgcuMSAQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3ntsgcuMSAQ"
         }
       }
     }
