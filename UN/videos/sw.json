@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Baada ya kunusurika kuuawa DRC sasa ni bingwa wa kuoka mikate Burundi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOuVsQNvp2A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LOuVsQNvp2A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Uokaji mikate kwangu ni zaidi ya riziki, ni uthibitisho kuwa mkimbizi sio kulemaa: Shebulike",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HH9xstWJaLs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kiwanda cha tiba lishe Kenya ni mkombozi kwa watoto wenye unyafuzi Pembe ya Afrika.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kdt5xxAY9oU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kdt5xxAY9oU"
         }
       }
     }
