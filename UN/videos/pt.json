@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "No Mali, Mikado FM promove amizade entre comunidades com programa bilíngue",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_GeFuafXYg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8_GeFuafXYg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News:  Síria e Turquia, Haiti e  Dia Internacional de Mulheres e Meninas na Ciência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "65V1TjpaKN8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Líder associativo guineense atua contra mutilação genital feminina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gEgb3brhJUQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gEgb3brhJUQ"
         }
       }
     }
