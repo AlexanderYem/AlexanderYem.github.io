@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Réponse au seisme : il faut donner la priorité aux gens",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0WXJG2YE0Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k0WXJG2YE0Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Priorités 2023 : protèger les droits à la liberté d’expression et des médias",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PZQ5zFxChkc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP15 : Le Chef de l'ONU rencontre des jeunes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Voi2VSnVPZQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Voi2VSnVPZQ"
         }
       }
     }
