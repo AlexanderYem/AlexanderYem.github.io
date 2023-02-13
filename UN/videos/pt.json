@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial do Rádio: Guira FM no centro da África promove clima de confiança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UnYuCyVAEo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2UnYuCyVAEo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jornalista português lembra da importância do rádio durante crise em Timor-Leste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XOBu2aCAAQk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ameaças da mudança climática e resistência antimicrobiana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uPVJWIV6Ks0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uPVJWIV6Ks0"
         }
       }
     }
