@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministra fala de inundações fatais em Maputo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mCqwjT1ABn8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mCqwjT1ABn8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU lança apelo humanitário de US$ 397 milhões após terremoto na Síria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xdfMDKVMhPA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Turquia e Síria após o terremoto, resistência antimicrobiana e operações de paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t_-6rUqH_-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t_-6rUqH_-Q"
         }
       }
     }
