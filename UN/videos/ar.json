@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمم المتحدة تطلق نداء إنسانيا لإغاثة المتضررين من الزلزال في سوريا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Dgj2eXHQK4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7Dgj2eXHQK4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الزلزال أتى على ما تبقى من النظام الصحي في سوريا-المدير الإقليمي لمنظمة الصحة العالمية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yGDOBYUb63E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كيف يعكس صون مقبرة يهودية في فاس الانسجام بين الأديان في المغرب؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bR4xJYmFot4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bR4xJYmFot4"
         }
       }
     }
