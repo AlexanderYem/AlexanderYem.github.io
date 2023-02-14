@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Séisme : un appel humanitaire de 397 millions de dollars pour aider la population de la Syrie.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zOIDAaqjay8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zOIDAaqjay8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Réponse au seisme : il faut donner la priorité aux gens",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hi8ax22JVy0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP15 : Un accord historique pour protéger 1/3 de la biodiversité de la planète",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PZQ5zFxChkc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PZQ5zFxChkc"
         }
       }
     }
