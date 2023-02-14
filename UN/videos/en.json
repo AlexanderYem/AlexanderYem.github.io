@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "France on the humanitarian situation in Syria - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2G46jNM3oJU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2G46jNM3oJU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria on Humanitarian Aid in Syria - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7-PIQa-cxPQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Syria and Russia on OPCW IIT's Report on the Use of Chemical Weapons in Syria - Joint Press Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eJ1ql3DTY38/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eJ1ql3DTY38"
         }
       }
     }
