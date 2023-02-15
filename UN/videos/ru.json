@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гуманитарный призыв ООН по Украине на 2023 год",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5MWNn9vlrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o5MWNn9vlrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Автобусы Всемирной организации здравоохранения для Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nAPSvMipJRc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2022 год глазами ООН. Каким мы его запомним?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xLWITgOPB78/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xLWITgOPB78"
         }
       }
     }
