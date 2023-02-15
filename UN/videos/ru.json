@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Автобусы Всемирной организации здравоохранения для Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3uAQhcKCPLU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3uAQhcKCPLU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день женщин и девочек в науке",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xLWITgOPB78"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Новогоднее обращение Генерального Секретаря ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0UKyscNByVY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0UKyscNByVY"
         }
       }
     }
