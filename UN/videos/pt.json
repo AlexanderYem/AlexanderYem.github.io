@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique sinaliza avanços combinando estratégias de contraterrorismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzKR9AAca3Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EzKR9AAca3Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: apelo humanitário para Ucrânia, socorro para os sírios e enchentes em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AI1Dy9Z2V0o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ouça na íntegra o depoimento do General Affonso da Costa sobre o ataque de 5 de fevereiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aKup0qVddtI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aKup0qVddtI"
         }
       }
     }
