@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conferência da ONU sobre Água quer mobilizar ação para cumprir metas globais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SGjrHkXCao/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_SGjrHkXCao"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra fala de inundações, terrorismo e reconstrução em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "snrR7oK0HLI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional das Mulheres e Meninas na Ciência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AI1Dy9Z2V0o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AI1Dy9Z2V0o"
         }
       }
     }
