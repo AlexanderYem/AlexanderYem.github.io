@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: ajuda à Turquia, educação global e Dia Internacional da Língua Materna",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOMZt7E3zgo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rOMZt7E3zgo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conferência da ONU sobre Água quer mobilizar ação para cumprir metas globais",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8_GeFuafXYg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News:  Síria e Turquia, Haiti e  Dia Internacional de Mulheres e Meninas na Ciência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/snrR7oK0HLI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "snrR7oK0HLI"
         }
       }
     }
