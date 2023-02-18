@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Secretary-General at 36th Ordinary Session of the African Union Assembly, Addis Ababa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_IttL10Lew/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0_IttL10Lew"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Türkiye, Education Cannot Wait & other topics - Daily Press Briefing (17 February 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WedOJmCBnys"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "France on the humanitarian situation in Syria - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2G46jNM3oJU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2G46jNM3oJU"
         }
       }
     }
