@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Escritora brasileira fala da importância da língua materna",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/haDkxMk6faE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "haDkxMk6faE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: ajuda à Turquia, educação global e Dia Internacional da Língua Materna",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mtvpra9GdxQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Mali, Mikado FM promove amizade entre comunidades com programa bilíngue",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8_GeFuafXYg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8_GeFuafXYg"
         }
       }
     }
