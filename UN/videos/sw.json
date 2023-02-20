@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haki ya jamii ni nini?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6n9wXJzPQOg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6n9wXJzPQOg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ujumbe wa mashirika ya Umoja wa Mataifa watembelea walioathirika na tetemeko nchini Syria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1DcB2sFlFKQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mikunde imetusaidia kutuimarisha kiafya na kielimu - Wanafunzi Ipitingi, Njombe Tanzania",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kKR1ejhPBKk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kKR1ejhPBKk"
         }
       }
     }
