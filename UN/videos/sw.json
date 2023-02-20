@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ujumbe wa mashirika ya Umoja wa Mataifa watembelea walioathirika na tetemeko nchini Syria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LNJyeZ0iEfE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LNJyeZ0iEfE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nimefika Somalia, nimejionea na sasa ni kuchukua hatua- Mshauri wa UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kKR1ejhPBKk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunataka kuwafikia waathirika wote japo kuna kikwazo cha usalama katika baadhi ya maeneo - WFP Syria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jtUOsWzDbDQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jtUOsWzDbDQ"
         }
       }
     }
