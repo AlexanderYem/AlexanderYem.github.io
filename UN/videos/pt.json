@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Após sucesso com palavras difíceis em português, Alice começa a aprender inglês",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z1xXQn_ncPc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z1xXQn_ncPc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Português no Brasil é reflexo da história do país, afirma professor Noslen Borges",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mCqwjT1ABn8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU lança apelo humanitário de US$ 397 milhões após terremoto na Síria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WkhAoAXsnx0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WkhAoAXsnx0"
         }
       }
     }
