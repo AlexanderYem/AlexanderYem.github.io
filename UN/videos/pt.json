@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Falando em Terena, líder indígena do Brasil celebra Dia Internacional da Língua Materna",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4MEjYGmSZU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a4MEjYGmSZU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "De Moçambique, músico Mr. Bow compara o changana a um código de criatividade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PUHS0yEYrQM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PUHS0yEYrQM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Escritora brasileira fala da importância da língua materna",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "8OQ9ABOM5QM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Rádio: Guira FM no centro da África promove clima de confiança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2UnYuCyVAEo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2UnYuCyVAEo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jornalista português lembra da importância do rádio durante crise em Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mtvpra9GdxQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mtvpra9GdxQ"
         }
       }
     }
