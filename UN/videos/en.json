@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali, Türkiye/Syria, Ukraine & other topics - Daily Press Briefing (21 February 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lY3-ri6F0EE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lY3-ri6F0EE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Update on the humanitarian situation in Türkiye and Syria - OCHA Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E5nlM6l43qI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Türkiye/Syria, Sea level Rise & other topics - Daily Press Briefing (14 February 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dNL5JeSv6-4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dNL5JeSv6-4"
         }
       }
     }
