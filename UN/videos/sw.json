@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lugha ya asili ughaibuni. Wazazi tunafanyaje?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aB40M9pziPg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aB40M9pziPg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wazazi tulioko ughaibuni tusiache kuwarithisha watoto wetu lugha za asili yetu: SABINA WASONGA-GITAU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wfyconm6ssU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hali nyumbani Burundi ni shwari, sijasikia mlio wowote wa risasi- Aline",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/evtuF921Za4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "evtuF921Za4"
         }
       }
     }
