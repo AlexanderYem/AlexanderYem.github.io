@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Diário da Ucrânia: porta-voz do Ocha, Saviano Abreu, fala sobre um ano de guerra no país",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aiOHZA9RNH0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aiOHZA9RNH0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Após sucesso com palavras difíceis em português, Alice começa a aprender inglês",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n_DTcumTgMA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra fala de inundações fatais em Maputo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mCqwjT1ABn8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mCqwjT1ABn8"
         }
       }
     }
