@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: guerra na Ucrânia, extremismo na África e Dia Internacional da Língua Materna",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CKrPyFxcHk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_CKrPyFxcHk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Diário da Ucrânia: porta-voz do Ocha, Saviano Abreu, fala sobre um ano de guerra no país",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EzKR9AAca3Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: apelo humanitário para Ucrânia, socorro para os sírios e enchentes em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n_DTcumTgMA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n_DTcumTgMA"
         }
       }
     }
