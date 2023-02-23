@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique aciona alerta vermelho à espera do ciclone Freddy",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/edVSUu2nKXQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "edVSUu2nKXQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unesco propõe regular mundo digital por uma \"internet confiável\", especialista explica oportunidades",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Destaque ONU News: guerra na Ucrânia, extremismo na África e Dia Internacional da Língua Materna",
+        "title": "Destaque ONU News: guerra na Ucrânia, extremismo na África e Dia da Língua Materna com Mr. Bow",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/_CKrPyFxcHk/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rOMZt7E3zgo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conferência da ONU sobre Água quer mobilizar ação para cumprir metas globais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_SGjrHkXCao/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_SGjrHkXCao"
         }
       }
     }
