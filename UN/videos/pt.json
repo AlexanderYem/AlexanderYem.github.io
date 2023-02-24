@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Esta guerra tem que acabar\", diz Guterres ao marcar um ano da invasão da Rússia à Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lm6-fPbCx60/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lm6-fPbCx60"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique aciona alerta vermelho à espera do ciclone Freddy",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "haDkxMk6faE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: ajuda à Turquia, educação global e Dia Internacional da Língua Materna",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rOMZt7E3zgo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rOMZt7E3zgo"
         }
       }
     }
