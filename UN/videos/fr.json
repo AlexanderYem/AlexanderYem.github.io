@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un an après l'invasion de grande envergure de l'Ukraine par la Russie",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kkNkluU-6GA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kkNkluU-6GA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Séisme : un appel humanitaire de 397 millions de dollars pour aider la population de la Syrie.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4RSU5MBVMf4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le maintien de la paix de l'ONU fonctionne-t-il ? Voici les faits",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hi8ax22JVy0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hi8ax22JVy0"
         }
       }
     }
