@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ciclone Freddy em Inhambane, Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HwZ5oVoceFc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HwZ5oVoceFc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Esta guerra tem que acabar\", diz Guterres ao marcar um ano da invasão da Rússia à Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PUHS0yEYrQM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Escritora brasileira fala da importância da língua materna",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/haDkxMk6faE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "haDkxMk6faE"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chamber Music Society Concert in Celebration of World Wildlife Day",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrPrHphL3fE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jrPrHphL3fE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Strategic Plan 2023-2026 | United Nations Department of Political and Peacebuilding Affairs",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sQN6fnGjk10"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Act Now for a Net-Zero Future – A message to World Leaders",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b02e3bhBsio/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b02e3bhBsio"
         }
       }
     }
