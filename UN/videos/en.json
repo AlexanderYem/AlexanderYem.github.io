@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "One year since Russia’s full-scale invasion of Ukraine – UN response",
+        "title": "Romania on Ukraine - General Assembly Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FFiA5dihzX0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FFiA5dihzX0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "One year since Russia’s full-scale invasion of Ukraine – United Nations Response",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/uml1f2Wy1Lk/hqdefault.jpg"
@@ -28,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "EU on the General Assembly Vote on the UN Charter & #Ukraine - General Assembly Media Stakeout",
+        "title": "EU on the General Assembly Vote on Ukraine - General Assembly | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/FuWc58l3mwQ/hqdefault.jpg"
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "Ukraine on the General Assembly Vote on the UN Charter - General Assembly Media Stakeout",
+        "title": "Ukraine on the General Assembly Vote on the UN Charter - United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/oHouQgUwfe0/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GrP4AdiOjBo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali, Türkiye/Syria, Ukraine & other topics - Daily Press Briefing (21 February 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lY3-ri6F0EE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lY3-ri6F0EE"
         }
       }
     }
