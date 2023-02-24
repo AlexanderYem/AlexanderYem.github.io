@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine - Security Council meeting (24 February 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQN6fnGjk10/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sQN6fnGjk10"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "EU High Representative on proposed Ukraine Peace Plan - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FuWc58l3mwQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine on the General Assembly Vote on the UN Charter - United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oHouQgUwfe0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oHouQgUwfe0"
         }
       }
     }
