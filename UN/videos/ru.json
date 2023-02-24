@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украина: спустя год после начала войны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fgHLB_l8J-g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fgHLB_l8J-g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Гуманитарный призыв ООН по Украине на 2023 год",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nnF0USaVCLo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Экономический прогноз Всемирного банка на 2023 год",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nAPSvMipJRc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nAPSvMipJRc"
         }
       }
     }
