@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Innovation and technology for gender equality - UN Observance of International Women's Day 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c8jP3kEWess/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c8jP3kEWess"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Armenia/Azerbaijan, Türkiye / Syria & other topics - Daily Press Briefing (24 Feb 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mCZXO4tOnRU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Romania on Ukraine - General Assembly Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FFiA5dihzX0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FFiA5dihzX0"
         }
       }
     }
