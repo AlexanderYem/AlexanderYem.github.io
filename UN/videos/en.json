@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "EU High Representative on proposed Ukraine Peace Plan - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oraC2GUrr6M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oraC2GUrr6M"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Estonia, Latvia & Lithuania on Ukraine - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrQsCpw_wpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NrQsCpw_wpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chamber Music Society Concert in Celebration of World Wildlife Day",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "oHouQgUwfe0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Türkiye / Syria, Middle East & other topics - Daily Press Briefing (23 February 2023 )",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/khV7NMkc8SQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "khV7NMkc8SQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine - Security Council meeting (24 February 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sQN6fnGjk10/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sQN6fnGjk10"
         }
       }
     }
