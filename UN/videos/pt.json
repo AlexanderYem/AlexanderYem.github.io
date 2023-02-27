@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agências da ONU em Moçambique avaliam resposta após passagem do ciclone Freddy",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIswcb1he0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YIswcb1he0s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ciclone Freddy em Inhambane, Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zWMR6hlt5IY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Falando em Terena, líder indígena do Brasil celebra Dia Internacional da Língua Materna",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a4MEjYGmSZU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a4MEjYGmSZU"
         }
       }
     }
