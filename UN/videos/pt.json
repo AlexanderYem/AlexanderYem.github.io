@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da diplomacia portuguesa discursa no Conselho de Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7Z_9M9iLzM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O7Z_9M9iLzM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: “O mundo não aceita violações da Carta da ONU, agressões e invasões”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aiOHZA9RNH0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Após sucesso com palavras difíceis em português, Alice começa a aprender inglês",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z1xXQn_ncPc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z1xXQn_ncPc"
         }
       }
     }
