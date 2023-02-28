@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lugha mama inaweza kukuokoa hatarini",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_8w8cn7Ik8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q_8w8cn7Ik8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tumetobolewa masikio lakini hatujatobolewa akili- Mary Nkisonkoi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c2rFmeM0pIU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haki ya jamii ni nini?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6n9wXJzPQOg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6n9wXJzPQOg"
         }
       }
     }
