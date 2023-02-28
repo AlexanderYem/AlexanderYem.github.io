@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique assume presidência do Conselho de Segurança das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qVZvL64ww8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3qVZvL64ww8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da diplomacia portuguesa discursa no Conselho de Direitos Humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_CKrPyFxcHk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Diário da Ucrânia: porta-voz do Ocha, Saviano Abreu, fala sobre um ano de guerra no país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aiOHZA9RNH0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aiOHZA9RNH0"
         }
       }
     }
