@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les rapatriements en Iraq de résidents d’un camp en Syrie sont un exemple pour le monde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kMZoF87YkQI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kMZoF87YkQI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Un an après l'invasion de grande envergure de l'Ukraine par la Russie",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Yr4JQzI1a9Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lutter pour l'inclusion avec un beat hip-hop",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4RSU5MBVMf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4RSU5MBVMf4"
         }
       }
     }
