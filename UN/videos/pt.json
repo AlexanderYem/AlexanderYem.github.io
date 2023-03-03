@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Timor-Leste aposta em reduzir pobreza e impulsionar infraestrutura",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w5TYGhR6enI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w5TYGhR6enI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Moçambique revela temas-chave na liderança do Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HwZ5oVoceFc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Esta guerra tem que acabar\", diz Guterres ao marcar um ano da invasão da Rússia à Ucrânia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lm6-fPbCx60/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lm6-fPbCx60"
         }
       }
     }
