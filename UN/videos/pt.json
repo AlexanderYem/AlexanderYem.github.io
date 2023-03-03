@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Moçambique revela temas-chave na liderança do Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OcwNFtCNx3k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OcwNFtCNx3k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Março marca presidência de Moçambique no Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lm6-fPbCx60"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique aciona alerta vermelho à espera do ciclone Freddy",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/edVSUu2nKXQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "edVSUu2nKXQ"
         }
       }
     }
