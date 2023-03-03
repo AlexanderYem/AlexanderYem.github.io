@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Украинские женщины в условиях войны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fymv2nHsQOc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Fymv2nHsQOc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Спустя год после начала полномасштабного вторжения России в Украину: ответные меры ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-9lmPcBAmt4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Еврейское кладбище Феса, символ культурной гармонии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nnF0USaVCLo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nnF0USaVCLo"
         }
       }
     }

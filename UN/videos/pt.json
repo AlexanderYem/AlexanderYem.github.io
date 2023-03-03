@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Exposição na sede da ONU traz histórias sobre a Escravidão Colonial Holandesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OW2YOF5Yrpg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OW2YOF5Yrpg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Timor-Leste aposta em reduzir pobreza e impulsionar infraestrutura",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bVWNVTxkitI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ciclone Freddy em Inhambane, Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HwZ5oVoceFc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HwZ5oVoceFc"
         }
       }
     }
