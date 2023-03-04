@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Opening Plenary (#LDC5) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWf-mdbKYsI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yWf-mdbKYsI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "United Nations - LIVE",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x22RGzl-gDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iraq, Law of the Sea, Nigeria & other topics - Daily Press Briefing (01 March 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B85ywotIo-4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B85ywotIo-4"
         }
       }
     }
