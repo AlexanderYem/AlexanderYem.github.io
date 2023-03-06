@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: cooperação com a Comunidade dos Países de Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lUi_3jsl4oQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lUi_3jsl4oQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Exposição na sede da ONU traz histórias sobre a Escravidão Colonial Holandesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YIswcb1he0s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ciclone Freddy em Inhambane, Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bVWNVTxkitI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bVWNVTxkitI"
         }
       }
     }
