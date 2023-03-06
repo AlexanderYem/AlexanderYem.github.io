@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ni wakati wa makundi yenye silaha DRC kukuweka chini silaha zao: Keita",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p07tt6jmsaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p07tt6jmsaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Si kwa makofi hayo!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9_YYkwFVF58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Walinda amani wa UN kutoka Tanzania wametufundisha kutumia majembe – Wakulima CAR",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/safAbaYFxZ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "safAbaYFxZ4"
         }
       }
     }
