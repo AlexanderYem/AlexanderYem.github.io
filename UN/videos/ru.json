@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "От недоедания в мире страдают более миллиарда женщин и девочек-подростков",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqP8u1Cu1os/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EqP8u1Cu1os"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Украинские женщины в условиях войны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iTQQQgddiSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН по случаю Международного дня образования",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-9lmPcBAmt4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-9lmPcBAmt4"
         }
       }
     }
