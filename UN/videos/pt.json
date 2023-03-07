@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Doha, ativista de Moçambique fala de união pelo desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMCb42kreng/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wMCb42kreng"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: cooperação com a Comunidade dos Países de Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6T9Yr9Omy7c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agências da ONU em Moçambique avaliam resposta após passagem do ciclone Freddy",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YIswcb1he0s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YIswcb1he0s"
         }
       }
     }
