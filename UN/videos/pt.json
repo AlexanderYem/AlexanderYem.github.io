@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de Moçambique no Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qgD-6NiaOcM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qgD-6NiaOcM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra da Ação Social, Família e Promoção da Mulher, Ana Paula Neto, no Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NTa0fJn24aY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Moçambique na ONU, fim da pena de morte e conservação de ervas marinhas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y-lgJL9kuRI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y-lgJL9kuRI"
         }
       }
     }
