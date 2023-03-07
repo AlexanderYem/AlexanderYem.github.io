@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vijana katika CSW67 New York",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r30czKdzh68/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r30czKdzh68"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ni wakati wa makundi yenye silaha DRC kukuweka chini silaha zao: Keita",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "q_8w8cn7Ik8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tumetobolewa masikio lakini hatujatobolewa akili- Mary Nkisonkoi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9_YYkwFVF58/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9_YYkwFVF58"
         }
       }
     }
