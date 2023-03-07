@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "LBV fala do empoderamento de mulheres em vários países",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NIoB-QjV3I0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NIoB-QjV3I0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Doha, ativista de Moçambique fala de união pelo desenvolvimento",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O7Z_9M9iLzM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: “O mundo não aceita violações da Carta da ONU, agressões e invasões”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6T9Yr9Omy7c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6T9Yr9Omy7c"
         }
       }
     }
