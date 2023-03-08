@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный женский день 8 марта",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RnpfwKo6NfY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RnpfwKo6NfY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Генсек ООН на пресс-конференции в Киеве: о Черноморской инициативе по зерну",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIgIn1fM1uM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rIgIn1fM1uM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "От недоедания в мире страдают более миллиарда женщин и девочек-подростков",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "yk3n_eVmW1Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Эксперты МАГАТЭ теперь постоянно присутствуют на всех действующих АЭС Украины и в Чернобыле",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L44exkN1SEw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L44exkN1SEw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Вакцинация против гриппа в Кыргызстане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iTQQQgddiSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iTQQQgddiSQ"
         }
       }
     }
