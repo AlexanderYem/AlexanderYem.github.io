@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mkoa wa Pwani teknolojia imekuwa mkombozi- Dkt. Mhoja",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJc_-AZpGS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rJc_-AZpGS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Katu hawakuwaza kufikiwa na mwanasheria! Teknolojia imesaidia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3AxfVEaVQg8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunataka utangamano na si mvurugano",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/y2xCndy4Bb8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "y2xCndy4Bb8"
         }
       }
     }
