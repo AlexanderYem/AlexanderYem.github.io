@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Teknolojia mtandaoni kwa wote",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vTxRTViTXw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4vTxRTViTXw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mkoa wa Pwani teknolojia imekuwa mkombozi- Dkt. Mhoja",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EjeLW2Y0gJY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Waondoeni raia wenu Al-Hol!!!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3AxfVEaVQg8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3AxfVEaVQg8"
         }
       }
     }
