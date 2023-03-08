@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "من أوكرانيا الأمين العام يؤكد: الغزو الروسي سبب معاناة هائلة وتداعيات عميقة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GXDQi5xWyqU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GXDQi5xWyqU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أوركسترا الديوان الغربي الشرقي: الموسيقى بدلا من الصراع",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "23Sus4OG5Qc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام ينادي بتعزيز المساعدات لسوريا وتركيا بعد الزلزال المدمر",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uhEdH9SnRH4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uhEdH9SnRH4"
         }
       }
     }

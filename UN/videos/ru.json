@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН на пресс-конференции в Киеве: о безопасности Запорожской АЭС",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0Ws14c9e8w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M0Ws14c9e8w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный женский день 8 марта",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CDn4NhwqdKc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Болотные угодья – важный элемент естественной защиты Земли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yk3n_eVmW1Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yk3n_eVmW1Q"
         }
       }
     }
