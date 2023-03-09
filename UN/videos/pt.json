@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Estudo associa declínio econômico ao aumento do terrorismo na África",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoVt6GjmCVU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XoVt6GjmCVU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ativista social de Moçambique participa de evento sobre Países Menos Desenvolvidos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yLVRrdbrpx8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "LBV fala do empoderamento de mulheres em vários países",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NIoB-QjV3I0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NIoB-QjV3I0"
         }
       }
     }
