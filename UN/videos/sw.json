@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jadot Nkurunziza na 𝗘𝗪𝗘 𝗕𝗨𝗥𝗨𝗡𝗗𝗜 𝗨𝗥𝗔𝗠𝗕𝗔𝗬𝗘",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hsb_UuvcU0M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hsb_UuvcU0M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pazia lafungwa Doha, Kijana kutoka Burundi afunguka",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gAxhMjkUXYE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Misaada sio jibu kwa nchi zenye maendeleo duni",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/y_QXFndrbl8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "y_QXFndrbl8"
         }
       }
     }
