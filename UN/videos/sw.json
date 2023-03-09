@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pazia lafungwa Doha, Kijana kutoka Burundi afunguka",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksw6r6lxL08/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ksw6r6lxL08"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Teknolojia mtandaoni kwa wote",
         "thumbnails": {
           "high": {
@@ -80,7 +93,7 @@
     },
     {
       "snippet": {
-        "title": "Ni wakati wa makundi yenye silaha DRC kukuweka chini silaha zao: Keita",
+        "title": "Ni wakati wa makundi yenye silaha DRC kuweka chini silaha zao: Keita",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/p07tt6jmsaY/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y_QXFndrbl8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kutoka Doha, Qatar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EjeLW2Y0gJY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EjeLW2Y0gJY"
         }
       }
     }
