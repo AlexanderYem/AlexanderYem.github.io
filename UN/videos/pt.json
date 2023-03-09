@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "No Dia Internacional da Alimentação Escolar, diretor do PMA no Brasil",
+        "title": "Conselho de Segurança visita RD Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fvq8ORbBIOg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fvq8ORbBIOg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "No Dia Internacional da Alimentação Escolar, diretor do PMA no Brasil destaca importância da data",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/hq48Xg_S4_4/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wMCb42kreng"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: cooperação com a Comunidade dos Países de Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lUi_3jsl4oQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lUi_3jsl4oQ"
         }
       }
     }
