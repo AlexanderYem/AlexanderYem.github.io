@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Что общего у ООН и премии «Оскар»?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKssrypSsL4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pKssrypSsL4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН на пресс-конференции в Киеве: о безопасности Запорожской АЭС",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eo2qiq_AATc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мир начинается с меня: 75 лет миротворческим операциям ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CDn4NhwqdKc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CDn4NhwqdKc"
         }
       }
     }
