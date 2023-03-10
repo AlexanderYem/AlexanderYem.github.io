@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Garantia de acesso à educação é primordial na luta por equidade de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gw5HgwZqW-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gw5HgwZqW-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Estudo associa declínio econômico ao aumento do terrorismo na África",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0YUloVTKWGY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Mulher",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yLVRrdbrpx8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yLVRrdbrpx8"
         }
       }
     }
