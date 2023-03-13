@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, Earthquake & other topics - Daily Press Briefing (13 March 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Jbq--IlolI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5Jbq--IlolI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Islamophobia, Ukraine & other topics - Daily Press Briefing (10 March 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "61lk3PnQCOg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DigitALL: Innovation and technology for gender equality | #IWD2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c8jP3kEWess/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c8jP3kEWess"
         }
       }
     }

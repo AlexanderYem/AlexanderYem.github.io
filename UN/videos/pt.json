@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Produção intensiva de arroz na Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-I0CpQFVLwo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-I0CpQFVLwo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Para governo brasileiro, é fundamental recolocar país na área de Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VEKNa35NoLM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VEKNa35NoLM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General brasileiro aposta em mais mulheres na linha de frente na RD Congo",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "cF_Z4LTj6ms"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "5ª Conferência das Nações Unidas sobre os Países Menos Desenvolvidos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hQ-deI5Nl2Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hQ-deI5Nl2Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil no debate do Conselho de Segurança sobre Mulher, Paz e Segurança (inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VgXI6_gTzW4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VgXI6_gTzW4"
         }
       }
     }
