@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "General brasileiro aposta em mais mulheres na linha de frente na RD Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yoy0ZT4kgDU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yoy0ZT4kgDU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ibge avalia que novo Censo Demográfico trará dados qualificados sobre população",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VgXI6_gTzW4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso de Moçambique no Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qgD-6NiaOcM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qgD-6NiaOcM"
         }
       }
     }
