@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Timorenses querem mais mulheres na política e literacia digital",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zxcsHkYQ2V4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zxcsHkYQ2V4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Produção intensiva de arroz na Guiné-Bissau",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hq48Xg_S4_4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique aborda a influência para envolver mais mulheres na política",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cF_Z4LTj6ms/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cF_Z4LTj6ms"
         }
       }
     }
