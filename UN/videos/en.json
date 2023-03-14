@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chamber Music Society Concert for the Victims of the Earthquake in Türkiye and Syria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZwCM45DM6w/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_ZwCM45DM6w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate, Earthquake & other topics - Daily Press Briefing (13 March 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f2HmccafuW4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Women’s Day, Afghanistan, Syria & other topics - Daily Press Briefing (8 March 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/61lk3PnQCOg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "61lk3PnQCOg"
         }
       }
     }
