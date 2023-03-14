@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Верховный комиссар ООН по правам человека – в Узбекистане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vTB6vrd8MQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1vTB6vrd8MQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Что общего у ООН и премии «Оскар»?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3uAQhcKCPLU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день женщин и девочек в науке",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eo2qiq_AATc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eo2qiq_AATc"
         }
       }
     }
