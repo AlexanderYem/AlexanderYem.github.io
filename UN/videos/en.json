@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "UN Chamber Music Society Concert for the Victims of the Earthquake in Türkiye and Syria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_ZwCM45DM6w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_ZwCM45DM6w"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Celebration International Women’s Day at LDC5 in Doha, Qatar | United Nations",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "waNwn3_PJnc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Afghanistan: Joint stakeout on Women, Peace and Security - Security Council Stakeout (8 March 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2HmccafuW4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f2HmccafuW4"
         }
       }
     }
