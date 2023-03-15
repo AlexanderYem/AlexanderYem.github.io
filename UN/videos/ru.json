@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день Навруз. Послание Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rLPFx1Za2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0rLPFx1Za2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Верховный комиссар ООН по правам человека – в Узбекистане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o5MWNn9vlrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Автобусы Всемирной организации здравоохранения для Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3uAQhcKCPLU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3uAQhcKCPLU"
         }
       }
     }
