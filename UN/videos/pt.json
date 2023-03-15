@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ciclone Freddy pode ganhar força novamente em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycDQFfW6Tno/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ycDQFfW6Tno"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Timorenses querem mais mulheres na política e literacia digital",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fvq8ORbBIOg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Dia Internacional da Alimentação Escolar, diretor do PMA no Brasil destaca importância da data",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hq48Xg_S4_4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hq48Xg_S4_4"
         }
       }
     }
