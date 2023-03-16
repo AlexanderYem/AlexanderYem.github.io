@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ciclone Freddy piora vida de moçambicanos desprovidos após ataques terroristas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0bSNQ3MWioE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0bSNQ3MWioE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Relatório de Tecnologia e Inovação de 2023 da Unctad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHpSmHrhZIQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rHpSmHrhZIQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ciclone Freddy pode ganhar força novamente em Moçambique",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "XoVt6GjmCVU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ativista social de Moçambique participa de evento sobre Países Menos Desenvolvidos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V0ole2XXVqs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V0ole2XXVqs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conselho de Segurança visita RD Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fvq8ORbBIOg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fvq8ORbBIOg"
         }
       }
     }
