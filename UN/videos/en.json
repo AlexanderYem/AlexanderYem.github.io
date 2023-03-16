@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Women Leaders in Media: Making Innovative Technology Work for Women and Girls (CSW67 Side Event)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/410lZfdRQ5I/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "410lZfdRQ5I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chamber Music Society Concert for the Victims of the Earthquake in Türkiye and Syria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JB75eHfn0VU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Water is Possibility",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0My2UxnMVYk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0My2UxnMVYk"
         }
       }
     }
