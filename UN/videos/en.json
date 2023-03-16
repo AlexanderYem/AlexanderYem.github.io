@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chamber Music Society Concert for the Victims of the Earthquake in Türkiye and Syria",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-qkY4uo02eE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-qkY4uo02eE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Upcoming UN Water Conference - Press Conference (15 March 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0My2UxnMVYk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General, Least Developed Countries & other topics - Daily Press Briefing (9 March 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kc5MFLXkV-M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kc5MFLXkV-M"
         }
       }
     }
