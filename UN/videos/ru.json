@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Доклад ЮНКТАД о технологиях и инновациях в 2023 году",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTPZ3NwLfzs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cTPZ3NwLfzs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день Навруз. Послание Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fgHLB_l8J-g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Гуманитарный призыв ООН по Украине на 2023 год",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/o5MWNn9vlrs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "o5MWNn9vlrs"
         }
       }
     }
