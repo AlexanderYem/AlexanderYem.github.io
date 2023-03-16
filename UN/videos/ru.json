@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Независимая международная комиссия ООН по расследованию нарушений в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gipbo7DZKpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gipbo7DZKpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Доклад ЮНКТАД о технологиях и инновациях в 2023 году",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Fymv2nHsQOc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Спустя год после начала полномасштабного вторжения России в Украину: ответные меры ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fgHLB_l8J-g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fgHLB_l8J-g"
         }
       }
     }
