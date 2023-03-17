@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Заявление Международного уголовного суда",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1An_hmBOpv0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1An_hmBOpv0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Независимая международная комиссия ООН по расследованию нарушений в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EqP8u1Cu1os"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Украинские женщины в условиях войны",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fymv2nHsQOc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fymv2nHsQOc"
         }
       }
     }
