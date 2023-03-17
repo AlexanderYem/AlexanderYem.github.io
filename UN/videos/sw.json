@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nchi za Afrika na nyinginezo kusalia wasindikizaji, kulikoni?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xq-upsPqlIg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xq-upsPqlIg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "CSW67 : Zanzibar yaelezea matumizi ya teknolojia kuinua mwanamke",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3S6B2J12a3U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tuaondoka na matumaini- Humphrey",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M1UKdmjaM3k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M1UKdmjaM3k"
         }
       }
     }
