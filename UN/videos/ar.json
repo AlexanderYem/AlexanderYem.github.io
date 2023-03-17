@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المرأة السعودية شريكة فاعلة في جهود بناء مجتمع رقمي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DI6msLWw844/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DI6msLWw844"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "د. كلودين عون رئيسة الهيئة الوطنية لشؤون المرأة اللبنانية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ePf_s6bL4IE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وزيرة التنمية الاجتماعية والأسرة في قطر: قطعنا شوطا كبيرا لتحقيق المساواة بين الجنسين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qoMYgy3XlK4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qoMYgy3XlK4"
         }
       }
     }
