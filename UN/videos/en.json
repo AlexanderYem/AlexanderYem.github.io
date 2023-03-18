@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SDG Roundtable: Innovation for women and equality",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lhAuFGmb29Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lhAuFGmb29Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "USA on Human rights in DPRK - Security Council Media Stakeout (17 March 2023)",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "410lZfdRQ5I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SDG Roundtable: Innovation for women and equality",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lhAuFGmb29Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lhAuFGmb29Q"
         }
       }
     },
