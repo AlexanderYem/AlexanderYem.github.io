@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Peace begins with me: Young poets promote peace",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAcYq0z_D_Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kAcYq0z_D_Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate, Black Sea Grain Initiative & other topics - Daily Press Briefing (20 March 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3YBM30yCmDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chamber Music Society Concert for the Victims of the Earthquake in Türkiye and Syria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-qkY4uo02eE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-qkY4uo02eE"
         }
       }
     }
