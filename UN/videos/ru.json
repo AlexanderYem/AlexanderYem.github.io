@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Продление срока действия Черноморской инициативы по зерну",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGFawaNJK58/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FGFawaNJK58"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Заявление Международного уголовного суда",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rIgIn1fM1uM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "От недоедания в мире страдают более миллиарда женщин и девочек-подростков",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EqP8u1Cu1os/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EqP8u1Cu1os"
         }
       }
     }

@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Poesia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rhe0reubS8k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Rhe0reubS8k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Moçambique combate efeitos de cólera, inundações e ciclone Freddy",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/riGJq67JKh0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "riGJq67JKh0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil apresentou projeto Rondon no maior anual evento de mulheres",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-I0CpQFVLwo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Para governo brasileiro, é fundamental recolocar país na área de Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VEKNa35NoLM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VEKNa35NoLM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "General brasileiro aposta em mais mulheres na linha de frente na RD Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yoy0ZT4kgDU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yoy0ZT4kgDU"
         }
       }
     }
