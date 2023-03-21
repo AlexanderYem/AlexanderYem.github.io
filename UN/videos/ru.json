@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "На конференцию ООН в Нью-Йорке «слетаются» бумажные колибри",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hGljkM2em0g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hGljkM2em0g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Продление срока действия Черноморской инициативы по зерну",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RnpfwKo6NfY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН на пресс-конференции в Киеве: о Черноморской инициативе по зерну",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rIgIn1fM1uM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rIgIn1fM1uM"
         }
       }
     }
