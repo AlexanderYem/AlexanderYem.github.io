@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "(PREMIERE) Virtual Concert in celebration of World Water Day - UN Chamber Music Society",
+        "title": "International Day for the Elimination of Racial Discrimination (21 March 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3iMqRO_2uA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C3iMqRO_2uA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Virtual Concert in celebration of World Water Day - UN Chamber Music Society",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/pePS6Ke5TRs/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lhAuFGmb29Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on Human rights in DPRK - Security Council Media Stakeout (17 March 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eez3WNJk2Yk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eez3WNJk2Yk"
         }
       }
     }
