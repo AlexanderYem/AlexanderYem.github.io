@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN 2023 Water Conference - Opening Ceremony",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CXpv20NzbKE/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CXpv20NzbKE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Joint announcement on Climate, Peace and Security - Security Council Media Stakeout (21 March 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0c3gkIsVFR8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0c3gkIsVFR8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day for the Elimination of Racial Discrimination (21 March 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "RJDKrXScld8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chamber Music Society Concert in Celebration of French Language Day",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uxQRgHykbGc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uxQRgHykbGc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SDG Roundtable: Innovation for women and equality",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lhAuFGmb29Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lhAuFGmb29Q"
         }
       }
     }
