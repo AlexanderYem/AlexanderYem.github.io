@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генсека ООН по случаю начала Рамадана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vrycvr35UIY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vrycvr35UIY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "На конференцию ООН в Нью-Йорке «слетаются» бумажные колибри",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M0Ws14c9e8w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный женский день 8 марта",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RnpfwKo6NfY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RnpfwKo6NfY"
         }
       }
     }
