@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de Recuerdo de las Víctimas de la Esclavitud y la Trata Transatlántica de Esclavos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SoS5OIXDWCs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SoS5OIXDWCs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mensaje del Secretario General con motivo del comienzo del Ramadán",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GWG_vaabZ6k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GWG_vaabZ6k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La paz empieza conmigo: 75 años de operaciones de mantenimiento de la paz de la ONU",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jz89ypr6XDM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista a Nicole Becker: \"Convertir esa rabia en acción colectiva\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jV299f0UBZY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jV299f0UBZY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guinea-Bissau: Combatiendo las nuevas rutas del narcotráfico",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nV1eIyW6pVs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nV1eIyW6pVs"
         }
       }
     }

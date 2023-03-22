@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Klorini ndio inasafisha!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uey7wqF0Vlg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Uey7wqF0Vlg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kijiti tumekabidhi kwa wengine!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCxxxDXmKBw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FCxxxDXmKBw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maji ni zawadi kwa kila mtu lakini bado inasalia ndoto - Padre Ayodi",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "eFvW5DMFIYg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Putin akamatwe!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wt4hYX_ZQ10/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wt4hYX_ZQ10"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hizi ndizo mada zitakazojadiliwa katika Kongamano la Idhaa za Kiswahili Machi 18 na 19 Zanzibar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vZTa0Zo67S4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vZTa0Zo67S4"
         }
       }
     }
