@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Доклад ООН об изменении климата: пять фактов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9nm8oIoc-c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T9nm8oIoc-c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генсека ООН по случаю начала Рамадана",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pKssrypSsL4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН на пресс-конференции в Киеве: о безопасности Запорожской АЭС",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M0Ws14c9e8w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M0Ws14c9e8w"
         }
       }
     }
