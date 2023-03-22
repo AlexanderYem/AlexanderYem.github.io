@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Virtual Concert in celebration of World Water Day - UN Chamber Music Society",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pePS6Ke5TRs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pePS6Ke5TRs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN 2023 Water Conference - Opening Ceremony",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "C3iMqRO_2uA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Virtual Concert in celebration of World Water Day - UN Chamber Music Society",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pePS6Ke5TRs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pePS6Ke5TRs"
         }
       }
     },
