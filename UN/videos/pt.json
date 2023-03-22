@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Catarina de Albuquerque fala sobre Conferência da Água em Nova Iorque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0yrvHn7EpQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I0yrvHn7EpQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Museu da Água, em São Paulo, quer entrar em outros países de língua portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0bSNQ3MWioE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relatório de Tecnologia e Inovação de 2023 da Unctad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rHpSmHrhZIQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rHpSmHrhZIQ"
         }
       }
     }
