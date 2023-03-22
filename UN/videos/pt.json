@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Museu da Água, em São Paulo, quer entrar em outros países de língua portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GH2HQ3A3YsE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GH2HQ3A3YsE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Estado de São Paulo compartilha experiências com eventos climáticos extremos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6t5cyP1ai3Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6t5cyP1ai3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Relatório do Clima das Nações Unidas: 5 fatos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "rHpSmHrhZIQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ciclone Freddy pode ganhar força novamente em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ycDQFfW6Tno/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ycDQFfW6Tno"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Timorenses querem mais mulheres na política e literacia digital",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zxcsHkYQ2V4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zxcsHkYQ2V4"
         }
       }
     }
