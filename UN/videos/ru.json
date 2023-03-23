@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ЮНКТАД - о состоянии мировой торговли",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVrx2xzZ5m0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RVrx2xzZ5m0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Доклад ООН об изменении климата: пять фактов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1vTB6vrd8MQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Что общего у ООН и премии «Оскар»?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pKssrypSsL4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pKssrypSsL4"
         }
       }
     }
