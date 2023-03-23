@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Берегите воду!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jMEMHAUXtaI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jMEMHAUXtaI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Интервью с министром экологии Казахстана",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7aO6pLlXzOQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7aO6pLlXzOQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ЮНКТАД - о состоянии мировой торговли",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "cTPZ3NwLfzs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день Навруз. Послание Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0rLPFx1Za2M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0rLPFx1Za2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Верховный комиссар ООН по правам человека – в Узбекистане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1vTB6vrd8MQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1vTB6vrd8MQ"
         }
       }
     }

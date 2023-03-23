@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem das crianças para a Conferência da Água",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWmzuMqziL8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mWmzuMqziL8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Documentarista brasileira na Antártida presencia degelo de glaciares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5zT_VJg9w_Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Coordenadora residente da ONU em Moçambique pede solidariedade global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G3ZNWuBDUWA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G3ZNWuBDUWA"
         }
       }
     }
