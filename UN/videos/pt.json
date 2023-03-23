@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Documentarista brasileira na Antártida presencia degelo de glaciares",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sac2Jx9zwHc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Sac2Jx9zwHc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Unctad diz que comércio global movimentou US$ 32 trilhões em 2022",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ieIeTepQsCY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ieIeTepQsCY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Catarina de Albuquerque fala sobre Conferência da Água em Nova Iorque",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "G3ZNWuBDUWA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "General brasileiro é o novo comandante da força da Missão da ONU na República Democrática do Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gjcY_KP2DKI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gjcY_KP2DKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ciclone Freddy piora vida de moçambicanos desprovidos após ataques terroristas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0bSNQ3MWioE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0bSNQ3MWioE"
         }
       }
     }
