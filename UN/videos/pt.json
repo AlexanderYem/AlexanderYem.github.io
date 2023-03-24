@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil está entre os três países que mais avançaram na agenda do ODS 6",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzbgSGTSa44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dzbgSGTSa44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIT propõe coalizão global por justiça social",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Rhe0reubS8k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique combate efeitos de cólera, inundações e ciclone Freddy",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/riGJq67JKh0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "riGJq67JKh0"
         }
       }
     }
