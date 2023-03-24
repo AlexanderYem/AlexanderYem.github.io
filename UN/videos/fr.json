@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Une heure pour la planète : Message du Secrétaire général de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnrvAv_XyoY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KnrvAv_XyoY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conférence de l'ONU sur l'eau : des écoliers du monde entier créent des colibris en origami",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zOIDAaqjay8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Réponse au seisme : il faut donner la priorité aux gens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k0WXJG2YE0Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k0WXJG2YE0Q"
         }
       }
     }
