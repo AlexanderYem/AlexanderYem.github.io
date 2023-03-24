@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kutoka Musanze hadi New York!!!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nT35BjgsKyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nT35BjgsKyA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tujumuishwe sote!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FCxxxDXmKBw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Maji ni zawadi kwa kila mtu lakini bado inasalia ndoto - Padre Ayodi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/piX1YVDKe_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "piX1YVDKe_8"
         }
       }
     }

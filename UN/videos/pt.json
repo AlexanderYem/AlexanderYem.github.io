@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde aborda adaptação e resiliência na Conferência da Água",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xDizX6wyCFw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xDizX6wyCFw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil está entre os três países que mais avançaram na agenda do ODS 6",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ag2BOz1nVIM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Poesia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rhe0reubS8k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rhe0reubS8k"
         }
       }
     }
