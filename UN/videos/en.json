@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Resurgence of The Gambia – A small country with big ambitions | United Nations | Podcast",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M4xCYKyK5i8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M4xCYKyK5i8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Assembly President at the Closing of the UN 2023 Water Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VM9mGsxhfiI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Riyad Mansour (Palestine) on the situation in Palestine - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SFK6w-GwMSU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SFK6w-GwMSU"
         }
       }
     }
