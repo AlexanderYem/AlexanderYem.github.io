@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Орландо Блум в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YkBYGg6tuF4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YkBYGg6tuF4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Берегите воду!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gipbo7DZKpE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Доклад ЮНКТАД о технологиях и инновациях в 2023 году",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cTPZ3NwLfzs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cTPZ3NwLfzs"
         }
       }
     }
