@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Desafios da Água em Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Var9_DfLKIA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Var9_DfLKIA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Luta contra a herança de racismo e escravidão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Sac2Jx9zwHc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unctad diz que comércio global movimentou US$ 32 trilhões em 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ieIeTepQsCY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ieIeTepQsCY"
         }
       }
     }

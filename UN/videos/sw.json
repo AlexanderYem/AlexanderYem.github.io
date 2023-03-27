@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Vijana mpo?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6qSnHNcWXA4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6qSnHNcWXA4"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Ndugu zangu 4 wameuawa ni machungu makubwa!",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "g6wNiCRMHMw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Klorini ndio inasafisha!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uey7wqF0Vlg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Uey7wqF0Vlg"
         }
       }
     }
