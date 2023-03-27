@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como negra, não tive acesso a minha própria história, diz Djamila Ribeiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HOrpNsN1Jg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-HOrpNsN1Jg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Desafios da água em Timor-Leste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mWmzuMqziL8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Documentarista brasileira na Antártida presencia degelo de glaciares",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sac2Jx9zwHc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Sac2Jx9zwHc"
         }
       }
     }
