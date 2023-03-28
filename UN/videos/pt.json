@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ação para promover resiliência hídrica em Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfIT-CkR6XQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vfIT-CkR6XQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Moçambique, Filipe Jacinto Nyusi, discursa no Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dzbgSGTSa44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIT propõe coalizão global por justiça social",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mzMbqGKZZa0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mzMbqGKZZa0"
         }
       }
     }
