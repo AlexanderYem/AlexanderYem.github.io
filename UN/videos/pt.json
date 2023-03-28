@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Moçambique, Filipe Jacinto Nyusi, discursa no Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRasapeT364/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kRasapeT364"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Como negra, não tive acesso a minha própria história, diz Djamila Ribeiro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mzMbqGKZZa0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem das crianças para a Conferência da Água",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mWmzuMqziL8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mWmzuMqziL8"
         }
       }
     }
