@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique entre 11 países africanos com surtos de cólera",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PDAN6aPQzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6PDAN6aPQzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ação para promover resiliência hídrica em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xDizX6wyCFw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil está entre os três países que mais avançaram na agenda do ODS 6",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dzbgSGTSa44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dzbgSGTSa44"
         }
       }
     }
