@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Djamila Ribeiro fala à ONU News sobre conceitos e luta contra racismo no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/obllCBBcluY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "obllCBBcluY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique entre 11 países africanos com surtos de cólera",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A6nxhBQscWY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde aborda adaptação e resiliência na Conferência da Água",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xDizX6wyCFw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xDizX6wyCFw"
         }
       }
     }
