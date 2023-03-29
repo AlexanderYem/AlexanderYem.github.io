@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ugaidi na misimamo mikali!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrOryeiWl_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GrOryeiWl_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mahojiano na Dkt. Tulia Ackson",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "458txm-vt58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - CSW 67",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JLi-fihTTe8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JLi-fihTTe8"
         }
       }
     }
