@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гендиректор МАГАТЭ – о ситуации вокруг Запорожской АЭС.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZtRzS_213g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mZtRzS_213g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Движение за нулевые отходы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FGFawaNJK58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заявление Международного уголовного суда",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1An_hmBOpv0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1An_hmBOpv0"
         }
       }
     }
