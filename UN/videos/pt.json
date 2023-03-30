@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "As migrações são um fenômeno humano, que deve ser apoiado diz chefe da OIM, António Vitorino",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6riOQ0-JqkE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6riOQ0-JqkE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Segurança hídrica e resposta à seca em Angola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Gsq9cBd-d3E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU convida todos a apagar as luzes, onde estejam, neste sábado para a Hora do Planeta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O2GxY-qXleA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O2GxY-qXleA"
         }
       }
     }
