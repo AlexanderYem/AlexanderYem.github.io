@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Moçambique fala em exclusivo à ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBwr_auv7wI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cBwr_auv7wI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prevenir o terrorismo em Moçambique a partir da sala de aula",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Var9_DfLKIA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Luta contra a herança de racismo e escravidão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bdqe8B4m95g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bdqe8B4m95g"
         }
       }
     }
