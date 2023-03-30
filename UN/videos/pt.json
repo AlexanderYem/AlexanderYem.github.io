@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Prevenir o terrorismo em Moçambique a partir da sala de aula",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7DpDFrbwcA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b7DpDFrbwcA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "As migrações são um fenômeno humano, que deve ser apoiado diz chefe da OIM, António Vitorino",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bdqe8B4m95g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal pede representante especial da ONU para Água",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gsq9cBd-d3E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gsq9cBd-d3E"
         }
       }
     }
