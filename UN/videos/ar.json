@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير المياه الموريتاني: حققنا نجاحا في تقاسم مياه نهر السنغال ونعمل على توفير المياه لكافة مواطنينا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gBxIBDbdWQE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gBxIBDbdWQE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "وزير التجهيز والماء في المغرب: حققنا نجاحا في الربط بين الماء والطاقة والأمن الغذائي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8zvTLK_oW6U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما علاقة الأمم المتحدة وجوائز الأوسكار السينمائية؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fqEuRnqfbkE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fqEuRnqfbkE"
         }
       }
     }
