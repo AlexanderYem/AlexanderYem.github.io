@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير التجهيز والماء في المغرب: حققنا نجاحا في الربط بين الماء والطاقة والأمن الغذائي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9y9NU6uEPFk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9y9NU6uEPFk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كيف تتغلب السعودية على شح المياه؟",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fqEuRnqfbkE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"رسالة السلام التي جاء بها الإسلام تلهم الناس حول العالم\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aNPqcliiREQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aNPqcliiREQ"
         }
       }
     }
