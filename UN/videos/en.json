@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Arts: Autistic talent in Music, Dance, Visual arts, Poetry (Part 2) | #WorldAutismAwarenessDay",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8kx_PuJMaOc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8kx_PuJMaOc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Home: Autistic perspectives of Home, Life and Education (Part 1) | #WorldAutismAwarenessDay",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RQzL1P1D1e4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Arts: Autistic talent in Music, Dance, Visual arts, Poetry (Part 2) | #WorldAutismAwarenessDay",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8kx_PuJMaOc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8kx_PuJMaOc"
         }
       }
     }
