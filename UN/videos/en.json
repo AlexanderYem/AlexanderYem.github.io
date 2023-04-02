@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Home: Autistic perspectives of Home, Life and Education (Part 1) | #WorldAutismAwarenessDay",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWuyHPc74W4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XWuyHPc74W4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of Sport for Development and Peace 2023: Scoring for People and the Planet",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8kx_PuJMaOc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Home: Autistic perspectives of Home, Life and Education (Part 1) | #WorldAutismAwarenessDay",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XWuyHPc74W4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XWuyHPc74W4"
         }
       }
     }
