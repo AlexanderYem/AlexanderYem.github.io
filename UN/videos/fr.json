@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La mission en RDC (MONUSCO) se renforce face à la désinformation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hpvITKtSxX4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hpvITKtSxX4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Une heure pour la planète : Message du Secrétaire général de l'ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kkNkluU-6GA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Séisme : un appel humanitaire de 397 millions de dollars pour aider la population de la Syrie.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zOIDAaqjay8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zOIDAaqjay8"
         }
       }
     }
