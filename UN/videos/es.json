@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensaje del Secretario General sobre el peligro de las minas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0DNVHqxzaNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0DNVHqxzaNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de Recuerdo de las Víctimas de la Esclavitud y la Trata Transatlántica de Esclavos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "11trvYrTUl0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Un millón de corales por Colombia, la mayor restauración de arrecifes oceánicos de América",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jz89ypr6XDM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jz89ypr6XDM"
         }
       }
     }
