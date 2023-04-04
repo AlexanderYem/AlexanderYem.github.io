@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Zanzibar Maisha Bora Foundation tuko imara na SDGs",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLO3OYXXsaA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aLO3OYXXsaA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mfuko wa Elimu haiwezi kusubiri kupanua uwekezaji nchini Colombia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5NaCmIDT-3A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sasa maji si machafu tena!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fzbLv4oVUN0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fzbLv4oVUN0"
         }
       }
     }
