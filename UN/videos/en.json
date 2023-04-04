@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan, Syria/Türkiye & other topics - Daily Press Briefing (4 April 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TAaY-5nTVpI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TAaY-5nTVpI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on the Programme of Work of the Security Council for April | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3o9eO3JKHFA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Elsie Initiative Fund for Uniformed Women in Peace Operations (EIF)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DyBKbfa4ie4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DyBKbfa4ie4"
         }
       }
     }
