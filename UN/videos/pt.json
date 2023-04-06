@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Saúde de 2023 - Benefícios de atividades físicas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZD4eyii4BnE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZD4eyii4BnE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente José Maria Neves quer diásporas investindo em Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kRasapeT364"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lusófonos servindo a ONU da “Pérola da África”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XOH09YlZVoI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XOH09YlZVoI"
         }
       }
     }
