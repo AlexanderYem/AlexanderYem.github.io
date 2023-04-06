@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Kukoma kwa hedhi kwaanza mapema!",
+        "title": "Fahamu Kukoma Hedhi na dalili zake?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_f_Exx0qnI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n_f_Exx0qnI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kulikoni jamani kukoma kwa hedhi kunaanza mapema?",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/X6KOPhMgopA/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WsE12meU0BM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Teknolojia inamkomboa mwanamke Kenya",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wREhML9tKP4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wREhML9tKP4"
         }
       }
     }
