@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "TANZBAT6 watoa msaada wa huduma ya maji kwa wananchi nchini CAR",
+        "title": "Kukoma kwa hedhi kwaanza mapema!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6KOPhMgopA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X6KOPhMgopA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "TANBAT6 watoa msaada wa huduma ya maji kwa wananchi huko  CAR",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/_7v38QMQjuo/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wREhML9tKP4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Majaribio ya chanjo ya Marburg kuanza Tanzania na Equatorial Guinea",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UNGBhV2Q0gQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UNGBhV2Q0gQ"
         }
       }
     }
