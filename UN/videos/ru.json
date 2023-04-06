@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН: Рамадан, Песах и Пасха – возможность объединить голоса в единой молитве за мир",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIiXTF33mYo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YIiXTF33mYo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Гендиректор МАГАТЭ – о ситуации вокруг Запорожской АЭС.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hGljkM2em0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Продление срока действия Черноморской инициативы по зерну",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FGFawaNJK58/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FGFawaNJK58"
         }
       }
     }
