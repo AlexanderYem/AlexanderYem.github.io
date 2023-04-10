@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique investe em políticas para enfrentar desastres, diz ministro Carlos Mesquita",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bXf6vXRbptM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bXf6vXRbptM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Saúde de 2023 - Benefícios de atividades físicas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vfIT-CkR6XQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Moçambique, Filipe Jacinto Nyusi, discursa no Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kRasapeT364/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kRasapeT364"
         }
       }
     }
