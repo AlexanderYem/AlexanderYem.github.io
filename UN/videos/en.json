@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Ukraine & other topics - Daily Press Briefing (10 April 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z6tixxzIPqI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Z6tixxzIPqI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan: \"Crisis centered [on] women & girls who are most vulnerable” - UN Press Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pltGWwoIEv8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Policy: Autistic perspectives on Policy and Advocacy (Part 4) | #WorldAutismAwarenessDay",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E8Znivn_tcI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E8Znivn_tcI"
         }
       }
     }
