@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Saratani yatibika, asema manusura",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UENbL_CWOOk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UENbL_CWOOk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nimejifunza watu wenye Down Syndrome wanaweza kuishi maisha ya kawaida wakijumuishwa – Elly Kitaly",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aLO3OYXXsaA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mfuko wa Elimu haiwezi kusubiri kupanua uwekezaji nchini Colombia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4ZTclyS59sM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4ZTclyS59sM"
         }
       }
     }
