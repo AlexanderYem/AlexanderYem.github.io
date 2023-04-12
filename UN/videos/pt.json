@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em viagem pela Somália, Guterres reforça apoio da ONU ao país",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0FAHwFMFdA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y0FAHwFMFdA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: secretário-geral na Somália, tráfico de drogas na África e turbulência financeira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "obllCBBcluY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique entre 11 países africanos com surtos de cólera",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6PDAN6aPQzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6PDAN6aPQzc"
         }
       }
     }

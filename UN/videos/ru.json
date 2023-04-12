@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Визит Генерального секретаря ООН в Сомали.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FZwfc0Kl4wA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FZwfc0Kl4wA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН: Рамадан, Песах и Пасха – возможность объединить голоса в единой молитве за мир",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vrycvr35UIY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "На конференцию ООН в Нью-Йорке «слетаются» бумажные колибри",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hGljkM2em0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hGljkM2em0g"
         }
       }
     }
