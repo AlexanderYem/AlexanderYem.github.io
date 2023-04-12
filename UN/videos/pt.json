@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: secretário-geral na Somália, tráfico de drogas na África e turbulência financeira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvrHgULZ8JY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yvrHgULZ8JY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique investe em políticas para enfrentar desastres, diz ministro Carlos Mesquita",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6PDAN6aPQzc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ação para promover resiliência hídrica em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vfIT-CkR6XQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vfIT-CkR6XQ"
         }
       }
     }
