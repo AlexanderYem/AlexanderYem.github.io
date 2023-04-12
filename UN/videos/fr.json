@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Visite de solidarité pour le ramadan : le chef de l'ONU appelle à l'aide à la Somalie",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2M5rCx04AU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f2M5rCx04AU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La mission en RDC (MONUSCO) se renforce face à la désinformation",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kMZoF87YkQI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Un an après l'invasion de grande envergure de l'Ukraine par la Russie",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kkNkluU-6GA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kkNkluU-6GA"
         }
       }
     }
