@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Dia Mundial da Doença de Chagas, OIT no Brasil e aquecimento global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iA-1G2nZhjo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iA-1G2nZhjo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em viagem pela Somália, Guterres reforça apoio da ONU ao país",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T1YK9FdTrbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Djamila Ribeiro fala à ONU News sobre conceitos e luta contra racismo no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/obllCBBcluY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "obllCBBcluY"
         }
       }
     }
