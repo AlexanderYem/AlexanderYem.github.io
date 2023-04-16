@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assista à íntegra da entrevista exclusiva do general da Monusco",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3IG4ox80v4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n3IG4ox80v4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Dia Mundial da Doença de Chagas, OIT no Brasil e aquecimento global",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6riOQ0-JqkE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Segurança hídrica e resposta à seca em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T1YK9FdTrbE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T1YK9FdTrbE"
         }
       }
     }
