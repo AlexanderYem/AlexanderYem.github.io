@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of Reflection on the Tutsi Genocide in Rwanda in 1994",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MYJSFZP_en0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MYJSFZP_en0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Antonio Guterres (UN Secretary General) on Sudan - Forum on Financing for Development",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C2CS-HSNzjk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Somalia, Afghanistan, Sudan & other topics - Daily Press Briefing (11 April 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iWR3X7N-G30/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iWR3X7N-G30"
         }
       }
     }
