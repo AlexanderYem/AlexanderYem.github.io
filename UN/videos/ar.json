@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يجدد إدانة اندلاع القتال في السودان: الوضع الإنساني أصبح كارثيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d7J-qYsksDg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d7J-qYsksDg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "وزير المياه الموريتاني: حققنا نجاحا في تقاسم مياه نهر السنغال ونعمل على توفير المياه لكافة مواطنينا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DI6msLWw844"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "د. كلودين عون رئيسة الهيئة الوطنية لشؤون المرأة اللبنانية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8zvTLK_oW6U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8zvTLK_oW6U"
         }
       }
     }
