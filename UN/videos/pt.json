@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal no Fórum sobre Financiamento para o Desenvolvimento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mznZ4erAR3o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mznZ4erAR3o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil participa de Fórum Permanente sobre Questões Indígenas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AT9JNGK0p-g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Moçambique fala em exclusivo à ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cBwr_auv7wI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cBwr_auv7wI"
         }
       }
     }

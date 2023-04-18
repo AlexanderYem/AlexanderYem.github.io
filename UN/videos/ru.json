@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Доклад ООН по народонаселени: пять фактов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4q2m6RD1FkA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4q2m6RD1FkA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Визит Генерального секретаря ООН в Сомали.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T9nm8oIoc-c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генсека ООН по случаю начала Рамадана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vrycvr35UIY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vrycvr35UIY"
         }
       }
     }
