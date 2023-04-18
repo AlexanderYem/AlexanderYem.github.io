@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil participa de Fórum Permanente sobre Questões Indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGSsjzJ3zoE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yGSsjzJ3zoE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Os povos indígenas são os maiores guardiões do planeta e da floresta, diz ministra Sonia Guajajara",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cBwr_auv7wI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Prevenir o terrorismo em Moçambique a partir da sala de aula",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b7DpDFrbwcA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b7DpDFrbwcA"
         }
       }
     }
