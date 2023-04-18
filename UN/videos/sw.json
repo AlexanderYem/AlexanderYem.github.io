@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sambaza mawazo mazuri!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NxXELWc8YY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-NxXELWc8YY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mai-Ndombe sasa kijani!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b92Kd4H2Mk4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Msafiri kafiri! Heko UNHCR kunusuru!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aVDp5OFR4Ok/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aVDp5OFR4Ok"
         }
       }
     }
