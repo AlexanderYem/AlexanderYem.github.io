@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2EbRkUDJcEU/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2EbRkUDJcEU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Russian foreign minister Lavrov’s upcoming visit to New York - Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MYJSFZP_en0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Antonio Guterres (UN Secretary General) on Sudan - Forum on Financing for Development",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q7s-tOv38d0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q7s-tOv38d0"
         }
       }
     }
