@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sônia Guajajara fala à ONU News sobre crise no território yanomami",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kci5u_9fL-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kci5u_9fL-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Relatório de População da ONU: 5 fatos importantes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y0FAHwFMFdA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: secretário-geral na Somália, tráfico de drogas na África e turbulência financeira",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yvrHgULZ8JY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yvrHgULZ8JY"
         }
       }
     }
