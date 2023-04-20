@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "Sudan: \"The fighting must stop immediately!\" - UN Chief Media Stakeout (20 April 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ltljvp_T_cE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ltljvp_T_cE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/2EbRkUDJcEU/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/2EbRkUDJcEU/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xnjE4UJQJ3Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of Reflection on the Tutsi Genocide in Rwanda in 1994",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MYJSFZP_en0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MYJSFZP_en0"
         }
       }
     }

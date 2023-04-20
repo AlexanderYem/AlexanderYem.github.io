@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Especialista do Unicef comenta queda da vacinação no Brasil e em Angola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G8q7PfhZaxo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G8q7PfhZaxo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sônia Guajajara fala à ONU News sobre crise no território yanomami",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iA-1G2nZhjo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em viagem pela Somália, Guterres reforça apoio da ONU ao país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y0FAHwFMFdA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y0FAHwFMFdA"
         }
       }
     }
