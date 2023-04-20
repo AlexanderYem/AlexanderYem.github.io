@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vice-diretor da Biomanguinhos/Fiocruz fala sobre compartilhamento de tecnologia para vacinas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8r-hrtxOFw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R8r-hrtxOFw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Especialista do Unicef comenta queda da vacinação no Brasil e em Angola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "n3IG4ox80v4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Dia Mundial da Doença de Chagas, OIT no Brasil e aquecimento global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iA-1G2nZhjo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iA-1G2nZhjo"
         }
       }
     }
