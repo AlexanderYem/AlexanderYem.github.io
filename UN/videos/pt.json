@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Mãe Terra",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEBQ_Hhy_s8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TEBQ_Hhy_s8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vice-diretor da Biomanguinhos/Fiocruz fala sobre compartilhamento de tecnologia para vacinas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8BIjubtSO_g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assista à íntegra da entrevista exclusiva do general da Monusco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n3IG4ox80v4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n3IG4ox80v4"
         }
       }
     }
