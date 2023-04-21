@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COVID-19 imeonesha thamani ya kila mtu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/A-BtnLiP1g8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "A-BtnLiP1g8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chanjo kwa watoto yaenda mrama, kulikoni?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8eeSxsMWi24"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanangu katu sitowasahau!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ten20hHeK4I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ten20hHeK4I"
         }
       }
     }
