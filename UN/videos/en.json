@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mother Earth Day 2023 - UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/14OMv-FgQ9o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "14OMv-FgQ9o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan: Humanitarian situation - Press Conference (20 April 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZOPzIC3LKac"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Joint Stakeout on the DPRK's latest ICBM launch - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UFUz4BESTWg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UFUz4BESTWg"
         }
       }
     }
