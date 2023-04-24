@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de Reflexión sobre el Genocidio de 1994 contra los Tutsis en Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5zHON-12EI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c5zHON-12EI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de la Madre Tierra",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hnDwC2Qruk4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Tengo derecho\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3h8923aQtSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3h8923aQtSg"
         }
       }
     }
