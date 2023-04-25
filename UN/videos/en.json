@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Youth Forum 2023 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCFma9xcKhg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fCFma9xcKhg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "'Young people, our world needs you more than ever' - UN Chief at the 2023 ECOSOC Youth Forum",
         "thumbnails": {
           "high": {
@@ -88,19 +101,6 @@
         },
         "resourceId": {
           "videoId": "6j6q3SIqoZo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Youth Forum 2023 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fCFma9xcKhg/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fCFma9xcKhg"
         }
       }
     },
