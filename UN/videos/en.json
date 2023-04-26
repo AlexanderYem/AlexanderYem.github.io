@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti, Sudan, South Sudan & other topics - Daily Press Briefing (26 April 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqf2TlF0KmM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqf2TlF0KmM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Ситуация с зерновой сделкой заведена в тупик\" - Министр иностранных дел России",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dgIPK_SCuhE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on Ukraine and detained journalists - Media Stakeout (24 April 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6j6q3SIqoZo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6j6q3SIqoZo"
         }
       }
     }
