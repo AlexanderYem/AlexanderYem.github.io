@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comunidades e ecossistemas de montanha podem ser beneficiados pelo turismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tkW-JSA6t74/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tkW-JSA6t74"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em Dia Internacional, ONU promove meninas na ciência e inovação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DDcYlkAMFzE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relatório Estado da População Mundial 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/o5UmIM-TjDg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "o5UmIM-TjDg"
         }
       }
     }
