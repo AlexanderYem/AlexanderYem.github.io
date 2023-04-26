@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Ситуация с зерновой сделкой заведена в тупик\" - Министр иностранных дел России",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsVkZDWM1fQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qsVkZDWM1fQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SDG Progress Report & other topics - Daily Press Briefing (25 April 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6j6q3SIqoZo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan, Haiti, Multilateralism & other topics - Daily Press Briefing (24 April 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nMJrKN7soLE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nMJrKN7soLE"
         }
       }
     }
