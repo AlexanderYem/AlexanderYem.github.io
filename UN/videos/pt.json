@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal no Fórum da Juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwptheFOWy4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zwptheFOWy4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comunidades e ecossistemas de montanha podem ser beneficiados pelo turismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SPHJ-zkpQIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Diretora do Unfpa em Genebra fala à ONU News sobre novas dinâmicas populacionais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DDcYlkAMFzE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DDcYlkAMFzE"
         }
       }
     }
