@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Em Dia Internacional, ONU promove meninas na ciência e inovação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlbgHD8gcH8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PlbgHD8gcH8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Chefe de Saúde e Nutrição do Unicef em Angola fala à ONU News sobre vacinação infantil no país",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7tKfKndDbE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x7tKfKndDbE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Enviado especial da ONU a Moçambique diz que país faz avanços rumo à estabilização",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "o5UmIM-TjDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal no Fórum sobre Financiamento para o Desenvolvimento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mznZ4erAR3o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mznZ4erAR3o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil participa de Fórum Permanente sobre Questões Indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yGSsjzJ3zoE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yGSsjzJ3zoE"
         }
       }
     }
