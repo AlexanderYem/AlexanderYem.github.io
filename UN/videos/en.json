@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief remarks at the Security Council on Sudan and South Sudan | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeexmQ1yOeI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oeexmQ1yOeI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti: 'gang violence is expanding at an alarming rate' - Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -67,7 +80,7 @@
     },
     {
       "snippet": {
-        "title": "\"Ситуация с зерновой сделкой заведена в тупик\" - Министр иностранных дел России",
+        "title": "Black Sea Grain Initiative - Russia Presser | United Nations (Министр иностранных дел России)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/qsVkZDWM1fQ/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fCFma9xcKhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Young people, our world needs you more than ever' - UN Chief at the 2023 ECOSOC Youth Forum",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yHGtDjh4zFo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yHGtDjh4zFo"
         }
       }
     }
