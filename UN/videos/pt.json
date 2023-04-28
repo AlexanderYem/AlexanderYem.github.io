@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovens devem se levantar contra mudanças climáticas e participar do debate ambiental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BgWwQ0WPpMk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BgWwQ0WPpMk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Na ONU, jovens brasileiros citam violência e mudança climática como grandes desafios",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4OlE4odUjuE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4OlE4odUjuE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Diretor-Executivo do Grupo Nacional Chega fala sobre lições de Timor Leste com Justiça de Transição",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "R8r-hrtxOFw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especialista do Unicef comenta queda da vacinação no Brasil e em Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/G8q7PfhZaxo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "G8q7PfhZaxo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sônia Guajajara fala à ONU News sobre crise no território yanomami",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kci5u_9fL-o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kci5u_9fL-o"
         }
       }
     }
