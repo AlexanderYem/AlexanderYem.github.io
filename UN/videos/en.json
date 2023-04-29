@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "World Press Freedom Day 2023 - UN Chief Message | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IcZmsV3aRwE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IcZmsV3aRwE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan/Humanitarian Situation, South Sudan & other topics -Daily Press Briefing (28 April 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wqf2TlF0KmM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Black Sea Grain Initiative - Russia Presser | United Nations (Министр иностранных дел России)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qsVkZDWM1fQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qsVkZDWM1fQ"
         }
       }
     }
