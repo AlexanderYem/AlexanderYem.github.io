@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Jazz Day – A Jazz Journey around the World",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHnLGGizT5Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZHnLGGizT5Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Earth Day with NASA Chief Scientist - Benefits of Space Exploration | #podcast",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nY3cIYWkk3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Jazz Day – A Jazz Journey around the World",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZHnLGGizT5Y/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZHnLGGizT5Y"
         }
       }
     }
