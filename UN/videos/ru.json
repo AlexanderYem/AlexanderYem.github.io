@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Всемирный день свободы печати. Видеопослание Генсека ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DlSzzMYHbBw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DlSzzMYHbBw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Доклад ООН по народонаселению: пять фактов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RVrx2xzZ5m0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Доклад ООН об изменении климата: пять фактов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T9nm8oIoc-c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T9nm8oIoc-c"
         }
       }
     }
