@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Msafiri kafiri!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OONtw4MpvI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3OONtw4MpvI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwambata jeshi wa Tanzania nchini CAR asifu utimamu wa wanajeshi wa Tanzania",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eFjdI0TBW14"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Silaha kando kwa muda, tunachunguza afya!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KfWShfxa1bI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KfWShfxa1bI"
         }
       }
     }
