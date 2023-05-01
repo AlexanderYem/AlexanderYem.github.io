@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovem líder brasileira dos ODS diz que revolução digitial deve incluir todos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_SAdHWCYUQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B_SAdHWCYUQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens devem se levantar contra mudanças climáticas e participar do debate ambiental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x7tKfKndDbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Enviado especial da ONU a Moçambique diz que país faz avanços rumo à estabilização",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IyFG-zDwxPs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IyFG-zDwxPs"
         }
       }
     }
