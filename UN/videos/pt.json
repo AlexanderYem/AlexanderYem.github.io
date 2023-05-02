@@ -15,7 +15,7 @@
     },
     {
       "snippet": {
-        "title": "Felipe Neto fala sobre combate a fake news na Assembleia Geral da ONU",
+        "title": "Felipe Neto fala sobre combate a fake news e discurso de ódio na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/mRz2F0zrC4Q/hqdefault.jpg"
@@ -23,6 +23,19 @@
         },
         "resourceId": {
           "videoId": "mRz2F0zrC4Q"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Cplp enfatiza paz e “boa convivência” no Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYjOGfpDYoY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jYjOGfpDYoY"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zwptheFOWy4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comunidades e ecossistemas de montanha podem ser beneficiados pelo turismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tkW-JSA6t74/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tkW-JSA6t74"
         }
       }
     }
