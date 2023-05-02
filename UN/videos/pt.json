@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Cultura é destaque para Portugal  na celebração do Dia Mundial da Língua",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9hvtNxL-c58/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9hvtNxL-c58"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Felipe Neto fala sobre combate a fake news na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRz2F0zrC4Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mRz2F0zrC4Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovem líder brasileira dos ODS diz que revolução digitial deve incluir todos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "tkW-JSA6t74"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em Dia Internacional, ONU promove meninas na ciência e inovação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PlbgHD8gcH8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PlbgHD8gcH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe de Saúde e Nutrição do Unicef em Angola fala à ONU News sobre vacinação infantil no país",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x7tKfKndDbE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x7tKfKndDbE"
         }
       }
     }
