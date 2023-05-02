@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Griffiths uso kwa uso na Rais Ruto! Kulikoni?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/A1KYs4zNBNM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "A1KYs4zNBNM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Msafiri kafiri!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A-BtnLiP1g8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chanjo kwa watoto yaenda mrama, kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eFjdI0TBW14/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eFjdI0TBW14"
         }
       }
     }
