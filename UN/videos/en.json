@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNESCO: World Press Freedom Day (2 May 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/43yFlsNAYZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "43yFlsNAYZI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chief Executives Board, Climate, Sudan & other topics - Daily Press Briefing (2 May 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IcZmsV3aRwE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan/Humanitarian Situation, South Sudan & other topics -Daily Press Briefing (28 April 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CgBIfutZTEE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CgBIfutZTEE"
         }
       }
     }
