@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Amani inaanza na mimi!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAgrKsq7I3Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sAgrKsq7I3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Griffiths uso kwa uso na Rais Ruto! Kulikoni?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LtAzQGUuUaQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COVID-19 imeonesha thamani ya kila mtu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A-BtnLiP1g8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A-BtnLiP1g8"
         }
       }
     }
