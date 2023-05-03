@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tunaandika habari licha ya mapigano hapa DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RjLkvFYn4fg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RjLkvFYn4fg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Susan Auma Mang'eni azungumza na UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OrSy3pFCGWo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malaria yatesa watoto!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FQV_Df1pfO4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FQV_Df1pfO4"
         }
       }
     }
