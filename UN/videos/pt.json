@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário-geral da ONU divulga mensagem sobre Dia Mundial da Liberdade de Imprensa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mnxzGA7PctM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mnxzGA7PctM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cultura é destaque para Portugal  na celebração do Dia Mundial da Língua",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gGtKHtsP8kQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal no Fórum da Juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zwptheFOWy4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zwptheFOWy4"
         }
       }
     }
