@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "“A função da língua é se fazer entender”, diz influenciador digital Felipe Neto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mkq9aQRIsuc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mkq9aQRIsuc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Advogadas brasileiras comentam desafios legais e avanços na representatividade de povos indígenas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YJrP4EVtN_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YJrP4EVtN_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU divulga mensagem sobre Dia Mundial da Liberdade de Imprensa",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "UTCVmC3mJk4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Timor-Leste: Diretor-executivo do Grupo Nacional Chega! fala sobre justiça de transição",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/itr7lRnmJ0E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "itr7lRnmJ0E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional do Jazz exalta força de expressão, criatividade e veículo de paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gGtKHtsP8kQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gGtKHtsP8kQ"
         }
       }
     }
