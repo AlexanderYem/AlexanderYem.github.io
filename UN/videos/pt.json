@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "“A língua portuguesa representa a riqueza da diversidade”, diz António Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cIdCyhbTaRs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cIdCyhbTaRs"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Cabo Verde e Dia Mundial da Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "B_SAdHWCYUQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Jovens devem se levantar contra mudanças climáticas e participar do debate ambiental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BgWwQ0WPpMk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BgWwQ0WPpMk"
         }
       }
     }
