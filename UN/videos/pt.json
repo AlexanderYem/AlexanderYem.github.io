@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde e Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLluzoS71ZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TLluzoS71ZI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Para Guterres, língua portuguesa é promotora de entendimentos e de conciliação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oF11BAkL14U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oF11BAkL14U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“A função da língua é se fazer entender”, diz influenciador digital Felipe Neto",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "BgWwQ0WPpMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, jovens brasileiros citam violência e mudança climática como grandes desafios",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4OlE4odUjuE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4OlE4odUjuE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Adesão da Guiné-Bissau à Convenção de Aarhus",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UTCVmC3mJk4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UTCVmC3mJk4"
         }
       }
     }
