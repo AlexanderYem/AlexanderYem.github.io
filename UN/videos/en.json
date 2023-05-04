@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Human Rights is the best antidote to the inequalities, unaddressed grievances and exclusion\" -OHCHR",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nX1hNm3uu4o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nX1hNm3uu4o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Innovations to secure our shared future | United Nations #sdgs",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-3sA4tXle0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Jazz Day – A Jazz Journey around the World",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZHnLGGizT5Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZHnLGGizT5Y"
         }
       }
     }
