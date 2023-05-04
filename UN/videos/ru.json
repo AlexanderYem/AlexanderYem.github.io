@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День Весак, День полнолуния",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/22gpdr5LOr8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "22gpdr5LOr8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Всемирный день свободы печати. Видеопослание Генсека ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7aO6pLlXzOQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ЮНКТАД - о состоянии мировой торговли",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RVrx2xzZ5m0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RVrx2xzZ5m0"
         }
       }
     }
