@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Entenda como o índice global de alimentos influencia a conta do supermercado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oDcdiKpdqWs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oDcdiKpdqWs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9B99_xGUQ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x9B99_xGUQ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "mnxzGA7PctM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cultura é destaque para Portugal  na celebração do Dia Mundial da Língua",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9hvtNxL-c58/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9hvtNxL-c58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Felipe Neto fala sobre combate a fake news e discurso de ódio na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mRz2F0zrC4Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mRz2F0zrC4Q"
         }
       }
     }
