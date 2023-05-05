@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsVPUGHrVFY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TsVPUGHrVFY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News: Dia Mundial da Língua Portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mRz2F0zrC4Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cplp enfatiza paz e “boa convivência” no Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jYjOGfpDYoY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jYjOGfpDYoY"
         }
       }
     }

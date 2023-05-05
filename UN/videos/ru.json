@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Заместительная терапия наркозависимости в тюрьмах Молдовы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ox6J-aQOIVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ox6J-aQOIVo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День Весак, День полнолуния",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jMEMHAUXtaI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью с министром экологии Казахстана",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7aO6pLlXzOQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7aO6pLlXzOQ"
         }
       }
     }
