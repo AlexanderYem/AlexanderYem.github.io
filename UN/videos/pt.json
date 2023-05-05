@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News: Dia Mundial da Língua Portuguesa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ou3CgOJu6bQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ou3CgOJu6bQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“A língua portuguesa representa a riqueza da diversidade”, diz António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jYjOGfpDYoY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovem líder brasileira dos ODS diz que revolução digitial deve incluir todos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B_SAdHWCYUQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B_SAdHWCYUQ"
         }
       }
     }
