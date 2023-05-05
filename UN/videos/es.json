@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día de Vesak",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cCf4TZiAU0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5cCf4TZiAU0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de la Libertad de Prensa: No más ataques contra la verdad y quienes la proclaman",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I6CACLLQjGo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Por un 2023 de paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sy4v-6UB-7k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Sy4v-6UB-7k"
         }
       }
     }
