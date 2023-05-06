@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "UN Chief on Burundi - Press Encounter in Bujumbura, Burundi",
+        "title": "Ukraine: Consequences of war are grave, endangering peace and stability globally | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f0KaMSSuxyo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f0KaMSSuxyo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Chief on Burundi - Press Encounter in Bujumbura | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/2TY-D5Y1VrI/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dD51uK8dnT4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNESCO: World Press Freedom Day (2 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/43yFlsNAYZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "43yFlsNAYZI"
         }
       }
     }
