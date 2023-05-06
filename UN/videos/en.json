@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Burundi - Press Encounter in Bujumbura, Burundi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2TY-D5Y1VrI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2TY-D5Y1VrI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Burundi, Spain, Afghanistan & other topics - Daily Press Briefing (5 May 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "43yFlsNAYZI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chief Executives Board, Climate, Sudan & other topics - Daily Press Briefing (2 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JHmcNj3HHd8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JHmcNj3HHd8"
         }
       }
     }
