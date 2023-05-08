@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Análise sobre o comércio e o meio ambiente da UNCTAD 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0bfyP2fHlM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m0bfyP2fHlM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entenda como o índice global de alimentos influencia a conta do supermercado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YJrP4EVtN_o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU divulga mensagem sobre Dia Mundial da Liberdade de Imprensa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mnxzGA7PctM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mnxzGA7PctM"
         }
       }
     }
