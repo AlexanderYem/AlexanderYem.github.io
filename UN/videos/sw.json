@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kiswahili chafundishwa kwa lugha za asili",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lEcLU2LdMFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lEcLU2LdMFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kila mtu lazima ajumuishwe hata watumia mihadarati:UNAIDS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A1KYs4zNBNM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Msafiri kafiri!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3OONtw4MpvI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3OONtw4MpvI"
         }
       }
     }
