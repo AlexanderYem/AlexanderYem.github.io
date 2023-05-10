@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ninachotaka sasa matandiko tu!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xgmZPXd2kA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3xgmZPXd2kA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tunatumia lugha za asili barani Afrika kufundisha Kiswahili - Prof. Mutembei",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RjLkvFYn4fg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Susan Auma Mang'eni azungumza na UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BL472vaZpJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BL472vaZpJc"
         }
       }
     }
