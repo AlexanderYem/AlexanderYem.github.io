@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bastidores Podcast ONU News com Felipe Neto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwTz_8GBhVI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LwTz_8GBhVI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretária Ethel Maciel comenta expectativas do Brasil para Reunião de Alto Nível sobre Tuberculose",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cIdCyhbTaRs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde e Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TLluzoS71ZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TLluzoS71ZI"
         }
       }
     }
