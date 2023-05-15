@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tupande sisi wavune wao? - Tsinduka",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bDlkiJQs8L4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bDlkiJQs8L4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Walinda amani wa UN kutoka Tanzania wapokea pongezi kutoka JWTZ na MINUSCA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lEcLU2LdMFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kila mtu lazima ajumuishwe hata watumia mihadarati:UNAIDS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CSTkMP8HUKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CSTkMP8HUKE"
         }
       }
     }
