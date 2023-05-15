@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU reforça apelo para paz no Sudão e renova compromisso com sudaneses",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/anEHg2setWo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "anEHg2setWo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Felipe Neto fala ao Podcast ONU News sobre futuro da era digital, jovens e regulação da internet",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TsVPUGHrVFY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News: Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ou3CgOJu6bQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ou3CgOJu6bQ"
         }
       }
     }
