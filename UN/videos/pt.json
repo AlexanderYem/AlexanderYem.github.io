@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ciclone Mocha em Mianmar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hkuThrJiXaE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hkuThrJiXaE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU reforça apelo para paz no Sudão e renova compromisso com sudaneses",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x9B99_xGUQ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TsVPUGHrVFY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TsVPUGHrVFY"
         }
       }
     }
