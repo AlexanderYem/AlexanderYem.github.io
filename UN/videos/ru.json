@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Анна Зайцева провела 65 дней в бомбоубежище «Азовстали»",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qAZU5pxUDrU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qAZU5pxUDrU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Заместительная терапия наркозависимости в тюрьмах Молдовы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YkBYGg6tuF4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Берегите воду!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jMEMHAUXtaI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jMEMHAUXtaI"
         }
       }
     }
