@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil  defende esforços para resguardar e restaurar florestas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/piKrxi2sqF4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "piKrxi2sqF4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ciclone Mocha em Mianmar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oDcdiKpdqWs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Língua Portuguesa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x9B99_xGUQ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x9B99_xGUQ8"
         }
       }
     }
