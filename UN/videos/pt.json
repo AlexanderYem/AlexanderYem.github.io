@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Apoios por uma floresta bem manejada no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/65laiFfV3b0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "65laiFfV3b0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil  defende esforços para resguardar e restaurar florestas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m0bfyP2fHlM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entenda como o índice global de alimentos influencia a conta do supermercado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oDcdiKpdqWs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oDcdiKpdqWs"
         }
       }
     }
