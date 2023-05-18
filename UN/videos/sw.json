@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Ufugaji nyuki umetuheshimisha wanawake wa kimasai",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1o4mLhblj4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E1o4mLhblj4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Tunarina sasa kama wanaume - Wanawake wamasai",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HnzsMNOC_uE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HnzsMNOC_uE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tulikotoka ni 'moto' na huku ni 'moto', tusaidieni!",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "CmHcB1WXzq4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ninachotaka sasa matandiko tu!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3xgmZPXd2kA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3xgmZPXd2kA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tunatumia lugha za asili barani Afrika kufundisha Kiswahili - Prof. Mutembei",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/48GXDDDjLDg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "48GXDDDjLDg"
         }
       }
     }
