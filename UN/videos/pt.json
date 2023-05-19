@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Influenciadora Camila Coutinho fala sobre felicidade e sucesso",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIISkUw8lhw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DIISkUw8lhw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Apoios por uma floresta bem manejada no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hnfxrJEPP-Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Análise sobre o comércio e o meio ambiente da UNCTAD 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m0bfyP2fHlM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m0bfyP2fHlM"
         }
       }
     }
