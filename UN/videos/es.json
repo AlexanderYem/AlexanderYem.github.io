@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Diversidad Biológica",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E65nAfYSHwo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E65nAfYSHwo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día de Vesak",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9Pi3w8Fn1_A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Debemos aumentar la representación de las mujeres y las niñas en la ciencia y la tecnología",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I6CACLLQjGo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I6CACLLQjGo"
         }
       }
     }
