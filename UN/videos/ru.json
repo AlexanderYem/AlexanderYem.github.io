@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день биоразнообразия. Послание Генсека ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzYcr0KlNJU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fzYcr0KlNJU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Анна Зайцева провела 65 дней в бомбоубежище «Азовстали»",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TxXy-3niCMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Орландо Блум в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YkBYGg6tuF4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YkBYGg6tuF4"
         }
       }
     }
