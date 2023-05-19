@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tunawapatia dola milioni 3!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KWxptWh30IQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KWxptWh30IQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malawi hali si shwari kwa watoto na watu wazima pia!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pmbeQwtQBoc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Amani inaanza Na Mimi: Miaka 75 ya Ulinzi wa Amani wa UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3nvODUJKNyg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3nvODUJKNyg"
         }
       }
     }
