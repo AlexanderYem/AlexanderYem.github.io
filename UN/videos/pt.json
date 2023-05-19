@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista: Patricia Gaspar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NhO8I1qRefA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NhO8I1qRefA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Influenciadora Camila Coutinho fala sobre felicidade e sucesso",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6ViFF2RH20o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Banco Mundial propõe novo modelo de desenvolvimento para a Amazônia Legal brasileira",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hnfxrJEPP-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hnfxrJEPP-Q"
         }
       }
     }
