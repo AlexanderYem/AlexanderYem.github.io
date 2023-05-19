@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Biodiversidade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rmiZEEYQsRk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rmiZEEYQsRk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista: Patricia Gaspar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AOyFcOrgv-w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Representante do Unfpa em Timor-Leste conversa com a ONU News sobre violência contra a mulher.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6ViFF2RH20o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6ViFF2RH20o"
         }
       }
     }
