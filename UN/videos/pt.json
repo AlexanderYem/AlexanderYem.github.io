@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU, António Guterres, no Encontro do G7, no Japão (em inglês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RTqZLAcyToc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RTqZLAcyToc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Biodiversidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LwTz_8GBhVI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretária Ethel Maciel comenta expectativas do Brasil para Reunião de Alto Nível sobre Tuberculose",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AOyFcOrgv-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AOyFcOrgv-w"
         }
       }
     }
