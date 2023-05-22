@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день миротворцев ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SIiq_-0wDrk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SIiq_-0wDrk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день биоразнообразия. Послание Генсека ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mZtRzS_213g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Движение за нулевые отходы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TxXy-3niCMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TxXy-3niCMs"
         }
       }
     }
