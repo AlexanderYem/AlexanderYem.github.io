@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Помощь ФАО фермерам Украины",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nRvTSnmXFqA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nRvTSnmXFqA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день миротворцев ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YIiXTF33mYo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Гендиректор МАГАТЭ – о ситуации вокруг Запорожской АЭС.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mZtRzS_213g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mZtRzS_213g"
         }
       }
     }
