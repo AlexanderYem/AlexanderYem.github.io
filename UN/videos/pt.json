@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Município brasileiro defende “visão integrada” na prevenção de desastres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VTXvrI_C_aA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VTXvrI_C_aA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral da ONU, António Guterres, no Encontro do G7, no Japão (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "byEbTtpTwp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bastidores Podcast ONU News com Felipe Neto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LwTz_8GBhVI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LwTz_8GBhVI"
         }
       }
     }
