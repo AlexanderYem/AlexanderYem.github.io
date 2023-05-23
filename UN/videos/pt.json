@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Moçambique Filipe Nyusi fala à ONU News durante visita a Nova Iorque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DU683kFcNIw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DU683kFcNIw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministro das Relações Exteriores do Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hkuThrJiXaE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU reforça apelo para paz no Sudão e renova compromisso com sudaneses",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gfGM36qH0Ds/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gfGM36qH0Ds"
         }
       }
     }
