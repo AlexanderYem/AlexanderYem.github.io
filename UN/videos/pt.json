@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Haiti: Brasil vê \"momento de se discutir e se chegar uma solução\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O_PQgNYd1Yw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O_PQgNYd1Yw"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Presidente de Moçambique Filipe Nyusi fala à ONU News durante visita a Nova Iorque",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "piKrxi2sqF4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ciclone Mocha em Mianmar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hkuThrJiXaE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hkuThrJiXaE"
         }
       }
     }
