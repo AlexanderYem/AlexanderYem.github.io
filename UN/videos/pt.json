@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministro das Chefe das Relações Exteriores do Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUOLMpLo6RU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hUOLMpLo6RU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Município brasileiro defende “visão integrada” na prevenção de desastres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gfGM36qH0Ds"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Felipe Neto fala ao Podcast ONU News sobre futuro da era digital, jovens e regulação da internet",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/byEbTtpTwp4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "byEbTtpTwp4"
         }
       }
     }

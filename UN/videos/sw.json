@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "CCBRT yarejesha nuru kwa wagonjwa wa fistula",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iu8m6ZGoj-g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iu8m6ZGoj-g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LHtvC_IM9Ig"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tupande sisi wavune wao? - Tsinduka",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bDlkiJQs8L4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bDlkiJQs8L4"
         }
       }
     }
