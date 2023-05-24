@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Switzerland on the Protection of Civilians in Armed Conflict - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fh4TB3dvMg4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fh4TB3dvMg4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pledging Event, Africa Dialogue, Middle East & other topics - Daily Press Briefing (24 May 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WjT_9iti5Is"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNICEF Afghanistan Representative on the situation in the country - Press Conference (18 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i29XasvswN0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i29XasvswN0"
         }
       }
     }
