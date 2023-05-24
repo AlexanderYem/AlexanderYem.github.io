@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bastidores Kobra Podcast ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4v8C78qrD80/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4v8C78qrD80"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil reitera apoio ao Haiti e preparação para acolher COP-30",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DIISkUw8lhw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apoios por uma floresta bem manejada no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/65laiFfV3b0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "65laiFfV3b0"
         }
       }
     }
