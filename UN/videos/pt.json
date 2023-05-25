@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Quero ajudar a melhorar o mundo\", dizem capacetes azuis de Portugal em missão da ONU na África",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_MrDH2wK5eM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_MrDH2wK5eM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bastidores Kobra Podcast ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NhO8I1qRefA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Influenciadora Camila Coutinho fala sobre felicidade e sucesso",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DIISkUw8lhw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DIISkUw8lhw"
         }
       }
     }
