@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Представительница Ганы из числа «голубых касок» удостоена высокой награды ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LEv1rrUm8lc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LEv1rrUm8lc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Помощь ФАО фермерам Украины",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FZwfc0Kl4wA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН: Рамадан, Песах и Пасха – возможность объединить голоса в единой молитве за мир",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YIiXTF33mYo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YIiXTF33mYo"
         }
       }
     }
