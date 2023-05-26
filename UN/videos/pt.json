@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Podcast ONU News - Eduardo Kobra",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjXeWY5sr-U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cjXeWY5sr-U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Quero ajudar a melhorar o mundo\", dizem capacetes azuis de Portugal em missão da ONU na África",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rmiZEEYQsRk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista: Patricia Gaspar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NhO8I1qRefA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NhO8I1qRefA"
         }
       }
     }
