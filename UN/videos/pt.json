@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Boinas-Azuis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5tn9DVm1Nw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k5tn9DVm1Nw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Podcast ONU News - Eduardo Kobra",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RTqZLAcyToc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Biodiversidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rmiZEEYQsRk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rmiZEEYQsRk"
         }
       }
     }
