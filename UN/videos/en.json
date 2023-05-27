@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'Let us work together toward the Africa we want,  the Africa that Africans merit\" - UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/12O3LRveb9o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "12O3LRveb9o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine, Sudan, Central African Republic & other topics - Daily Press Briefing (26 May 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6HjgfZN04mU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sustainable Development Goals Roundtable w/ Justin Trudeau | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cs0GatOI_ys/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cs0GatOI_ys"
         }
       }
     }
