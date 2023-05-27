@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasileiros treinam milhares de boinas-azuis em técnicas de selva na África",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jh0_DmWXjQQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jh0_DmWXjQQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"A Paz Começa Comigo\" - Campanha da ONU marca 75 anos de Operações de Paz no mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hUOLMpLo6RU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Município brasileiro defende “visão integrada” na prevenção de desastres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VTXvrI_C_aA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VTXvrI_C_aA"
         }
       }
     }
