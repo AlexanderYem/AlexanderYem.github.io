@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"A Paz Começa Comigo\" - Campanha da ONU marca 75 anos de Operações de Paz no mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iS_VYEKsoCA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iS_VYEKsoCA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional dos Boinas-Azuis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VTXvrI_C_aA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem do secretário-geral da ONU, António Guterres, no Encontro do G7, no Japão (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RTqZLAcyToc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RTqZLAcyToc"
         }
       }
     }
