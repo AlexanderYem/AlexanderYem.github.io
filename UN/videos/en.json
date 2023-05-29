@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day of UN Peacekeepers: \"Our teams of Blue Helmets represent hope\" - UN Chief message",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0UIMiL52hU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i0UIMiL52hU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of United Nations Peacekeepers 2023 - Wreath laying Ceremony",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bspIa2gy80o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Last year, more than 117 million people faced acute hunger primarily because of war\" - UN Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RMhXR5oZwC0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RMhXR5oZwC0"
         }
       }
     }
