@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Boina-Azul relata orgulho de ser policial atuando no Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ic76uvuFVu8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ic76uvuFVu8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Boina-azul brasileira com “vontade ainda maior” de seguir luta pela paz, após Sudão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O_PQgNYd1Yw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Moçambique Filipe Nyusi fala à ONU News durante visita a Nova Iorque",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DU683kFcNIw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DU683kFcNIw"
         }
       }
     }
