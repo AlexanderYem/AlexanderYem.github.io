@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"A paz começa em comunidades e pessoas com quem a gente tem contacto”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZoLYPLf0efg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZoLYPLf0efg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Boina-Azul relata orgulho de ser policial atuando no Mali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4v8C78qrD80"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil reitera apoio ao Haiti e preparação para acolher COP-30",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x52MlXa5jiE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x52MlXa5jiE"
         }
       }
     }
