@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Peacekeeping Inside Out in Times Square",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f-qVRVl3IAo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f-qVRVl3IAo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "International Day of UN Peacekeepers: \"Our teams of Blue Helmets represent hope\" - UN Chief message",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fh4TB3dvMg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pledging Event, Africa Dialogue, Middle East & other topics - Daily Press Briefing (24 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bspIa2gy80o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bspIa2gy80o"
         }
       }
     }
