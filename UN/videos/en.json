@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Syria, Yemen & other topics - Daily Press Briefing (30 May 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CHOkSTaXbV4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CHOkSTaXbV4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Peacekeeping Inside Out in Times Square",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3FLJd-jqqnA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Switzerland on the Protection of Civilians in Armed Conflict - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fh4TB3dvMg4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fh4TB3dvMg4"
         }
       }
     }
