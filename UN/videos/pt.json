@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso: Ministra Anielle Franco na ONU (em inglês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fRRbKIny1jY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fRRbKIny1jY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"A paz começa em comunidades e pessoas com quem a gente tem contacto”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_MrDH2wK5eM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bastidores Kobra Podcast ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4v8C78qrD80/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4v8C78qrD80"
         }
       }
     }
