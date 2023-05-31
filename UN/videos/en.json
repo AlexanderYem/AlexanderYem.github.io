@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Special Envoy for Syria on the situation in the country - Security Council Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnvx8ZyOYQ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bnvx8ZyOYQ8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Switzerland & IAEA on Ukraine - Security Council Media Stakeout (30 May 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UcCRq2ukfMo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Peacekeepers Day & other topics - Daily Press Briefing (25 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5U74bVfPa5c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5U74bVfPa5c"
         }
       }
     }
