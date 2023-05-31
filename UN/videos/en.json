@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Switzerland on the situation in Sudan - Security Council Media Stakeout (31 May 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eHfif2NaQ3E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eHfif2NaQ3E"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Russia on the situation in Sudan - Security Council Media Stakeout (31 May 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ia3KrKQpKrU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ia3KrKQpKrU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Chief on the situation in Sudan - Security Council Media Stakeout (31 May 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GCSTWdZ677k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GCSTWdZ677k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Outer Space, former Yugoslavia, Sudan & other topics - Daily Press Briefing (31 May 2023)",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "CHOkSTaXbV4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Peacekeeping Inside Out in Times Square",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f-qVRVl3IAo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f-qVRVl3IAo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of UN Peacekeepers: \"Our teams of Blue Helmets represent hope\" - UN Chief message",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i0UIMiL52hU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i0UIMiL52hU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of United Nations Peacekeepers 2023 - Wreath laying Ceremony",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ehqRSa9drA8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ehqRSa9drA8"
         }
       }
     }
