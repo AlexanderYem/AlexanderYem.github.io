@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Terrorismo é combatível, diz novo enviado para a África Ocidental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubq_yvRmGQg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ubq_yvRmGQg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O dilema dos fumantes que atuam na área da saúde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ak19dCuYLLI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal espera \"cenário complexo\" no verão, diz ministra da Proteção Civil, Patricia Gaspar",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lRR7K8P-wHM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lRR7K8P-wHM"
         }
       }
     }
