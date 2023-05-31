@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Novo embaixador de Angola nas Nações Unidas inicia funções",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ja4FteEPkLU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ja4FteEPkLU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Terrorismo é combatível, diz novo enviado para a África Ocidental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k5tn9DVm1Nw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Podcast ONU News - Eduardo Kobra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ak19dCuYLLI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ak19dCuYLLI"
         }
       }
     }
