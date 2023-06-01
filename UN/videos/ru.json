@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генсека ООН по случаю Всемирного дня окружающей среды",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KkOvYgZJkeI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KkOvYgZJkeI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Представительница Ганы из числа «голубых касок» удостоена высокой награды ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4q2m6RD1FkA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Визит Генерального секретаря ООН в Сомали.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FZwfc0Kl4wA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FZwfc0Kl4wA"
         }
       }
     }
