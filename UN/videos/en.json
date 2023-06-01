@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SDG Roundtable: Marking 75 Years of Human Rights and Civil Society Participation | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Qy1ZU70Gmo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6Qy1ZU70Gmo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Switzerland on the situation in Sudan - Security Council Media Stakeout (31 May 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B55iMyT1lxM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council, Syria, Yemen & other topics - Daily Press Briefing (30 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CHOkSTaXbV4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CHOkSTaXbV4"
         }
       }
     }
