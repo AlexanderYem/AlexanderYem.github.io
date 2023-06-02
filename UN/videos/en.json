@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNRWA, Deputy Secretary-General, Security Council & other topics - Daily Press Briefing (2 June)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7HpJN7uDMrI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7HpJN7uDMrI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Election of the New President of the General Assembly & other topics - Daily Press Briefing (1 June)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ezzUOzBI340"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: \"The situation at Zaporizhzhya NPP continues to be extremely fragile and dangerous\"- IAEA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kdTmhl0aO8I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kdTmhl0aO8I"
         }
       }
     }
