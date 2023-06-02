@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil e EUA podem trocar experiências antirracismo, diz brasileiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gUzV9vQLeU8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gUzV9vQLeU8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Meio Ambiente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZoLYPLf0efg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Boina-Azul relata orgulho de ser policial atuando no Mali",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ic76uvuFVu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ic76uvuFVu8"
         }
       }
     }
