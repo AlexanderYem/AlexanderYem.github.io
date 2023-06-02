@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial do Meio Ambiente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nm1xxmE2Et0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nm1xxmE2Et0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crime e tráfico de drogas no sudeste da Ásia requerem cooperação transfronteiriça (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ic76uvuFVu8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Boina-azul brasileira com “vontade ainda maior” de seguir luta pela paz, após Sudão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ap-DNdFUnNQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ap-DNdFUnNQ"
         }
       }
     }
