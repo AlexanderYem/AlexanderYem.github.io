@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "RDC : le HCR échange avec des déplacés au Nord-Kivu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UTTAaLNDhUk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UTTAaLNDhUk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Promouvoir l'égalité : Prix du Défenseur militaire de l'égalité des sexes de l’ONU pour 2022",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "04j0S0MvvUk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "QUEL EST LE LIEN ENTRE LES NATIONS UNIES ET LES OSCARS ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MBPszeiEsYU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MBPszeiEsYU"
         }
       }
     }
