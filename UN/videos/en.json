@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "World Oceans Day 2023 (8 June) - United Nations Secretary-General",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDXiZ7Kmqng/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LDXiZ7Kmqng"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Common Agenda, Sudan & other topics - Daily Press Briefing (5 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ia3KrKQpKrU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on the situation in Sudan - Security Council Media Stakeout (31 May 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GCSTWdZ677k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GCSTWdZ677k"
         }
       }
     }
