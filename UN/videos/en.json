@@ -2,10 +2,49 @@
   "items": [
     {
       "snippet": {
+        "title": "France on Ukraine - Security Council Media Stakeout (6 June 2022)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/65Pa0LpqWe0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "65Pa0LpqWe0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "United Kingdom on the situation in Ukraine - Security Council Media Stakeout (6 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3agRJnWPE9c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3agRJnWPE9c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "United States on Ukraine - Security Council Media Stakeout (6 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fS5M14GdBHk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fS5M14GdBHk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Maintenance of Peace and Security - Security Council | United Nations LIVE",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/k8qRiT5Jhm8/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/k8qRiT5Jhm8/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "miPpC3yG_To"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Planet Ocean: Tides Are Changing - World Oceans Day 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mDAcW8PqzU8/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mDAcW8PqzU8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Her Land. Her Rights: Advancing Gender Equality and Land Restoration Goals | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J2EtR8hyy9g/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J2EtR8hyy9g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Slovenia on the upcoming Security Council elections - Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U1NLBi0Hrjc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U1NLBi0Hrjc"
         }
       }
     }
