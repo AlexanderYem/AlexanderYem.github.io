@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Usawa wa jinsia kwenye uvuvi kunasua wanawake kiuchumi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pl-oXEufRzo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Pl-oXEufRzo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mwaka 2002-22 matukio ya ukatili kwa watoto kwenye migogoro inayotumia silaha ni zaidi ya laki 3",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yDtnd71_9N0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mume wangu aliuawa, mimi wamenijeruhi sikio- Hawaye",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7qmiDBPCDj8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7qmiDBPCDj8"
         }
       }
     }
