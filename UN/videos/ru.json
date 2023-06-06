@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Заявление Генсека ООН по прорыву плотины Каховской гидроэлектростанции.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNMuzlIK6bM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SNMuzlIK6bM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генсека ООН по случаю Всемирного дня окружающей среды",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DlSzzMYHbBw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Доклад ООН по народонаселению: пять фактов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4q2m6RD1FkA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4q2m6RD1FkA"
         }
       }
     }
