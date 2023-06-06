@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU fala a jornalistas sobre rompimento de barragem na Ucrânia (em inglês)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VAOrM9Jbspc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VAOrM9Jbspc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra Sônia Guajajara fala à ONU News sobre segurança no Vale do Javari",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_EpqRIIxWO4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso: Ministra Anielle Franco na ONU (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fRRbKIny1jY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fRRbKIny1jY"
         }
       }
     }
