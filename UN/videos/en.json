@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine & other topics - Daily Press Briefing (7 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFrC6Uy-QZM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZFrC6Uy-QZM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A day in the life of a peacekeeper reducing environmental waste | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tJq9zMVbMdI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Republic of Korea on their election to the United Nations Security Council | General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eCmgPyYmPZc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eCmgPyYmPZc"
         }
       }
     }
