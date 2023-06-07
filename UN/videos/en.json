@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Ukraine - Security Council Media Stakeout (6 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wkDuRCDRl_I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wkDuRCDRl_I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "France on Ukraine - Security Council Media Stakeout (6 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aNZI4hN9tOE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Haiti, Sudan & other topics - Daily Press Briefing (June 6 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/miPpC3yG_To/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "miPpC3yG_To"
         }
       }
     }
