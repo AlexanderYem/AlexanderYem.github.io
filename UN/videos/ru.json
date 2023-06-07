@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание по случаю Всемирного дня океанов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v4kjYpn42Qg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v4kjYpn42Qg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Заявление Генсека ООН по прорыву плотины Каховской гидроэлектростанции.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "22gpdr5LOr8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Всемирный день свободы печати. Видеопослание Генсека ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DlSzzMYHbBw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DlSzzMYHbBw"
         }
       }
     }

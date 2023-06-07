@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial destaca necessidade de proteger oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/etUGL6z_OVw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "etUGL6z_OVw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unfpa no Timor-Leste quer apoio de Portugal para promover trabalho da agência",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "auwq4sTwj60"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bastidores Podcast ONU News com a bailarina Ingrid Silva, do Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/o34o41-zKe8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "o34o41-zKe8"
         }
       }
     }
