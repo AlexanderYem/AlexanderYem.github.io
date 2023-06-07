@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cozinha Solidária no Brasil distribui mil refeições diárias mantendo alto padrão de segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwJk80g4HY8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LwJk80g4HY8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU fala a jornalistas sobre rompimento de barragem na Ucrânia (em inglês)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ubq_yvRmGQg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O dilema dos fumantes que atuam na área da saúde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_EpqRIIxWO4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_EpqRIIxWO4"
         }
       }
     }
