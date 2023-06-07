@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - 7 de junho de 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pu_uBe_BtCs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pu_uBe_BtCs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cozinha Solidária no Brasil distribui mil refeições diárias mantendo alto padrão de segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ja4FteEPkLU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Terrorismo é combatível, diz novo enviado para a África Ocidental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ubq_yvRmGQg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ubq_yvRmGQg"
         }
       }
     }
