@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Planet Ocean: Tides Are Changing - World Oceans Day 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDAcW8PqzU8/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mDAcW8PqzU8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine & other topics - Daily Press Briefing (7 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9ZQlFqmtHto"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Slovenia on their election to the United Nations Security Council | General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tJq9zMVbMdI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tJq9zMVbMdI"
         }
       }
     }
