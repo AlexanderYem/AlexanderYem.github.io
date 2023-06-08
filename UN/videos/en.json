@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, South Sudan, Sudan & other topics - Daily Press Briefing (8 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOtDKLOZ6uQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tOtDKLOZ6uQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Planet Ocean: Tides Are Changing - World Oceans Day 2023",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/mDAcW8PqzU8/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/mDAcW8PqzU8/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "k8qRiT5Jhm8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Algeria on their election to the United Nations Security Council | General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ZQlFqmtHto/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9ZQlFqmtHto"
         }
       }
     }
