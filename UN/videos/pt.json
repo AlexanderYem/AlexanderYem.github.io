@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“É triste ser escravizado”: Depoimento de Marinaldo Santos, do Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKxFwMEKYF0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nKxFwMEKYF0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Podcast ONU News: Ministra Anielle Franco quer maior protagonismo para pessoas negras no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gUzV9vQLeU8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Meio Ambiente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nm1xxmE2Et0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nm1xxmE2Et0"
         }
       }
     }

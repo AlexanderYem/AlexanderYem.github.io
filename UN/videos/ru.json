@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гуманитарный координатор ООН в Украине Денис Браун посещает затопленные села",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWjh3yH5Z7M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JWjh3yH5Z7M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание по случаю Всемирного дня океанов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ox6J-aQOIVo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "День Весак, День полнолуния",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/22gpdr5LOr8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "22gpdr5LOr8"
         }
       }
     }
