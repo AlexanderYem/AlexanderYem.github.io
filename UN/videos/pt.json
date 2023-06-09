@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Podcast ONU News: Ministra Anielle Franco quer maior protagonismo para pessoas negras no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Z2OZOrlxx4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5Z2OZOrlxx4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bastidores Podcast ONU News com a ministra Anielle Franco, do Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nm1xxmE2Et0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crime e tráfico de drogas no sudeste da Ásia requerem cooperação transfronteiriça (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HXGgj6bwAO0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HXGgj6bwAO0"
         }
       }
     }
