@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU alerta sobre ameaças da Inteligência Artificial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tS04XT9J-I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0tS04XT9J-I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Catarina Furtado destaca luta contra casamento precoce no trabalho com Unfpa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VAOrM9Jbspc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra Sônia Guajajara fala à ONU News sobre segurança no Vale do Javari",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8TUCZ1HNlDo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8TUCZ1HNlDo"
         }
       }
     }
