@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU: 90% da população mundial tem algum preconceito contra mulheres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPQKQ82ETak/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SPQKQ82ETak"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU alerta sobre ameaças da Inteligência Artificial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LwJk80g4HY8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU fala a jornalistas sobre rompimento de barragem na Ucrânia (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VAOrM9Jbspc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VAOrM9Jbspc"
         }
       }
     }
