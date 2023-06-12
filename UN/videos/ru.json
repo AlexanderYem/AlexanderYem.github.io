@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Координатора гуманитарной помощи ООН украинскому народу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2EOW6axnBJc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2EOW6axnBJc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Координатор гуманитарной помощи ООН – о приоритетах в районе затопления на юге Украины.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sFVhxFElYcY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sFVhxFElYcY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Гуманитарный координатор ООН в Украине Денис Браун посещает затопленные села",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "fzYcr0KlNJU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Анна Зайцева провела 65 дней в бомбоубежище «Азовстали»",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qAZU5pxUDrU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qAZU5pxUDrU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заместительная терапия наркозависимости в тюрьмах Молдовы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ox6J-aQOIVo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ox6J-aQOIVo"
         }
       }
     }
