@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Гендиректор МАГАТЭ – о ситуации на Запорожской АЭС",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NECv2pM3F3w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NECv2pM3F3w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Координатора гуманитарной помощи ООН украинскому народу",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SIiq_-0wDrk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день биоразнообразия. Послание Генсека ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fzYcr0KlNJU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fzYcr0KlNJU"
         }
       }
     }
