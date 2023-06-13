@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "World Day to Combat Desertification and Drought 2023 - UN Chief message (17 June) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Av5wFL3CI2w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Av5wFL3CI2w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Digital Platforms policy brief - Press Conference (12 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tOtDKLOZ6uQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Planet Ocean: Tides Are Changing - World Oceans Day 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mDAcW8PqzU8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mDAcW8PqzU8"
         }
       }
     }
