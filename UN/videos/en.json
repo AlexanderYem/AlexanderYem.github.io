@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yV-OrXzQXpg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yV-OrXzQXpg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Security Council, Sudan & other topics - Daily Press Briefing (14 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RBJyaU2e_K4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Not a moment to lose when our shared future is at stake | United Nations | SDGs",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qws4sfJe42w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qws4sfJe42w"
         }
       }
     }
