@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "A mulher faz toda a diferença em uma missão de paz, diz boina-azul brasileira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CJBIpkG7gK8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CJBIpkG7gK8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU: 90% da população mundial tem algum preconceito contra mulheres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1Mp4W4M9y14"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cozinha Solidária no Brasil distribui mil refeições diárias mantendo alto padrão de segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LwJk80g4HY8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LwJk80g4HY8"
         }
       }
     }
