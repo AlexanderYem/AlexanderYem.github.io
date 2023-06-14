@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Sudan & other topics - Daily Press Briefing (14 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tbDetEPgKv8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tbDetEPgKv8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Peace isn't possible without Sustainable Development | United Nations Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qws4sfJe42w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Mali, Sudan & other topics - Daily Press Briefing (9 June 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/55CNPtRU2VE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "55CNPtRU2VE"
         }
       }
     }
