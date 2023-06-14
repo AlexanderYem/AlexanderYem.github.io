@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Diretor da Opas, Jarbas Barbosa, fala à ONU News sobre saúde mental após a pandemia da Covid-19.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K41tBgPyj98/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K41tBgPyj98"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mundo atinge a maior quantidade de deslocados já registrada, alerta relatório",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "etUGL6z_OVw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unfpa no Timor-Leste quer apoio de Portugal para promover trabalho da agência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F04d7KGRo5w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F04d7KGRo5w"
         }
       }
     }
