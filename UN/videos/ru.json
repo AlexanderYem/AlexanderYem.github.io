@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ПОСЛАНИЕ ПО СЛУЧАЮ ВСЕМИРНОГО ДНЯ БЕЖЕНЦЕВ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOkbeOOM5Nw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dOkbeOOM5Nw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Гендиректор МАГАТЭ – о ситуации на Запорожской АЭС",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nRvTSnmXFqA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день миротворцев ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SIiq_-0wDrk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SIiq_-0wDrk"
         }
       }
     }
