@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entenda o perigo para a usina nuclear de Zaporizhzhia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uf3f4unbwJ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Uf3f4unbwJ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Diretor da Opas, Jarbas Barbosa, fala à ONU News sobre saúde mental após a pandemia da Covid-19.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2fhA2Q3DZwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial destaca necessidade de proteger oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/etUGL6z_OVw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "etUGL6z_OVw"
         }
       }
     }
