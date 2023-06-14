@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministra fala de diálogo pela paz em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XY-0soUnIYE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XY-0soUnIYE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entenda o perigo para a usina nuclear de Zaporizhzhia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5Z2OZOrlxx4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bastidores Podcast ONU News com a ministra Anielle Franco, do Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2fhA2Q3DZwM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2fhA2Q3DZwM"
         }
       }
     }
