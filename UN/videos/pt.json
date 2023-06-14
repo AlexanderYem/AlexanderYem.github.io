@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mundo atinge a maior quantidade de deslocados já registrada, alerta relatório",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rq7meKsBePs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rq7meKsBePs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A mulher faz toda a diferença em uma missão de paz, diz boina-azul brasileira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F04d7KGRo5w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - 7 de junho de 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1Mp4W4M9y14/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1Mp4W4M9y14"
         }
       }
     }
