@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Na ONU, Brasil destaca retomada de acordos sobre inclusão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BoGapopV-Dw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BoGapopV-Dw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Portugal e direitos das pessoas com deficiência",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b00q9uex5bo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b00q9uex5bo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra fala de diálogo pela paz em Moçambique",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ysbT8v0Ef_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“É triste ser escravizado”: Depoimento de Marinaldo Santos, do Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nKxFwMEKYF0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nKxFwMEKYF0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Podcast ONU News: Ministra Anielle Franco quer maior protagonismo para pessoas negras no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5Z2OZOrlxx4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5Z2OZOrlxx4"
         }
       }
     }
