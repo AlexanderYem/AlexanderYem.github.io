@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Press Conference: António Guterres, United Nations Secretary-General",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyd3jP7zXQk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jyd3jP7zXQk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5Zjdzk5uG_Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mis and Disinformation | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RBJyaU2e_K4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RBJyaU2e_K4"
         }
       }
     }
