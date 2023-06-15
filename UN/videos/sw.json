@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNHCR YAJENGA NYUMBA ZA WAKIMBIZI WA NDANI DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQu7O_1YA-U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XQu7O_1YA-U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UHAMISHAJI WA WATOTO KUTOKA ENEO LA VITA NCHINI SUDAN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_eV1TCljIJo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ujumbe wa UNHCR watembelea DRC kutathimini hali ya wakimbizi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OLDmLPOAVao/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OLDmLPOAVao"
         }
       }
     }
