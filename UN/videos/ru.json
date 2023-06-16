@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Помнить о геноциде: «Матери Сребреницы»",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QTbvwZEUwiU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QTbvwZEUwiU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ПОСЛАНИЕ ПО СЛУЧАЮ ВСЕМИРНОГО ДНЯ БЕЖЕНЦЕВ",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LEv1rrUm8lc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Помощь ФАО фермерам Украины",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nRvTSnmXFqA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nRvTSnmXFqA"
         }
       }
     }
