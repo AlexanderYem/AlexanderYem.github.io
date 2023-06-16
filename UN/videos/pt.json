@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU entrega ajuda humanitária a vítimas de rompimento de barragem na Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AITEfJfCrfQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AITEfJfCrfQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ativista dos direitos das empregadas domésticas diz que empregadores precisam cumprir a lei",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SPQKQ82ETak"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU alerta sobre ameaças da Inteligência Artificial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0tS04XT9J-I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0tS04XT9J-I"
         }
       }
     }
