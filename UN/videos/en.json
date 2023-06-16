@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Her Land. Her Rights: Advancing Gender Equality and Land Restoration Goals | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J2EtR8hyy9g/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J2EtR8hyy9g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on the situation in Nord Stream 1 &2 Pipelines - United Nations Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Av5wFL3CI2w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Digital Platforms policy brief - Press Conference (12 June 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ktFF2dSH3oU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ktFF2dSH3oU"
         }
       }
     }
