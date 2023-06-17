@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"We must strengthen the values of compassion, respect, and human fraternity\" - UN Chief Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MH03xmYfag4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MH03xmYfag4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan, Haiti & other topics - Daily Press Briefing (16 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tbDetEPgKv8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Peace isn't possible without Sustainable Development | United Nations Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3IgXi9OXXzg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3IgXi9OXXzg"
         }
       }
     }
