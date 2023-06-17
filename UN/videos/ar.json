@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "جبران خليل جبران: نداء من أجل المساواة عمره قرن يتردد صداه اليوم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CY7HeH8sWBY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CY7HeH8sWBY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "نواف كبارة: يجب ألا تحول قلة الإمكانيات دون تعزيز حقوق وتمكين الأشخاص ذوي الإعاقة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d7J-qYsksDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وزير المياه الموريتاني: حققنا نجاحا في تقاسم مياه نهر السنغال ونعمل على توفير المياه لكافة مواطنينا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gBxIBDbdWQE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gBxIBDbdWQE"
         }
       }
     }
