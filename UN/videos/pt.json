@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflito",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNvIbVcIbZg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QNvIbVcIbZg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mulheres e meninas são as maiores vítimas da desertificação, diz António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "K41tBgPyj98"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mundo atinge a maior quantidade de deslocados já registrada, alerta relatório",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rq7meKsBePs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rq7meKsBePs"
         }
       }
     }
