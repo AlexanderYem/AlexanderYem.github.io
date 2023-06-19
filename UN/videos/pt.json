@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial dos Refugiados pede mais apoio aos países anfitriões",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iyUByEOSHxg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iyUByEOSHxg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflito",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Uf3f4unbwJ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe de agência da ONU fala sobre saúde mental após pandemia de Covid-19",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K41tBgPyj98/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K41tBgPyj98"
         }
       }
     }
