@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Ioga",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_GGtl3uEfI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f_GGtl3uEfI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bastidores Podcast ONU News com a senadora Mara Gabrilli",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "b00q9uex5bo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra fala de diálogo pela paz em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XY-0soUnIYE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XY-0soUnIYE"
         }
       }
     }

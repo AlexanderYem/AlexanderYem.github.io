@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale du yoga : le yoga est pour tout le monde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n7q9-qccmTI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n7q9-qccmTI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "RDC : le HCR échange avec des déplacés au Nord-Kivu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8Pa5m0u6YKY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’harmonie au lieu du conflit au Moyen-Orient",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/04j0S0MvvUk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "04j0S0MvvUk"
         }
       }
     }
