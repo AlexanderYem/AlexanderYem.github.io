@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Day 1 Recap - 2nd session of the UN Habitat Assembly #UNHA2",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2IqO35xkreU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2IqO35xkreU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "9th International Day of Yoga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J2EtR8hyy9g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief visits the National Museum of African American History & Culture | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gne67WQo7tI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gne67WQo7tI"
         }
       }
     }
