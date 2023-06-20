@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bastidores Podcast ONU News com a senadora Mara Gabrilli",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aktgwg-jJf0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aktgwg-jJf0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial dos Refugiados pede mais apoio aos países anfitriões",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XY-0soUnIYE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entenda o perigo para a usina nuclear de Zaporizhzhia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Uf3f4unbwJ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Uf3f4unbwJ0"
         }
       }
     }
