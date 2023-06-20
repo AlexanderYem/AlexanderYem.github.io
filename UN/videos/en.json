@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "9th International Day of Yoga",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQvtP52U_0g/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WQvtP52U_0g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Central African Republic, Sudan, Nigeria & other topics - Daily Press Briefing (20 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gne67WQo7tI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"The Africa the World Needs\" - Interview with Special Adviser on Africa - Awake at Night: S7-E4",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wFuA9jimpvc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wFuA9jimpvc"
         }
       }
     }
