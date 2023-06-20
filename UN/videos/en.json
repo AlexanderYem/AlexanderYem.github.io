@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Central African Republic, Sudan, Nigeria & other topics - Daily Press Briefing (20 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQSgZzDGJNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CQSgZzDGJNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Joint Stakeout on the Central African Republic - Security Council Media Stakeout (20 June 2022)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wFuA9jimpvc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on the situation in Nord Stream 1 &2 Pipelines - United Nations Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pp1k1TfSeRA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pp1k1TfSeRA"
         }
       }
     }
