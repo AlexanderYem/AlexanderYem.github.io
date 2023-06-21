@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью с Постоянным представителем Туркменистана при ООН Аксолтан Атаевой",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_gjZ2BDQuo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v_gjZ2BDQuo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря ООН по случаю Международного дня йоги",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SNMuzlIK6bM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генсека ООН по случаю Всемирного дня окружающей среды",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KkOvYgZJkeI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KkOvYgZJkeI"
         }
       }
     }
