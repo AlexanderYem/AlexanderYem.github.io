@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Podcast ONU News: “Minha felicidade é poder respirar e estar viva”, diz Mara Gabrilli",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsmGgA77Gg0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EsmGgA77Gg0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Ioga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BoGapopV-Dw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal e direitos das pessoas com deficiência",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/b00q9uex5bo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "b00q9uex5bo"
         }
       }
     }
