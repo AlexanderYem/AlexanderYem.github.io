@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mudanças climáticas e educação em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8pKmhtm9ydw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8pKmhtm9ydw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Fundos climáticos negligenciam crianças",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mjk-sevOt-8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ativista dos direitos das empregadas domésticas diz que empregadores precisam cumprir a lei",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9jsRIkRtPfU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9jsRIkRtPfU"
         }
       }
     }
