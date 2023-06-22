@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DISCOURS DE HAINE : QUAND LES MOTS TUENT",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wveo6MyYMUg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Wveo6MyYMUg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale du yoga : le yoga est pour tout le monde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KnrvAv_XyoY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conférence de l'ONU sur l'eau : des écoliers du monde entier créent des colibris en origami",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Pa5m0u6YKY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8Pa5m0u6YKY"
         }
       }
     }

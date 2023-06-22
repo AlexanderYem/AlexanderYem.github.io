@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Fundos climáticos negligenciam crianças",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xVRTtGJtdIY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xVRTtGJtdIY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Podcast ONU News: “Minha felicidade é poder respirar e estar viva”, diz Mara Gabrilli",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9jsRIkRtPfU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, Brasil destaca retomada de acordos sobre inclusão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BoGapopV-Dw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BoGapopV-Dw"
         }
       }
     }
