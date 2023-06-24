@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Colombian soccer (football) player Isabella Echeverri speaks at 2023 UN's Counter-Terrorism Week",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j729_7nU0lU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j729_7nU0lU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Intensifying Violence on civilians - Security Council Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hlftc0Ut_H0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General/Paris Summit, ECOSOC & other topics - Daily Press Briefing (21 June 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rRRWdwYgzvA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rRRWdwYgzvA"
         }
       }
     }
