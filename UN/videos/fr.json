@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Les femmes dans la diplomatie : une force pour la paix",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nDvZcr7nzHA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nDvZcr7nzHA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "DISCOURS DE HAINE : QUAND LES MOTS TUENT",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hpvITKtSxX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Une heure pour la planète : Message du Secrétaire général de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KnrvAv_XyoY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KnrvAv_XyoY"
         }
       }
     }
