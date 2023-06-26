@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Опиумный кризис в Афганистане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyUjMfaQ2Vc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NyUjMfaQ2Vc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Интервью с Постоянным представителем Туркменистана при ООН Аксолтан Атаевой",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v4kjYpn42Qg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заявление Генсека ООН по прорыву плотины Каховской гидроэлектростанции.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SNMuzlIK6bM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SNMuzlIK6bM"
         }
       }
     }
