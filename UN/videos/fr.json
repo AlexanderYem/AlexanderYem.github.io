@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan : Stigmatisation et discrimination dont sont victimes les toxicomanes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pbDJPCdmBwc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pbDJPCdmBwc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Les femmes dans la diplomatie : une force pour la paix",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f2M5rCx04AU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "La mission en RDC (MONUSCO) se renforce face à la désinformation",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hpvITKtSxX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hpvITKtSxX4"
         }
       }
     }
