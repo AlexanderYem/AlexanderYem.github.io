@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yV-OrXzQXpg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yV-OrXzQXpg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 Things to Know about United Nations Field Security Coordination",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j729_7nU0lU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Intensifying Violence on civilians - Security Council Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yoo8xv5xdiU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yoo8xv5xdiU"
         }
       }
     }
