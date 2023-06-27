@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "EAC, SADC, UNESCO na wadau washirikiana maandalizi Siku ya Kiswahili",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZXyUWnkJPn8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZXyUWnkJPn8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kiswahili kinaunganisha nchi za Afrika na Dunia UNESCO inaungana na Afrika kuienzi - Estelle Zadra",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XQu7O_1YA-U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UHAMISHAJI WA WATOTO KUTOKA ENEO LA VITA NCHINI SUDAN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MgaKbEW1zu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MgaKbEW1zu8"
         }
       }
     }

@@ -2,10 +2,36 @@
   "items": [
     {
       "snippet": {
+        "title": "Middle East, Ukraine& other topics - Daily Press Briefing (27 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xdEM67hiClw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xdEM67hiClw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "'Children continued to be disproportionately affected by armed conflict in 2022'- Press Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7NFcTVsQqo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W7NFcTVsQqo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Civil Society Townhall with the President of the 77th Session of the UN General Assembly",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/yV-OrXzQXpg/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/yV-OrXzQXpg/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "8V5Kbnvdka4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Thailand: Providing harm-reduction services to drug users | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tj2RF2NbiPw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tj2RF2NbiPw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council President on Sudan - Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qUDQIYd2OMg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qUDQIYd2OMg"
         }
       }
     }
