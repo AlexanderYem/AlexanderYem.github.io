@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير عُماني: نحن أسرة إنسانية واحدة ولا بديل عن التسامح والتعايش المشترك",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/abWpweuoYmY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "abWpweuoYmY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غانم المفتاح: لا شيء يقف أمام طموحنا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4klND20AxgU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "خلال زياراتي التضامنية في شهر رمضان المبارك، رأيت الوجه الحقيقي للإسلام",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QGFhxREHP9I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QGFhxREHP9I"
         }
       }
     }
