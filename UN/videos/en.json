@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Human Rights Violations, Arbitrary Detention and Torture - Human Rights Mission Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vb35sgAdQSk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vb35sgAdQSk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "What is the UN National Investigation Officers Training of Trainers course? | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BLDByktItM4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan, Syria & other topics - Daily Press Briefing (26 June 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AqQp2w5tEnI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AqQp2w5tEnI"
         }
       }
     }
