@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, Syria & other topics - Daily Press Briefing (29 June 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDPah-tGWaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YDPah-tGWaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Human Rights Violations, Arbitrary Detention and Torture - Human Rights Mission Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jCv7QIKZ0zs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "5 Things to Know about United Nations Field Security Coordination",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BLDByktItM4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BLDByktItM4"
         }
       }
     }
