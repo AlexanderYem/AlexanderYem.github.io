@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Baada ya mafuriko Kalehe, DRC, wananchi wahamasishwa kuyalinda mazingira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GpTC0vBwDmA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GpTC0vBwDmA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "TANBAT6 watoa mafunzo ya mapishi na ujasiriamali kwa wanawake wanakijiji cha Moro, CAR",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LVYZoD7lZtI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Filippo Grandi azuru Kenya kukutana na wakimbizi na viongozi wa kitaifa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3FQ-bo85etg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3FQ-bo85etg"
         }
       }
     }
