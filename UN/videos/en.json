@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Insights on the Middle East Situation: Tor Wennesland (UNSCO) at the 9361st Security Council Meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z01bXhUYP34/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z01bXhUYP34"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti: call for more support for highly vulnerable children and families - Press Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0wWsC8iwupo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Middle East, Ukraine & other topics - Daily Press Briefing (27 June 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xdEM67hiClw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xdEM67hiClw"
         }
       }
     }
