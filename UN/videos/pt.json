@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Um planeta “irreconhecível”          #ONU #DireitosHumanos #CriseClimática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FcQMoToJFog/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FcQMoToJFog"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Natalia Pasternark fala de ciência para todos e indústria da desinformação no Podcast ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iyUByEOSHxg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional para a Eliminação da Violência Sexual em Conflito",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QNvIbVcIbZg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QNvIbVcIbZg"
         }
       }
     }
