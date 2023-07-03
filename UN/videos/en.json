@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Marine Environment, Guatemala & other topics - Daily Press Briefing (3 July 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W8dvive2III/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W8dvive2III"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Black Sea Initiative, Sweden & other topics - Daily Press Briefing (30 June 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YDPah-tGWaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Human Rights Violations, Arbitrary Detention and Torture - Human Rights Mission Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vb35sgAdQSk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vb35sgAdQSk"
         }
       }
     }

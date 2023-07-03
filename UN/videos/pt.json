@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Natalia Pasternark fala de ciência para todos e indústria da desinformação no Podcast ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzeqYE-AK6w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HzeqYE-AK6w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário-geral da ONU, António Guterres, defende envio de força internacional ao Haiti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QNvIbVcIbZg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mulheres e meninas são as maiores vítimas da desertificação, diz António Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z2C4vmVV358/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z2C4vmVV358"
         }
       }
     }
