@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Supporting Haiti's Path to Stability and Democracy: UN Chief's Urgent Call to Action (French video)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QuDaVU_YcjE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QuDaVU_YcjE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Integrating Artificial Intelligence into the Security Council: UK's Presidency Agenda|United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eer-gcnAqFk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Syria: Urgent Call for Nationwide Ceasefire and Humanitarian Action -Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cr6YqYYGmMI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cr6YqYYGmMI"
         }
       }
     }
