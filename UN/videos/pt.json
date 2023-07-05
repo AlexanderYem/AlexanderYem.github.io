@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Relatório de Investimentos Mundiais 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5pd00mPRUDA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5pd00mPRUDA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola aposta na estabilização da região africana",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EsmGgA77Gg0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Ioga",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f_GGtl3uEfI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f_GGtl3uEfI"
         }
       }
     }
