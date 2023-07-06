@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام يدين العنف في الضفة الغربية ويدعو إسرائيل إلى التقيد بالتزاماتها بموجب القانون الدولي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fz6IoI6VPaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fz6IoI6VPaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "التصدي لوباء المخدرات في أفغانستان من خلال قوة المعرفة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BgWqUmgg2ck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الوضع في السودان يتحول من \"منارة للأمل إلى كارثة إنسانية\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2LAsjAs39NY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2LAsjAs39NY"
         }
       }
     }
