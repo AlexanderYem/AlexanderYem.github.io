@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Perguntas sem resposta sobre Inteligência Artificial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfAILkKA6A0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KfAILkKA6A0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Relatório de Investimentos Mundiais 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xVRTtGJtdIY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Podcast ONU News: “Minha felicidade é poder respirar e estar viva”, diz Mara Gabrilli",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EsmGgA77Gg0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EsmGgA77Gg0"
         }
       }
     }
