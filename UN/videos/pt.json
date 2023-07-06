@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chefe da ONU, António Guterres, pede envio de força internacional ao Haiti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXPgacP3oaY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BXPgacP3oaY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Perguntas sem resposta sobre Inteligência Artificial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8pKmhtm9ydw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fundos climáticos negligenciam crianças",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xVRTtGJtdIY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xVRTtGJtdIY"
         }
       }
     }
