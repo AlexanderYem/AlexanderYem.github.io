@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AI for Good: «Искусственный интеллект во благо [человека]»",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBqsIYvNDOI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FBqsIYvNDOI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Опиумный кризис в Афганистане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JWjh3yH5Z7M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание по случаю Всемирного дня океанов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v4kjYpn42Qg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v4kjYpn42Qg"
         }
       }
     }
