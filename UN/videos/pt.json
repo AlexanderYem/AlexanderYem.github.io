@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Angola e prevenção do terrorismo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V5oTFKQkM2g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V5oTFKQkM2g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU, António Guterres, pede envio de força internacional ao Haiti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1Yr4q-QincY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mudanças climáticas e educação em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8pKmhtm9ydw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8pKmhtm9ydw"
         }
       }
     }
