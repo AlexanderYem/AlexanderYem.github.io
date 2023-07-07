@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jarida maalum la maadhimisho ya pili ya Siku ya Kiswahili Duniani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1xo5FTOfCQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C1xo5FTOfCQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Saa chache kabla ya maadhimisho ya pili ya Siku ya Kiswahili, Prof. Pacifique Malonga analonga",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZXyUWnkJPn8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kiswahili kinaunganisha nchi za Afrika na Dunia UNESCO inaungana na Afrika kuienzi - Estelle Zadra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Afa-xLIwczk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Afa-xLIwczk"
         }
       }
     }
