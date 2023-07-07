@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Guterres pede apoio para Haiti, Angola e contraterrorismo, robôs em evento de IA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HwdsSun0v8Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HwdsSun0v8Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola e prevenção do terrorismo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aXJXMW5S1Js"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Falsa narrativa de que mulheres não gostam de política atrasa avanços, diz Rebecca Tavares",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1Yr4q-QincY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1Yr4q-QincY"
         }
       }
     }
