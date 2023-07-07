@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Addressing the Iranian Nuclear Issue: Renewing Diplomacy and International Cooperation",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L798lhCjgFE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L798lhCjgFE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crisis in Haiti: UN Secretary-General's Urgent Appeal for Action and Solidarity",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "USap-tFrTDc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Marine Environment, Guatemala & other topics - Daily Press Briefing (3 July 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W8dvive2III/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W8dvive2III"
         }
       }
     }
