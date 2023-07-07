@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"لن أكون بديلا\" و\"إحساس جامح\" روبوتات تتحدث عن نفسها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/szzBoFRVcX8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "szzBoFRVcX8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يدين العنف في الضفة الغربية ويدعو إسرائيل إلى التقيد بالتزاماتها بموجب القانون الدولي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tbyPXnP7gA0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "لا تنسوا الشعب السوداني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BgWqUmgg2ck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BgWqUmgg2ck"
         }
       }
     }
