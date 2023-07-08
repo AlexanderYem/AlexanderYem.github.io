@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Shaping Responsible AI Governance: UN Chief' Address at the AI for Good Global Summit",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/82QQCHBVTws/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "82QQCHBVTws"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian Challenges, Istanbul Agreements & Other topics - Daily Press Briefing (7 July 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "w3r5OO9DDu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief Addresses CARICOM's 50th Anniversary: Urgent Action Needed for Haiti and Climate Crisis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qiMBfpCph_w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qiMBfpCph_w"
         }
       }
     }
