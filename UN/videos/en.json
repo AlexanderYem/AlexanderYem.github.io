@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AI for Good: ITU Secretary-General's Keynote Address on Harnessing AI for Sustainable Development",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MV8SEoHDCUs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MV8SEoHDCUs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Shaping Responsible AI Governance: UN Chief' Address at the AI for Good Global Summit",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "71v8UrrkHK8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Occupied Palestinian Territory & other topics - Daily Press Briefing (5 July 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w3r5OO9DDu4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w3r5OO9DDu4"
         }
       }
     }
