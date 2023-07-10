@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Estado brasileiro apresenta ações de educação em direitos humanos em cúpula da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/163Mt4fDkwo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "163Mt4fDkwo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da População reforça direitos de mulheres e meninas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2UPBw_p86O8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Um planeta “irreconhecível”          #ONU #DireitosHumanos #CriseClimática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FcQMoToJFog/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FcQMoToJFog"
         }
       }
     }
