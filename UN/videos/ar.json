@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ياسمين شريف: نحن في سباق لضمان التعليم لجميع الأطفال وما من خيار سوى الفوز",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bjd0jCDnwmc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bjd0jCDnwmc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "هل ستكون الروبوتات بديلا للبشر؟؟",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dVrl6zQZZY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9dVrl6zQZZY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يدين العنف في الضفة الغربية ويدعو إسرائيل إلى التقيد بالتزاماتها بموجب القانون الدولي",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "rDhlHTbyEoM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار: المفاوضات هي السبيل لإنهاء الحرب في السودان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tbyPXnP7gA0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tbyPXnP7gA0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "لا تنسوا الشعب السوداني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BgWqUmgg2ck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BgWqUmgg2ck"
         }
       }
     }
