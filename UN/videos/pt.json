@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da População reforça direitos de mulheres e meninas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/12zHdgQdEjE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "12zHdgQdEjE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Destaques da primeira entrevista coletiva de robôs inteligentes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aAFJs8TH7Wc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aAFJs8TH7Wc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Guterres pede apoio para Haiti, Angola e contraterrorismo, robôs em evento de IA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "FcQMoToJFog"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Natalia Pasternark fala de ciência para todos e indústria da desinformação no Podcast ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HzeqYE-AK6w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HzeqYE-AK6w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da ONU, António Guterres, defende envio de força internacional ao Haiti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aXJXMW5S1Js/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aXJXMW5S1Js"
         }
       }
     }
