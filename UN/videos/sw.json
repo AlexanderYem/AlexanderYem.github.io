@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wananchi wa mjini Goma, mashariki mwa DRC wanavyofaidika na Kiswahili.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNzDGIjVZr4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uNzDGIjVZr4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "MONUSCO Bunia DRC watumia maigizo kuelimisha umma dhidi ya unyanyasaji wa kingono",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8gExrwRxonU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tutaufuta msemo wa \"Kiswahili kilifia Uganda.\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ewMXWLLH-rQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ewMXWLLH-rQ"
         }
       }
     }
