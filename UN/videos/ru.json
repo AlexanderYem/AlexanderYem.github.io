@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Черноморская инициатива: чем она важна для мира?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/As8rWNNNmxQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "As8rWNNNmxQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AI for Good: «Искусственный интеллект во благо [человека]»",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sFVhxFElYcY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Гуманитарный координатор ООН в Украине Денис Браун посещает затопленные села",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JWjh3yH5Z7M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JWjh3yH5Z7M"
         }
       }
     }
