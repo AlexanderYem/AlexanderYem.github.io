@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, A World of Debt and other topics - Daily Press Briefing (12 July 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AKqmZYyjRRA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AKqmZYyjRRA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malala Day | Transformation of Girl’s Education: What’s Next | United Nations SDG Roundtable",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yvky04jKp5Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "How AI Can Help Us Achieve Sustainable Development | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MV8SEoHDCUs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MV8SEoHDCUs"
         }
       }
     }
