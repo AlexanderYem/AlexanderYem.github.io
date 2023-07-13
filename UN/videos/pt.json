@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Fome aumentou no mundo desde 2019",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9TgwG-Xg3Xc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9TgwG-Xg3Xc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro-ministro de Cabo Verde fala à ONU News sobre Fórum de Jovens",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BXPgacP3oaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Perguntas sem resposta sobre Inteligência Artificial",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KfAILkKA6A0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KfAILkKA6A0"
         }
       }
     }
