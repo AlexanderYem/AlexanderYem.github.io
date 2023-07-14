@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mães de Srebenica e Zepa: um legado de dor e luta",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qaxn8ghBhFU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Qaxn8ghBhFU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Fome aumentou no mundo desde 2019",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V5oTFKQkM2g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da ONU, António Guterres, pede envio de força internacional ao Haiti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BXPgacP3oaY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BXPgacP3oaY"
         }
       }
     }
