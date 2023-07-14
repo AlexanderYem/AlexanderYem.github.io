@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "UN-EU High-Level Dialogue, Chad, Security Council & other topics - Daily Press Briefing (14 July)",
+        "title": "United Kingdom, Civil society representative & Survivor champion on Conflict-related sexual violence",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_qYC01twQkk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_qYC01twQkk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "European Union, Chad, Security Council & other topics - Daily Press Briefing | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/u2v6qm5y1zU/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RV_M3rorP7o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Was the United States or Ukraine involved in the attack on Nord Stream Pipelines? | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/icYLdwEB8f0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "icYLdwEB8f0"
         }
       }
     }
