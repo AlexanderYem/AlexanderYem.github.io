@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El legado de Nelson Mandela",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JhUVKtBENoI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JhUVKtBENoI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de los Refugiados: Esperanza lejos de casa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qbSaHevh0lc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Internacional de Reflexión sobre el Genocidio de 1994 contra los Tutsis en Rwanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c5zHON-12EI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c5zHON-12EI"
         }
       }
     }
