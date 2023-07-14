@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Enviado da ONU fala de jovens em Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XiqU6xgXrGM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XiqU6xgXrGM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Perspectivas de jovens precisam estar presentes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/56IYd296-3A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "56IYd296-3A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mães de Srebenica e Zepa: um legado de dor e luta",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "aAFJs8TH7Wc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Guterres pede apoio para Haiti, Angola e contraterrorismo, robôs em evento de IA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HwdsSun0v8Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HwdsSun0v8Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola e prevenção do terrorismo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V5oTFKQkM2g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V5oTFKQkM2g"
         }
       }
     }
