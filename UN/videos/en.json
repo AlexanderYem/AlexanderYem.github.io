@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine on Black Sea Grain Initiative - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5IplAQ6QPI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g5IplAQ6QPI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Black Sea Initiative & other topics - Daily Press Briefing (17 July)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CqLWCPdGpQc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Belgium, DPR Korea, Colombia & other topics - Daily Press Briefing (13 July 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hjq_8N2Q1Bc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hjq_8N2Q1Bc"
         }
       }
     }
