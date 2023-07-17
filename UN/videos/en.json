@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Black Sea Initiative & other topics - Daily Press Briefing (17 July)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v60IeE_wD2Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v60IeE_wD2Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "USA on the Black Sea Grain Initiative - Security Council Media Stakeout (17 July 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hjq_8N2Q1Bc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, A World of Debt and other topics - Daily Press Briefing (12 July 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AKqmZYyjRRA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AKqmZYyjRRA"
         }
       }
     }
