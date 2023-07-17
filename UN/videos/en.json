@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "European Union on Black Sea Grain Initiative - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X_d6icrT0Bo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X_d6icrT0Bo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Artificial Intelligence: opportunities & risks for int'l peace and security | UN Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbUcLj5vCtc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nbUcLj5vCtc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine on Black Sea Grain Initiative - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ctK_80ShwkE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aspartame Hazard - Risk of Liver Cancer | United Nations World Health Organization (Full Briefing)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xRv6YZ_qK30/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xRv6YZ_qK30"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Do non-sugar sweeteners help with weight loss? | United Nations World Health Organization Explainer",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CqLWCPdGpQc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CqLWCPdGpQc"
         }
       }
     }
