@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional de Nelson Mandela",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iVh1lsyUH1A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iVh1lsyUH1A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Enviado da ONU fala de jovens em Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "12zHdgQdEjE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaques da primeira entrevista coletiva de robôs inteligentes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aAFJs8TH7Wc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aAFJs8TH7Wc"
         }
       }
     }
