@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bastidores Jorge Moreira - Podcast ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZpwe_PLQwQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qZpwe_PLQwQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Reforço de parcerias com sociedade civil é crucial para Agenda 2030 no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wohvq_Nzbi8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Estado brasileiro apresenta ações de educação em direitos humanos em cúpula da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/163Mt4fDkwo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "163Mt4fDkwo"
         }
       }
     }
