@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Honoring Nelson Mandela's Legacy: UN Chief's Call to Action on International Day | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDzYWQlC5PU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uDzYWQlC5PU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nelson Mandela Day, Artificial Intelligence & Other topics - Daily Press Briefing (18 July)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zHz-SX4CTE0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: UN Chief on Black Sea Grain Initiative - Media Stakeout (17 July 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iIcP1z9ro0Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iIcP1z9ro0Y"
         }
       }
     }
