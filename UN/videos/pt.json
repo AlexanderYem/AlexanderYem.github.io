@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ameaça da inteligência artificial à paz e segurança internacionais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lMDZNJw1XS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lMDZNJw1XS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bastidores Jorge Moreira - Podcast ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "37F9ywlm8BU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaques da 1a entrevista coletiva de robôs inteligentes #ai #inteligênciaartificial #ia #robot",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wohvq_Nzbi8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wohvq_Nzbi8"
         }
       }
     }
