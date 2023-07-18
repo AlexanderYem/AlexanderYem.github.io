@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день Нельсона Манделы",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/53AGo-J72tk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "53AGo-J72tk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Черноморская инициатива: чем она важна для мира?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2EOW6axnBJc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Координатор гуманитарной помощи ООН – о приоритетах в районе затопления на юге Украины.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sFVhxFElYcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sFVhxFElYcY"
         }
       }
     }
