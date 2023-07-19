@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Memorial Service, Syria & other topics - Daily Press Briefing (19 July 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZn-LlkRwms/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TZn-LlkRwms"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Use of Veto in Security Council on Syrian Aid - President of the General Assembly | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EtcegPOq67o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "European Union on Black Sea Grain Initiative - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X_d6icrT0Bo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X_d6icrT0Bo"
         }
       }
     }

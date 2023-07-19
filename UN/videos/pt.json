@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Timor-Leste destaca avanços nos Objetivos de Desenvolvimento Sustentável",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0NNRB7nr5dM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0NNRB7nr5dM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal prepara Relatório Nacional para o Desenvolvimento Sustentável",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qaxn8ghBhFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fome aumentou no mundo desde 2019",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9TgwG-Xg3Xc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9TgwG-Xg3Xc"
         }
       }
     }
