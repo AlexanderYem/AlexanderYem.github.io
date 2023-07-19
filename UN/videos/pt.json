@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal prepara Relatório Nacional para o Desenvolvimento Sustentável",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fgw-FyPC7gg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Fgw-FyPC7gg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Líder do Unops, Jorge Moreira da Silva, diz que alcance dos ODS depende de obras de infraestrutura",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9TgwG-Xg3Xc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Primeiro-ministro de Cabo Verde fala à ONU News sobre Fórum de Jovens",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4jeqUa8j2D8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4jeqUa8j2D8"
         }
       }
     }
