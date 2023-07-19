@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генеральный секретарь ООН отдал дань памяти погибшим в прошлом году сотрудникам Организации",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hLW6bDS096w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hLW6bDS096w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день Нельсона Манделы",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NECv2pM3F3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Координатора гуманитарной помощи ООН украинскому народу",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2EOW6axnBJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2EOW6axnBJc"
         }
       }
     }
