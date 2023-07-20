@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine, New Agenda for Peace & other topics - Daily Press Briefing (20 July 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RE4Be83k77I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RE4Be83k77I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Inspiring the Global Model UN: A Message from the UN Chief 2023 | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LmyVHJGgtSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AI's Power & Perils: UN Chief's Briefing for Peace and Security | United Nations Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mpnfK5Zhxho/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mpnfK5Zhxho"
         }
       }
     }

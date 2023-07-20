@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "HLPF: Safari bado ndefu kutimiza SDGs duniani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NlXa0Z7YiUg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NlXa0Z7YiUg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tishio la mafuta kuvuja au kulipuka kwenye meli ya Safer linaelekea kudhibitiwa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0uXPQ3RXllU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jarida maalum la maadhimisho ya pili ya Siku ya Kiswahili Duniani",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C1xo5FTOfCQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C1xo5FTOfCQ"
         }
       }
     }
