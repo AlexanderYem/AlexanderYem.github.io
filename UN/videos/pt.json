@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nova Agenda para a Paz da ONU quer conter fragmentação e novas ameaças",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XPXR4rqeAnM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XPXR4rqeAnM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Refugiados rohingya enfrentam fome após cortes na ajuda humanitária",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dzn0uLEgnbs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional de Nelson Mandela",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iVh1lsyUH1A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iVh1lsyUH1A"
         }
       }
     }
