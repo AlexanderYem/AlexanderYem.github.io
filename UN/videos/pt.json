@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Refugiados rohingya enfrentam fome após cortes na ajuda humanitária",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HH0VUc77RuQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HH0VUc77RuQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial do Xadrez: Conheça os benefícios do esporte",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iVh1lsyUH1A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Enviado da ONU fala de jovens em Cabo Verde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KE1kWVNG2JM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KE1kWVNG2JM"
         }
       }
     }
