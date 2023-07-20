@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O que está por trás das atuais ondas de calor?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0GgGJgVDX0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X0GgGJgVDX0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Timor-Leste destaca avanços nos Objetivos de Desenvolvimento Sustentável",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "56IYd296-3A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mães de Srebenica e Zepa: um legado de dor e luta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qaxn8ghBhFU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qaxn8ghBhFU"
         }
       }
     }
