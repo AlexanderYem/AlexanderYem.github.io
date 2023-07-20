@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial do Xadrez: Conheça os benefícios do esporte",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DlXc8ET21OY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DlXc8ET21OY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O que está por trás das atuais ondas de calor?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KE1kWVNG2JM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Perspectivas de jovens precisam estar presentes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/56IYd296-3A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "56IYd296-3A"
         }
       }
     }
