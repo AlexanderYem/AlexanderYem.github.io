@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Inteligência artificial, jovens e segurança em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfftaDLuZvY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tfftaDLuZvY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "África enfatiza ambição para etapa de industrialização e transformação econômica",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lMDZNJw1XS8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bastidores Jorge Moreira - Podcast ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qZpwe_PLQwQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qZpwe_PLQwQ"
         }
       }
     }
