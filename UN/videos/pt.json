@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guardiãs do Mar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FjFZAVCLYh4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FjFZAVCLYh4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Inteligência artificial, jovens e segurança em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pnzjtfesG3E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ameaça da inteligência artificial à paz e segurança internacionais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lMDZNJw1XS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lMDZNJw1XS8"
         }
       }
     }

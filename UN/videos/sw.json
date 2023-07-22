@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"Askari wa Sheka walichinja watu na kutembea mitaani wakiwa wamebeba vichwa vyao,\" - Shuhuda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cX6Kt3uCyjA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cX6Kt3uCyjA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Asante UNMAS kwa kutegua bomu lililotishia uhai wetu- Wananchi Kididiwe, DRC.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M1wZdAu1mpY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wananchi wa mjini Goma, mashariki mwa DRC wanavyofaidika na Kiswahili.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uNzDGIjVZr4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uNzDGIjVZr4"
         }
       }
     }
