@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "UN Food Systems Summit +2 Opening Ceremony - United Nations Chief",
+        "title": "Food Summit & Other topics - Daily Press Briefing (24 July 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7j_MO31y9X4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7j_MO31y9X4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Food Systems Summit +2 Opening Ceremony - United Nations Chief | Global Agrifood Systems",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/p6YjdtImN6I/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JHraEY_c1ro"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Memorial Service, Syria & other topics - Daily Press Briefing (19 July 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TZn-LlkRwms/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TZn-LlkRwms"
         }
       }
     }
