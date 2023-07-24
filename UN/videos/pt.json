@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP-30 no Brasil levanta “grandes expectativas” de agência da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpeRcBcCLds/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XpeRcBcCLds"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guardiãs do Mar",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0NNRB7nr5dM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal prepara Relatório Nacional para o Desenvolvimento Sustentável",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fgw-FyPC7gg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fgw-FyPC7gg"
         }
       }
     }
