@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres: mundo precisa superar sistemas alimentares falidos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoOEN-myQM8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XoOEN-myQM8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP-30 no Brasil levanta “grandes expectativas” de agência da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "X0GgGJgVDX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Timor-Leste destaca avanços nos Objetivos de Desenvolvimento Sustentável",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0NNRB7nr5dM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0NNRB7nr5dM"
         }
       }
     }
