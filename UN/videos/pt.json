@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O impacto dos ataques ao porto de Odessa, na Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddHclJVqnck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ddHclJVqnck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da #ONU fala da crise na produção de alimentos #fome #guerra #ucrania #russia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HH0VUc77RuQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial do Xadrez: Conheça os benefícios do esporte",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DlXc8ET21OY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DlXc8ET21OY"
         }
       }
     }
