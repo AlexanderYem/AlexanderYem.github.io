@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Special Envoy on Syria Addresses Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/haY9ycn7OII/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "haY9ycn7OII"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Food Summit & Other topics - Daily Press Briefing (24 July 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DQ9V4c7HCvA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 Fallen Staff Memorial: Honoring a Legacy | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JHraEY_c1ro/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JHraEY_c1ro"
         }
       }
     }
