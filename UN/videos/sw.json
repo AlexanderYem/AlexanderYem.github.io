@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wakimbizi katika Michezo: Kutana na Timu ya Taifa ya Kandanda ya Wanawake ya Afghanistan",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3S8bGTVErlM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3S8bGTVErlM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Msaada wa UNHCR na AIDES warejesha matumaini ya wakimbizi wa Rwanda na Burundi nchini DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zzDAq-It_Sw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nurta: Sikati kuwa mkimbizi wa ndani nataka wanangu wasome",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t2KcujQfJ-A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t2KcujQfJ-A"
         }
       }
     }
