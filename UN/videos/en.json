@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Taking on Record Temperatures: UN Chief's Call to Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/og7QrAZJQP8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "og7QrAZJQP8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Restrictions to religious freedom matter of grave concern | Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QIx5aoZHXU8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Syria: Civilians continue to be detained, tortured, & killed amid violent clashes | Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/haY9ycn7OII/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "haY9ycn7OII"
         }
       }
     }
