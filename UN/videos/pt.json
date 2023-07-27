@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comandante de boinas-azuis na RD Congo fala na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYvffgM0kAY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "iYvffgM0kAY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O impacto dos ataques ao porto de Odessa, na Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a3BsZK0qnB4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nova Agenda para a Paz da ONU quer conter fragmentação e novas ameaças",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XPXR4rqeAnM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XPXR4rqeAnM"
         }
       }
     }
