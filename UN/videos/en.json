@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Peacekeeping and the Protection of Civilians - Briefing | Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hv0PX-VWWI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-hv0PX-VWWI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Niger, Peacekeeping operations & other topics - Daily Press Briefing (28 July)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NdCtNmPbt9U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Odesa, Ukraine, Peace & Security Issues | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hpI4LBZW-yI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hpI4LBZW-yI"
         }
       }
     }

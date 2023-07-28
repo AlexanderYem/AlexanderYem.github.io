@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campeã de boxe luta contra discurso de ódio #onu #boxe #YokastaValle #boxeadora #preconceito",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/66jv5jiPcvo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "66jv5jiPcvo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Parte dos jovens na RD Congo demonstra adversidade à missão de paz da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FjFZAVCLYh4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil quer levar Objetivos de Desenvolvimento Sustentável a todos os munícipios",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D_qlka1IulI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D_qlka1IulI"
         }
       }
     }
