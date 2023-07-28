@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tunaishi mara moja na tuna ini moja, tutokomeze Homa ya Ini – Dkt. Tedros wa WHO",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEM1wBKYt2Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bEM1wBKYt2Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kutoka Dodoma Tanzania Bara hadi Paje, Zanzibar kukabiliana na  umaskini",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "N1ARmurkOwI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Askari wa Sheka walichinja watu na kutembea mitaani wakiwa wamebeba vichwa vyao,\" - Shuhuda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cX6Kt3uCyjA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cX6Kt3uCyjA"
         }
       }
     }
