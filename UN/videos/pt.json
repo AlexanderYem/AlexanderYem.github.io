@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Parte dos jovens na RD Congo demonstra adversidade à missão de paz da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sXNr1M0CbE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6sXNr1M0CbE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campeã mundial de box se junta à ONU contra discurso de ódio",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D_qlka1IulI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Inteligência artificial, jovens e segurança em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tfftaDLuZvY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tfftaDLuZvY"
         }
       }
     }
