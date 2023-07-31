@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Je unafahamu kuwa kuna fursa ya ufadhili katika nishati safi na salama Tanzania?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_whYHTopvvM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_whYHTopvvM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tunaishi mara moja na tuna ini moja, tutokomeze Homa ya Ini – Dkt. Tedros wa WHO",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GSS5xXxuPTE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vijana wengi wanasoma lakini elimu haiwawezeshi kutatua changamoto za kijamii - Gibson",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N1ARmurkOwI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N1ARmurkOwI"
         }
       }
     }
