@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Une opération de l'ONU pour éviter une marée noire au large du Yémen",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jz6OpFg6aX8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jz6OpFg6aX8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan : Stigmatisation et discrimination dont sont victimes les toxicomanes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gf2nPRfMGRI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Visite de solidarité pour le ramadan : le chef de l'ONU appelle à l'aide à la Somalie",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f2M5rCx04AU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f2M5rCx04AU"
         }
       }
     }
