@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vice-secretária-geral da ONU visita o Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yi5_NNUGo78/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Yi5_NNUGo78"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Operação da ONU para salvar petroleiro à deriva, no Mar Vermelho, deve durar até 3 semanas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XoOEN-myQM8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP-30 no Brasil levanta “grandes expectativas” de agência da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XpeRcBcCLds/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XpeRcBcCLds"
         }
       }
     }
