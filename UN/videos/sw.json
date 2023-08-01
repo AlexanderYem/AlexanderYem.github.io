@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DRC na UN Women wainua wanawake Goma: Washona na kuuza nguo nje ya nchi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yDdtBaDyiSY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yDdtBaDyiSY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Meli hadi meli",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3S8bGTVErlM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Msaada wa UNHCR na AIDES warejesha matumaini ya wakimbizi wa Rwanda na Burundi nchini DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cQxRwtbSf48/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cQxRwtbSf48"
         }
       }
     }
