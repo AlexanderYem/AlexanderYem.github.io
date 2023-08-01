@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Истории пострадавших от торговли людьми: Наталья из Беларуси",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IypdzIQjI7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IypdzIQjI7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Комментарий Генерального секретаря ООН по поводу климатических изменений",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QTbvwZEUwiU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ПОСЛАНИЕ ПО СЛУЧАЮ ВСЕМИРНОГО ДНЯ БЕЖЕНЦЕВ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dOkbeOOM5Nw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dOkbeOOM5Nw"
         }
       }
     }
