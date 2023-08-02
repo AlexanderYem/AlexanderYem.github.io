@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wakili Jebra Kambole anafafanua Ibara ya 6 ya Tamko na Haki za Binadamu la UN linalotimiza miaka 75.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qll-5-kC6M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3qll-5-kC6M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "DRC na UN Women wainua wanawake Goma: Washona na kuuza nguo nje ya nchi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1fTLVZBo2UU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wakimbizi katika Michezo: Kutana na Timu ya Taifa ya Kandanda ya Wanawake ya Afghanistan",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3S8bGTVErlM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3S8bGTVErlM"
         }
       }
     }
