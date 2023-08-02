@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maji ni matamu sana!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/srJYNzbYg2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "srJYNzbYg2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wakili Jebra Kambole anafafanua Ibara ya 6 ya Tamko na Haki za Binadamu la UN linalotimiza miaka 75.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9XtpHIACMF0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wimbi la wakimbizi wa ndani: Hospitali Sudan zaomba kusaidia vifaa tiba",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1fTLVZBo2UU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1fTLVZBo2UU"
         }
       }
     }
