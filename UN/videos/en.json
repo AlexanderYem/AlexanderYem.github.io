@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Colombia, Sudan, Syria & other topics - Daily Press Briefing (3 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtDAPBYOj-c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OtDAPBYOj-c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "US Secretary of State/Security Council President on Fighting Food Insecurity & More | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lNgM8UMERo0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hunger Crisis: WFP Faces Funding Cut | World Food Program",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pNat2ubnmBU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pNat2ubnmBU"
         }
       }
     }
