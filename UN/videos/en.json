@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali, UN Deputy Secretary-General's Travels & other topics - Daily Press Briefing (4 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KFDGvXupj6o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KFDGvXupj6o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Colombia, Sudan, Syria & other topics - Daily Press Briefing (3 August 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rWEfCIKROGg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pakistan, Niger, Sudan & other topics - Daily Press Briefing (31 July)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lNgM8UMERo0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lNgM8UMERo0"
         }
       }
     }
