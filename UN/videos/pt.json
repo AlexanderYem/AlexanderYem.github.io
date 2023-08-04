@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres civis tendem a se confidenciar com as boinas-azuis na RD Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vuSGutzv7l0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vuSGutzv7l0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vice-secretária-geral da ONU visita Amazônia para discutir ações e parcerias",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xhScB7vDsAk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comandante de boinas-azuis na RD Congo fala na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iYvffgM0kAY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iYvffgM0kAY"
         }
       }
     }
