@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em visita a povo indígena no Pará, vice-líder da ONU reforça luta por direitos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ss1UvJOZcuY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ss1UvJOZcuY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mulheres civis tendem a se confidenciar com as boinas-azuis na RD Congo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6sXNr1M0CbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campeã mundial de box se junta à ONU contra discurso de ódio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xhScB7vDsAk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xhScB7vDsAk"
         }
       }
     }
