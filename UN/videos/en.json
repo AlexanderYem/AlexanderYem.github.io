@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Empowering Education: Insights from UN Special Adviser and UNESCO Director | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3J8HhM8-RvI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3J8HhM8-RvI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Children's Crisis in Sudan: Insights from UNICEF and OCHA Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hnjTuE7WkX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Global Fight Against Terrorism: Mandate and Challenges | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/80hCB0Otv-o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "80hCB0Otv-o"
         }
       }
     }
