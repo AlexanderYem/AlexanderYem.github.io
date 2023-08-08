@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "76% das crianças no sul da Ásia estão expostas ao calor extremo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/87YCmdQm4wY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "87YCmdQm4wY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha Juventude Lidera - Mensagem da enviada especial da ONU para a Juventude",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Yi5_NNUGo78"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Operação da ONU para salvar petroleiro à deriva, no Mar Vermelho, deve durar até 3 semanas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IKh9fd4IhWg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IKh9fd4IhWg"
         }
       }
     }
