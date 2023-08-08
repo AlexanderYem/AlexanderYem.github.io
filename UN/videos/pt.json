@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha Juventude Lidera - Mensagem da enviada especial da ONU para a Juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/75VeecA9OQw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "75VeecA9OQw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vice-secretária-geral da #ONU visita terra #indígena Mapuera, no #Pará, #brasil #onubrasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IKh9fd4IhWg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campeã de boxe luta contra discurso de ódio #onu #boxe #YokastaValle #boxeadora #preconceito",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/66jv5jiPcvo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "66jv5jiPcvo"
         }
       }
     }
