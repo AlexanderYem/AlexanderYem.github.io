@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Syria's Chemical Weapons: OPCW Reports Missing Declarations | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFvw-mrusrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZFvw-mrusrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Niger, Sudan & other topics - Daily Press Briefing (8 August 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0Ccj44Iz_c0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "US Security Council Presidency: Food Security & Human Rights | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/emM5t9oYANA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "emM5t9oYANA"
         }
       }
     }
