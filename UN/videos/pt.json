@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional dos Povos Indígenas destaca papel da juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K8uPt-mzC8Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K8uPt-mzC8Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Países lusófonos buscam extensão da plataforma continental",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8FCi6Bk0R9w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vice-chefe da ONU fala de metas globais no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wj4nzi6tky4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Wj4nzi6tky4"
         }
       }
     }
