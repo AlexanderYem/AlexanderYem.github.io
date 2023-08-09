@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Países lusófonos buscam extensão da plataforma continental",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cmELKNYVowc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cmELKNYVowc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "76% das crianças no sul da Ásia sofrem com calor extremo #aquecimentoglobal  #ondasdecalor #onu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wj4nzi6tky4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil e Turquia elogiados pela OMS por liderarem medidas contra tabaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZyYF7DsquwA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZyYF7DsquwA"
         }
       }
     }

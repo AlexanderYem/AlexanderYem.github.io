@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Journée internationale des peuples autochtones",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YeSY8VD-dBA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YeSY8VD-dBA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Une opération de l'ONU pour éviter une marée noire au large du Yémen",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TMjxUzOGSNk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Immaculée Songa :  survivante du génocide de 1994 contre les Tutsis au Rwanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gf2nPRfMGRI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gf2nPRfMGRI"
         }
       }
     }
