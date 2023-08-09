@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sudan, DRC & other topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rjDuSrwUz0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-rjDuSrwUz0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan on the Country - Security Council Media Stakeout (9 Aug 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nRELtE8_WlM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali, UN Deputy Secretary-General's Travels & other topics - Daily Press Briefing (4 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KFDGvXupj6o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KFDGvXupj6o"
         }
       }
     }
