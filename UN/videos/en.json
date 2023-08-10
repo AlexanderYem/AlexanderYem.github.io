@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Albania, France, Japan, Malta, UK & USA on Georgia - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-f1M-1F9owg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-f1M-1F9owg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "USA, Albania, Japan & Republic of Korea on DPR Korea & Niger- Security Council Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ri0Zeou-FxM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hiroshima, Ukraine, Sudan & other topics - Daily Press Briefing (7 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uhkGw443tEM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uhkGw443tEM"
         }
       }
     }
