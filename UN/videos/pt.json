@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Depoimento de Raquel Tupinambá sobre os Diálogos Amazônicos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3vVSyLMOd_g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3vVSyLMOd_g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "No Iraque, chefe de direitos humanos da ONU destaca impactos da mudança climática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vuSGutzv7l0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vice-secretária-geral da ONU visita Amazônia para discutir ações e parcerias",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bLKe89awvhE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bLKe89awvhE"
         }
       }
     }

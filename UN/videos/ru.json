@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Мигранты: опасное путешествие",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xi7toXL0bvo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xi7toXL0bvo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Истории пострадавших от торговли людьми: Наталья из Беларуси",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ejgf3GSPFMA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Помнить о геноциде: «Матери Сребреницы»",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QTbvwZEUwiU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QTbvwZEUwiU"
         }
       }
     }
