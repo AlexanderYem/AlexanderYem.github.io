@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Teknolojia kupunguza umaskini wa kujifunza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAZOkUf7Z80/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AAZOkUf7Z80"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vijana hatutaki mchezo!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8ScLB7-Mc5g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Elimu ni haki ya msingi ya kila mtoto ndio maana tunachukua hatua Kenya kuhakikisha hilo: UNICEF",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hy8Q3wudzFI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hy8Q3wudzFI"
         }
       }
     }
