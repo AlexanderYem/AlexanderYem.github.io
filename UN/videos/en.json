@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Albania, France, Japan, Malta, UK & USA on Georgia - Security Council Media Stakeout",
+        "title": "Niger, Ecuador & other topics - Daily Press Briefing (10 August)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eAg93vrIdCs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eAg93vrIdCs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Albania, France, Japan, Malta, UK & USA Address Georgia | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/-f1M-1F9owg/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZFvw-mrusrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Niger, Sudan & other topics - Daily Press Briefing (8 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ri0Zeou-FxM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ri0Zeou-FxM"
         }
       }
     }
