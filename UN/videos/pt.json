@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Alto comissário de Direitos Humanos da #onu visita o #iraque e fala sobre #mudançaclimática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6_MK7C4xOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h6_MK7C4xOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Celebrando a #juventude que lidera, campanha da #onu para apoiar #jovens que fazem a diferença",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o_arRgpKYxc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Em visita a povo indígena no Pará, vice-líder da ONU reforça luta por direitos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ss1UvJOZcuY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ss1UvJOZcuY"
         }
       }
     }
