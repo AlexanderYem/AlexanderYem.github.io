@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Celebrando a #juventude que lidera, campanha da #onu para apoiar #jovens que fazem a diferença",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m90PlaCKmuo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m90PlaCKmuo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Depoimento de Raquel Tupinambá sobre os Diálogos Amazônicos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ss1UvJOZcuY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mulheres civis tendem a se confidenciar com as boinas-azuis na RD Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vuSGutzv7l0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vuSGutzv7l0"
         }
       }
     }
