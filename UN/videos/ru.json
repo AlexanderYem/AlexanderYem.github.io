@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Перекачка нефти с аварийного танкера в Красном море успешно завершилась",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaHpI8LA3lU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yaHpI8LA3lU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Мигранты: опасное путешествие",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v_gjZ2BDQuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по случаю Международного дня йоги",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ejgf3GSPFMA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ejgf3GSPFMA"
         }
       }
     }
