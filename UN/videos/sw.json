@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sitamani tena kuzamia kwenda Ulaya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjczNRxzGNE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MjczNRxzGNE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukosefu wa usalama DRC unatuumiza sisi vijana - Florent",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3qll-5-kC6M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DRC na UN Women wainua wanawake Goma: Washona na kuuza nguo nje ya nchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yDdtBaDyiSY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yDdtBaDyiSY"
         }
       }
     }
