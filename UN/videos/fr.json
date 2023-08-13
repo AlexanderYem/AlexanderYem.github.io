@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le voyage dangereux des migrants",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dm7n9FmIS1c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dm7n9FmIS1c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Journée internationale des peuples autochtones",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WBvz7i6XeYg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rapport des Nations Unies sur la Population : 5 faits",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TMjxUzOGSNk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TMjxUzOGSNk"
         }
       }
     }
