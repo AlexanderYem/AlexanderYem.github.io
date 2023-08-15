@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha luta pelo direito de meninas afegãs à #educação #AfghanGirlsVoices #afeganistão #onu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pO-6StTohK0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pO-6StTohK0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Campanha global luta pelo direito de meninas afegãs à educação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pecCHUbjOR8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pecCHUbjOR8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Justiça de transição em Timor-Leste aposta em reparação e pacificação",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "16mcR-UzOP0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "76% das crianças no sul da Ásia estão expostas ao calor extremo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/87YCmdQm4wY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "87YCmdQm4wY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha Juventude Lidera - Mensagem da enviada especial da ONU para a Juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/75VeecA9OQw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "75VeecA9OQw"
         }
       }
     }
