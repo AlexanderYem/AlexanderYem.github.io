@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Meninas e acesso a tecnologias digitais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqBP-wH4UTQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cqBP-wH4UTQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Campanha luta pelo direito de meninas afegãs à #educação #AfghanGirlsVoices #afeganistão #onu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cmELKNYVowc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "76% das crianças no sul da Ásia sofrem com calor extremo #aquecimentoglobal  #ondasdecalor #onu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/16mcR-UzOP0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "16mcR-UzOP0"
         }
       }
     }
