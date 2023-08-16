@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Destaque ONU News - Acesso à tecnologia, economia na África e Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZbGN5uOCTQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9ZbGN5uOCTQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Meninas e acesso a tecnologias digitais",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "twN8dR9QOjM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional dos Povos Indígenas destaca papel da juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K8uPt-mzC8Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K8uPt-mzC8Y"
         }
       }
     }
