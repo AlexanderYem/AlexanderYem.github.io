@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sustainable Kitchen Tips: La Cucina Italiana Editor's Insights | Condé Nast Ambassador | #ActNow",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GQHcGCKcjPc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GQHcGCKcjPc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan, Ukraine, Sudan & other topics - Daily Press Briefing (15 August 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iOJ-nvug5_c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Niger, Ecuador & other topics - Daily Press Briefing (10 August)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eAg93vrIdCs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eAg93vrIdCs"
         }
       }
     }
