@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tumejitoa kwa ajili ya wengine!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ch66kEQLj3c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ch66kEQLj3c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Je wewe nani alikuchochea kufanya ufanyacho sasa?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AAZOkUf7Z80"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vijana hatutaki mchezo!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EkgAiQSIQkI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EkgAiQSIQkI"
         }
       }
     }
