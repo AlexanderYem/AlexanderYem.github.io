@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Joint Stakeout on the human rights situation in DPR Korea | Security Council | United Nations",
+        "title": "Mali, Democratic Republic of the Congo & other topics - Daily Press Briefing (17 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccTBnrvImaE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ccTBnrvImaE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Global Call for Accountability: Human Rights, DPRK & International Peace | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/lRO1BBhBoiY/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Gnw8mheUuvs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sustainable Kitchen Tips: La Cucina Italiana Editor's Insights | Condé Nast Ambassador | #ActNow",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GQHcGCKcjPc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GQHcGCKcjPc"
         }
       }
     }
