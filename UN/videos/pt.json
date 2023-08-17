@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Situação humanitária do Níger tende a piorar, alerta ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4zIj31fKYs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u4zIj31fKYs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Destaque ONU News - Acesso à tecnologia, economia na África e Afeganistão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3vVSyLMOd_g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "No Iraque, chefe de direitos humanos da ONU destaca impactos da mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/twN8dR9QOjM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "twN8dR9QOjM"
         }
       }
     }
