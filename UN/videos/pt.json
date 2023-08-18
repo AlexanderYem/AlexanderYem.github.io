@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem do secretário-geral da ONU para o Dia Mundial Humanitário de 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJkQMmOW1WE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uJkQMmOW1WE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Situação humanitária do Níger tende a piorar, alerta ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m90PlaCKmuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Depoimento de Raquel Tupinambá sobre os Diálogos Amazônicos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3vVSyLMOd_g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3vVSyLMOd_g"
         }
       }
     }
