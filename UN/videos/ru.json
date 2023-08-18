@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/60Uz0dcjOJ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "60Uz0dcjOJ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Перекачка нефти с аварийного танкера в Красном море успешно завершилась",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NyUjMfaQ2Vc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью с Постоянным представителем Туркменистана при ООН Аксолтан Атаевой",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v_gjZ2BDQuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v_gjZ2BDQuo"
         }
       }
     }

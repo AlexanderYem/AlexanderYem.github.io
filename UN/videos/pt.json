@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Inspirados pela excelência por Sergio Vieira de Mello",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPc_blgQZLU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vPc_blgQZLU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem do secretário-geral da ONU para o Dia Mundial Humanitário de 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h6_MK7C4xOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Celebrando a #juventude que lidera, campanha da #onu para apoiar #jovens que fazem a diferença",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m90PlaCKmuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m90PlaCKmuo"
         }
       }
     }
