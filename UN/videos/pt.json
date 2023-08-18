@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU presta tributo a Sergio Viera de Mello e colegas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Tim0x9PjWk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0Tim0x9PjWk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sergio Vieira de Mello: Como seria com ele hoje?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pO-6StTohK0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Campanha global luta pelo direito de meninas afegãs à educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pecCHUbjOR8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pecCHUbjOR8"
         }
       }
     }
