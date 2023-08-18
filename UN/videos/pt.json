@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Sergio Vieira de Mello: Como seria com ele hoje?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ItDVziAI5RQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ItDVziAI5RQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sergio Viera de Mello na ação política, humanitária e promoção da paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfqbsOE6_Z0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kfqbsOE6_Z0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Inspirados pela excelência por Sergio Vieira de Mello",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "pecCHUbjOR8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Justiça de transição em Timor-Leste aposta em reparação e pacificação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BVMbcctSVn4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BVMbcctSVn4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alto comissário de Direitos Humanos da #onu visita o #iraque e fala sobre #mudançaclimática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h6_MK7C4xOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h6_MK7C4xOY"
         }
       }
     }
