@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "TUko vizuri!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hej-7wlniOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Hej-7wlniOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ninavaa suti kumkumbuka baba yangu aliyefariki kwenye shambulio la kigaidi Nairobi - Nigeel Namai",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fo7QUpLS8PI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mgonjwa wa mwisho wa aina ya kwanza ya polio nchini Tanzania",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dRXCCu6wiAE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dRXCCu6wiAE"
         }
       }
     }
