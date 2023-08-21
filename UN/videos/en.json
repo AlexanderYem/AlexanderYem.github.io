@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cyprus, Mali, Democratic Republic of the Congo & other topics - Daily Briefing (21 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vNuutD-INQ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vNuutD-INQ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Middle East Update: Escalating Violence & Stalled Progress | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dMN0kLChz8E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali, Democratic Republic of the Congo & other topics - Daily Press Briefing (17 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ccTBnrvImaE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ccTBnrvImaE"
         }
       }
     }
