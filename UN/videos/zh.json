@@ -1,14 +1,15 @@
 {
   "error": {
-    "code": 400,
-    "message": "Request contains an invalid argument.",
+    "code": 404,
+    "message": "The playlist identified with the request's \u003ccode\u003eplaylistId\u003c/code\u003e parameter cannot be found.",
     "errors": [
       {
-        "message": "Request contains an invalid argument.",
-        "domain": "global",
-        "reason": "badRequest"
+        "message": "The playlist identified with the request's \u003ccode\u003eplaylistId\u003c/code\u003e parameter cannot be found.",
+        "domain": "youtube.playlistItem",
+        "reason": "playlistNotFound",
+        "location": "playlistId",
+        "locationType": "parameter"
       }
-    ],
-    "status": "INVALID_ARGUMENT"
+    ]
   }
 }

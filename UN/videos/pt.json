@@ -1,14 +1,134 @@
 {
-  "error": {
-    "code": 429,
-    "message": "Resource has been exhausted (e.g. check quota).",
-    "errors": [
-      {
-        "message": "Resource has been exhausted (e.g. check quota).",
-        "domain": "global",
-        "reason": "rateLimitExceeded"
+  "items": [
+    {
+      "snippet": {
+        "title": "Oportunidades e riscos da exploração do fundo marinho",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-MlhHNDRYNA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-MlhHNDRYNA"
+        }
       }
-    ],
-    "status": "RESOURCE_EXHAUSTED"
-  }
+    },
+    {
+      "snippet": {
+        "title": "ONU presta tributo a Sergio Viera de Mello e colegas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Tim0x9PjWk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0Tim0x9PjWk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sergio Vieira de Mello: Como seria com ele hoje?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ItDVziAI5RQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ItDVziAI5RQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sergio Viera de Mello na ação política, humanitária e promoção da paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfqbsOE6_Z0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kfqbsOE6_Z0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Inspirados pela excelência por Sergio Vieira de Mello",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPc_blgQZLU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vPc_blgQZLU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Mensagem do secretário-geral da ONU para o Dia Mundial Humanitário de 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJkQMmOW1WE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uJkQMmOW1WE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Situação humanitária do Níger tende a piorar, alerta ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4zIj31fKYs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u4zIj31fKYs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Destaque ONU News - Acesso à tecnologia, economia na África e Afeganistão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZbGN5uOCTQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9ZbGN5uOCTQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Meninas e acesso a tecnologias digitais",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqBP-wH4UTQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cqBP-wH4UTQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Relatório de desenvolvimento econômico na África 2023 da Unctad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KgvefW6ouqE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KgvefW6ouqE"
+        }
+      }
+    }
+  ]
 }
