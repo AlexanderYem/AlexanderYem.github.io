@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Joint Stakeout on Palestine - Security Council Media Stakeout (22 August 2023) | United Nations",
+        "title": "Sudan, Democratic Republic of the Congo & other topics - Daily Press Briefing (22 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gvT6UnnVMp4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gvT6UnnVMp4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Addressing Palestinian Rights & Peace Prospects | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/3O9LHXSKPFk/hqdefault.jpg"
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Special representative on Libya - Security Council Media Stakeout (22 August 2023) | United Nations",
+        "title": "Libya: Pursuing Elected Leadership & Addressing Regional Concern | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/h3xbcNsmzb4/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QfrGKt4UKI0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Human Rights Crisis: DPR Korea's Closed Society & Implications | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eJrw7ohRoPI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eJrw7ohRoPI"
         }
       }
     }
