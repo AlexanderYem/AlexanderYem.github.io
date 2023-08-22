@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Sudan, Democratic Republic of the Congo & other topics - Daily Press Briefing (22 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gvT6UnnVMp4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gvT6UnnVMp4"
-        }
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "errors": [
+      {
+        "message": "The service is currently unavailable.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "Addressing Palestinian Rights & Peace Prospects | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3O9LHXSKPFk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3O9LHXSKPFk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Libya: Pursuing Elected Leadership & Addressing Regional Concern | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h3xbcNsmzb4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h3xbcNsmzb4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cyprus, Mali, Democratic Republic of the Congo & other topics - Daily Briefing (21 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vNuutD-INQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vNuutD-INQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Middle East Update: Escalating Violence & Stalled Progress | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lmoT4IGsRJk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lmoT4IGsRJk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Int'l Day of Remembrance of and Tribute to the Victims of Terrorism | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5plMywjTk9A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5plMywjTk9A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Concerns Over Cluster Munition Transfer: Tackling Conflict Escalation in Ukraine | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nGrDa0E_kd8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nGrDa0E_kd8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Empowering Amazon: UN Deputy Chief's Visit to Mapuera Indigenous Land | United Nations #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GZGI5lqc5-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GZGI5lqc5-w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "World Humanitarian Day, Niger, Mali & other topics - Daily Press Briefing (18 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bUp5A9kfsek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bUp5A9kfsek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian Crisis &  Militarization: Insights from Special Rapporteur on DPRK | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QfrGKt4UKI0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QfrGKt4UKI0"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "UNAVAILABLE"
+  }
 }

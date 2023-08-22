@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "خشخاش الأفيون: ما البديل للمزارع الأفغاني؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lQCjJ4ECX-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lQCjJ4ECX-w"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "بمشاركة أكثر من 130 ألف طفل، الأونروا تطلق فعاليات أسابيع المرح في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LMQiVUSJr5o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LMQiVUSJr5o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مسؤولة أممية: أوقفوا الحرب، السودانيون يرغبون في العودة إلى منازلهم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/imiJ7KQ5f1k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "imiJ7KQ5f1k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بدء عملية نقل النفط من خزان صافر- والأمين العام يصف الخطوة بالحاسمة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qddg-1hUqPg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qddg-1hUqPg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كيف يبدو الوضع في غزة في ظل الأزمة المالية الوجودية التي تمر بها الأونروا؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AAA3-fQhPuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AAA3-fQhPuo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ياسمين شريف: نحن في سباق لضمان التعليم لجميع الأطفال وما من خيار سوى الفوز",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bjd0jCDnwmc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bjd0jCDnwmc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "هل ستكون الروبوتات بديلا للبشر؟؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9dVrl6zQZZY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9dVrl6zQZZY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدين العنف في الضفة الغربية ويدعو إسرائيل إلى التقيد بالتزاماتها بموجب القانون الدولي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fz6IoI6VPaY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fz6IoI6VPaY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "التصدي لوباء المخدرات في أفغانستان من خلال قوة المعرفة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PRqS13lKi3M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PRqS13lKi3M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وزير عُماني: نحن أسرة إنسانية واحدة ولا بديل عن التسامح والتعايش المشترك",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/abWpweuoYmY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "abWpweuoYmY"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }

@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/60Uz0dcjOJ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "60Uz0dcjOJ0"
-        }
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
       }
-    },
-    {
-      "snippet": {
-        "title": "Перекачка нефти с аварийного танкера в Красном море успешно завершилась",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yaHpI8LA3lU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yaHpI8LA3lU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мигранты: опасное путешествие",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xi7toXL0bvo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xi7toXL0bvo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Истории пострадавших от торговли людьми: Наталья из Беларуси",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IypdzIQjI7k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IypdzIQjI7k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Комментарий Генерального секретаря ООН по поводу климатических изменений",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dYKTYHcjQZc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dYKTYHcjQZc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН отдал дань памяти погибшим в прошлом году сотрудникам Организации",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hLW6bDS096w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hLW6bDS096w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день Нельсона Манделы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/53AGo-J72tk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "53AGo-J72tk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Черноморская инициатива: чем она важна для мира?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/As8rWNNNmxQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "As8rWNNNmxQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AI for Good: «Искусственный интеллект во благо [человека]»",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FBqsIYvNDOI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FBqsIYvNDOI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Опиумный кризис в Афганистане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NyUjMfaQ2Vc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NyUjMfaQ2Vc"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "RESOURCE_EXHAUSTED"
+  }
 }
