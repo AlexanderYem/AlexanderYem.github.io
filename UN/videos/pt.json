@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aiea monitora descarte de água contaminada da usina de Fukushima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QceUIn6w4M0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QceUIn6w4M0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Resultados da medicina integrativa no Brasil: Entrevista com Ricardo Ghelman",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9ZbGN5uOCTQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Meninas e acesso a tecnologias digitais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cqBP-wH4UTQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cqBP-wH4UTQ"
         }
       }
     }
