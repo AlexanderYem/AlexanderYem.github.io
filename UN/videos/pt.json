@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Resultados da medicina integrativa no Brasil: Entrevista com Ricardo Ghelman",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5iQDyUvQT8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M5iQDyUvQT8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Oportunidades e riscos da exploração do fundo marinho",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cqBP-wH4UTQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Relatório de desenvolvimento econômico na África 2023 da Unctad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KgvefW6ouqE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KgvefW6ouqE"
         }
       }
     }
