@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "South Africa & other topics - Daily Press Briefing (24 August 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YlOHnu3cIto/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YlOHnu3cIto"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief: BRICS Summit Interview with Sophie Mokoena | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gvT6UnnVMp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Addressing Palestinian Rights & Peace Prospects | Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3O9LHXSKPFk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3O9LHXSKPFk"
         }
       }
     }
