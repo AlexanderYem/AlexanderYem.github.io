@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "South Africa & other topics - Daily Press Briefing (24 August 2023)",
+        "title": "USA, Albania and Ukraine on Ukraine - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMfj-FChJ7o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EMfj-FChJ7o"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Secretary-General in South Africa & other topics - Daily Press Briefing (24 August 2023)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/YlOHnu3cIto/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4tMTA6RmXFM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan, Democratic Republic of the Congo & other topics - Daily Press Briefing (22 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gvT6UnnVMp4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gvT6UnnVMp4"
         }
       }
     }
