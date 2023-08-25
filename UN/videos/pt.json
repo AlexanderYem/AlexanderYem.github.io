@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#onu acompanha descarte da água contaminada da usina nuclear de #Fukushima, no #japão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQPyEaML1NI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DQPyEaML1NI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique e alta de crimes cibernéticos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uJkQMmOW1WE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Situação humanitária do Níger tende a piorar, alerta ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u4zIj31fKYs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u4zIj31fKYs"
         }
       }
     }
