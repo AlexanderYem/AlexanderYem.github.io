@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique e alta de crimes cibernéticos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/39tLanQ5CWA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "39tLanQ5CWA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aiea monitora descarte de água contaminada da usina de Fukushima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u4zIj31fKYs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Destaque ONU News - Acesso à tecnologia, economia na África e Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ZbGN5uOCTQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9ZbGN5uOCTQ"
         }
       }
     }
