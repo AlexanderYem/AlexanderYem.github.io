@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "la MINUSMA quitte mais les Nations-Unies restent",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK-aMTKDhUI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VK-aMTKDhUI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Votre accès à l'ONU - un nouveau design",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UTTAaLNDhUk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Promouvoir l'égalité : Prix du Défenseur militaire de l'égalité des sexes de l’ONU pour 2022",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6Rbgjm_JCHg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6Rbgjm_JCHg"
         }
       }
     }
