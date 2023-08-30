@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lebanon & Mali - Security Council Meeting (30 August 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuvo7bUBec8/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zuvo7bUBec8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pakistan, Cyprus, Iran & other topics - Daily Press Briefing (29 August 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Mn_8qVUxNyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Empowering Women for Peace: Addressing Gender-Based Violence | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/itGLSKnko7Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "itGLSKnko7Y"
         }
       }
     }
