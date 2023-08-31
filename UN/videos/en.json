@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Secretary-General Speaks to the Press | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VYvwYoLOhHA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VYvwYoLOhHA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "US on its Presidency of the Security Council for the month of August | United Nations",
         "thumbnails": {
           "high": {
@@ -88,19 +101,6 @@
         },
         "resourceId": {
           "videoId": "DiXZyuHA86Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Secretary-General Speaks to the Press | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VYvwYoLOhHA/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VYvwYoLOhHA"
         }
       }
     },
