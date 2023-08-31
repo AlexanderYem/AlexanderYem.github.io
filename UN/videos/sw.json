@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Siku ya kimataifa ya watu wenye asili ya Afrika na waafrika walio ughaibuni",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hRxyy0-WblA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hRxyy0-WblA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mgeni njoo mwenyeji apone",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sVKLTG4T0ig"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "TUko vizuri!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hej-7wlniOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hej-7wlniOY"
         }
       }
     }
