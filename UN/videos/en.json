@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (31 August 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VDYIRDrtpmQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VDYIRDrtpmQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "New UN guidance on youth and climate change will make a ‘huge difference’ | United Nations Podcast",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PD-r16DHEJw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PD-r16DHEJw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali: Failed Resolutions - Security Council Meeting (30 August 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y57Vuu7_33k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discover the New UN News App: Verified content sourced from the UN #shorts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bezFzjDigAY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bezFzjDigAY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council, Safer Tanker, Sudan & other topics - Daily Press Briefing (28 August 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XE4TJXpmBag/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XE4TJXpmBag"
         }
       }
     }
