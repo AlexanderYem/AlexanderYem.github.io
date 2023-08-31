@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU apoia resiliência em Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9aGkBAbFuc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H9aGkBAbFuc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Governos militares não são a solução\", diz líder da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kfqbsOE6_Z0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Inspirados pela excelência por Sergio Vieira de Mello",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vPc_blgQZLU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vPc_blgQZLU"
         }
       }
     }
