@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN 31 AGOSTI 2023 - Tunajikita Goma, DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjGEywJxueo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MjGEywJxueo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Siku ya kimataifa ya watu wenye asili ya Afrika na waafrika walio ughaibuni",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aX4TXHz2ieo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sVKLTG4T0ig/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sVKLTG4T0ig"
         }
       }
     }
