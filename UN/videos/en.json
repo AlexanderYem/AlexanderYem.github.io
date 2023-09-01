@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, South Africa, Mali & other topics - Daily Briefing (1 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXJTJ4bbCdE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FXJTJ4bbCdE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on African Coups, Diplomacy, and Global Stability | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jO6xSC9hUQM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pakistan, Cyprus, Iran & other topics - Daily Press Briefing (29 August 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5XVPIANCi0A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5XVPIANCi0A"
         }
       }
     }
