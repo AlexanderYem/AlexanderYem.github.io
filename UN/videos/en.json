@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Security Council's September Agenda: Ukraine, Haiti, Sudan & Syria | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZERqE209GA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VZERqE209GA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate, South Africa, Mali & other topics - Daily Briefing (1 September 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DiXZyuHA86Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United States on DPR Korea & Russia Arms Negotiation | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jO6xSC9hUQM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jO6xSC9hUQM"
         }
       }
     }
