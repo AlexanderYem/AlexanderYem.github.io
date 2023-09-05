@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bastidores da abertura da 78ª sessão da Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/saof6xWoBiw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "saof6xWoBiw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU apoia resiliência em Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ItDVziAI5RQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sergio Viera de Mello na ação política, humanitária e promoção da paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kfqbsOE6_Z0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kfqbsOE6_Z0"
         }
       }
     }
