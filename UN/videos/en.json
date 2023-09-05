@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live - 19 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgWMhijIh_k/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZgWMhijIh_k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (5 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPm0Lglcj2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tPm0Lglcj2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dennis Francis takes oath of office as 78th UN General Assembly President | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jiQJH8uY5C0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (31 August 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VDYIRDrtpmQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VDYIRDrtpmQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "New UN guidance on youth and climate change will make a ‘huge difference’ | United Nations Podcast",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PD-r16DHEJw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PD-r16DHEJw"
         }
       }
     }
