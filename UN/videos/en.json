@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Kenya, Syria, Mali  & other topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gae8VacHbfU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gae8VacHbfU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Deputy Secretary-General Amina Mohammed Closes 77th UN General Assembly Session | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AnCEwZ4TfGY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AnCEwZ4TfGY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 General Debate Live - 19 September 2023",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "VYvwYoLOhHA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "US on its Presidency of the Security Council for the month of August | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/81csX37SWBA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "81csX37SWBA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "The Int'l Day for People of African Descent (31st August) | United Nations #fightracism",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jiQJH8uY5C0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jiQJH8uY5C0"
         }
       }
     }
