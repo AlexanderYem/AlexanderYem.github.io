@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, Air Quality & other topics - Daily Press Briefing (6 September 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjIcvvu6vaw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZjIcvvu6vaw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (6 September 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tPm0Lglcj2k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dennis Francis takes oath of office as 78th UN General Assembly President | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oy5hIk_2ru4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oy5hIk_2ru4"
         }
       }
     }
