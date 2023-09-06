@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Verão de 2023 é o mais quente já registrado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6xEg3MJpKJ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6xEg3MJpKJ8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dennis Francis assumiu presidência da 78ª Assembleia Geral das Nações Unidas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HEzFh8BZ_GU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HEzFh8BZ_GU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Bastidores da abertura da 78ª sessão da Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "-MlhHNDRYNA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU presta tributo a Sergio Viera de Mello e colegas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0Tim0x9PjWk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0Tim0x9PjWk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sergio Vieira de Mello: Como seria com ele hoje?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ItDVziAI5RQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ItDVziAI5RQ"
         }
       }
     }
