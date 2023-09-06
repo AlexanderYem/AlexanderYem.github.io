@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNGA 78th President's Inaugural Address: A Vision for Progress & Peace | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEwLYZiA5T8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PEwLYZiA5T8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kenya, Syria, Mali  & other topics - Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FXJTJ4bbCdE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on African Coups, Diplomacy, and Global Stability | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VYvwYoLOhHA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VYvwYoLOhHA"
         }
       }
     }
