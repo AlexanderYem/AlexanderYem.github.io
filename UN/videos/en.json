@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (6 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6iOXysp-wxQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6iOXysp-wxQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Presidential Gavel Handover: 77th to 78th UN General Assembly | United Nations #shorts",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CRQVphZd-E0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CRQVphZd-E0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian Crisis in DRC: Calls for Urgent Action | OCHA | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "oy5hIk_2ru4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidential Handing over of the Gavel: 77th -78th Session UN General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oHdKXKvsmUo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oHdKXKvsmUo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "President of the General Assembly at the Closing of the 77th Session | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xfDs8LYLRUI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xfDs8LYLRUI"
         }
       }
     }
