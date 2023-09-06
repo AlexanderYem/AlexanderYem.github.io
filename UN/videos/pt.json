@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministros apontam medicina tradicional como “recurso valioso” para humanidade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/308djLJVOyM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "308djLJVOyM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Verão de 2023 é o mais quente já registrado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M5iQDyUvQT8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Oportunidades e riscos da exploração do fundo marinho",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-MlhHNDRYNA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-MlhHNDRYNA"
         }
       }
     }
