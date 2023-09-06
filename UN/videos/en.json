@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief António Guterres at Africa Climate Summit 2023 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBy-pMamSjw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uBy-pMamSjw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNGA 78th President's Inaugural Address: A Vision for Progress & Peace | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VZERqE209GA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Climate, South Africa, Mali & other topics - Daily Briefing (1 September 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FXJTJ4bbCdE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FXJTJ4bbCdE"
         }
       }
     }
