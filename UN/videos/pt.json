@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aplicativo da ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oRAaRLb1JNk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oRAaRLb1JNk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comentários sobre a Cúpula Africana do Clima #climatechange #desenvolvimento #sustentabilidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "39tLanQ5CWA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aiea monitora descarte de água contaminada da usina de Fukushima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QceUIn6w4M0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QceUIn6w4M0"
         }
       }
     }

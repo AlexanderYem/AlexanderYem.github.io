@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Приложение «Новости ООН»",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PaBmHg7fHCw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PaBmHg7fHCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FBqsIYvNDOI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Опиумный кризис в Афганистане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NyUjMfaQ2Vc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NyUjMfaQ2Vc"
         }
       }
     }
