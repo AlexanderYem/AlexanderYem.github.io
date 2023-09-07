@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "News in Brief (7 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WBaYPG82-PE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WBaYPG82-PE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Indonesia, Syria & other topics - Daily Press Briefing (7 September 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uBy-pMamSjw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNGA 78th President's Inaugural Address: A Vision for Progress & Peace | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PEwLYZiA5T8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PEwLYZiA5T8"
         }
       }
     }
