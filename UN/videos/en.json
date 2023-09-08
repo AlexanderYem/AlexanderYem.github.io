@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief's Urgent G20 Climate Appeal: A Call to Save Our Planet | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L8FXTo7WFvA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L8FXTo7WFvA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Child Migration Crisis in Latin America & the Caribbean: UNICEF's Urgent Warning | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "myCUNirbN0E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Climate, Air Quality & other topics - Daily Press Briefing (6 September 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZjIcvvu6vaw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZjIcvvu6vaw"
         }
       }
     }
