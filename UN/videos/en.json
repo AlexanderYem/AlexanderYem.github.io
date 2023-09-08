@@ -2,7 +2,33 @@
   "items": [
     {
       "snippet": {
-        "title": "UN Chief's Urgent G20 Climate Appeal: A Call to Save Our Planet | United Nations",
+        "title": "UN Chief at G20: Unite for Climate Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9oAxpFEwow/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e9oAxpFEwow"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Intensifying Attacks on Ukrainian Civilians - Security Council Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHELhmlUVGw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RHELhmlUVGw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Chief's Urgent Call to G20 on Climate Action - Press Briefing | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/L8FXTo7WFvA/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "WO0lHhFJCuc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Central African Republic (CAR) Humanitarian Crisis: Response & Challenges | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hJ9AQUNZ05c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hJ9AQUNZ05c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'Greater cooperation is desperately needed on the climate front' - UN Chief | ASEAN Summit",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/myCUNirbN0E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "myCUNirbN0E"
         }
       }
     }
