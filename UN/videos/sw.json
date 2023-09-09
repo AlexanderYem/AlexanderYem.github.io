@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Apu mpya ya Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gsGbIJZfjI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2gsGbIJZfjI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Walinda amani kutoka Tanzania TANBAT 6 wafanya usafi na kutoa msaada wa vifaa tiba CAR",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MjGEywJxueo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Siku ya kimataifa ya watu wenye asili ya Afrika na waafrika walio ughaibuni",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hRxyy0-WblA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hRxyy0-WblA"
         }
       }
     }
