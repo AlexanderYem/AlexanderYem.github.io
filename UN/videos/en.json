@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Get Ready for #UNGA78 - LIVE | United Nations General Assembly Debate (Sept 19-26)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9Eikd8NUug/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v9Eikd8NUug"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tackling Crisis-Affected Learning: ECW Chief Urges Global Education Funding | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FJidlX_WVAE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (7 September 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WBaYPG82-PE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WBaYPG82-PE"
         }
       }
     }
