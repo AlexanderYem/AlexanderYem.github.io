@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“Língua portuguesa não dispõe de proteções adequadas na internet”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gr2bbzJbAJ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gr2bbzJbAJ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Aplicativo da ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DQPyEaML1NI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique e alta de crimes cibernéticos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/39tLanQ5CWA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "39tLanQ5CWA"
         }
       }
     }

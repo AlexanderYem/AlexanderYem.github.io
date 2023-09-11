@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Peace Bell Ceremony 2023 | International Day of Peace Celebration | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ghko7RkJVHg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ghko7RkJVHg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 General Debate Live - 26 September 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9Tcq348oWdg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "India, Ukraine, Lebanon & other topics - Daily Press Briefing (8 September 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/joNfVrkAKpQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "joNfVrkAKpQ"
         }
       }
     }
