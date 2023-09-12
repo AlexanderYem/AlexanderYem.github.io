@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y0Eoz2hqTos"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2023 SDG Summit: Shaping the Future of Sustainable Development | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RTSaBk8JD7k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (11 September 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K9CTzcJViuw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K9CTzcJViuw"
         }
       }
     }
