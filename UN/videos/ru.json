@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Неделя высокого уровня 78-й сессии Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j44cMmCsPbM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j44cMmCsPbM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Приложение «Новости ООН»",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "As8rWNNNmxQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AI for Good: «Искусственный интеллект во благо [человека]»",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FBqsIYvNDOI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FBqsIYvNDOI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Michael Douglas, Nancy Ajram & others join UN Peacekeeping in the fight for peace | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaMEAF592as/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XaMEAF592as"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Lybia, Morocco, Mali & other topics - Daily Press Briefing (12 September 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mvaJ8HUAmbc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live - 23 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/73AjNtTtKM4/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "73AjNtTtKM4"
         }
       }
     }

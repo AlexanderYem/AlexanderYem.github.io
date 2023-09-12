@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "População síria está “totalmente desamparada”, diz especialista da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHDH89Sx_Dk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JHDH89Sx_Dk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Língua portuguesa não dispõe de proteções adequadas na internet”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dypPp91CGDI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#onu acompanha descarte da água contaminada da usina nuclear de #Fukushima, no #japão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DQPyEaML1NI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DQPyEaML1NI"
         }
       }
     }
