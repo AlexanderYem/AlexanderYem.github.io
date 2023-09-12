@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lybia, Morocco, Mali & other topics - Daily Press Briefing (12 September 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zGpa11okZ6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zGpa11okZ6s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (12 September 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "73AjNtTtKM4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live - 22 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c_khfqBZFXw/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c_khfqBZFXw"
         }
       }
     }
