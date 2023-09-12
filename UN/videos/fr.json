@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "78ème Session de l'Assemblée générale",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cop70lFjGZc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cop70lFjGZc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L’ONU appelle les bailleurs de fonds à ne pas oublier les Centrafricains",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wveo6MyYMUg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale du yoga : le yoga est pour tout le monde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n7q9-qccmTI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n7q9-qccmTI"
         }
       }
     }
