@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (12 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ro4ly_hS_k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0ro4ly_hS_k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine & Threats to International Peace | Security Council Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c_khfqBZFXw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live - 21 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fqX7korIHdY/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fqX7korIHdY"
         }
       }
     }
