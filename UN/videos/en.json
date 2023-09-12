@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine & Threats to International Peace | Security Council Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsWJ-eQTlgc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rsWJ-eQTlgc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fqX7korIHdY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live - 20 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RTSaBk8JD7k/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RTSaBk8JD7k"
         }
       }
     }

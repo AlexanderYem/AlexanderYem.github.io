@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN 12 SEPTEMBA 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2aIQjh6IBtI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2aIQjh6IBtI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Apu mpya ya Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W3d96RV3QYE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN 31 AGOSTI 2023 - Tunajikita Goma, DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MjGEywJxueo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MjGEywJxueo"
         }
       }
     }
