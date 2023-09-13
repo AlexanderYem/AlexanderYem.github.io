@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Acompanhe o debate da 78ª Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VfdXFDFFqEI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VfdXFDFFqEI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "População síria está “totalmente desamparada”, diz especialista da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "H9aGkBAbFuc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Governos militares não são a solução\", diz líder da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dypPp91CGDI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dypPp91CGDI"
         }
       }
     }

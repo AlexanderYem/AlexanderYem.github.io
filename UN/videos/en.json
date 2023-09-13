@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Morocco Earthquake, Libya Floods, General Debate & Multilateral Solutions: UN Chief's Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBnBnttxpd8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dBnBnttxpd8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Conflict-Related Sexual Violence in Sudan | Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rsWJ-eQTlgc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y0Eoz2hqTos"
         }
       }
     }
