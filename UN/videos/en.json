@@ -2,10 +2,36 @@
   "items": [
     {
       "snippet": {
+        "title": "Joint statement on women in Sudan | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sEPsQ2KaWT0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sEPsQ2KaWT0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "U.S. on Wrongful Detentions in Russia | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_iu2WKTqDI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w_iu2WKTqDI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Peace Bell Ceremony 2023 | International Day of Peace Celebration | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/Ghko7RkJVHg/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/Ghko7RkJVHg/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y0Eoz2hqTos"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 SDG Summit: Shaping the Future of Sustainable Development | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mymOuumOmgc/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mymOuumOmgc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SDG Summit and #UNGA78 High-Level Week Preview: Amina J. Mohammed & Special Guests",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C3Gihrs7vRs/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C3Gihrs7vRs"
         }
       }
     }
