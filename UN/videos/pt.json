@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“Jovens são o motor da ação climática”, diz brasileira conselheira do clima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqhcEx5ZFQY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EqhcEx5ZFQY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Acompanhe o debate da 78ª Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "saof6xWoBiw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU apoia resiliência em Cabo Verde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H9aGkBAbFuc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H9aGkBAbFuc"
         }
       }
     }

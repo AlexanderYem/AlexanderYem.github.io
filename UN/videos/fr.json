@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AGNU78 :  « L'action est ce dont le monde a besoin », a indiqué le chef de l'ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TU0FzJwysM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1TU0FzJwysM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "78ème Session de l'Assemblée générale",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nDvZcr7nzHA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DISCOURS DE HAINE : QUAND LES MOTS TUENT",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wveo6MyYMUg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Wveo6MyYMUg"
         }
       }
     }
