@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (14 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/77KPK3C4Ql0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "77KPK3C4Ql0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (13 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gqQft5A7PLo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gqQft5A7PLo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Fashion Show: The Peace Collection 2023 Youth Event for International Day of Peace | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "cjW8BJXqHcQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Albania on Advancing Public-Private Humanitarian Partnerships | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dEcjRMAezrk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dEcjRMAezrk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Michael Douglas, Nancy Ajram & others join UN Peacekeeping in the fight for peace | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XaMEAF592as/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XaMEAF592as"
         }
       }
     }

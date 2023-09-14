@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление актера Майкла Дугласа на молодежном мероприятии, посвященном Международному дню мира",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HYUHn1I3RF8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HYUHn1I3RF8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Неделя высокого уровня 78-й сессии Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "53AGo-J72tk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Черноморская инициатива: чем она важна для мира?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/As8rWNNNmxQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "As8rWNNNmxQ"
         }
       }
     }
