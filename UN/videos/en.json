@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "International Day for Education Protection: Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EN2NhXMKQvk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EN2NhXMKQvk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (14 September 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kg_U3JG0kHQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Actor Michael Douglas on the 2023 Youth Event for the International Day of Peace | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cjW8BJXqHcQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cjW8BJXqHcQ"
         }
       }
     }
