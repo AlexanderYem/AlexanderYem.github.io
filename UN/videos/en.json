@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SDG Summit and #UNGA78 High-Level Week Preview: Amina J. Mohammed & Special Guests",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3Gihrs7vRs/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C3Gihrs7vRs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Treaty Event: Marine Biodiversity Conservation Beyond National Jurisdiction | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8C3GO8W1KqQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "International Day of Peace Youth Event #globalgoals | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y57Vuu7_33k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y57Vuu7_33k"
         }
       }
     }
