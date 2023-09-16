@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on the opening plenary SDG Action Weekend, Mobilization Day | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_c7I_rfIKk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v_c7I_rfIKk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Don't Miss #UNGA78 General Debate Live: Global Solidarity for a Better World | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "C3Gihrs7vRs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Treaty Event: Marine Biodiversity Conservation Beyond National Jurisdiction | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vc4PRNh2-Xw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vc4PRNh2-Xw"
         }
       }
     }
