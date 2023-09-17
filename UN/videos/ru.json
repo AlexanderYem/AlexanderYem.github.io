@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генеральный секретарь ООН – о мире в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L61lfqg12y8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L61lfqg12y8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление актера Майкла Дугласа на молодежном мероприятии, посвященном Международному дню мира",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hLW6bDS096w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день Нельсона Манделы",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/53AGo-J72tk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "53AGo-J72tk"
         }
       }
     }
