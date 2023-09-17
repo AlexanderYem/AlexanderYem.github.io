@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief speaks on Ukraine, Artificial Intelligence, Climate Summit, #UNGA & more | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/821B6Ntcy_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "821B6Ntcy_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on the opening plenary SDG Action Weekend, Mobilization Day | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ezg0HP1b4IM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SDG Summit and #UNGA78 High-Level Week Preview: Amina J. Mohammed & Special Guests",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C3Gihrs7vRs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C3Gihrs7vRs"
         }
       }
     }
