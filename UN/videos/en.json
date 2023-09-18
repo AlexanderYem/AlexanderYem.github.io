@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "2023 SDG Summit: Shaping the Future of Sustainable Development | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mymOuumOmgc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mymOuumOmgc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SDG Acceleration Day: UN Chief Message | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nO91faydiL0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Empowering the Next Generation: Saad Amer's Take on Climate Justice & Democracy | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W27Stj05k8g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W27Stj05k8g"
         }
       }
     }
