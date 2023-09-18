@@ -2,8 +2,25 @@
   "items": [
     {
       "snippet": {
-        "title": "Private video",
-        "thumbnails": {},
+        "title": "#UNGA78 - Summit on blueprint for a better future: the Sustainable Development Goals | Wrap Day 1",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdklHtDKFqs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XdklHtDKFqs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Nikolaj Coster-Waldau: Progress of 15% of sustainable development goals on track",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pcLba-cluXQ/hqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "pcLba-cluXQ"
         }
@@ -110,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JE65qOomyN8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mayada Adil, Youth Representative at the SDG Summit 2023| United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gl4IX7UnnsA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gl4IX7UnnsA"
         }
       }
     }

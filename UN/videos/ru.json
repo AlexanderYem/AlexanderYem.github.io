@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Неделя высокого уровня 78-й сессии Генассамблеи ООН: день первый",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/88OIlCLlfqg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "88OIlCLlfqg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Казахстана на одном из «диалогов лидеров» в рамках Саммита ЦУР в ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IypdzIQjI7k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Комментарий Генерального секретаря ООН по поводу климатических изменений",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dYKTYHcjQZc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dYKTYHcjQZc"
         }
       }
     }
