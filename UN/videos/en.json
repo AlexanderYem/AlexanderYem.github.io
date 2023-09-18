@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y0Eoz2hqTos"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 - Summit on blueprint for a better future: the Sustainable Development Goals | Wrap Day 1",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Cp--FO8-26g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Global Food and Funding Crisis | SDG Media Zone at the 78th Session of the UN General Assembly",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JE65qOomyN8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JE65qOomyN8"
         }
       }
     }
