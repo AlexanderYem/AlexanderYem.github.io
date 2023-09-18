@@ -2,14 +2,53 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (18 September 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-SCQIYjHAO0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-SCQIYjHAO0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2023 SDG Summit: Shaping the Future of Sustainable Development | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/mymOuumOmgc/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/mymOuumOmgc/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "mymOuumOmgc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "An Optimist’s Guide to the Planet | SDG Media Zone UN78 | Nikolaj Coster-Waldau | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cp--FO8-26g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cp--FO8-26g"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Global Food and Funding Crisis | SDG Media Zone at the 78th Session of the UN General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JE65qOomyN8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JE65qOomyN8"
         }
       }
     },
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "1AaqQmSAf28"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Natalie Portman on Ending Gender-based Violence at SDG Acceleration Day | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5AAocZIM4jA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5AAocZIM4jA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stocktaking | What it will take to achieve the Sustainable Development Goals? | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/enGJyhu6Xr0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "enGJyhu6Xr0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Women & Land - Combat Desertification | UNCCD | United Nations #HerLand",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wjIASLL78Jk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wjIASLL78Jk"
         }
       }
     }
