@@ -2,12 +2,8 @@
   "items": [
     {
       "snippet": {
-        "title": "Nikolaj Coster-Waldau: \"We're on track but we have a long way to go\" | Sustainable Development Goals",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pcLba-cluXQ/hqdefault.jpg"
-          }
-        },
+        "title": "Private video",
+        "thumbnails": {},
         "resourceId": {
           "videoId": "pcLba-cluXQ"
         }
@@ -49,6 +45,19 @@
         },
         "resourceId": {
           "videoId": "2f5zC0A7k9c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Natalie Portman on Empowering Women & Girls Everywhere | SDG Media Zone | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ZPDXNrtNsM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7ZPDXNrtNsM"
         }
       }
     },
@@ -106,7 +115,7 @@
     },
     {
       "snippet": {
-        "title": "Ayakha Melithafa, Youth Representative at the SDG Summit 2023| United Nations",
+        "title": "Mayada Adil, Youth Representative at the SDG Summit 2023| United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/Gl4IX7UnnsA/hqdefault.jpg"
@@ -114,19 +123,6 @@
         },
         "resourceId": {
           "videoId": "Gl4IX7UnnsA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 SDG Summit: Opening by President of UN General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RR2uHEdXh4A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RR2uHEdXh4A"
         }
       }
     }
