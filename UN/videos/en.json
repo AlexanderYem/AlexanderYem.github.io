@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SDG Acceleration Day: UN Chief Message | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AaqQmSAf28/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1AaqQmSAf28"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Natalie Portman on Ending Gender-based Violence at SDG Acceleration Day | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W27Stj05k8g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "G77+China Summit, Libya, South Sudan & other topics - Daily Press Briefing (15 Sep 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MyQMJv92RR8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MyQMJv92RR8"
         }
       }
     }
