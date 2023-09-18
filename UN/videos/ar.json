@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس وزراء قطر، أمام قمة أهداف التنمية المستدامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/slDrGVlN6qQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "slDrGVlN6qQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "قادة العالم يجتمعون في الأمم المتحدة لتعزيز التقدم على مسار أهداف التنمية المستدامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qddg-1hUqPg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كيف يبدو الوضع في غزة في ظل الأزمة المالية الوجودية التي تمر بها الأونروا؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AAA3-fQhPuo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AAA3-fQhPuo"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Казахстана на одном из «диалогов лидеров» в рамках Саммита ЦУР в ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVmCRKYXVf0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AVmCRKYXVf0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генеральный секретарь ООН – о мире в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dYKTYHcjQZc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН отдал дань памяти погибшим в прошлом году сотрудникам Организации",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hLW6bDS096w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hLW6bDS096w"
         }
       }
     }
