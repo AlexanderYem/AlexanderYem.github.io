@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "AGNU78 : accélérer la réalisation des ODD",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_u99Wnzq4jE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_u99Wnzq4jE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'AGNU78 doit être le reflet de ce que veut la société au niveau global - António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jz6OpFg6aX8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan : Stigmatisation et discrimination dont sont victimes les toxicomanes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pbDJPCdmBwc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pbDJPCdmBwc"
         }
       }
     }
