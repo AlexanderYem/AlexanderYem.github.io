@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Muziki kwa ajili ya afya ya akili",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jFeoTw0KY28/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jFeoTw0KY28"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wakongwe wa soka duniani 'kukipiga' Rwanda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GKdaA6mCwiM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vijana wanasemaje katika mkutano wa Afrika kuhusu tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2Y5N0I0oXKQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2Y5N0I0oXKQ"
         }
       }
     }
