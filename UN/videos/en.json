@@ -2,7 +2,46 @@
   "items": [
     {
       "snippet": {
-        "title": "🇨🇺 Cuba - President of Cuba Addresses United Nations General Debate, 78th Session | #UNGA",
+        "title": "🇶🇦 Qatar - Amir Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d3wy_Z0yFSg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d3wy_Z0yFSg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇹🇷 Türkiye - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCGSQVY_vIM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fCGSQVY_vIM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇵🇹 Portugal - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uWyDAYAPs7Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uWyDAYAPs7Q"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇨🇺 Cuba - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/3TkUBcpn8TU/hqdefault.jpg"
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "cJ_P43W8Iog"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇺🇳 General Assembly President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BJNE8rYlmWo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BJNE8rYlmWo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live (USA, Ukraine, Iran, Germany, Japan & More)- 19 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZgWMhijIh_k/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZgWMhijIh_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Natalie Portman on Empowering Women & Girls Everywhere | SDG Media Zone | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7ZPDXNrtNsM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7ZPDXNrtNsM"
         }
       }
     }

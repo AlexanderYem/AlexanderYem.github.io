@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente de Portugal na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ukjOByPh-aI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ukjOByPh-aI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JHDH89Sx_Dk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Língua portuguesa não dispõe de proteções adequadas na internet”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gr2bbzJbAJ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gr2bbzJbAJ4"
         }
       }
     }
