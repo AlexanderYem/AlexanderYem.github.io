@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "🇸🇻 El Salvador - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/srO0T3FfyrY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "srO0T3FfyrY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇦🇷 Argentina - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LN-4bYt_fXQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LN-4bYt_fXQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇩🇿 Algeria - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rZ57FoZHku8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rZ57FoZHku8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 - World leaders take the United Nations podium | Wrap Day 1",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "yujbJ28J3XM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇨🇭 Switzerland - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JtQRkzyfTwE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JtQRkzyfTwE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇬🇹 Guatemala - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1gHMdwxw1AQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1gHMdwxw1AQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇹🇲 Turkmenistan - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NgeHniRuVDM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NgeHniRuVDM"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Srtknv8wV5Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Srtknv8wV5Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência da ONU quer mais parcerias para acelerar iniciativas em favor dos ODS",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "ukjOByPh-aI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/heu4YB_sXxs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "heu4YB_sXxs"
         }
       }
     },

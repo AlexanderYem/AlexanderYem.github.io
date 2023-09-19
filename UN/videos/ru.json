@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Речь президента Туркменистана на заседании 78-й сессии Генассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mpjDxRqB6aw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mpjDxRqB6aw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Казахстана на заседании 78-й сессии Генассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AVmCRKYXVf0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генеральный секретарь ООН – о мире в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L61lfqg12y8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L61lfqg12y8"
         }
       }
     }
