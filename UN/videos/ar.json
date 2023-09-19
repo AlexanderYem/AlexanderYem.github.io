@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة العاهل الأردني الملك عبد الله الثاني بن الحسين أمام االدورة 78 للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-yZBCpFYIc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M-yZBCpFYIc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمين عام الأمم المتحدة: درنة تعكس بشكل محزن حالة عالمنا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LMQiVUSJr5o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مسؤولة أممية: أوقفوا الحرب، السودانيون يرغبون في العودة إلى منازلهم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/imiJ7KQ5f1k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "imiJ7KQ5f1k"
         }
       }
     }

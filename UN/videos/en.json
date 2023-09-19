@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇨🇺 Cuba - President of Cuba Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3TkUBcpn8TU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3TkUBcpn8TU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇵🇱 Poland - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_lJytAXyEs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o_lJytAXyEs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇨🇴 Colombia - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "7ZPDXNrtNsM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nyle Di Marco- Disabilities & Human Rights | Sustainable Development Goals | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8bbG1KdSJ4o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8bbG1KdSJ4o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Y0Eoz2hqTos"
         }
       }
     }

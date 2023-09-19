@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : L'égalité des genres est la solution - António Guterres",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-phgG2977fk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-phgG2977fk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 - Un plan d'action pour un avenir meilleur : les objectifs de développement durable",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dm7n9FmIS1c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Journée internationale des peuples autochtones",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YeSY8VD-dBA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YeSY8VD-dBA"
         }
       }
     }

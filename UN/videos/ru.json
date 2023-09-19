@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Речь президента США Джо Байдена на заседании 78-й сессии Генассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TChxJ_zLnsg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TChxJ_zLnsg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Орландо Блум и другие на спецмероприятии в штаб-квартире ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "60Uz0dcjOJ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Перекачка нефти с аварийного танкера в Красном море успешно завершилась",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yaHpI8LA3lU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yaHpI8LA3lU"
         }
       }
     }
