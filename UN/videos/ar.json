@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الشيخ تميم بن حمد آل ثاني أمير دولة قطر أمام االدورة 78 للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QuvvdqXJ-A4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QuvvdqXJ-A4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة العاهل الأردني الملك عبد الله الثاني بن الحسين أمام االدورة 78 للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lQCjJ4ECX-w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بمشاركة أكثر من 130 ألف طفل، الأونروا تطلق فعاليات أسابيع المرح في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LMQiVUSJr5o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LMQiVUSJr5o"
         }
       }
     }

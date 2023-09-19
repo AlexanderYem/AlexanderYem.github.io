@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Турции Реджепа Тайипа Эрдогана на заседании 78-й сессии Генассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwwTSTcdj9s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AwwTSTcdj9s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Речь президента США Джо Байдена на заседании 78-й сессии Генассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PaBmHg7fHCw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по случаю Всемирного дня гуманитарной помощи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/60Uz0dcjOJ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "60Uz0dcjOJ0"
         }
       }
     }

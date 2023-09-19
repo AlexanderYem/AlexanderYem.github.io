@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Les Casques bleus protègent chaque jour des centaines de milliers de civils »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/57S4UxMvNZ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "57S4UxMvNZ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 : L'égalité des genres est la solution - António Guterres",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VK-aMTKDhUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le voyage dangereux des migrants",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dm7n9FmIS1c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dm7n9FmIS1c"
         }
       }
     }

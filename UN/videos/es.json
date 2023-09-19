@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Paz 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qrCRkNQa-5Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qrCRkNQa-5Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial de la Asistencia Humanitaria",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E65nAfYSHwo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día de Vesak",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5cCf4TZiAU0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5cCf4TZiAU0"
         }
       }
     }
