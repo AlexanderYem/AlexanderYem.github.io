@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNGA78 - World leaders take the United Nations podium | Wrap Day 1",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPcHCjTVoxA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yPcHCjTVoxA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇮🇷 Iran - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbJ3iqH7iWo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SbJ3iqH7iWo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇰🇿 Kazakhstan - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSaMHMj7HRw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wSaMHMj7HRw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇧🇴 Bolivia - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "NgeHniRuVDM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇺🇦 Ukraine - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AbV5pgB1uOQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AbV5pgB1uOQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 Climate Ambition Summit Opening | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wectEQVHt2M/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wectEQVHt2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇿🇦 South Africa - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bFVm8SGIlHg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bFVm8SGIlHg"
         }
       }
     }

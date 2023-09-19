@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Казахстана на заседании 78-й сессии Генассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EomtitqDfw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3EomtitqDfw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Речь президента Украины на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L61lfqg12y8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление актера Майкла Дугласа на молодежном мероприятии, посвященном Международному дню мира",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HYUHn1I3RF8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HYUHn1I3RF8"
         }
       }
     }
