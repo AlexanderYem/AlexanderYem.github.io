@@ -5,11 +5,37 @@
         "title": "#UNGA78 Halftime Show: Inspiring Action | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/Y0Eoz2hqTos/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "Y0Eoz2hqTos"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ecuadorian Amazon Defender of Biodiversity Protection - Helena Gualinga | SDG Halftime Show | UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ej7mCpUEZ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3ej7mCpUEZ8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Orlando Bloom: Importance of Education For Children | #UNGA78 Halftime Show | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9AkfNMLeVA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N9AkfNMLeVA"
         }
       }
     },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "7ZPDXNrtNsM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (18 September 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-SCQIYjHAO0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-SCQIYjHAO0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 SDG Summit: Shaping the Future of Sustainable Development | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mymOuumOmgc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mymOuumOmgc"
         }
       }
     }

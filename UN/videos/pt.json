@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovem moçambicano defende apoio intensivo à educação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eK83FzQ2apY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eK83FzQ2apY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Na ONU, jovem brasileira pede mais ação contra a discriminação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rapQRclYz58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministros apontam medicina tradicional como “recurso valioso” para humanidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/308djLJVOyM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "308djLJVOyM"
         }
       }
     }
