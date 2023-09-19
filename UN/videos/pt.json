@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"O Brasil já decidiu: vai fazer a transição energética\", diz ministro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sh_ryUIHpSs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Sh_ryUIHpSs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente de Portugal na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VfdXFDFFqEI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "População síria está “totalmente desamparada”, diz especialista da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JHDH89Sx_Dk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JHDH89Sx_Dk"
         }
       }
     }
