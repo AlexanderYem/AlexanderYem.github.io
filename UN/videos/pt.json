@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência da ONU quer mais parcerias para acelerar iniciativas em favor dos ODS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKB5LYJ7-6I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JKB5LYJ7-6I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"O Brasil já decidiu: vai fazer a transição energética\", diz ministro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EqhcEx5ZFQY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Acompanhe o debate da 78ª Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VfdXFDFFqEI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VfdXFDFFqEI"
         }
       }
     }

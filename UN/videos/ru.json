@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Речь президента Украины на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3GrKBVwfmg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r3GrKBVwfmg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление президента Узбекистана Шавката Мирзиёева на заседании 78-й сессии Генассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E2y9Ks3SIVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E2y9Ks3SIVM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Турции Реджепа Тайипа Эрдогана на заседании 78-й сессии Генассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "HYUHn1I3RF8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Неделя высокого уровня 78-й сессии Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j44cMmCsPbM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j44cMmCsPbM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Приложение «Новости ООН»",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PaBmHg7fHCw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PaBmHg7fHCw"
         }
       }
     }

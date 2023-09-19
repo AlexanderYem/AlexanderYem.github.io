@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇧🇴 Bolivia - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFyWtsWnvvE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PFyWtsWnvvE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇺🇿 Uzbekistan - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/twiqHyUmjio/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "twiqHyUmjio"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇸🇮 Slovenia - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "bFVm8SGIlHg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇶🇦 Qatar - Amir Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/d3wy_Z0yFSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "d3wy_Z0yFSg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇹🇷 Türkiye - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fCGSQVY_vIM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fCGSQVY_vIM"
         }
       }
     }

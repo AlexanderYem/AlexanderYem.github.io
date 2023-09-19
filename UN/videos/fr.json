@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de la Confédération suisse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/S133lUOVE80/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "S133lUOVE80"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "AGNU78 - Les priorités des Etats-Unis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NYajQUfsuA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5NYajQUfsuA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Les Casques bleus protègent chaque jour des centaines de milliers de civils »",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "KnmSP5dgq-M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Votre accès à l'ONU - un nouveau design",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_FBEo2A71p4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_FBEo2A71p4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "la MINUSMA quitte mais les Nations-Unies restent",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VK-aMTKDhUI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VK-aMTKDhUI"
         }
       }
     }
