@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Un plan d'action pour un avenir meilleur : les objectifs de développement durable",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9HQuzWOQbI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U9HQuzWOQbI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AGNU78 : accélérer la réalisation des ODD",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YeSY8VD-dBA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Une opération de l'ONU pour éviter une marée noire au large du Yémen",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jz6OpFg6aX8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jz6OpFg6aX8"
         }
       }
     }

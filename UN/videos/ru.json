@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Речь Генсека ООН на заседании 78-й сессии Генассамблеи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vZBDi4gkf3I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vZBDi4gkf3I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Неделя высокого уровня 78-й сессии Генассамблеи ООН: день первый",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Xi7toXL0bvo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Истории пострадавших от торговли людьми: Наталья из Беларуси",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IypdzIQjI7k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IypdzIQjI7k"
         }
       }
     }
