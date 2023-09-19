@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/heu4YB_sXxs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "heu4YB_sXxs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "EXCLUSIVO: Comentário do presidente Lula após discurso na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hbNBnNAvnfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hbNBnNAvnfc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovem moçambicano defende apoio intensivo à educação",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "gr2bbzJbAJ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Aplicativo da ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oRAaRLb1JNk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oRAaRLb1JNk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comentários sobre a Cúpula Africana do Clima #climatechange #desenvolvimento #sustentabilidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rapQRclYz58/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rapQRclYz58"
         }
       }
     }

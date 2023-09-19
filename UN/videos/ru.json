@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Орландо Блум и другие на спецмероприятии в штаб-квартире ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f6_rLjkx-zY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f6_rLjkx-zY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Речь Генсека ООН на заседании 78-й сессии Генассамблеи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yaHpI8LA3lU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Мигранты: опасное путешествие",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xi7toXL0bvo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xi7toXL0bvo"
         }
       }
     }

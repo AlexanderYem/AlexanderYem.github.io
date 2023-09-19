@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أمين عام الأمم المتحدة: درنة تعكس بشكل محزن حالة عالمنا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXvqK_CtJGM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xXvqK_CtJGM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس وزراء قطر، أمام قمة أهداف التنمية المستدامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "imiJ7KQ5f1k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بدء عملية نقل النفط من خزان صافر- والأمين العام يصف الخطوة بالحاسمة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qddg-1hUqPg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qddg-1hUqPg"
         }
       }
     }

@@ -2,14 +2,40 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 General Debate Live (USA, Ukraine, Iran, Germany, Japan & More)- 19 September 2023",
+        "title": "🇨🇴 Colombia - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/ZgWMhijIh_k/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/_33run1zLmo/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "ZgWMhijIh_k"
+          "videoId": "_33run1zLmo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇯🇴 Jordan - King Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlGkVTmLK14/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rlGkVTmLK14"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇺🇸 United States of America - President Addresses United Nations General Debate, 78th Session",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZH5gsWF8OM4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZH5gsWF8OM4"
         }
       }
     },
@@ -54,6 +80,19 @@
     },
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live (USA, Ukraine, Iran, Germany, Japan & More)- 19 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgWMhijIh_k/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZgWMhijIh_k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Natalie Portman on Empowering Women & Girls Everywhere | SDG Media Zone | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "Y0Eoz2hqTos"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ecuadorian Amazon Defender of Biodiversity Protection - Helena Gualinga | SDG Halftime Show | UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3ej7mCpUEZ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3ej7mCpUEZ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Orlando Bloom: Importance of Education For Children | #UNGA78 Halftime Show | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/N9AkfNMLeVA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "N9AkfNMLeVA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ICJ: Ukraine v. Russian Federation: Allegations of Genocide | 1st Round of Oral Arguments by Russia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VTjit5jmTYU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VTjit5jmTYU"
         }
       }
     }
