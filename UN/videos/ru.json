@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Таджикистана на заседании Генеральной Ассамблеи ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nRKD3YFwe4M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nRKD3YFwe4M"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление президента Кипра на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4q36kni85Qw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4q36kni85Qw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Туркменистана на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "TChxJ_zLnsg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Орландо Блум и другие на спецмероприятии в штаб-квартире ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f6_rLjkx-zY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f6_rLjkx-zY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Речь Генсека ООН на заседании 78-й сессии Генассамблеи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vZBDi4gkf3I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vZBDi4gkf3I"
         }
       }
     }
