@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Молдовы на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXzIgSNwyVc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gXzIgSNwyVc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Таджикистана на заседании Генеральной Ассамблеи ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AwwTSTcdj9s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Речь президента США Джо Байдена на заседании 78-й сессии Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TChxJ_zLnsg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TChxJ_zLnsg"
         }
       }
     }

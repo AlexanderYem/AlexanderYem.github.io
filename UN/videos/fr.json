@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours des Comores",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/a3Dl76d05Y4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "a3Dl76d05Y4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 - Action climatique : « Retarder, détourner et tromper – c’est honteux »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_u99Wnzq4jE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'AGNU78 doit être le reflet de ce que veut la société au niveau global - António Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dZWQha9NXp4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dZWQha9NXp4"
         }
       }
     }

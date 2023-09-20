@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente de Angola na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1gILYi_Q4N4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1gILYi_Q4N4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Paz",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ukjOByPh-aI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "EXCLUSIVO: Comentário do presidente Lula após discurso na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hbNBnNAvnfc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hbNBnNAvnfc"
         }
       }
     }

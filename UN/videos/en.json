@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "🇩🇴 Dominican Republic - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hCrpb-JPU0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7hCrpb-JPU0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇲🇩 Moldova - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9EUbfNdXMN0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9EUbfNdXMN0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇰🇲 Comoros - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZH24wHzWk8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mZH24wHzWk8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇪🇪 Estonia - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "Dh-0DHuQ-lk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇴 Angola - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5c7VBetgnw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5c7VBetgnw4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇪🇨 Ecuador - Constitutional President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RNpd5s1La0M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RNpd5s1La0M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇭🇷 Croatia - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PBbrC6hkMdQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PBbrC6hkMdQ"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gibson na SDG zake!!!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GGgOLTh3w8g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GGgOLTh3w8g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Viongozi wa Jumuiya ya Afrika Mashariki hutubieni UNGA78 kwa Kiswahili",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tF6pP4umJjI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN 12 SEPTEMBA 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2aIQjh6IBtI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2aIQjh6IBtI"
         }
       }
     }
