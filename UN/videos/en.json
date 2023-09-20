@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇭🇷 Croatia - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PBbrC6hkMdQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PBbrC6hkMdQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#UNGA78 Climate Ambition Summit Opening | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wectEQVHt2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wectEQVHt2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇬🇾 Guyana - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "zCxPhOVbrBc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Albania (Security Council President) on the War in Ukraine - Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7CDcnupyyS0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7CDcnupyyS0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇷 Suriname - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ob2rxcYAvX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ob2rxcYAvX4"
         }
       }
     }

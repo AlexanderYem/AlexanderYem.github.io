@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ستة ملايين سوداني على بعد خطوة واحدة من المجاعة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4o2g-KOb3w0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4o2g-KOb3w0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "مبادرات وحلول استباقية في الإمارات لتحقيق خطة 2030",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/b2NsrsK4poM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "b2NsrsK4poM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الرئيس الجزائري عبد المجيد تبون أمام االدورة 78 للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "w8vqCKa31H4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تحتفي بإنجازات المنحدرين من أصل أفريقي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F0bqqESCc7M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F0bqqESCc7M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حملوا تطبيق أخبار الأمم المتحدة بتصميمه المحدث وخصائصه المحسنة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zXLGm8xzBeg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zXLGm8xzBeg"
         }
       }
     }
