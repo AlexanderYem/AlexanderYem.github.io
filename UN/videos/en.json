@@ -2,14 +2,53 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 Climate Ambition Summit Opening | United Nations",
+        "title": "🇬🇾 Guyana - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/wectEQVHt2M/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/iMNNwIKs4Og/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "wectEQVHt2M"
+          "videoId": "iMNNwIKs4Og"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇧🇬 Bulgaria - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1yXrth_EJOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1yXrth_EJOY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ecuador & Elected Members of Security Council on the War in Ukraine | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuwAKdRr_wU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uuwAKdRr_wU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇫🇮 Finland - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bx_dgoBh_0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bx_dgoBh_0s"
         }
       }
     },
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "ob2rxcYAvX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇷🇴 Romania - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fuOeVIS-qcc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fuOeVIS-qcc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇳🇦 Namibia - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/A8gqyn0faN0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "A8gqyn0faN0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇨🇾 Cyprus - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wUGv-fFPoIs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wUGv-fFPoIs"
         }
       }
     }

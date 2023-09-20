@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : action climatique - « l'avenir de l'humanité est entre vos mains »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vG1czTlVOw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4vG1czTlVOw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de la République du Sénégal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dZWQha9NXp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AGNU78 :  « L'action est ce dont le monde a besoin », a indiqué le chef de l'ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1TU0FzJwysM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1TU0FzJwysM"
         }
       }
     }
