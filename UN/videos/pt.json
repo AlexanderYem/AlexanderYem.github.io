@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente de Moçambique na Assembleia Geral da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrArMeHpjqU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jrArMeHpjqU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Moçambique fala à ONU News na UNGA78",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Po1X0ydXscQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DJ ALOK pede que líderes globais escutem os povos indígenas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EbLuO4nEQEk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EbLuO4nEQEk"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 - Jour 2 - Ouverture du débat général",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vmcEBg5ZyX4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vmcEBg5ZyX4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de la Confédération suisse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cop70lFjGZc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L’ONU appelle les bailleurs de fonds à ne pas oublier les Centrafricains",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KnmSP5dgq-M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KnmSP5dgq-M"
         }
       }
     }
