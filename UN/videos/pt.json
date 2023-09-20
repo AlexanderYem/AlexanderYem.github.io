@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0MHF4pPz41k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0MHF4pPz41k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "EXCLUSIVO: Marina Silva comenta necessidade de aumento de ambição climática dos países",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZWDfYvBDUwc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZWDfYvBDUwc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Assembleia Geral: participação da ONU News na CNN Portugal",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "hbNBnNAvnfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovem moçambicano defende apoio intensivo à educação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eK83FzQ2apY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eK83FzQ2apY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, jovem brasileira pede mais ação contra a discriminação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MA8tLAR6a_I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MA8tLAR6a_I"
         }
       }
     }

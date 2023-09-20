@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Viongozi wa Jumuiya ya Afrika Mashariki hutubieni UNGA78 kwa Kiswahili",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgIrqi7__34/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DgIrqi7__34"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Madini ya Afrika ni ya waafrika!!!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2aIQjh6IBtI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Apu mpya ya Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2gsGbIJZfjI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2gsGbIJZfjI"
         }
       }
     }
