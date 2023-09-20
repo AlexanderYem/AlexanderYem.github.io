@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "🇲🇿 Mozambique - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SadqP_Uk6bU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SadqP_Uk6bU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇰🇬 Kyrgyzstan - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mdkrV2bpmns/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mdkrV2bpmns"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇵🇾 Paraguay - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aw400_nWHs8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aw400_nWHs8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇸🇻 El Salvador - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "PFyWtsWnvvE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇺🇿 Uzbekistan - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/twiqHyUmjio/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "twiqHyUmjio"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇮 Slovenia - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-mv4pxSDKGc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-mv4pxSDKGc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇭🇺 Hungary - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yujbJ28J3XM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yujbJ28J3XM"
         }
       }
     }
