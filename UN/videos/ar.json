@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الرئيس الجزائري عبد المجيد تبون أمام االدورة 78 للجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HenovPA4aMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HenovPA4aMw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الشيخ تميم بن حمد آل ثاني أمير دولة قطر أمام االدورة 78 للجمعية العامة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zXLGm8xzBeg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "خشخاش الأفيون: ما البديل للمزارع الأفغاني؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lQCjJ4ECX-w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lQCjJ4ECX-w"
         }
       }
     }
