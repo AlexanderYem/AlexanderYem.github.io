@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "Apu ya OKY na hedhi salama!!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QCsiEaLNUyM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QCsiEaLNUyM"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Habari za UN  19 - 09 - 2023:   UNGA78 YAFUNGUA PAZIA",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "jhOKhMR7OAI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kaunti za Narok na Vihiga na mipango ya maji!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvpnZVSGa_U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WvpnZVSGa_U"
         }
       }
     }
