@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de la principauté de Monaco",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KK2r0vb1qCs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KK2r0vb1qCs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours des Comores",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U9HQuzWOQbI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AGNU78 : accélérer la réalisation des ODD",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_u99Wnzq4jE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_u99Wnzq4jE"
         }
       }
     }

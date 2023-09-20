@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇲🇷 Mauritania - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qom-Br7YA4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4qom-Br7YA4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇲🇳 Mongolia - President Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UoB3T_srHsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UoB3T_srHsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇸🇱 Sierra Leone - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vy74Ylv6dfI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇰🇷 Republic of Korea - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O1PF8Tze2Pw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O1PF8Tze2Pw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇹🇯 Tajikistan - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HxdU8gNehts/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HxdU8gNehts"
         }
       }
     }
