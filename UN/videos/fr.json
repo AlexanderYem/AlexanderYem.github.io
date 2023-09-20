@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de la République du Sénégal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LSOX7fl_d0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0LSOX7fl_d0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 - Jour 2 - Ouverture du débat général",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1TU0FzJwysM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "78ème Session de l'Assemblée générale",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cop70lFjGZc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cop70lFjGZc"
         }
       }
     }

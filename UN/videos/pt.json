@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Assembleia Geral: participação da ONU News na CNN Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/InFnZGm-eU0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "InFnZGm-eU0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente de Moçambique na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MA8tLAR6a_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Brasil não vai fugir da responsabilidade com a sustentabilidade”, diz ministro das Cidades.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Po1X0ydXscQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Po1X0ydXscQ"
         }
       }
     }

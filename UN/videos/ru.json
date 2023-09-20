@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Туркменистана на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PwmCej4GJxA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PwmCej4GJxA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление президента Ирана на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RiYel_UTy0k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RiYel_UTy0k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Кыргызстана на заседании 78-й сессии Генассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "vZBDi4gkf3I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Неделя высокого уровня 78-й сессии Генассамблеи ООН: день первый",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/88OIlCLlfqg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "88OIlCLlfqg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Казахстана на одном из «диалогов лидеров» в рамках Саммита ЦУР в ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AVmCRKYXVf0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AVmCRKYXVf0"
         }
       }
     }
