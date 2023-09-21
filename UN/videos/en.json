@@ -2,14 +2,53 @@
   "items": [
     {
       "snippet": {
+        "title": "Ukraine: Zelenskyy says Russia's Security Council veto undermines world body | United Nations (Full)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pRHUQsCvqvI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pRHUQsCvqvI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 General Debate Live (Cyprus, Ecuador, Korea, Italy, Libya & More)- 20 September 2023",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/RTSaBk8JD7k/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/RTSaBk8JD7k/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "RTSaBk8JD7k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇱🇾 Libya - Minister of Youth Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxGdwEk8JAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uxGdwEk8JAA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#UNGA78 - World leaders take the United Nations podium | Wrap Day 3",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxKbL7ol1jo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HxKbL7ol1jo"
         }
       }
     },
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "WlaiNpcbGHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇹 Italy - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j060dyXRCws/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j060dyXRCws"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇲🇭 Marshall Islands - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GSfVuUBijIM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GSfVuUBijIM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇿 Eswatini - King Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SfL7OHydQFY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SfL7OHydQFY"
         }
       }
     }
