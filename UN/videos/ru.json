@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Латвии на заседании Генеральной Ассамблеи ООН. #UNGA78, #GADebate78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcPYz6Ngsy8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qcPYz6Ngsy8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Молдовы на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E2y9Ks3SIVM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Турции Реджепа Тайипа Эрдогана на заседании 78-й сессии Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AwwTSTcdj9s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AwwTSTcdj9s"
         }
       }
     }
