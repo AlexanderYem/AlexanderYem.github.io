@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do primeiro-ministro de São Tomé e Príncipe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/it5Vvffu0YA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "it5Vvffu0YA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Presidente de Portugal fala em exclusivo à ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JKB5LYJ7-6I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"O Brasil já decidiu: vai fazer a transição energética\", diz ministro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sh_ryUIHpSs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Sh_ryUIHpSs"
         }
       }
     }
