@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Литовской Республики на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EszdilUj_LA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EszdilUj_LA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Латвии на заседании Генеральной Ассамблеи ООН. #UNGA78, #GADebate78",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "r3GrKBVwfmg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Узбекистана Шавката Мирзиёева на заседании 78-й сессии Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E2y9Ks3SIVM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E2y9Ks3SIVM"
         }
       }
     }
