@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление президента Государства Палестина на заседании Генеральной Ассамблеи",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NX3oKbU3Dck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NX3oKbU3Dck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Речь президента Сербии на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RiYel_UTy0k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Кыргызстана на заседании 78-й сессии Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/14SQY8VjXhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "14SQY8VjXhg"
         }
       }
     }

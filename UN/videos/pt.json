@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com o ministro de Minas e Energia do Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuMsHfRSNzM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VuMsHfRSNzM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso de Timor-Leste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZWDfYvBDUwc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Assembleia Geral: participação da ONU News na CNN Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/InFnZGm-eU0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "InFnZGm-eU0"
         }
       }
     }
