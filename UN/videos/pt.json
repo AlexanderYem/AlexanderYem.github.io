@@ -2,14 +2,40 @@
   "items": [
     {
       "snippet": {
-        "title": "Íntegra do discurso do primeiro-ministro de São Tomé e Príncipe",
+        "title": "Para Timor-Leste, “fala-se-muito, mas pouco se faz”  contra a pobreza",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/it5Vvffu0YA/hqdefault.jpg"
+            "url": "https://i.ytimg.com/vi/TzFEnbC7Lgg/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "it5Vvffu0YA"
+          "videoId": "TzFEnbC7Lgg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Angola destaca busca da paz na 78ª Assembleia Geral",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvJpTd8UwP0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WvJpTd8UwP0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Íntegra do discurso do primeiro-ministro de São Tomé e Príncipe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mx1Ilm9XX-E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Mx1Ilm9XX-E"
         }
       }
     },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ooHPj107exA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente do Brasil na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Srtknv8wV5Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Srtknv8wV5Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agência da ONU quer mais parcerias para acelerar iniciativas em favor dos ODS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JKB5LYJ7-6I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JKB5LYJ7-6I"
         }
       }
     }

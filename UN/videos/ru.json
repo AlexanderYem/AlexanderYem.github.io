@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление канцлера Германии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhUdK8Btki4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uhUdK8Btki4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Литовской Республики на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3EomtitqDfw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Речь президента Украины на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r3GrKBVwfmg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r3GrKBVwfmg"
         }
       }
     }
