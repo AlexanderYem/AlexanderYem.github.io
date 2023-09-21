@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "#AGNU78 : Discours de la Guinée",
+        "title": "#AGNU78 – Discours du Burundi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pGb5g_F9RCo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pGb5g_F9RCo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#AGNU78 - Discours de la Guinée",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/i9oQf75wwAU/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vmcEBg5ZyX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de la Confédération suisse",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S133lUOVE80/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S133lUOVE80"
         }
       }
     }

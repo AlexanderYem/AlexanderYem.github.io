@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Речь президента Сербии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vx84lLuRQTY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vx84lLuRQTY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление канцлера Германии на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "14SQY8VjXhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Казахстана на заседании 78-й сессии Генассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3EomtitqDfw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3EomtitqDfw"
         }
       }
     }
