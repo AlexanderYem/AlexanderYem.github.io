@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Presidente de Portugal fala em exclusivo à ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLrU5blLoR8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dLrU5blLoR8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do presidente de Angola na Assembleia Geral da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Sh_ryUIHpSs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Portugal na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ukjOByPh-aI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ukjOByPh-aI"
         }
       }
     }

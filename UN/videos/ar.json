@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "أمام الجمعية العامة، رئيس الوزراء اللبناني يستعرض 3 تحديات تواجه بلاده",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ki5jYIZF_68/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ki5jYIZF_68"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ليبيا: سيول درنة جرفت بؤر التحريض ولا مكان في السلطة للفاسدين وتجار الحروب",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B9BreCtd7Wc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B9BreCtd7Wc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الرئيس الموريتاني: كافحنا الفقر والإقصاء وحاربنا الاسترقاق بأشكاله العصرية والقديمة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "slDrGVlN6qQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "قادة العالم يجتمعون في الأمم المتحدة لتعزيز التقدم على مسار أهداف التنمية المستدامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UvokhKNxzNg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UvokhKNxzNg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الجمعية العامة ... ملتقى دبلوماسية العالم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8TqvyF5ivjw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8TqvyF5ivjw"
         }
       }
     }
