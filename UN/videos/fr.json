@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de République de Côte d’Ivoire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YLSd8tycNOw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YLSd8tycNOw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de l’Union européenne",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "a3Dl76d05Y4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Action climatique : « Retarder, détourner et tromper – c’est honteux »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YWmjH9ACPvs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YWmjH9ACPvs"
         }
       }
     }
