@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso de Timor-Leste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1v2A8J4waSI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1v2A8J4waSI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro-ministro de São Tomé e Príncipe fala dos desafios de Estados insulares",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "InFnZGm-eU0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Moçambique na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jrArMeHpjqU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jrArMeHpjqU"
         }
       }
     }

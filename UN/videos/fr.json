@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 ; Discours de la République démocratique du Congo (RDC)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-T5d6VtxKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W-T5d6VtxKM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 : Jour 3 - Guerre en Ukraine, urgence climatique, prochaine pandémie & IA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "57S4UxMvNZ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 : L'égalité des genres est la solution - António Guterres",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-phgG2977fk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-phgG2977fk"
         }
       }
     }

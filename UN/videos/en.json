@@ -2,14 +2,14 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 General Debate Live (Kenya, Palestine, European Union, France & More)- 21 September 2023",
+        "title": "🇹🇱 Timor-Leste - President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/fqX7korIHdY/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/cl_TWgW5Zn0/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "fqX7korIHdY"
+          "videoId": "cl_TWgW5Zn0"
         }
       }
     },
@@ -67,6 +67,19 @@
     },
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live (Kenya, Palestine, European Union, France & More)- 21 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fqX7korIHdY/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fqX7korIHdY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: Zelenskyy says Russia's Security Council veto undermines world body | United Nations (Full)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HxKbL7ol1jo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇱🇧 Lebanon - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EsO7jbStiCY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EsO7jbStiCY"
         }
       }
     }
