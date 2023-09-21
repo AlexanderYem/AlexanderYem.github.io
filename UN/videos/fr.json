@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de la République du Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8NHlmCPTjkQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8NHlmCPTjkQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Burundi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0LSOX7fl_d0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Jour 2 - Ouverture du débat général",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vmcEBg5ZyX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vmcEBg5ZyX4"
         }
       }
     }
