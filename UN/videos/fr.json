@@ -2,7 +2,33 @@
   "items": [
     {
       "snippet": {
-        "title": "#AGNU78 ; Discours de la République démocratique du Congo (RDC)",
+        "title": "#AGNU78 : Discours de la Guinée",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i9oQf75wwAU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i9oQf75wwAU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#AGNU78 - Discours de la République centrafricaine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vtfS1exSkeE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vtfS1exSkeE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#AGNU78 - Discours de la République démocratique du Congo (RDC)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/W-T5d6VtxKM/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "S133lUOVE80"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "AGNU78 - Les priorités des Etats-Unis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5NYajQUfsuA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5NYajQUfsuA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Les Casques bleus protègent chaque jour des centaines de milliers de civils »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/57S4UxMvNZ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "57S4UxMvNZ4"
         }
       }
     }
