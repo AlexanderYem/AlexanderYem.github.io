@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление заместителя председателя КНР на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/haJxDSUCih0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "haJxDSUCih0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление президента Государства Палестина на заседании Генеральной Ассамблеи",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PwmCej4GJxA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Ирана на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RiYel_UTy0k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RiYel_UTy0k"
         }
       }
     }

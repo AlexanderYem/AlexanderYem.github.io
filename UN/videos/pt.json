@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do presidente da Guiné-Bissau",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZNicdgFaBg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eZNicdgFaBg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista com o ministro de Minas e Energia do Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0MHF4pPz41k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "EXCLUSIVO: Marina Silva comenta necessidade de aumento de ambição climática dos países",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZWDfYvBDUwc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZWDfYvBDUwc"
         }
       }
     }

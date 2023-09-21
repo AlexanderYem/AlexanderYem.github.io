@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de l’Union européenne",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jdNERJbxytQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jdNERJbxytQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de la République du Congo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YWmjH9ACPvs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de la République du Sénégal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0LSOX7fl_d0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0LSOX7fl_d0"
         }
       }
     }
