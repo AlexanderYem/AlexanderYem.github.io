@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : Jour 3 - Guerre en Ukraine, urgence climatique, prochaine pandémie & IA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x5hALTuJg2o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x5hALTuJg2o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de la principauté de Monaco",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-phgG2977fk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Un plan d'action pour un avenir meilleur : les objectifs de développement durable",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U9HQuzWOQbI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U9HQuzWOQbI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro-ministro de São Tomé e Príncipe fala dos desafios de Estados insulares",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQBIpYNNTsw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gQBIpYNNTsw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Para Timor-Leste, “fala-se-muito, mas pouco se faz”  contra a pobreza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jrArMeHpjqU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Moçambique fala à ONU News na UNGA78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ooHPj107exA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ooHPj107exA"
         }
       }
     }
