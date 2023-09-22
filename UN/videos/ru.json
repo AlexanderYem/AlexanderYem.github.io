@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление премьер-министра Пакистана на заседании Генеральной Ассамблеи ООН.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_FshyAdITU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J_FshyAdITU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление премьер-министра Израиля на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gXzIgSNwyVc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Таджикистана на заседании Генеральной Ассамблеи ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nRKD3YFwe4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nRKD3YFwe4M"
         }
       }
     }

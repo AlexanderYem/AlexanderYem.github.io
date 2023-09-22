@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78: Les priorités de l'Andorre",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QyK7xS06w-E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QyK7xS06w-E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Togo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "i9oQf75wwAU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Discours de la République centrafricaine",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vtfS1exSkeE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vtfS1exSkeE"
         }
       }
     }
