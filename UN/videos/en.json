@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇮🇪 Ireland - Taoiseach Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zs_Y2ppPYOE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zs_Y2ppPYOE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇬🇪 Georgia - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AKIMd3eT2OY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AKIMd3eT2OY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇱🇸 Lesotho - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6BCM7MT2QEY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇱🇺 Luxembourg - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eyptxCai14Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eyptxCai14Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇨 Seychelles - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zvi9Yxk2f3A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zvi9Yxk2f3A"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление премьер-министра Грузии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IiF3BY9X-Q4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IiF3BY9X-Q4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ВОЗ и власти Польши предоставляют украинским беженцам лечение от туберкулеза",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uhUdK8Btki4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Литовской Республики на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EszdilUj_LA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EszdilUj_LA"
         }
       }
     }
