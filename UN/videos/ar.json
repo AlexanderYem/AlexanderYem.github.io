@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "نتنياهو: نقترب من تحقيق سلام تاريخي مع السعودية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZBa31tUD50/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yZBa31tUD50"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الكويت تحذر من تداعيات إلغاء العراق لاتفاقين بحريين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oyxgBFMWFOI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ستة ملايين سوداني على بعد خطوة واحدة من المجاعة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4o2g-KOb3w0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4o2g-KOb3w0"
         }
       }
     }

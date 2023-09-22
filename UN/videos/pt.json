@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal cita força da cooperação para aumentar influência da língua",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tD6bSLnOsrc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tD6bSLnOsrc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Na ONU, secretário-executivo aborda anseios da Cplp",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Mx1Ilm9XX-E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente de Portugal fala em exclusivo à ONU News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dLrU5blLoR8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dLrU5blLoR8"
         }
       }
     }

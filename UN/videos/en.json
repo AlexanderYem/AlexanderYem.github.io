@@ -2,14 +2,40 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 General Debate Live (Israel, Pakistan, Iraq, UK, & More) - 22 September 2023",
+        "title": "🇵🇰 Pakistan - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/c_khfqBZFXw/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/TUErairSmv4/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "c_khfqBZFXw"
+          "videoId": "TUErairSmv4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇳🇱 Netherlands - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBaEleWyBks/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DBaEleWyBks"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇲🇹 Malta - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EnuGm5nJ_Hs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EnuGm5nJ_Hs"
         }
       }
     },
@@ -67,6 +93,19 @@
     },
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live (Israel, Pakistan, Iraq, UK, & More) - 22 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_khfqBZFXw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c_khfqBZFXw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jane Fonda & Vanuatu Representatives On the Climate Ambition Summit Opening | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "hrUq_kveoGg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live (Kenya, Palestine, European Union, France & More)- 21 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fqX7korIHdY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fqX7korIHdY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇩🇰 Denmark - Minister Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WSDgrBjF7js/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WSDgrBjF7js"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇫🇷 France - Minister of Foreign Affairs Addresses United Nations General Debate, 78th Session |#UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QUgRQ4tRVxk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QUgRQ4tRVxk"
         }
       }
     }
