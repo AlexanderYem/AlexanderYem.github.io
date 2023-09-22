@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OIT saúda iniciativa global Brasil-EUA sobre trabalho decente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tx27Yz87ji8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tx27Yz87ji8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Luta contra a tuberculose: deputado Antônio Brito comenta implementação de medidas no Congresso",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TzFEnbC7Lgg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola destaca busca da paz na 78ª Assembleia Geral",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WvJpTd8UwP0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WvJpTd8UwP0"
         }
       }
     }

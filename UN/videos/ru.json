@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ВОЗ и власти Польши предоставляют украинским беженцам лечение от туберкулеза",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WTUN4JG6S-4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WTUN4JG6S-4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Тереза Касаева, директор Глобальной программы ВОЗ по туберкулезу",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EszdilUj_LA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Латвии на заседании Генеральной Ассамблеи ООН. #UNGA78, #GADebate78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qcPYz6Ngsy8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qcPYz6Ngsy8"
         }
       }
     }

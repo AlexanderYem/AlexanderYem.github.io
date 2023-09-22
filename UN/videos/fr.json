@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Luxembourg",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YO_6uTkDCdc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YO_6uTkDCdc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#AGNU78 – Discours du Gabon",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7SLU5EmefI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O7SLU5EmefI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78: Les priorités de l'Andorre",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "8NHlmCPTjkQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Burundi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pGb5g_F9RCo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pGb5g_F9RCo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Discours de la Guinée",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i9oQf75wwAU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i9oQf75wwAU"
         }
       }
     }
