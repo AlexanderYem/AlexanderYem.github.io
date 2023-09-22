@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Na ONU, secretário-executivo aborda anseios da Cplp",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1WIHzfACRFM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1WIHzfACRFM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Saúde: apostar em inovações pode poupar US$ 8 bilhões até 2030",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dLrU5blLoR8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente de Angola na Assembleia Geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1gILYi_Q4N4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1gILYi_Q4N4"
         }
       }
     }

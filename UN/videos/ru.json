@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление премьер-министра Израиля на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MOH9LuaWXPY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MOH9LuaWXPY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление премьер-министра Греции на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nRKD3YFwe4M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Кипра на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4q36kni85Qw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4q36kni85Qw"
         }
       }
     }

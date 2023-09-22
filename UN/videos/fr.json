@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Tchad",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pYdXmBniTFQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pYdXmBniTFQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#AGNU78 : Jour 4 - Paix durable au Soudan, droits des femmes, couverture sanitaire pour tous",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sPQzO8JsH6Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sPQzO8JsH6Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de République de Côte d’Ivoire",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "x5hALTuJg2o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de la principauté de Monaco",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KK2r0vb1qCs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KK2r0vb1qCs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours des Comores",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/a3Dl76d05Y4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "a3Dl76d05Y4"
         }
       }
     }
