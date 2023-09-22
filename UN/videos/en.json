@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇦🇹 Austria - Federal Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nl8l6upmlcQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nl8l6upmlcQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇳🇵 Nepal - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHkFELOZ_O0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GHkFELOZ_O0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇹🇿 Tanzania - Vice President Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jDA_45Jt3es"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇨🇳 China - Vice President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qw1oI5XIHEg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Qw1oI5XIHEg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇩 Sudan - President Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-zasiSISjcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-zasiSISjcY"
         }
       }
     }

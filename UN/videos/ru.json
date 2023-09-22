@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление премьер-министра Греции на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQ1v75ojFf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mQ1v75ojFf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление заместителя председателя КНР на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4q36kni85Qw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Туркменистана на заседании 78-й сессии Генассамблеи ООН. #UNGA78, #GADebate78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PwmCej4GJxA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PwmCej4GJxA"
         }
       }
     }
