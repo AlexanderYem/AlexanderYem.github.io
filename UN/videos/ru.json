@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Тереза Касаева, директор Глобальной программы ВОЗ по туберкулезу",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdAMWir_Fl8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EdAMWir_Fl8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление премьер-министра Пакистана на заседании Генеральной Ассамблеи ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qcPYz6Ngsy8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Молдовы на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gXzIgSNwyVc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gXzIgSNwyVc"
         }
       }
     }
