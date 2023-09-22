@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "🇦🇩 Andorra - Head of Government Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXKaBXPOkKo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jXKaBXPOkKo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇹🇭 Thailand - Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nATOs4KoAAM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live (Israel, Pakistan, Iraq, UK, & More) - 22 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c_khfqBZFXw/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c_khfqBZFXw"
         }
       }
     }
