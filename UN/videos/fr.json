@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Togo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0E7rljo4TI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M0E7rljo4TI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de la France",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vtfS1exSkeE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 - Discours de la République démocratique du Congo (RDC)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W-T5d6VtxKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W-T5d6VtxKM"
         }
       }
     }
