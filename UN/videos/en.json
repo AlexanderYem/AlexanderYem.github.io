@@ -2,14 +2,27 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 General Debate Live (Ethiopia, Russia, Azerbaijan, Venezuela  & More) - 23 September 2023",
+        "title": "🇱🇦 Laos - Deputy Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/73AjNtTtKM4/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/ICsYCQfnEG8/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "73AjNtTtKM4"
+          "videoId": "ICsYCQfnEG8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇪🇹 Ethiopia - Deputy Prime Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQApI1PnKOw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vQApI1PnKOw"
         }
       }
     },
@@ -80,6 +93,19 @@
     },
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live (Ethiopia, Russia, Azerbaijan, Venezuela  & More) - 23 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/73AjNtTtKM4/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "73AjNtTtKM4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ghana: 2023 UN Peacekeeping Ministerial in Accra: Press Conference | United Nations (22 Sep 2023)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "IONapBZPTyw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live (Israel, Pakistan, Iraq, UK, & More) - 22 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c_khfqBZFXw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c_khfqBZFXw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇷 Iran - First Right of Reply, UN General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dhZKxNmW5IY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dhZKxNmW5IY"
         }
       }
     }

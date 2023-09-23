@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cabo Verde quer mostrar-se nação resiliente, diz primeiro-ministro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQbP2haKkTU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wQbP2haKkTU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra do discurso do primeiro-ministro de Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VuMsHfRSNzM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso de Timor-Leste",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1v2A8J4waSI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1v2A8J4waSI"
         }
       }
     }
