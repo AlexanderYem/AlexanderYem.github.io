@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление заместителя премьер-министра Великобритании на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aQe4H2q2-4Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aQe4H2q2-4Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел Беларуси на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mQ1v75ojFf4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление заместителя председателя КНР на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/haJxDSUCih0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "haJxDSUCih0"
         }
       }
     }

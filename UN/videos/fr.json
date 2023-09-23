@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de Djibouti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfC6QjyNBes/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QfC6QjyNBes"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de Haïti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YLSd8tycNOw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de l’Union européenne",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jdNERJbxytQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jdNERJbxytQ"
         }
       }
     }
