@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "عمدة مدينة الرباط: الزلزال أظهر قوة الشعب المغربي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2mmUMNBIYjg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2mmUMNBIYjg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "البحرين تؤكد على تغليب الحوار والنهج السلمي لإنهاء الصراعات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P3wNdwhQY0w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أمام الجمعية العامة، رئيس الوزراء اللبناني يستعرض 3 تحديات تواجه بلاده",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ki5jYIZF_68/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ki5jYIZF_68"
         }
       }
     }
