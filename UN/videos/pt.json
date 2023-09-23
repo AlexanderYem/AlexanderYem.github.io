@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ministra Nísia Trindade comenta reuniões sobre saúde na ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezOB3LOPegc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ezOB3LOPegc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OIT saúda iniciativa global Brasil-EUA sobre trabalho decente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gQBIpYNNTsw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Para Timor-Leste, “fala-se-muito, mas pouco se faz”  contra a pobreza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TzFEnbC7Lgg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TzFEnbC7Lgg"
         }
       }
     }
