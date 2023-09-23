@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير الخارجية السعودي يؤكد دعم جهود الاستقرار ورفض أفكار الكراهية والإسلاموفوبيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oCHoDSWC1Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-oCHoDSWC1Y"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة وزير خارجية جيبوتي محمود علي يوسف أمام الدورة الـ 78 للجمعية العامة للأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2adPIYK4zo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N2adPIYK4zo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مصر تجدد رفضها لأي إجراءات أحادية لإدارة موارد المياه",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "yZBa31tUD50"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الكويت تحذر من تداعيات إلغاء العراق لاتفاقين بحريين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LHzU1cAQFT0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LHzU1cAQFT0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "عبد الفتاح البرهان يدعو إلى تصنيف قوات الدعم السريع، مجموعة إرهابية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/30OGjYTFuIY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "30OGjYTFuIY"
         }
       }
     }

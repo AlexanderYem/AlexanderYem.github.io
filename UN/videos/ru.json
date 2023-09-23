@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление министра иностранных дел Беларуси на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Y3PgEKDMJM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7Y3PgEKDMJM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел России на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "haJxDSUCih0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление президента Государства Палестина на заседании Генеральной Ассамблеи",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NX3oKbU3Dck/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NX3oKbU3Dck"
         }
       }
     }
