@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours de Haïti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vf8v_X9A8Oo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vf8v_X9A8Oo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Luxembourg",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jdNERJbxytQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de la République du Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8NHlmCPTjkQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8NHlmCPTjkQ"
         }
       }
     }

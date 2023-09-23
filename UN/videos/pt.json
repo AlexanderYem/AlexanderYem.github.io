@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra do discurso do primeiro-ministro de Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ox9RhT2mLOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ox9RhT2mLOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra Nísia Trindade comenta reuniões sobre saúde na ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1v2A8J4waSI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Primeiro-ministro de São Tomé e Príncipe fala dos desafios de Estados insulares",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gQBIpYNNTsw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gQBIpYNNTsw"
         }
       }
     }
