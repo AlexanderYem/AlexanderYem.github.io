@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇩🇯 Djibouti - Foreign Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBuxY4lqvdU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MBuxY4lqvdU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇸🇦 Saudi Arabia - Minister for Foreign Affairs Addresses United Nations General Debate, 78th Session",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQbfk_sX-Zg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VQbfk_sX-Zg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇪🇬 Egypt - Minister for Foreign Affairs Addresses United Nations General Debate, 78th Session",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "SsllL_ZPHNY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇿 Azerbaijan - Minister for Foreign Affairs Addresses United Nations General Debate, 78th Session",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t-cDWjZZkl4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t-cDWjZZkl4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇵🇬 Papua New Guinea - Deputy Prime Minister Addresses United Nations General Debate, 78th Session",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Q2I0wa4IoZI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Q2I0wa4IoZI"
         }
       }
     }

@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "مصر تجدد رفضها لأي إجراءات أحادية لإدارة موارد المياه",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oYAKri2oCMg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oYAKri2oCMg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "لافروف: الصراع بين الأغلبية العالمية والاستعمار الجديد يولد نظاما عالميا مختلفا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwXghV8b19U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mwXghV8b19U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "تونس: لن نقبل بالتوطين المبطن للمهاجرين غير النظاميين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDbHCJ9vW6w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vDbHCJ9vW6w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الصومال يدعو المجتمع الدولي إلى دعمه في التصدي لأزمة المناخ",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "30OGjYTFuIY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس الإيراني يستنكر التدخل الأجنبي في المنطقة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kaBi1SHOXyo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kaBi1SHOXyo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس الفلسطيني: حل الدولتين يتعرض لتدمير ممنهج",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S1X2UT5Lzvc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S1X2UT5Lzvc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الرئيس التركي: مجلس الأمن لم يعد ضامنا للأمن العالمي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YgT2DSDJ57I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YgT2DSDJ57I"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление министра иностранных дел России на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0B9_IE56tw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U0B9_IE56tw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел Азербайджана на заседании Генеральной Ассамблеи ООН.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NX3oKbU3Dck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Речь президента Сербии на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vx84lLuRQTY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vx84lLuRQTY"
         }
       }
     }
