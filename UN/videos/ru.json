@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Выступление министра иностранных дел Азербайджана на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gHbj0Itp6Cc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gHbj0Itp6Cc"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Выступление премьер-министра Грузии на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "vx84lLuRQTY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление канцлера Германии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhUdK8Btki4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uhUdK8Btki4"
         }
       }
     }
