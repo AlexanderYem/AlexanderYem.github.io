@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление министра иностранных дел Армении на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1U6iXK-2xI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H1U6iXK-2xI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление заместителя премьер-министра Великобритании на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MOH9LuaWXPY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление премьер-министра Греции на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mQ1v75ojFf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mQ1v75ojFf4"
         }
       }
     }

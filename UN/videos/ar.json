@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "سلطنة عمان تؤكد ضرورة الحوار لحل النزاعات وتدعو إلى احترام القيم الدينية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJwrPQbNrf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WJwrPQbNrf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "وزير الخارجية السعودي يؤكد دعم جهود الاستقرار ورفض أفكار الكراهية والإسلاموفوبيا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y_G0Dc8CU4Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "نتنياهو: نقترب من تحقيق سلام تاريخي مع السعودية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yZBa31tUD50/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yZBa31tUD50"
         }
       }
     }

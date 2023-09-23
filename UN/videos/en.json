@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "🇳🇴 Norway - Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Ls9mCINtZ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_Ls9mCINtZ8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇻🇪 Venezuela - Minister Addresses United Nations General Debate, 78th Session | #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9P46LJitomA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9P46LJitomA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "🇧🇫 Burkina Faso - Minister of State Addresses United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "FZgxp1K0loA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇩🇯 Djibouti - Foreign Minister Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MBuxY4lqvdU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MBuxY4lqvdU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇸🇦 Saudi Arabia - Minister for Foreign Affairs Addresses United Nations General Debate, 78th Session",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VQbfk_sX-Zg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VQbfk_sX-Zg"
         }
       }
     }
