@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Burkina Faso",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjg2zqLR-sA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yjg2zqLR-sA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours de Djibouti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "sPQzO8JsH6Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de République de Côte d’Ivoire",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YLSd8tycNOw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YLSd8tycNOw"
         }
       }
     }
