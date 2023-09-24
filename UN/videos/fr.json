@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I7opl6K0ZGo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I7opl6K0ZGo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Burkina Faso",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pYdXmBniTFQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 : Jour 4 - Paix durable au Soudan, droits des femmes, couverture sanitaire pour tous",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sPQzO8JsH6Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sPQzO8JsH6Y"
         }
       }
     }

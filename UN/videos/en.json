@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "🇮🇷 Iran - Second Right of Reply, UN General Debate, 78th Session | #UNGA",
+        "title": "2023 SDG Action Weekend Highlights | United Nations | Sustainable Development #UNGA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdmYszwwTJ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fdmYszwwTJ8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇮🇷 Iran - Second Right of Reply, United Nations General Debate, 78th Session | #UNGA",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/QxVBPutLxvM/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9P46LJitomA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇧🇫 Burkina Faso - Minister of State Addresses United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/52idm1mWau0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "52idm1mWau0"
         }
       }
     }
