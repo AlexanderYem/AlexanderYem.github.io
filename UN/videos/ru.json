@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Независимая комиссия ООН по Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EF9PnpFjq-0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EF9PnpFjq-0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел Армении на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J_FshyAdITU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление премьер-министра Израиля на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MOH9LuaWXPY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MOH9LuaWXPY"
         }
       }
     }
