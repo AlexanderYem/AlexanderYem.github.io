@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : Jour 5 - Tuberculose, paix et sécurité, réformes économiques",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2J-bTprxo5w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2J-bTprxo5w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Mali",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QSUAMmihzE4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Tchad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pYdXmBniTFQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pYdXmBniTFQ"
         }
       }
     }
