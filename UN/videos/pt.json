@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Íntegra da entrevista com a Ministra da Saúde do Brasil na UNGA 78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXa3OlUoR-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FXa3OlUoR-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cabo Verde quer mostrar-se nação resiliente, diz primeiro-ministro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eZNicdgFaBg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com o ministro de Minas e Energia do Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VuMsHfRSNzM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VuMsHfRSNzM"
         }
       }
     }
