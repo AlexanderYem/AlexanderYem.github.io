@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Canada",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zAwOmrARmNs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zAwOmrARmNs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Bénin",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O7SLU5EmefI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78: Les priorités de l'Andorre",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QyK7xS06w-E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QyK7xS06w-E"
         }
       }
     }
