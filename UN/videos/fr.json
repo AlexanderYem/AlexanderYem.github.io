@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Cameroun",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c9NnVOfr3m4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c9NnVOfr3m4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 : Jour 5 - Tuberculose, paix et sécurité, réformes économiques",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M0E7rljo4TI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours de la France",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QSUAMmihzE4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QSUAMmihzE4"
         }
       }
     }

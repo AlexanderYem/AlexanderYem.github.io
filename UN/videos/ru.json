@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление министра иностранных дел Индии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NNc8tcYPVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3NNc8tcYPVo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Независимая комиссия ООН по Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EdAMWir_Fl8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление премьер-министра Пакистана на заседании Генеральной Ассамблеи ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J_FshyAdITU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J_FshyAdITU"
         }
       }
     }

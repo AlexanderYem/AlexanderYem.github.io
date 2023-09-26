@@ -2,14 +2,40 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 General Debate Live (India, Canada, DPR Korea, Syria & More) - 26 September 2023",
+        "title": "Amina Mohammed Visits Global Citizen Festival in Central Park | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/mvaJ8HUAmbc/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/FY5J7Zb8q10/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "mvaJ8HUAmbc"
+          "videoId": "FY5J7Zb8q10"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇿🇲 Zambia - Minister for Foreign Affairs Addresses United Nations General Debate, 78th Session",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7bgKG1AuWdo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7bgKG1AuWdo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "🇨🇲 Cameroon - Minister of External Relations Addresses United Nations General Debate, 78th Session",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8glnsjnPFBA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8glnsjnPFBA"
         }
       }
     },
@@ -54,6 +80,19 @@
     },
     {
       "snippet": {
+        "title": "#UNGA78 General Debate Live (India, Canada, DPR Korea, Syria & More) - 26 September 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvaJ8HUAmbc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mvaJ8HUAmbc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "South Sudan, Yemen, General Assembly/Numbers & other topics - Daily Press Briefing (25 Sep 2023)",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "g-EhkLtibSw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 SDG Action Weekend Highlights | United Nations | Sustainable Development #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fdmYszwwTJ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fdmYszwwTJ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇮🇷 Iran - Second Right of Reply, United Nations General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QxVBPutLxvM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QxVBPutLxvM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 General Debate Live (Ethiopia, Russia, Azerbaijan, Venezuela  & More) - 23 September 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/73AjNtTtKM4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "73AjNtTtKM4"
         }
       }
     }
