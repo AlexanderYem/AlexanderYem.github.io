@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المغرب: واجهنا تبعات الزلزال بحزم وتضامن وإرادة قوية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jotQOzUad9I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jotQOzUad9I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "سوريا: نواصل التعامل مع تداعيات الزلزال ونؤكد حقنا في الجولان",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "S_j_3mzJkRU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "عمدة مدينة الرباط: الزلزال أظهر قوة الشعب المغربي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2mmUMNBIYjg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2mmUMNBIYjg"
         }
       }
     }

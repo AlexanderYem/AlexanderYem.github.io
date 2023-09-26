@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Завершающее слово Председателя 78-й Генассамбели ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BBnz3Vogzgk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BBnz3Vogzgk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Секретаря Ватикана по отношениям с государствами",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "R5K4Dm2lKmg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление премьер-министра Грузии на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IiF3BY9X-Q4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IiF3BY9X-Q4"
         }
       }
     }
