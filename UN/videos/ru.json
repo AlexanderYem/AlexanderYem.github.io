@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Секретаря Ватикана по отношениям с государствами",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YZDn8lDxC9c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YZDn8lDxC9c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Выступление заместителя министра иностранных дел Сирии на заседании Генеральной Ассамблеи ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/liIuDH6OjSI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "liIuDH6OjSI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление министра иностранных дел Индии на заседании Генеральной Ассамблеи ООН",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "IiF3BY9X-Q4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ВОЗ и власти Польши предоставляют украинским беженцам лечение от туберкулеза",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WTUN4JG6S-4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WTUN4JG6S-4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Тереза Касаева, директор Глобальной программы ВОЗ по туберкулезу",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EdAMWir_Fl8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EdAMWir_Fl8"
         }
       }
     }

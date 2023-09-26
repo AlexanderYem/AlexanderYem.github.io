@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "سوريا: نواصل التعامل مع تداعيات الزلزال ونؤكد حقنا في الجولان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bY-djCxPR-Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bY-djCxPR-Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الإمارات: خيارنا السلام وسبيلنا التنمية ووجهتنا المستقبل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2mmUMNBIYjg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "البحرين تؤكد على تغليب الحوار والنهج السلمي لإنهاء الصراعات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dtuaeTcRduM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dtuaeTcRduM"
         }
       }
     }
