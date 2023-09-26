@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 – Discours du Bénin",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zi_xxwZyL5E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zi_xxwZyL5E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Cameroun",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QyK7xS06w-E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Togo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M0E7rljo4TI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M0E7rljo4TI"
         }
       }
     }
