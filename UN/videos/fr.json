@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : 6 jours de débat, de dialogue et de prise de décision sur les défis mondiaux",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RIi6X_koqsk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RIi6X_koqsk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 – Discours du Canada",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YO_6uTkDCdc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Gabon",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O7SLU5EmefI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O7SLU5EmefI"
         }
       }
     }
