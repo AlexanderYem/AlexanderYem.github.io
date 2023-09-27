@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Agência da ONU apela a ações ousadas para descarbonizar o transporte marítimo global",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_PRNL_JFKk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u_PRNL_JFKk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Íntegra da entrevista com a Ministra da Saúde do Brasil na UNGA 78",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ggoBgCLeOo4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Íntegra do discurso do presidente da Guiné-Bissau",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eZNicdgFaBg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eZNicdgFaBg"
         }
       }
     }
