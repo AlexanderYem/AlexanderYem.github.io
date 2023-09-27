@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tumesafirisha nyaraka nyeti za CENI- Jean Tobie Okala",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/puozw8UGssA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "puozw8UGssA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mjadala Mkuu wa UNGA78 wakunja jamvi jijini New York",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rgnQxQcJ2c0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN 21 SEPTEMBA 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nqP8eC4kn1M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nqP8eC4kn1M"
         }
       }
     }
