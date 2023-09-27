@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNGA78 President, Dennis Francis, Addresses the Press | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/coS89gbXXxM/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "coS89gbXXxM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pakistan, Armenia/Azerbaijan, World Tourism Day & other topics - Daily Press Briefing (27 Sep 2023)",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Prajakta Koli (MostlySane) meets Alya Fakhroo  | Creator Studio at the SDG Pavilion | #UNGA 78",
+        "title": "Prajakta Koli (MostlySane) meets Alya Fakhroo | Creator Studio at the SDG Pavilion | #UNGA 78",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/x7XBbC6lruE/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DqG7GCt-bBY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇩🇿 Algeria - Second Right of Reply, UN General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x-KznNJxxlQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x-KznNJxxlQ"
         }
       }
     }
