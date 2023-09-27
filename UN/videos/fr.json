@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "#AGNU78 : combien de femmes leaders étaient présentes ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VxUCM5RcxhE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VxUCM5RcxhE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#AGNU78 : 6 jours de débat, de dialogue et de prise de décision sur les défis mondiaux",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vf8v_X9A8Oo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Luxembourg",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YO_6uTkDCdc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YO_6uTkDCdc"
         }
       }
     }
