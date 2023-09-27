@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "#UNGA78 Halftime Show: Inspiring Action | Sustainable Development | United Nations (Replay)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yschtLxehA0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yschtLxehA0"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Conclusion of the High-Level General Assembly Week with UN Deputy chief | United Nations | #unga78",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "F5rJkCwUDvg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#UNGA78 Halftime Show: Inspiring Action | Sustainable Development | United Nations (Replay)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yschtLxehA0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yschtLxehA0"
         }
       }
     },
