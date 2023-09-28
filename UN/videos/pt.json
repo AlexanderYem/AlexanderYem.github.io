@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: ONU investe em melhorias no sistema de drenagem de Pemba",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2T2YbCbG1js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2T2YbCbG1js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Agência da ONU apela a ações ousadas para descarbonizar o transporte marítimo global",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1WIHzfACRFM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Saúde: apostar em inovações pode poupar US$ 8 bilhões até 2030",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ggoBgCLeOo4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ggoBgCLeOo4"
         }
       }
     }
