@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Prajakta Koli meets Mavis Owusu-Gyamfi | India Youth Climate Champion | SDG Creator Studio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ma-0TQP1YBc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ma-0TQP1YBc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prajakta Koli meets Richard Curtis | Creator Studio at the SDG Pavilion | #UNGA 78",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yschtLxehA0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Highlights from #UNGA 78 – A week of global diplomacy at the United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DYveIFY0meE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DYveIFY0meE"
         }
       }
     }
