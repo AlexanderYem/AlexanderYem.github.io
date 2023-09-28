@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti, Lebanon, Democratic Republic of the Congo & other topics - Daily Press Briefing (28 Sep 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cAv8-vMT5kk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cAv8-vMT5kk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 President, Dennis Francis, Addresses the Press | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F5rJkCwUDvg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 Halftime Show: Inspiring Action | Sustainable Development | United Nations (Replay)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yschtLxehA0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yschtLxehA0"
         }
       }
     }
