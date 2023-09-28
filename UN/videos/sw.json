@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Fahamu kuhusu afya ya udongo!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PaVrWJG7AvM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PaVrWJG7AvM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Usalama na Ukwata DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7bcHuAdvLX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ufugaji wenye tija na endelevu ni  upi?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x1V92ANXWsU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x1V92ANXWsU"
         }
       }
     }
