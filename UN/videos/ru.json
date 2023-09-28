@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ЮНИСЕФ восстанавливает разрушенные войной школы в Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L4iBuin-XFc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L4iBuin-XFc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Завершающее слово Председателя 78-й Генассамбели ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U0B9_IE56tw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление министра иностранных дел Азербайджана на заседании Генеральной Ассамблеи ООН.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/R5K4Dm2lKmg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "R5K4Dm2lKmg"
         }
       }
     }
