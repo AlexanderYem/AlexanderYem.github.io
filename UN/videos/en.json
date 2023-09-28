@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Prajakta Koli meets Richard Curtis | Creator Studio at the SDG Pavilion | #UNGA 78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/90AqFdfJBvU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "90AqFdfJBvU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Floods in Pakistan - UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VScXpttjdaw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VScXpttjdaw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Special Envoy for Syria Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bciOSkEjINc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bciOSkEjINc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#UNGA78 President, Dennis Francis, Addresses the Press | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "DYveIFY0meE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇦🇲 Armenia - Second Right of Reply, UN General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l6ZtLGXuWug/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l6ZtLGXuWug"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇲🇦 Morocco - Second Right of Reply, UN General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T8N5UsBrZwY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T8N5UsBrZwY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "🇯🇵 Japan - Third Right of Reply, UN General Debate, 78th Session | #UNGA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DqG7GCt-bBY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DqG7GCt-bBY"
         }
       }
     }
