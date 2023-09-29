@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью с Ажар Гиният, министром здравоохранения Республики Казахстан",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0cSBiMvMem0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0cSBiMvMem0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ЮНИСЕФ восстанавливает разрушенные войной школы в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7Y3PgEKDMJM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление министра иностранных дел России на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U0B9_IE56tw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U0B9_IE56tw"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU em Nova Iorque recebe show de drones em defesa da Amazônia e dos ODS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FxrgqA0lMfA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FxrgqA0lMfA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: ONU investe em melhorias no sistema de drenagem de Pemba",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tD6bSLnOsrc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, secretário-executivo aborda anseios da Cplp",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1WIHzfACRFM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1WIHzfACRFM"
         }
       }
     }
