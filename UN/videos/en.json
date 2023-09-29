@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "MONUSCO Chief on the Democratic Republic of the Congo Situation | UN Security Council Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EvSye6pp7ew/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EvSye6pp7ew"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The Democratic Republic of the Congo (DRC) situation: MONUSCO Head's Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x7XBbC6lruE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Amazing Drone show for the #GlobalGoals above the United Nations in New York City",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ju8MZOOCrCI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ju8MZOOCrCI"
         }
       }
     }
