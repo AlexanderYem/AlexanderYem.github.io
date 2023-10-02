@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pai e filho criam festival de cinema inclusivo para crianças no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-U6QNoIIPiQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-U6QNoIIPiQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil assume presidência do Conselho de Segurança",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tx27Yz87ji8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Luta contra a tuberculose: deputado Antônio Brito comenta implementação de medidas no Congresso",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PrF1ppAeqJU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PrF1ppAeqJU"
         }
       }
     }
