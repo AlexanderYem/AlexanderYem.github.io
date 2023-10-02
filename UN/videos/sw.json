@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "HAKI YA KUJIBU baada ya Mjadala Mkuu wa UN ni nini?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bu_cbBw8JyY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Bu_cbBw8JyY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haki ya Kujibu ni nini wakati wa Mkutano Mkuu wa UN?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pHMOM3noMZs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tumesafirisha nyaraka nyeti za CENI- Jean Tobie Okala",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/puozw8UGssA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "puozw8UGssA"
         }
       }
     }
