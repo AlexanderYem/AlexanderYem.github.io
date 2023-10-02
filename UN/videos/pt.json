@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "General Santos Cruz fala da nova força no Haiti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJTT5CJjU3M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rJTT5CJjU3M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pai e filho criam festival de cinema inclusivo para crianças no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ezOB3LOPegc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OIT saúda iniciativa global Brasil-EUA sobre trabalho decente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tx27Yz87ji8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tx27Yz87ji8"
         }
       }
     }
