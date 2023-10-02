@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ООН наращивает помощь беженцам из Карабаха",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TD1ZgyAZjQo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TD1ZgyAZjQo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обстановка на юго-востоке Армении: десятки тысяч беженцев.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "H1U6iXK-2xI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление заместителя премьер-министра Великобритании на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aQe4H2q2-4Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aQe4H2q2-4Q"
         }
       }
     }
