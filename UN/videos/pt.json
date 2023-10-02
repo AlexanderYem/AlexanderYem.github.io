@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil assume presidência do Conselho de Segurança",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0gq8ip8UFlk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0gq8ip8UFlk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU em Nova Iorque recebe show de drones em defesa da Amazônia e dos ODS",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PrF1ppAeqJU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal cita força da cooperação para aumentar influência da língua",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tD6bSLnOsrc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tD6bSLnOsrc"
         }
       }
     }
