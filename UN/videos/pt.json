@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU alerta para necessidades de saúde das pessoas que fugiram de Karabakh",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfchBmAlhSw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MfchBmAlhSw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Santos Cruz comenta adoção de nova força no Haiti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ox9RhT2mLOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministra Nísia Trindade comenta reuniões sobre saúde na ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ezOB3LOPegc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ezOB3LOPegc"
         }
       }
     }
