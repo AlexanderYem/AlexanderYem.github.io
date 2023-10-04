@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Campanha celebra cultura de paz em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oivo7bCBYfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oivo7bCBYfc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Violência de gangues no Haiti | 5 fatos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FXa3OlUoR-o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cabo Verde quer mostrar-se nação resiliente, diz primeiro-ministro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wQbP2haKkTU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wQbP2haKkTU"
         }
       }
     }
