@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mbinu bunifu za ufundishaji zaongeza uelewa wa wanafunzi nchini Ghana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bljPAe3Sfb8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bljPAe3Sfb8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 03 Oktoba 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iDDE7T74jKg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN 28 SEPTEMBA 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2CpzhV8u9bM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2CpzhV8u9bM"
         }
       }
     }
