@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maktaba Huru yasaidia watoto waishio mitaa ya Nairobi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1QDcjLckm8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k1QDcjLckm8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 05 OKTOBA 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oS6nL8uYccY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hali si hali Haiti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CzF9c-hj36E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CzF9c-hj36E"
         }
       }
     }
