@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ситуация с беженцами в городе Горис",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LSTSyTvVufA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LSTSyTvVufA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН наращивает помощь беженцам из Карабаха",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EF9PnpFjq-0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление министра иностранных дел Армении на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H1U6iXK-2xI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H1U6iXK-2xI"
         }
       }
     }
