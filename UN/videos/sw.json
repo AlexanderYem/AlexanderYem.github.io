@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Samaki wafuatwe hapa Kibokoni",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ku9pYEG8hm0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ku9pYEG8hm0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Zingatieni uhusiano mwema na raia – Mkuu wa MINUSCA kwa TANBAT6",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VUPdX3LDxmk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanasiasa Sudan Kusini fundisheni wananchi elimu ya kisiasa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vjJQ7867mzU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vjJQ7867mzU"
         }
       }
     }
