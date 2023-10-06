@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unesco nomeia o Rio de Janeiro como Capital Mundial do Livro em 2025",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOxQcPCXuxg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kOxQcPCXuxg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“A educação está sob ataque”, diz especialista sobre crianças e conflitos armados",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2T2YbCbG1js"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Agência da ONU apela a ações ousadas para descarbonizar o transporte marítimo global",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u_PRNL_JFKk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u_PRNL_JFKk"
         }
       }
     }
