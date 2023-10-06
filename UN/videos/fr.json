@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Réfugiés en Arménie : des enfants en état de choc",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9BqMrP97EQI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9BqMrP97EQI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 faits sur la sécurité en Haïti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I7opl6K0ZGo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Burkina Faso",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yjg2zqLR-sA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yjg2zqLR-sA"
         }
       }
     }
