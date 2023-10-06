@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "October 6, 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfYJsCcfEek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RfYJsCcfEek"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ситуация с беженцами в городе Горис",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3NNc8tcYPVo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Независимая комиссия ООН по Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EF9PnpFjq-0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EF9PnpFjq-0"
         }
       }
     }
