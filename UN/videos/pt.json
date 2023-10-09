@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Líder da #ONU comenta crise entre #israel e #palestina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ok3poFqs4S8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ok3poFqs4S8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise no Oriente Médio: Líder da ONU pede fim da polarização entre israelenses e palestinos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0gq8ip8UFlk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU em Nova Iorque recebe show de drones em defesa da Amazônia e dos ODS",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FxrgqA0lMfA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FxrgqA0lMfA"
         }
       }
     }
