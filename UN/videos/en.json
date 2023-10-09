@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Middle East Crisis: Briefing by UN Chief | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CJS0BRBcds4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CJS0BRBcds4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malta on Israel/Gaza - Security Council Media Stakeout (8 October 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lkwhWT36J6U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine, Armenia, Autonomous Weapon Systems & other topics - Daily Press Briefing (5 Oct 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zeThvgb8iv4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zeThvgb8iv4"
         }
       }
     }
