@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Conflito no Oriente Médio: ONU pede proteção de civis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/plohNgubtkM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "plohNgubtkM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Crise no Oriente Médio: chefe da ONU pede por negociação da paz",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sAyU5Lb3uE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1sAyU5Lb3uE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Líder da #ONU comenta crise entre #israel e #palestina",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "lI_zj9De_Xg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pai e filho criam festival de cinema inclusivo para crianças no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-U6QNoIIPiQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-U6QNoIIPiQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil assume presidência do Conselho de Segurança",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0gq8ip8UFlk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0gq8ip8UFlk"
         }
       }
     }
