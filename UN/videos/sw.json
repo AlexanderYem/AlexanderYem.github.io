@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Msaada wa chakula ukanda wa Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1porg9zzOc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E1porg9zzOc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sitisheni mapigano Ukanda wa Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMs3YOAI4jk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nMs3YOAI4jk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Janga Mashariki ya Kati",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ku9pYEG8hm0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Zingatieni uhusiano mwema na raia – Mkuu wa MINUSCA kwa TANBAT6",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jaKD55mWkug/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jaKD55mWkug"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Uchumi duniani njiapanda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9CTMl783GBs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9CTMl783GBs"
         }
       }
     }
