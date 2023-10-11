@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Janga Mashariki ya Kati",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YaNUckJAWYY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YaNUckJAWYY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vilevi ni moja ya mambo yanayohatarisha afya ya akili- Dkt. Mabinza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9CTMl783GBs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mbinu bunifu za ufundishaji zaongeza uelewa wa wanafunzi nchini Ghana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bljPAe3Sfb8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bljPAe3Sfb8"
         }
       }
     }
