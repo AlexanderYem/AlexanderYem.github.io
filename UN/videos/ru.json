@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН - о событиях в Израиле и Газе",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnFeISyoY8c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MnFeISyoY8c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Пациенты с ожогами направлены из Армении на лечение в Бельгию",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YZDn8lDxC9c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление заместителя министра иностранных дел Сирии на заседании Генеральной Ассамблеи ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/liIuDH6OjSI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "liIuDH6OjSI"
         }
       }
     }
