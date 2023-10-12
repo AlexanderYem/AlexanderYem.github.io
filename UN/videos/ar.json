@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الوضع مستقر في منطقة عمليات اليونيفيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycc_ks9_zzQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ycc_ks9_zzQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمم المتحدة في غزة: 5 حقائق",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jotQOzUad9I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "سوريا: نواصل التعامل مع تداعيات الزلزال ونؤكد حقنا في الجولان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bY-djCxPR-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bY-djCxPR-Q"
         }
       }
     }
