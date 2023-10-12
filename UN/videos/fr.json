@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Crise au Moyen-Orient : l'ONU dénonce la violence et appelle à une paix négociée",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDxjehLbHQs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eDxjehLbHQs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 Faits sur les Nations Unies à Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c9NnVOfr3m4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 : Jour 5 - Tuberculose, paix et sécurité, réformes économiques",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2J-bTprxo5w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2J-bTprxo5w"
         }
       }
     }
