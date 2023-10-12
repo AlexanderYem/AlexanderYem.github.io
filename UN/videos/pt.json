@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "As Nações Unidas em Gaza: 5 fatos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UH1Cf7W6j8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2UH1Cf7W6j8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil está entre 15 novos membros eleitos para Conselho de Direitos Humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oivo7bCBYfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Violência de gangues no Haiti | 5 fatos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qRn-mNHKtpw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qRn-mNHKtpw"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Alice Aedy meets Professor Dwikorita Karnawati | Creator Studio at the SDG Pavilion | #UNGA 78",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ULEfqKrqLNE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ULEfqKrqLNE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(EN/AR) Civilians in Gaza - Press Conference by Palestine (11 Oct 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KuBlVGvz1Fg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Middle East Crisis: UN Chief decries violence, urges negotiated peace | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CJS0BRBcds4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CJS0BRBcds4"
         }
       }
     }
