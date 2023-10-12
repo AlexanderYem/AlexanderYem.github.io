@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "5 Faits sur les Nations Unies à Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/moqTnwdJIf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "moqTnwdJIf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Réfugiés en Arménie : des enfants en état de choc",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2J-bTprxo5w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Mali",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I7opl6K0ZGo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I7opl6K0ZGo"
         }
       }
     }
