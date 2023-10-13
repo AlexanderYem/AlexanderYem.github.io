@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial da Alimentação",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H6aSx6hDbrk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H6aSx6hDbrk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "ONU receia “situação calamitosa” após ordem de evacuação da área de Wadi Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzYPAqx8hx4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GzYPAqx8hx4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Por Dentro da ONU - Ep.4: o painel de azulejos doado por Portugal",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ok3poFqs4S8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise no Oriente Médio: Líder da ONU pede fim da polarização entre israelenses e palestinos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PyU-_vnUlsY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PyU-_vnUlsY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco nomeia o Rio de Janeiro como Capital Mundial do Livro em 2025",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kOxQcPCXuxg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kOxQcPCXuxg"
         }
       }
     }

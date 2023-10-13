@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "اليونيسف: الوضع صعب جدا في غزة، ولا حل إلا بوقف العنف",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTyywrx5Llg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YTyywrx5Llg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الوضع مستقر في منطقة عمليات اليونيفيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RoCbWlgDKoI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المغرب: واجهنا تبعات الزلزال بحزم وتضامن وإرادة قوية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jotQOzUad9I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jotQOzUad9I"
         }
       }
     }

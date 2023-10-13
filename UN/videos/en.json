@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Arab Group on the situation in the Middle East | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKiG7nSw4jk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VKiG7nSw4jk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "The UK on the situation in the Middle East | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JaNMFqlVh7k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JaNMFqlVh7k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Movement of People in the Israel/Gaza Conflict - Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "J3htinPPZog"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (11 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KbKO9fVSlNU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KbKO9fVSlNU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Middle East, Ukraine, Yemen & other topics - Daily Press Briefing (11 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xoGlXlBa5os/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xoGlXlBa5os"
         }
       }
     }
