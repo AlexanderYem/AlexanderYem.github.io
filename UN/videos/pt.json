@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Por Dentro da ONU - Ep.4: o painel de azulejos doado por Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUzSw_eC56I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pUzSw_eC56I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Após novo terremoto, ONU aumenta ajuda humanitária para mulheres e crianças no Afeganistão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kOxQcPCXuxg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“A educação está sob ataque”, diz especialista sobre crianças e conflitos armados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oXYpWjIvXik/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oXYpWjIvXik"
         }
       }
     }
