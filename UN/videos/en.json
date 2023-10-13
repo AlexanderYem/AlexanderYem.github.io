@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Lebanon, Afghanistan, Gaza & other topics - Daily Press Briefing (13 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NDU1Fii5UXQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NDU1Fii5UXQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75 Years of UN Special Political Missions: Informed by the Past, Adapting for the Future",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CKpbaIcuy5E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Afghanistan, Myanmar & other topics - Daily Press Briefing (10 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zbwPTTMK00E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zbwPTTMK00E"
         }
       }
     }
