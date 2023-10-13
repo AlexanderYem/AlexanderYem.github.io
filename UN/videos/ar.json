@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "النظام الصحي في غزة قارب على الانهيار",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DR4ymBkfaxM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DR4ymBkfaxM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليونيسف: الوضع صعب جدا في غزة، ولا حل إلا بوقف العنف",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LGC_Hp2tz_I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ولكن كم كان عدد النساء؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RoCbWlgDKoI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RoCbWlgDKoI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН – о текущей ситуации в Газе",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOY4M0JJybk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TOY4M0JJybk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН - о событиях в Израиле и Газе",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BBnz3Vogzgk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Секретаря Ватикана по отношениям с государствами",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YZDn8lDxC9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YZDn8lDxC9c"
         }
       }
     }

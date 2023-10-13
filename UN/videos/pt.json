@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Chanceler brasileira comenta conversa com secretário-geral da ONU sobre crise no oriente médio",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kmd36mz3emY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Kmd36mz3emY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial da Alimentação",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1sAyU5Lb3uE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Líder da #ONU comenta crise entre #israel e #palestina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ok3poFqs4S8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ok3poFqs4S8"
         }
       }
     }
