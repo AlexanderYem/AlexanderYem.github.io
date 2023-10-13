@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conflit Israël-Gaza : « Il est temps que l'humanité l'emporte »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ioQlsER_hE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_ioQlsER_hE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise au Moyen-Orient : l'ONU dénonce la violence et appelle à une paix négociée",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Zi_xxwZyL5E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Cameroun",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/c9NnVOfr3m4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "c9NnVOfr3m4"
         }
       }
     }
