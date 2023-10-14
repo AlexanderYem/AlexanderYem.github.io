@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Secretary-General on the journalist who was killed in southern Lebanon - Press Encounter",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/01p5UlaP9NY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "01p5UlaP9NY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Peaceful Assembly & Human Rights Defenders: UN Special Rapporteurs Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dTBV7WIpGug"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Lebanon, Afghanistan, Gaza & other topics - Daily Press Briefing (13 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NDU1Fii5UXQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NDU1Fii5UXQ"
         }
       }
     }
