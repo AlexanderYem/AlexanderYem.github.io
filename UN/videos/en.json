@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brazil (Security Council President) on the situation in Gaza - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YZxZPDmrEDI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YZxZPDmrEDI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Gaza and Israel - Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AzuDgrk0EOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "The Prevention of Torture: UN Special Rapporteur & UNGA78 Committee Chairs Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0ffP_5njJjM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0ffP_5njJjM"
         }
       }
     }
