@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Russia on Gaza and Israel - Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-5aoZMTN1k8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-5aoZMTN1k8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "China on the situation in Gaza - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6cj9-E2PrWg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6cj9-E2PrWg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Arab Group on the situation in Gaza, following meeting with UN Secretary-General - Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6H4A1Jn1jqI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6H4A1Jn1jqI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Arab Group on the situation in the Middle East | Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "0ffP_5njJjM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Afghanistan, Colombia & other topics - Daily Press Briefing (12 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0fEAPwUGQr8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0fEAPwUGQr8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alice Aedy meets Professor Dwikorita Karnawati | Creator Studio at the SDG Pavilion | #UNGA 78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ULEfqKrqLNE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ULEfqKrqLNE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(EN/AR) Civilians in Gaza - Press Conference by Palestine (11 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J3htinPPZog/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J3htinPPZog"
         }
       }
     }
