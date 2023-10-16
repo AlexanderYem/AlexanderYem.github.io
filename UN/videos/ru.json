@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Заместитель Генсека ООН – о ситуации в Газе",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vp3ujLUIXhQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vp3ujLUIXhQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН – о текущей ситуации в Газе",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "L4iBuin-XFc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Завершающее слово Председателя 78-й Генассамбели ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BBnz3Vogzgk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BBnz3Vogzgk"
         }
       }
     }
