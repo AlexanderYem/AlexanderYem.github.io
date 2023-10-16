@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مسؤولة الشؤون الإنسانية في فلسطين: وضع كارثي غير مسبوق في غزة ويجب إدخال المساعدات فورا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gftMpN6k1yE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gftMpN6k1yE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "برنامج الأغذية العالمي: الوضع في غزة كارثي وأصعب قرار كان إخبار زملائنا بأن عليهم النزوح",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5oEeyV6lPOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كيف يبدو النظام الذكوري في عالمنا العربي؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ba8MqN0LgMo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ba8MqN0LgMo"
         }
       }
     }
