@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ООН доставила помощь в прифронтовой город Часов Яр",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PX_jbzyXw7I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PX_jbzyXw7I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Заместитель Генсека ООН – о ситуации в Газе",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0cSBiMvMem0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ЮНИСЕФ восстанавливает разрушенные войной школы в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L4iBuin-XFc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L4iBuin-XFc"
         }
       }
     }
