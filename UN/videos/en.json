@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council: The situation in the Middle East, including the Palestinian question",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4lD7_-1-3Y/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B4lD7_-1-3Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Secretary-General on the journalist who was killed in southern Lebanon - Press Encounter",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rVStAQwbk6g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'The unfolding humanitarian crisis in Gaza is bone-chilling', says UNRWA Chief | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dTBV7WIpGug/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dTBV7WIpGug"
         }
       }
     }
