@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Gaza, Mali, Sudan & other topics - Daily Press Briefing (16 Oct 2023) | United Nations",
+        "title": "Afghanistan Earthquakes: Impact on 43,000 People | Press Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L_lA0Z-3vdo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L_lA0Z-3vdo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Middle East, Mali, Sudan & other topics - Daily Press Briefing (16 Oct 2023) | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/PACP5u_Woig/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6H4A1Jn1jqI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Arab Group on the situation in the Middle East | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VKiG7nSw4jk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VKiG7nSw4jk"
         }
       }
     }

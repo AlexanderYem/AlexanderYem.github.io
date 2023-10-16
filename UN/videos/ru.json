@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Сектор Газа после обстрелов",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kvj-Pg3fkzE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Kvj-Pg3fkzE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН доставила помощь в прифронтовой город Часов Яр",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VdmgqGlkvUE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Интервью с Ажар Гиният, министром здравоохранения Республики Казахстан",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0cSBiMvMem0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0cSBiMvMem0"
         }
       }
     }
