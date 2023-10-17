@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Estoques alimentares estão acabando em Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jhprh8ZnhCw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Jhprh8ZnhCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 fatos - Como a ONU fornece ajuda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NeGD8cmmrOs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conflito no Oriente Médio: ONU pede proteção de civis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/plohNgubtkM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "plohNgubtkM"
         }
       }
     }
