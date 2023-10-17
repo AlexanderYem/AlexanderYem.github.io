@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "5 fatos - Como a ONU fornece ajuda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4GPZRWz2Vw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j4GPZRWz2Vw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chanceler brasileiro comenta conversa com secretário-geral da ONU sobre crise no Oriente Médio",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "plohNgubtkM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise no Oriente Médio: chefe da ONU pede por negociação da paz",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1sAyU5Lb3uE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1sAyU5Lb3uE"
         }
       }
     }
