@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (17 October 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSMkhz8MFTM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TSMkhz8MFTM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (16 October 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LgCfTFdoRJQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LgCfTFdoRJQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Russia on Palestine - Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -15,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "Failed resolution - Middle East Situation & Palestinian Question- Security Council | United Nations",
+        "title": "Security Council rejects Russian resolution on Gaza - Security Council | United Nations (full)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/B4lD7_-1-3Y/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "YZxZPDmrEDI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Gaza and Israel - Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-5aoZMTN1k8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-5aoZMTN1k8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "China on the situation in Gaza - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6cj9-E2PrWg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6cj9-E2PrWg"
         }
       }
     }
