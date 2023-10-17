@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Как ООН доставляет помощь? Пять фактов.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tG-2_SyE9DA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tG-2_SyE9DA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Сектор Газа после обстрелов",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TD1ZgyAZjQo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обстановка на юго-востоке Армении: десятки тысяч беженцев.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VdmgqGlkvUE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VdmgqGlkvUE"
         }
       }
     }

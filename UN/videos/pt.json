@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "“Países de língua portuguesa têm potencial de impulsionar forças de paz da ONU”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IwgWQubCF2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IwgWQubCF2M"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#onu afirma que estoques alimentares estão acabando em #gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjO80ZgTCwY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sjO80ZgTCwY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Estoques alimentares estão acabando em Gaza",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "2UH1Cf7W6j8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil está entre 15 novos membros eleitos para Conselho de Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WExw3JsItio/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WExw3JsItio"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#orientemedio: #Onu pede proteção a civis no conflito #israel - #palestina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NeGD8cmmrOs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NeGD8cmmrOs"
         }
       }
     }
