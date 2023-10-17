@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Sudan, Climate Change & other topics - Daily Press Briefing (17 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NYFf_EcJjgw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NYFf_EcJjgw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (17 October 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PMbrmS4W_no"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brazil (Security Council President) on the situation in Gaza - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YZxZPDmrEDI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YZxZPDmrEDI"
         }
       }
     }
