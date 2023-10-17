@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Middle East Situation & Palestinian Question: UN Security Council Briefing | United Nations",
+        "title": "Russia on Palestinian question - Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_fwLlybt7Z0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_fwLlybt7Z0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Failed resolution - Middle East Situation & Palestinian Question- Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/B4lD7_-1-3Y/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6cj9-E2PrWg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Arab Group on the situation in Gaza, following meeting with UN Secretary-General - Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6H4A1Jn1jqI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6H4A1Jn1jqI"
         }
       }
     }
