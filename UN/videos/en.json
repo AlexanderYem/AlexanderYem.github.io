@@ -2,14 +2,27 @@
   "items": [
     {
       "snippet": {
-        "title": "Middle East & Palestinian Question (Israel/Gaza): UN Security Council | United Nations",
+        "title": "Middle East Situation: Briefing by OCHA Deputy Secretary-General on Palestine | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/rva0zzPpVzc/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/ILj2Q7cRmas/hqdefault.jpg"
           }
         },
         "resourceId": {
-          "videoId": "rva0zzPpVzc"
+          "videoId": "ILj2Q7cRmas"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Security Council: Briefing on Middle East & Palestine Crisis | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/oFeVx2je2pE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "oFeVx2je2pE"
         }
       }
     },
@@ -23,6 +36,19 @@
         },
         "resourceId": {
           "videoId": "SW_Zp6cB1Bs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Middle East & Palestinian Question (Israel/Gaza): UN Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rva0zzPpVzc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rva0zzPpVzc"
         }
       }
     },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "LgCfTFdoRJQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Palestine - Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_fwLlybt7Z0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_fwLlybt7Z0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council rejects Russian resolution on Gaza - Security Council | United Nations (full)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B4lD7_-1-3Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B4lD7_-1-3Y"
         }
       }
     }
