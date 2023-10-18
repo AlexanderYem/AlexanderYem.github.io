@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vilio Afghanistan! Kila jiwe ni kaburi!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VgCziud7l0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_VgCziud7l0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Asanteni kwa kutufikia Ushindi S/M",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nqi8S76D-mM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ushirikishaji wa watoto katika kujiandaa na athari za majanga unamanufaa: UNICEF",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LRLX6GyR53w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LRLX6GyR53w"
         }
       }
     }
