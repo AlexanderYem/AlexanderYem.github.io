@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "منظمة الصحة العالمية تدين الهجوم على المستشفى المعمداني في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AlSse3ZCR3s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AlSse3ZCR3s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مسؤولة الشؤون الإنسانية في فلسطين: وضع كارثي غير مسبوق في غزة ويجب إدخال المساعدات فورا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QuSz52IvgJ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام حول الشرق الأوسط: العنف الأخير لا يأتي من فراغ",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5oEeyV6lPOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5oEeyV6lPOY"
         }
       }
     }
