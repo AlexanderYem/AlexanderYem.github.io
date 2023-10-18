@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Middle East & Palestinian Question (Israel/Gaza): UN Security Council | United Nations | USA Veto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rva0zzPpVzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rva0zzPpVzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Middle East, China, Sudan & other topics - Daily Press Briefing (18 Oct 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "SW_Zp6cB1Bs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Middle East & Palestinian Question (Israel/Gaza): UN Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rva0zzPpVzc/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rva0zzPpVzc"
         }
       }
     },

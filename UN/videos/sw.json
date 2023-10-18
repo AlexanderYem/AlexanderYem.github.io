@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Asanteni kwa kutufikia Ushindi S/M",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s7XWB5rBUFA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s7XWB5rBUFA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Uko mjini? Usipande tu maua, panda na mboga za majani!",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LRLX6GyR53w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mwani Pemba wainua waathiriwa wa tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x3cNnvkuLeg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x3cNnvkuLeg"
         }
       }
     }
