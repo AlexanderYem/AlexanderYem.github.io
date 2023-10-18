@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (18 October 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9HqiSWPv2QY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9HqiSWPv2QY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Middle East & Palestinian Question (Israel/Gaza): UN Security Council | United Nations | USA Veto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NYFf_EcJjgw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (17 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TSMkhz8MFTM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TSMkhz8MFTM"
         }
       }
     }
