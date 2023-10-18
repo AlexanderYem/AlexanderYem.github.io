@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Middle East Situation: Briefing by OCHA Deputy Secretary-General on Palestine | United Nations",
+        "title": "Middle East, China, Sudan & other topics - Daily Press Briefing (18 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/APkv6jNAxZI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "APkv6jNAxZI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Humanitarian Situation in Palestine and Israel | OCHA Deputy Secretary-General | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/ILj2Q7cRmas/hqdefault.jpg"
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "UN Security Council: Briefing on Middle East & Palestine Crisis | United Nations",
+        "title": "Most Difficult Moments for Israel & Palestine in 75 years | United Nations Security Council Briefing",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/oFeVx2je2pE/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TSMkhz8MFTM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (16 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LgCfTFdoRJQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LgCfTFdoRJQ"
         }
       }
     }

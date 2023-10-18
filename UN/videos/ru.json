@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Израиль-Газа: Генсек ООН призывает к прекращению огня",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/x2LCX7oCbys/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "x2LCX7oCbys"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Как ООН доставляет помощь? Пять фактов.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LSTSyTvVufA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН наращивает помощь беженцам из Карабаха",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TD1ZgyAZjQo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TD1ZgyAZjQo"
         }
       }
     }
