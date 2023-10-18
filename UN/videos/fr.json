@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Israël-Gaza : António Guterres appel à un cessez-le-feu immédiat",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTWRVTXBnxM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HTWRVTXBnxM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comment l'ONU apporte de l'aide - 5 faits",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "RIi6X_koqsk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 – Discours du Canada",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zAwOmrARmNs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zAwOmrARmNs"
         }
       }
     }
