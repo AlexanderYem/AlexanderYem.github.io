@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (19 October 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/85mwLR3qn54/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "85mwLR3qn54"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (18 October 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rmM27rr7p6U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Sudan, Climate Change & other topics - Daily Press Briefing (17 Oct 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NYFf_EcJjgw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NYFf_EcJjgw"
         }
       }
     }
