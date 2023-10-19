@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Yemen, Venezuela & other topics - Daily Press Briefing (19 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2evHfg3nXE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "r2evHfg3nXE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (19 October 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_2woXmyauzA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Arab Group on the Middle East (Gaza Conflict) -Media Stakeout (17 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rmM27rr7p6U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rmM27rr7p6U"
         }
       }
     }
