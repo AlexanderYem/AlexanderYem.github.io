@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro-ministro destaca desafios de segurança em São Tomé e Príncipe",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HCfjeyLNM3w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HCfjeyLNM3w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: Os desafios das mulheres em situação vulnerável na província de Cabo Delgado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pUzSw_eC56I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Após novo terremoto, ONU aumenta ajuda humanitária para mulheres e crianças no Afeganistão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xi2VdHbGByo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Xi2VdHbGByo"
         }
       }
     }
