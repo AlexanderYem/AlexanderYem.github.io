@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mzozo Gaza: Guterres afika Cairo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/apmAhkrjC60/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "apmAhkrjC60"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 19 OKTOBA 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HLMPtBYXx_o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mgao wa mayai na dagaa Kigoma, kulikoni?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_NUHMmbc7PQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_NUHMmbc7PQ"
         }
       }
     }
