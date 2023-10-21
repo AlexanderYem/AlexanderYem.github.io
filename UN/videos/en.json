@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Remarks by UN Chief António Guterres at the Cairo Summit for Peace",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7mAms80Wn0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K7mAms80Wn0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian Affairs Committee on Israel/Gaza & other High Concerns | United Nations | ⚙️ Language",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "r2evHfg3nXE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (19 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/85mwLR3qn54/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "85mwLR3qn54"
         }
       }
     }
