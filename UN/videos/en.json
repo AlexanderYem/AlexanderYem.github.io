@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (20 October 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EB65ghG_OMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EB65ghG_OMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian Affairs Committee on Israel/Gaza & other High Concerns | United Nations | ⚙️ Language",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "85mwLR3qn54"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (18 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9HqiSWPv2QY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9HqiSWPv2QY"
         }
       }
     }
