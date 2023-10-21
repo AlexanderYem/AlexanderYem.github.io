@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Com apoio da ONU, Gaza recebe primeiro comboio de ajuda humanitária",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/A7AfoqWw6gA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "A7AfoqWw6gA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Líder da #ONU pede entrada contínua de #ajuda em #gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Kmd36mz3emY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Mundial da Alimentação",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H6aSx6hDbrk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H6aSx6hDbrk"
         }
       }
     }
