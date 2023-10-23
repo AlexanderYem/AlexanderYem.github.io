@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Lebanon, Mali & other topics - Daily Press Briefing (23 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rm0PPfoI_CM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rm0PPfoI_CM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Independent Investigative Mechanisms for Myanmar: Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qJqazIBiGwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Conflicts in Somalia continue to take a heavy toll on civilians\" - UN Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GUAdnuEtkVk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GUAdnuEtkVk"
         }
       }
     }
