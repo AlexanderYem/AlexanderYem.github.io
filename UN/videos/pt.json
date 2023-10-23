@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9d3th-Ga18k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9d3th-Ga18k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Com apoio da ONU, Gaza recebe primeiro comboio de ajuda humanitária",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j4GPZRWz2Vw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chanceler brasileiro comenta conversa com secretário-geral da ONU sobre crise no Oriente Médio",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kmd36mz3emY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Kmd36mz3emY"
         }
       }
     }
