@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Day 2023 Concert: 'The Frontlines of Climate Action' | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsuxUZgGH-o/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SsuxUZgGH-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Security Council Addresses Israel-Gaza Crisis (continued) | United Nations (24 Oct 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "c_EQHzEiUb8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Int’l Court of Justice (ICJ) | Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cAPfGWWoABA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cAPfGWWoABA"
         }
       }
     }
