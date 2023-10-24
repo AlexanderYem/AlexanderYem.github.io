@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Security Council Addresses Israel-Gaza Crisis | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WeV5GXK2AKc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WeV5GXK2AKc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kosovo: exacerbated an already deteriorating security environment - United Nations Security Council",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "vKV96VqL_kU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council Addresses Israel-Gaza Crisis | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WeV5GXK2AKc/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WeV5GXK2AKc"
         }
       }
     },
