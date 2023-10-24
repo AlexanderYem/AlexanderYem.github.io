@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "(EN/AR) Arab Group on the Middle East | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vy3zuWudfoc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vy3zuWudfoc"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "UN Security Council Addresses Israel-Gaza Crisis (continued) | United Nations (24 Oct 2023)",
         "thumbnails": {
           "high": {
@@ -23,6 +10,32 @@
         },
         "resourceId": {
           "videoId": "o34SRxOQZW0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel on the Israel/Gaza Crisis - Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FmfvpthNZ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7FmfvpthNZ0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(EN/AR) Arab Group on the Middle East | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vy3zuWudfoc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vy3zuWudfoc"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cAPfGWWoABA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rights & Freedoms While Countering Terrorism: UN Special Rapporteur's Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vKV96VqL_kU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vKV96VqL_kU"
         }
       }
     }

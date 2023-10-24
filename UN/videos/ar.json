@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمم المتحدة تحذر من انتهاكات الأطراف للقانون الدولي الإنساني في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qFAuqHjWPQw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qFAuqHjWPQw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأونروا: لا يوجد تأكيد على موعد محدد لدخول المساعدات إلى غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9B0VgzJ-d90"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "النظام الصحي في غزة قارب على الانهيار",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DR4ymBkfaxM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DR4ymBkfaxM"
         }
       }
     }
