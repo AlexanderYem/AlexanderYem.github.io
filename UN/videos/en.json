@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Human rights in Palestinian occupied territories: UN Special Rapporteur's Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7NiPqSU2sk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "N7NiPqSU2sk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Gaza I Security Council vote on new resolutions",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ALrbJrSZpjE/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ALrbJrSZpjE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Palestinian Territory, including East Jerusalem, & Israel: Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -41,7 +67,7 @@
     },
     {
       "snippet": {
-        "title": "UN Chief on Middle East Situation - Security Council Media Stakeout (25 October 23) | United Nations",
+        "title": "UN Chief on Israel/Gaza Crisis - Security Council Media Stakeout (25 October 23) | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/JwQXsuhVgwE/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Vy3zuWudfoc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Preventing Further Conflict in the Middle East: UNSCO Addresses Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/REnab4j7cBo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "REnab4j7cBo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council Addresses Israel-Gaza Crisis | United Nations (24 Oct 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WeV5GXK2AKc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WeV5GXK2AKc"
         }
       }
     }
