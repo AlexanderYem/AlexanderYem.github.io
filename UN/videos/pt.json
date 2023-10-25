@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“Estamos num momento muito único da história amazônica”, diz apresentador Luciano Huck.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9fwOAYcVRlo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9fwOAYcVRlo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jhprh8ZnhCw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "5 fatos - Como a ONU fornece ajuda",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j4GPZRWz2Vw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j4GPZRWz2Vw"
         }
       }
     }
