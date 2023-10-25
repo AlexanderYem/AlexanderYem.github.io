@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Palestinian Territory, including East Jerusalem, & Israel: Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XuPGXoKCCz8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XuPGXoKCCz8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief - Women’s participation in international peace and security  | UN Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WeV5GXK2AKc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian Solutions in the Gaza-Israel Crisis: UN Security Council Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cpc0LEnTAMc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Cpc0LEnTAMc"
         }
       }
     }

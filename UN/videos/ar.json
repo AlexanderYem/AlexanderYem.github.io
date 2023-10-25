@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام للأمم المتحدة يرفض تحريف تصريحاته أمام مجلس الأمن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HAjt5skcw-8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HAjt5skcw-8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمم المتحدة تحذر من انتهاكات الأطراف للقانون الدولي الإنساني في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2dd33KNviek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: نقل أكثر من مليون شخص في غزة أمر خطير للغاية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9B0VgzJ-d90/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9B0VgzJ-d90"
         }
       }
     }
