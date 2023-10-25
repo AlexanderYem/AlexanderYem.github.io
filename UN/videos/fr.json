@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guterres réitère sa condamnation des actes terroristes du Hamas en Israël",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wx4eoTjcaHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wx4eoTjcaHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israël-Gaza : António Guterres appel à un cessez-le-feu immédiat",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VxUCM5RcxhE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 : 6 jours de débat, de dialogue et de prise de décision sur les défis mondiaux",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RIi6X_koqsk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RIi6X_koqsk"
         }
       }
     }
