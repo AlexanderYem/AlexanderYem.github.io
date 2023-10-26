@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Human rights in the Russian Federation: UN Special Rapporteur's Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZK4nqlHiH8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0ZK4nqlHiH8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Assembly: Tenth emergency special session (resumed), 39th plenary meeting",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JwQXsuhVgwE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council Addresses Israel-Gaza Crisis (continued) | United Nations (24 Oct 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/o34SRxOQZW0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "o34SRxOQZW0"
         }
       }
     }
