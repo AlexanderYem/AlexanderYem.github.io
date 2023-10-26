@@ -2,32 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Live: экстренная сессия Генассамблеи ООН по Ближнему Востоку с переводом на русский",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gf804pQPR70/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gf804pQPR70"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Live: экстренная сессия Генассамблеи ООН по Ближнему Востоку с переводом на русский",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YTEJmeEBLgc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YTEJmeEBLgc"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Генсек ООН – о «неправильной интерпретации» его слов о ХАМАС",
         "thumbnails": {
           "high": {
@@ -127,6 +101,32 @@
         },
         "resourceId": {
           "videoId": "MnFeISyoY8c"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Пациенты с ожогами направлены из Армении на лечение в Бельгию",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4ddTgjDFJM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t4ddTgjDFJM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "October 6, 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfYJsCcfEek/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RfYJsCcfEek"
         }
       }
     }
