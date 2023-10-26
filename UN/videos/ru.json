@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Служба новостей ООН Live Stream",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTEJmeEBLgc/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YTEJmeEBLgc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН – о «неправильной интерпретации» его слов о ХАМАС",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t4ddTgjDFJM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "October 6, 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RfYJsCcfEek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RfYJsCcfEek"
         }
       }
     }
