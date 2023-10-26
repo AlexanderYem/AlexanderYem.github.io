@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "منظمة الصحة العالمية: نقص الوقود في غزة يعني موت الأطفال في الحضانات",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ra-mCrgoxDY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ra-mCrgoxDY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "هيئة الأمم المتحدة للمرأة تحذر من تداعيات الأزمة العميقة على النساء والفتيات في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmBi_HZ6kMI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mmBi_HZ6kMI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة إيران أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1e5tckf9oyY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1e5tckf9oyY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "منظمة الصحة العالمية تحذر من إغلاق المستشفيات وشح الإمدادات في غزة",
         "thumbnails": {
           "high": {
@@ -15,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "كلمة الأردن أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة",
+        "title": "كلمة الأردن أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/QmXacric5eo/hqdefault.jpg"
@@ -28,7 +67,7 @@
     },
     {
       "snippet": {
-        "title": "كلمة إسرائيل أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة",
+        "title": "كلمة إسرائيل أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/tOY6tCcwZYc/hqdefault.jpg"
@@ -41,7 +80,7 @@
     },
     {
       "snippet": {
-        "title": "كلمة فلسطين أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة",
+        "title": "كلمة فلسطين أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/uArsRwCYdpg/hqdefault.jpg"
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "bXsU-aLovKA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "حوار - مسؤولة أممية: سيدات حوامل في غزة في سباق مع الموت",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7f0_O_7C7aA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7f0_O_7C7aA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "5 حقائق: كيف تقدم الأمم المتحدة المساعدات؟",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FHrrwYgZtuI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FHrrwYgZtuI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مسؤول في منظمة الصحة العالمية: قصف مستشفى المعمداني جريمة شنعاء",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LeMVeHq_7vA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LeMVeHq_7vA"
         }
       }
     }

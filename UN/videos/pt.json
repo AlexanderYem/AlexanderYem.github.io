@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Guerra na Síria passa pelo pior momento em quatro anos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHj0VCoLamU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JHj0VCoLamU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Líder da ONU se diz chocado com “interpretações erradas” sobre sua declaração",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IwgWQubCF2M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#onu afirma que estoques alimentares estão acabando em #gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sjO80ZgTCwY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sjO80ZgTCwY"
         }
       }
     }
