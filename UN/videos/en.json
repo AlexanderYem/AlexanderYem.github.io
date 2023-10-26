@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "General Assembly: Tenth emergency special session (resumed), 39th plenary meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Boy6u3_XDE/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6Boy6u3_XDE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Palestine I Security Council vote on new resolutions | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SsuxUZgGH-o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel on the Israel/Gaza Crisis - Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7FmfvpthNZ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7FmfvpthNZ0"
         }
       }
     }
