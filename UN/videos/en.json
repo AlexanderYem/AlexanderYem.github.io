@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Harmony Unites: UN Chamber Music Society Virtual Concert for Peace in the Middle East",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WizqIMu7E4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4WizqIMu7E4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Human rights in the Russian Federation: UN Special Rapporteur's Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -23,19 +36,6 @@
         },
         "resourceId": {
           "videoId": "6Boy6u3_XDE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Harmony Unites: UN Chamber Music Society Virtual Concert for Peace in the Middle East",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4WizqIMu7E4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4WizqIMu7E4"
         }
       }
     },
