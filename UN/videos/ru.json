@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
-        "title": "Служба новостей ООН Live Stream",
+        "title": "Live: экстренная сессия Генассамблеи ООН по Ближнему Востоку с переводом на русский",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/YTEJmeEBLgc/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/gf804pQPR70/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gf804pQPR70"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Live: экстренная сессия Генассамблеи ООН по Ближнему Востоку с переводом на русский",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTEJmeEBLgc/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MnFeISyoY8c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Пациенты с ожогами направлены из Армении на лечение в Бельгию",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t4ddTgjDFJM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t4ddTgjDFJM"
         }
       }
     }
