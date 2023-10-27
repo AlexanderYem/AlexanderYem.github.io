@@ -5,7 +5,20 @@
         "title": "Служба новостей ООН Live Stream",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/VfzppNVbEWA/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/kCoPbwYZ8bs/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kCoPbwYZ8bs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Служба новостей ООН Live Stream",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VfzppNVbEWA/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MnFeISyoY8c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Пациенты с ожогами направлены из Армении на лечение в Бельгию",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/t4ddTgjDFJM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "t4ddTgjDFJM"
         }
       }
     }
