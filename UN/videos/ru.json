@@ -5,6 +5,32 @@
         "title": "Служба новостей ООН Live Stream",
         "thumbnails": {
           "high": {
+            "url": "https://i.ytimg.com/vi/dVz__AhKw44/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dVz__AhKw44"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Служба новостей ООН Live Stream",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gK_DrO--jf0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gK_DrO--jf0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Служба новостей ООН Live Stream",
+        "thumbnails": {
+          "high": {
             "url": "https://i.ytimg.com/vi/kCoPbwYZ8bs/hqdefault.jpg"
           }
         },
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "vp3ujLUIXhQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН – о текущей ситуации в Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TOY4M0JJybk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TOY4M0JJybk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН - о событиях в Израиле и Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MnFeISyoY8c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MnFeISyoY8c"
         }
       }
     }
