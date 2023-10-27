@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة السعودية أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eiFCKGN0xic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eiFCKGN0xic"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "كلمة مصر أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WlFTGxi3B5A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WlFTGxi3B5A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة الولايات المتحدة أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة حول فلسطين (ترجمة)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "tOY6tCcwZYc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة فلسطين أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uArsRwCYdpg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uArsRwCYdpg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام للأمم المتحدة يرفض تحريف تصريحاته أمام مجلس الأمن",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HAjt5skcw-8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HAjt5skcw-8"
         }
       }
     }

@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, South Sudan, Ukraine & other topics - Daily Press Briefing (27 Oct 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTbzSZMlC44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TTbzSZMlC44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "AM General Assembly: Tenth emergency special session (resumed), 40th plenary meeting",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/XS3SKg_dWP8/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/XS3SKg_dWP8/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0ZK4nqlHiH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine I Security Council vote on new resolutions | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ALrbJrSZpjE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ALrbJrSZpjE"
         }
       }
     }
