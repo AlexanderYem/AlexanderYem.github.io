@@ -54,19 +54,6 @@
     },
     {
       "snippet": {
-        "title": "OCHA Briefing on the Humanitarian Situation in the Occupied Palestinian Territory",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TWpYHlG6nEI/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TWpYHlG6nEI"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Gaza, Lebanon, Sudan & other topics - Daily Press Briefing (26 October 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "0ZK4nqlHiH8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine I Security Council vote on new resolutions | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ALrbJrSZpjE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ALrbJrSZpjE"
         }
       }
     }
