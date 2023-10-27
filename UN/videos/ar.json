@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة الولايات المتحدة أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة حول فلسطين (ترجمة)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4fLVrG-hAs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h4fLVrG-hAs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة قطر أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HAjt5skcw-8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تحذر من انتهاكات الأطراف للقانون الدولي الإنساني في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qFAuqHjWPQw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qFAuqHjWPQw"
         }
       }
     }
