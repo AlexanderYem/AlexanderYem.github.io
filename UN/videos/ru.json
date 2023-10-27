@@ -5,11 +5,24 @@
         "title": "Служба новостей ООН Live Stream",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/dVz__AhKw44/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/dVz__AhKw44/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "dVz__AhKw44"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Служба новостей ООН Live Stream",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PikR1f12Yko/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PikR1f12Yko"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PX_jbzyXw7I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заместитель Генсека ООН – о ситуации в Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vp3ujLUIXhQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vp3ujLUIXhQ"
         }
       }
     }
