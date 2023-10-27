@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "لحظة التصويت على قرار الجمعية العامة للأمم المتحدة الذي يدعو لهدنة إنسانية فورية في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnWZ9ta5vXY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bnWZ9ta5vXY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كلمة السعودية أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QmXacric5eo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة إسرائيل أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tOY6tCcwZYc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tOY6tCcwZYc"
         }
       }
     }

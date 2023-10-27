@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Falta de combustível ameaça assistência alimentar em Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v83QmA_-auM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v83QmA_-auM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Embaixadora do #brasil fala de #violenciadegenero em contextos de #guerra",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rTo4v1jwFC8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Primeiro-ministro destaca desafios de segurança em São Tomé e Príncipe",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HCfjeyLNM3w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HCfjeyLNM3w"
         }
       }
     }
