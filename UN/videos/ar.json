@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة قطر أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wOtt5PS4AFE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wOtt5PS4AFE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "منظمة الصحة العالمية: نقص الوقود في غزة يعني موت الأطفال في الحضانات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qFAuqHjWPQw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأونروا: لا يوجد تأكيد على موعد محدد لدخول المساعدات إلى غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bXsU-aLovKA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bXsU-aLovKA"
         }
       }
     }

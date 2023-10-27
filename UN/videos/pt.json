@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Embaixadora do #brasil fala de #violenciadegenero em contextos de #guerra",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3LVQFCQnjGU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3LVQFCQnjGU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“É inaceitável que abuso sexual seja usado como arma de guerra”, diz diplomata brasileira",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HCfjeyLNM3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambique: Os desafios das mulheres em situação vulnerável na província de Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fBsLlN3dEZU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fBsLlN3dEZU"
         }
       }
     }
