@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "World Cities Day 2023 (İstanbul, Türkiye) - High-level opening | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMvglMbz6Jg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SMvglMbz6Jg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on launching the Advisory Body on Artificial Intelligence (26 Oct 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0ZK4nqlHiH8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine I Security Council vote on new resolutions | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ALrbJrSZpjE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ALrbJrSZpjE"
         }
       }
     }
