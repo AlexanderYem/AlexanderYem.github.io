@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief On Gaza Crisis & Nepal's Climate Challenges | Joint Press Encounter with Nepal PM",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wO5A90Wo4ao/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wO5A90Wo4ao"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Artificial Intelligence: Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6Boy6u3_XDE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNGA President on Middle East: \"The unspeakable violence, the harrowing suffering must end, now\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8UnqGGmaa7Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8UnqGGmaa7Y"
         }
       }
     }
