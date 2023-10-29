@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Artificial Intelligence: Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jywAmR5pJ3Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jywAmR5pJ3Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN General Assembly adopts Gaza resolution calling for immediate & sustained humanitarian truce",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8UnqGGmaa7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Harmony Unites: UN Chamber Music Society Virtual Concert for Peace in the Middle East",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4WizqIMu7E4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4WizqIMu7E4"
         }
       }
     }
