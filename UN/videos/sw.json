@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Simulizi wa wajawazito walioko Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SV_RhzjSwS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SV_RhzjSwS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Hospitali za Gaza zimezidiwa na ziko ukingoni mwa huduma: Wahudumu wa misaada wa UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ho2LfY1G20Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres akiwa Rafah",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bSkGFtj7WRE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bSkGFtj7WRE"
         }
       }
     }
