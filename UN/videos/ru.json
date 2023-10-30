@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН – из Непала: таяние ледников приводит к трагедии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFTrvdmsvUE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BFTrvdmsvUE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Служба новостей ООН Live Stream",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vp3ujLUIXhQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН – о текущей ситуации в Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TOY4M0JJybk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TOY4M0JJybk"
         }
       }
     }
