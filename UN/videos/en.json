@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Israel-Palestine Crisis - Security Council meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNQ0cY0dCFM/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UNQ0cY0dCFM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Urban October: World Habitat Day & World Cities Day 2023 | UN - Habitat | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JbAVkD_DwgE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Lebanon, Sudan & other topics - Daily Press Briefing (26 October 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x1hV2dxqGNE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x1hV2dxqGNE"
         }
       }
     }
