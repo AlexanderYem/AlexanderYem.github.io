@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "اليونيسف: لا يوجد مكان آمن للأطفال في #غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVleRfDE0VI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YVleRfDE0VI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لحظة التصويت على قرار الجمعية العامة للأمم المتحدة الذي يدعو لهدنة إنسانية فورية في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0ib5x2VSyCc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الأردن أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة (ترجمة فورية)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QmXacric5eo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QmXacric5eo"
         }
       }
     }
