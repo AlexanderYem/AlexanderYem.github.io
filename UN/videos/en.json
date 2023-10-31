@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNICEF Director Addresses Israel-Palestine Crisis | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HcE65Kj6g4E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HcE65Kj6g4E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OCHA on Middle East & Palestinian Question | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jywAmR5pJ3Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN General Assembly adopts Gaza resolution calling for immediate & sustained humanitarian truce",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W9wAZVTlAZM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W9wAZVTlAZM"
         }
       }
     }
