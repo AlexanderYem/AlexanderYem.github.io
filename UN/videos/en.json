@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Peace Message in Lumbini (Nepal) - Press Encounter | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxl1Q8D8OU0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wxl1Q8D8OU0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Secretary-General Statement/Gaza, Mali, Ukraine & other topics - Daily Press Briefing (31 Oct 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjvORikxxnQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QjvORikxxnQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza Education under attack | UNICEF",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "hha9ZYAbgSU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNICEF Director Addresses Israel-Palestine Crisis | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HcE65Kj6g4E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HcE65Kj6g4E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OCHA on Middle East & Palestinian Question | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UrEZZgiLbeA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UrEZZgiLbeA"
         }
       }
     }
