@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OCHA on Middle East & Palestinian Question | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UrEZZgiLbeA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UrEZZgiLbeA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Security Council - Western Sahara, Colombia & Israel-Palestine Crisis (3 Meetings) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W9wAZVTlAZM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(AR/EN) Arab Group on the adoption of Gaza resolution by UN General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OuZ9i5K0Vq8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OuZ9i5K0Vq8"
         }
       }
     }
