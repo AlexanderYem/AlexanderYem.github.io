@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN 31 OKTOBA 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDpxUgieKS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QDpxUgieKS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Simulizi wa wajawazito walioko Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Clo_ZJHFa4M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UDADAVUZI - Mkwamo Barazani, kuhusu Gaza, ndio mwisho?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ho2LfY1G20Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ho2LfY1G20Y"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Impacto da crise Israel-Palestina nas crianças",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c9tJLPEA8Uk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c9tJLPEA8Uk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da ONU pede \"fim da loucura\" das mudanças climáticas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A7AfoqWw6gA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Líder da #ONU pede entrada contínua de #ajuda em #gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/too-Df6MQ1A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "too-Df6MQ1A"
         }
       }
     }

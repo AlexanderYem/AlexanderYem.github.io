@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Ending the U.S. Economic Embargo on Cuba: UN General Assembly 24th Plenary Meeting | United Nations",
+        "title": "UN Chief at Pokhara Airport (Nepal) on Climate Change - Press Encounter | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFOZohhUDv0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZFOZohhUDv0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Cuba: Ending the U.S. Economic Embargo: UN General Assembly 24th Plenary Meeting | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/Fm6fGuK2a9A/hqdefault_live.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CMYRs-jzaSY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Morocco on Western Sahara | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u-XQsxNK8DA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u-XQsxNK8DA"
         }
       }
     }
