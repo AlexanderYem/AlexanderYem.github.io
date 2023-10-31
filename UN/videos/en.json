@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza Education under attack | UNICEF",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRE7MOsGKCI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vRE7MOsGKCI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza Sounds of War | UNICEF",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YrZtK19v-mI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YrZtK19v-mI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief at Pokhara Airport (Nepal) on Climate Change - Press Encounter | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "UrEZZgiLbeA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council - Western Sahara, Colombia & Israel-Palestine Crisis (3 Meetings) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UNQ0cY0dCFM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UNQ0cY0dCFM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Emergency UN General Assembly -Israeli actions in ..Occupied Palestinian Territory (31 October 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CMYRs-jzaSY/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CMYRs-jzaSY"
         }
       }
     }
