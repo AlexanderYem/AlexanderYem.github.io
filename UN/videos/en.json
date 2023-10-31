@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "World Cities Day 2023 (İstanbul, Türkiye) - High-level opening | UN - Habitat | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMvglMbz6Jg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SMvglMbz6Jg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNICEF Director Addresses Israel-Palestine Crisis | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wO5A90Wo4ao"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Artificial Intelligence: Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jywAmR5pJ3Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jywAmR5pJ3Q"
         }
       }
     }
