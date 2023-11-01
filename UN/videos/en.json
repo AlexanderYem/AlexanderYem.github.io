@@ -5,7 +5,7 @@
         "title": "China's UN Security Council Presidency: November Work Program Discussed by Permanent Representative",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/V5qto4iLOak/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/V5qto4iLOak/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -15,10 +15,23 @@
     },
     {
       "snippet": {
+        "title": "Israel/OPT, Mali, Democratic Republic of the Congo & other topics - Daily Briefing (1 Nov 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6L81YyVKHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m6L81YyVKHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cuba: Ending the U.S. Economic Embargo: UN General Assembly 24th Plenary Meeting | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/Fm6fGuK2a9A/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/Fm6fGuK2a9A/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BaOhoRBoKiA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNHCR on Refugees & the Israel-Palestine Crisis | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3ftl_7DLg3U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3ftl_7DLg3U"
         }
       }
     }

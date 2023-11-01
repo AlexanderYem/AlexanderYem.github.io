@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المفوض العام للأونروا يزور غزة ويؤكد أن الوكالة باقية لمساعدة سكان القطاع",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tn01ZgU04f8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Tn01ZgU04f8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليونيسف: لا يوجد مكان آمن للأطفال في #غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1e5tckf9oyY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "منظمة الصحة العالمية تحذر من إغلاق المستشفيات وشح الإمدادات في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0ib5x2VSyCc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0ib5x2VSyCc"
         }
       }
     }
