@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "HAITI - Magenge ya uhalifu na 'chungu' za maisha",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJJBa9RCVOs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TJJBa9RCVOs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B3xrHY22Eq0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Habari za UN - 24 OKTOBA 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZLbF5ksw_vo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZLbF5ksw_vo"
         }
       }
     }
