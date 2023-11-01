@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/37AX16Ey1EM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "37AX16Ey1EM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Habari za UN 31 OKTOBA 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZLbF5ksw_vo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNDP yawasaidia waathirika wa tetemeko nchini Afghanistan",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Clo_ZJHFa4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Clo_ZJHFa4M"
         }
       }
     }
