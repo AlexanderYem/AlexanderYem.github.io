@@ -15,6 +15,19 @@
     },
     {
       "snippet": {
+        "title": "UN News in Brief (2 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubhzKpnaAqA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ubhzKpnaAqA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Palestine, Bangladesh, Mali & other topics - Daily Press Briefing (2 Nov 2023)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lYNnHMGO06k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'There will be no peace in the world without a just solution to Israel-Palestine conflict': UNHRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ts4m-2i-BoM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ts4m-2i-BoM"
         }
       }
     }
