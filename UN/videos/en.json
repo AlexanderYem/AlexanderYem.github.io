@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "UN General Assembly: International Criminal Court & Israel-Palestine (2 Meetings) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/s2TAZDfRY1I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "s2TAZDfRY1I"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Cuba: Ending the U.S. Economic Embargo - Draft Resolution Voting | UNGA 78 | United Nations",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "qhwB-titLQk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN General Assembly: International Criminal Court & Israel-Palestine (2 Meetings) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2TAZDfRY1I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s2TAZDfRY1I"
         }
       }
     },
