@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Au pied de l’Everest, Guterres appelle à agir pour « éviter le pire du chaos climatique »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnpXvYbxXks/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vnpXvYbxXks"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guterres réitère sa condamnation des actes terroristes du Hamas en Israël",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j-zeQCLqvI8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#AGNU78 : combien de femmes leaders étaient présentes ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VxUCM5RcxhE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VxUCM5RcxhE"
         }
       }
     }
