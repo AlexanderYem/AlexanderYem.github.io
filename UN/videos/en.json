@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (3 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHWbPra1vzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hHWbPra1vzc"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "OIC Calls for Solidarity with Palestine & Implementation of UNGA Resolutions | Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ElkSIhUTy5Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ElkSIhUTy5Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Occupied Palestinian Territory, Ukraine & other topics - Daily Press Briefing (3 Nov 2023)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "bjUxmbb_Pdo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN General Assembly: International Criminal Court & Israel-Palestine (2 Meetings) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/s2TAZDfRY1I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "s2TAZDfRY1I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "China's UN Security Council Presidency: November Work Program Discussed by Permanent Representative",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V5qto4iLOak/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V5qto4iLOak"
         }
       }
     }
