@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OCHA Briefing on the Humanitarian Situation in the Occupied Palestinian Territory | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lYNnHMGO06k/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lYNnHMGO06k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "General Assembly: Tenth Emergency Special Session (Resumed) & 44th plenary meeting | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Fm6fGuK2a9A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OCHA Briefing on the Humanitarian Situation in the Occupied Palestinian Territory | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lYNnHMGO06k/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lYNnHMGO06k"
         }
       }
     }
