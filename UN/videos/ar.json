@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "فهيمة هاشم: الانتهاكات ضد النساء في السودان ليست وليدة اللحظة",
+        "title": "الدكتور أحمد المنظري يدين الهجوم على سيارات إسعاف أمام مستشفى الشفاء في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQzmldxkR8w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gQzmldxkR8w"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "فهيمة هاشم: العنف ضد النساء في السودان يهدف إلى كسر النساء وإجهاض العمل النسوي",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/w7P10BmG--0/hqdefault.jpg"
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "هالة الكارب: لا تؤخذ حيوات النساء وما يحدث لهن بالجدية الكافية",
+        "title": "هالة الكارب: العنف الجنسي ضد النساء في السودان أصبح لا يطاق ولابد من المحاسبة",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/DPDBOjWMntA/hqdefault.jpg"
@@ -28,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "نعمات أحمداي: تضخيم صوت النساء السودانيات المتضررات من العنف",
+        "title": "نعمات أحمداي: الوضع في السودان خطير جدا وإذا لم يحدث تدخل دولي ستحدث أزمة وموت جماعي",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/o6jJu_AtWrA/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WlFTGxi3B5A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة الولايات المتحدة أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة حول فلسطين (ترجمة)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h4fLVrG-hAs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h4fLVrG-hAs"
         }
       }
     }
