@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Israel/Palestine situation - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SL2o0vrGo2A/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SL2o0vrGo2A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nathalia Arcuri meets Alice Aedy | Creator Studio at the SDG Pavilion | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f8DGzJhcMe0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Cuba: Ending the U.S. Economic Embargo - Draft Resolution Voting | UNGA 78 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qhwB-titLQk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qhwB-titLQk"
         }
       }
     }
