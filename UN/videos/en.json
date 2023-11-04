@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets Alice Aedy | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JboC1vxyXXc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JboC1vxyXXc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (3 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qhwB-titLQk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief's Annapurna Visit: A Call for Climate Action Ahead of COP 28 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bjUxmbb_Pdo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bjUxmbb_Pdo"
         }
       }
     }
