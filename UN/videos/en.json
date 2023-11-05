@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets Bourhan Yassin | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7o6bGy3M3s8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7o6bGy3M3s8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Alice Aedy meets Hindou Ibrahim | Creator Studio at the SDG Pavilion | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GyGQEQYGopU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (2 November 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ubhzKpnaAqA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ubhzKpnaAqA"
         }
       }
     }
