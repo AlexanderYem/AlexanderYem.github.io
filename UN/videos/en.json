@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets H.E. Carme Artigas Brugal | SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJbrN4DbSMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mJbrN4DbSMs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nathalia Arcuri meets Bourhan Yassin | Creator Studio at the SDG Pavilion | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lYNnHMGO06k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "General Assembly: Tenth Emergency Special Session (Resumed) & 44th plenary meeting | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GyGQEQYGopU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GyGQEQYGopU"
         }
       }
     }
