@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام للأمم المتحدة: الكابوس في غزة أزمة للإنسانية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1c_rxxAYpmg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1c_rxxAYpmg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الدكتور أحمد المنظري يدين الهجوم على سيارات إسعاف أمام مستشفى الشفاء في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eiFCKGN0xic"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة مصر أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WlFTGxi3B5A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WlFTGxi3B5A"
         }
       }
     }
