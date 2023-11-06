@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets Dr. Geetha Manjunath | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PVwugPoTBiM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PVwugPoTBiM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nathalia Arcuri meets H.E. Carme Artigas Brugal | SDG Pavilion | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZNYvXjRWXQ4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OCHA Briefing on the Humanitarian Situation in the Occupied Palestinian Territory | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lYNnHMGO06k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lYNnHMGO06k"
         }
       }
     }
