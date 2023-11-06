@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (6 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGxtSQTrSL4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UGxtSQTrSL4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Israel/Palestine situation - Security Council Media Stakeout",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/SL2o0vrGo2A/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/SL2o0vrGo2A/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O-HN5eQKkzM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Yearly Report by the President of the Human Rights Council: Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZNYvXjRWXQ4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZNYvXjRWXQ4"
         }
       }
     }
