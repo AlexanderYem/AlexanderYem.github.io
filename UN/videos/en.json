@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Israel/Palestine situation - Security Council Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SL2o0vrGo2A/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SL2o0vrGo2A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nathalia Arcuri meets Dr. Geetha Manjunath | Creator Studio at the SDG Pavilion | United Nations",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "hdCW12KqeIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Israel/Palestine situation - Security Council Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SL2o0vrGo2A/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SL2o0vrGo2A"
         }
       }
     },
