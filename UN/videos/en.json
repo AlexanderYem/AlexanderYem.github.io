@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "China and the United Arab Emirates on Gaza | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NcYPH5dcUBk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NcYPH5dcUBk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "United States on the situation in the Middle East | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JtFfGYVdCVg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JtFfGYVdCVg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "France on the humanitarian situation in Gaza | Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZNwdUdmF1c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_ZNwdUdmF1c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Permanent Representative of Gabon on Gaza | Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "7o6bGy3M3s8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alice Aedy meets Hindou Ibrahim | Creator Studio at the SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hdCW12KqeIE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hdCW12KqeIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nathalia Arcuri meets Alice Aedy | Creator Studio at the SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JboC1vxyXXc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JboC1vxyXXc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (3 November 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hHWbPra1vzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hHWbPra1vzc"
         }
       }
     }
