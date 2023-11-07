@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets Andreas Sieber | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BM5mb04QDEI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BM5mb04QDEI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Violence Against Journalists in Elections: Press Conference by UNESCO Official | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SL2o0vrGo2A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nathalia Arcuri meets Dr. Geetha Manjunath | Creator Studio at the SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PVwugPoTBiM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PVwugPoTBiM"
         }
       }
     }
