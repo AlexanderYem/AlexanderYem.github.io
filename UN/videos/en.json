@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Violence Against Journalists in Elections: Press Conference by UNESCO Official | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZrdiZuUtaHg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZrdiZuUtaHg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Nathalia Arcuri meets Düzen Tekkal | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hxjb5LFU6E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-hxjb5LFU6E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "China and the United Arab Emirates on Gaza | Security Council Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "PVwugPoTBiM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nathalia Arcuri meets H.E. Carme Artigas Brugal | SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mJbrN4DbSMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mJbrN4DbSMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nathalia Arcuri meets Bourhan Yassin | Creator Studio at the SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7o6bGy3M3s8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7o6bGy3M3s8"
         }
       }
     }
