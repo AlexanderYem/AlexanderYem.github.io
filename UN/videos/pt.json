@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Autor da “Turma da Mônica” celebra alcance de milhões de crianças com alfabetização",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MXQACBk83vE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MXQACBk83vE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Violência de gangues no Haiti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JHj0VCoLamU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Líder da ONU se diz chocado com “interpretações erradas” sobre sua declaração",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/kSVfNTK75G4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "kSVfNTK75G4"
         }
       }
     }
