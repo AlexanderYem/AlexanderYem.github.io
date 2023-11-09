@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Обращение Генсека ООН к участникам конференции по Газе",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J3RdV3BH9Jc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J3RdV3BH9Jc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН – из Непала: таяние ледников приводит к трагедии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PX_jbzyXw7I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Заместитель Генсека ООН – о ситуации в Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vp3ujLUIXhQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vp3ujLUIXhQ"
         }
       }
     }
