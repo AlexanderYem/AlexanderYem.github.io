@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza: vida ou morte para gestantes e bebês",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VnzmxQ2hYZo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VnzmxQ2hYZo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel-Palestina: chefe de Direitos Humanos aponta crimes de guerra dos dois lados do conflito",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v83QmA_-auM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Embaixadora do #brasil fala de #violenciadegenero em contextos de #guerra",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3LVQFCQnjGU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3LVQFCQnjGU"
         }
       }
     }
