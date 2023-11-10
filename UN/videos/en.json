@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (10 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzu-0481y9g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hzu-0481y9g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The Humanitarian Situation in Sudan - Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jt0rWcsgcRQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gender-Based Violence, Fistula Survivors & Women Leaders in Chad: Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6Ig7q72oxds/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6Ig7q72oxds"
         }
       }
     }

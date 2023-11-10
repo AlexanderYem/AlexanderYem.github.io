@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مسؤول أممي: أوامر إخلاء المستشفيات في غزة عقوبة بالإعدام وما يُسمى بالمنطقة الآمنة يثير القلق",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HlGK2L0BqMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HlGK2L0BqMw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أزمة إنسانية تفوق التصور تتكشف في السودان بعيدا عن أنظار العالم",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Tn01ZgU04f8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليونيسف: لا يوجد مكان آمن للأطفال في #غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YVleRfDE0VI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YVleRfDE0VI"
         }
       }
     }
