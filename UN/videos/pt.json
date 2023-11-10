@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unctad: Relatório de 2023 sobre os Países Menos Desenvolvidos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DpoqqNydklo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DpoqqNydklo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: vida ou morte para gestantes e bebês",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "P5NlxYFW0KA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Falta de combustível ameaça assistência alimentar em Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/v83QmA_-auM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "v83QmA_-auM"
         }
       }
     }

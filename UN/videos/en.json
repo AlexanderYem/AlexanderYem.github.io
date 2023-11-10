@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council - The Middle East & Israel/Palestine Crisis | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EV8zchZeKkk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EV8zchZeKkk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Chief executives Board, Israel/occupied Palestinian territory & other topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vrb7fhz6J44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vrb7fhz6J44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (10 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -23,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "m2JfgdiOxZw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council - The Middle East & Israel/Palestine Crisis | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EV8zchZeKkk/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EV8zchZeKkk"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gP4ilmbeVAQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Sudan/Humanitarian, Mali & other topics - Daily Press Briefing (8 Nov 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Jt0rWcsgcRQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Jt0rWcsgcRQ"
         }
       }
     }
