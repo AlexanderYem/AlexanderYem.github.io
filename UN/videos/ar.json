@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "عدد الأطفال الذين قُتلوا في #غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFcPGD61I3w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nFcPGD61I3w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام للأمم المتحدة: الكابوس في غزة أزمة للإنسانية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bnWZ9ta5vXY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة السعودية أمام الدورة الاستثنائية الطارئة العاشرة للجمعية العامة للأمم المتحدة حول فلسطين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eiFCKGN0xic/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eiFCKGN0xic"
         }
       }
     }

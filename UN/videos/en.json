@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Addresses International Humanitarian Conference for Gaza's Civilians | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_N8-KDEjYk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9_N8-KDEjYk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine: Expected Socioeconomic Impacts on Palestine | Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VoR5dzel_SU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VoR5dzel_SU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Occupied Palestinian Territory, Somalia, Ukraine & other topics - Daily Briefing (9 Nov 2023)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZrdiZuUtaHg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nathalia Arcuri meets Düzen Tekkal | Creator Studio at the SDG Pavilion | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-hxjb5LFU6E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-hxjb5LFU6E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "China & the United Arab Emirates on Gaza | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NcYPH5dcUBk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NcYPH5dcUBk"
         }
       }
     }
