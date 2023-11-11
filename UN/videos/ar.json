@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"أعرف رائحة وصورة الحرب وأفهم ما يعانيه أطفال غزة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/elPSHvI1Y_Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "elPSHvI1Y_Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مسؤول أممي: أوامر إخلاء المستشفيات في غزة عقوبة بالإعدام وما يُسمى بالمنطقة الآمنة يثير القلق",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IyCJ1Qs4C_U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المفوض العام للأونروا يزور غزة ويؤكد أن الوكالة باقية لمساعدة سكان القطاع",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tn01ZgU04f8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Tn01ZgU04f8"
         }
       }
     }
