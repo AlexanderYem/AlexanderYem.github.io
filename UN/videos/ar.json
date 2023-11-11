@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مستشفى الشفاء في غزة: أطباء يرسمون صورة قاتمة للوضع الطبي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yolBoaqSobQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yolBoaqSobQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"أعرف رائحة وصورة الحرب وأفهم ما يعانيه أطفال غزة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "o6jJu_AtWrA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليونيسف: وضع أطفال غزة مروع ووقف العنف هو الحل الوحيد لمحنتهم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IyCJ1Qs4C_U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IyCJ1Qs4C_U"
         }
       }
     }
