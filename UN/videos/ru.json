@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Траур в ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p5GAdfYUyOY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p5GAdfYUyOY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обращение Генсека ООН к участникам конференции по Газе",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Kvj-Pg3fkzE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН доставила помощь в прифронтовой город Часов Яр",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PX_jbzyXw7I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PX_jbzyXw7I"
         }
       }
     }
