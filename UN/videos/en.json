@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (14 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUTMU7lPpc4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "aUTMU7lPpc4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (13 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLKsOquBsak/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kLKsOquBsak"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Sudan, Lebanon & other topics - Daily Press Briefing (14 Nov 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "72StnXnvzVI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(AR/EN) State of Palestine and Jordan UN Representatives Address Media on Gaza | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QxoBbqZPY-g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QxoBbqZPY-g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Headquarters Flag Lowering Ceremony in Honor of Colleagues Lost in Gaza | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/drhG1dku-P8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "drhG1dku-P8"
         }
       }
     }
