@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Nathalia Arcuri meets Valentina Muñoz Rabanal | Creator Studio at the SDG Pavilion | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zY1c8VpmQvE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zY1c8VpmQvE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Humanitarian Situation in the Occupied Palestinian Territory | Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3mt3pEjHHrU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3mt3pEjHHrU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza Tribute, Children and Water Scarcity, Sudan & other topics - Daily Press Briefing (13 Nov 2023)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "lZpxHGFjZ90"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council - The Middle East & Israel/Palestine Crisis | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EV8zchZeKkk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EV8zchZeKkk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chief executives Board, Israel/occupied Palestinian territory & other topics - Daily Press Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vrb7fhz6J44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vrb7fhz6J44"
         }
       }
     }
