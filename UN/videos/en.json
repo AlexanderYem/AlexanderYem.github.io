@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Peacekeeping Challenges & Achievements - Security Council Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GIUxP3sWA20/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GIUxP3sWA20"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (14 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0E35R6UpWuM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Honouring UN Staff: A Minute of Silence for the Colleagues Lost in Gaza | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/72StnXnvzVI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "72StnXnvzVI"
         }
       }
     }
