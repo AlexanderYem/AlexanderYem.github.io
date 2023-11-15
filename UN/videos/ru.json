@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Глава ЮНИСЕФ в Газе",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FVRx4Jp3tQo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FVRx4Jp3tQo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Траур в ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tG-2_SyE9DA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Сектор Газа после обстрелов",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kvj-Pg3fkzE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Kvj-Pg3fkzE"
         }
       }
     }
