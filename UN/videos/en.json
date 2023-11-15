@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council - The Middle East & Israel/Palestine Crisis | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cp2v-P2RubM/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cp2v-P2RubM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza, Yemen, Burkina Faso & other topics - Daily Press Briefing (15 Nov 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KOG8usUT3jE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KOG8usUT3jE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OCHA Under-Secretary-General Addresses the Situation in Gaza | Media Stakeout | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "zY1c8VpmQvE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian Situation in the Occupied Palestinian Territory | Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3mt3pEjHHrU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3mt3pEjHHrU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "HIV/AIDS: Meeting Unmet Needs in Treatment and Prevention | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sR_EIpPpRQU/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sR_EIpPpRQU"
         }
       }
     }
