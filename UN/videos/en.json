@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (15 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y5Dw_K2mwKc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y5Dw_K2mwKc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Peacekeeping Challenges & Achievements - Security Council Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EFL7c_rDlIs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Global Youth Leadership Summit: Advancing the Sustainable Development Goals (SDGs) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0E35R6UpWuM/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0E35R6UpWuM"
         }
       }
     }
