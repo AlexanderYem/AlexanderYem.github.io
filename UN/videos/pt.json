@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Projeto com satélites e algoritmos quer levar internet para mais escolas no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kva9PY_vMmU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kva9PY_vMmU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Liderança do Brasil no Conselho de Segurança durante crise Israel-Palestina teve “saldo positivo”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HqqxFT-6jF4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unesco alerta para violência contra jornalistas em “super ano eleitoral” de 2024",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uX2w_tua4VA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uX2w_tua4VA"
         }
       }
     }
