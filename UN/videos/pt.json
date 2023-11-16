@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Falta de água afeta um terço das crianças em todo o mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCBh02G0QpI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fCBh02G0QpI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Projeto com satélites e algoritmos quer levar internet para mais escolas no Brasil",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MXQACBk83vE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Violência de gangues no Haiti",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HqqxFT-6jF4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HqqxFT-6jF4"
         }
       }
     }
