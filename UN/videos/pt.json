@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista com a chefe da ONU em Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pWVC5TpvEpE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pWVC5TpvEpE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Falta de água afeta um terço das crianças em todo o mundo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1n-KYeCWiR0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Autor da “Turma da Mônica” celebra alcance de milhões de crianças com alfabetização",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MXQACBk83vE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MXQACBk83vE"
         }
       }
     }
