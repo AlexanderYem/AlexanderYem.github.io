@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Women na wadau wasaidia waathirika wa ukatili wa kijinsia Kakamega Kenya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3FwR145iEY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "G3FwR145iEY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tiko: App ya simu inayowapa wasichana nchini Kenya uhuru wa kuchagua",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PAFr6ZMjiFg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hakuna kuchafuka tena na makaa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Do-CTN5Jpa4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Do-CTN5Jpa4"
         }
       }
     }
