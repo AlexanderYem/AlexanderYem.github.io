@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Usar antibióticos de forma errada pode ser mais perigoso do que você imagina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2OQ9hDsnWyw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2OQ9hDsnWyw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Projeto Empoderamento Juvenil e Construção da Paz em Momçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VnzmxQ2hYZo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel-Palestina: chefe de Direitos Humanos aponta crimes de guerra dos dois lados do conflito",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/263ejvNyZgM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "263ejvNyZgM"
         }
       }
     }

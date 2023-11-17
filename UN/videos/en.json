@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (17 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWiJtiLtO6U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SWiJtiLtO6U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Sudan, Ukraine & other topics - Daily Press Briefing (17 Nov 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aCtBWCG1QIU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malta on Gaza Humanitarian Corridor Resolution | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q69r_kFBvBU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q69r_kFBvBU"
         }
       }
     }
