@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Moçambique: “É preciso paz e segurança para o desenvolvimento”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IRoevnpCJtg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IRoevnpCJtg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Usar antibióticos de forma errada pode ser mais perigoso do que você imagina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DpoqqNydklo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza: vida ou morte para gestantes e bebês",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VnzmxQ2hYZo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VnzmxQ2hYZo"
         }
       }
     }
