@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أوضاع نازحين فلسطينيين وسط قطاع غزة في ظل القصف والأمطار الغزيرة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lg6J9PoqOk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0lg6J9PoqOk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام: عدد الأطفال القتلى في غزة خلال أسابيع يتخطى أي عام شملته تقاريري منذ 7 سنوات",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gQzmldxkR8w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فهيمة هاشم: العنف ضد النساء في السودان يهدف إلى كسر النساء وإجهاض العمل النسوي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w7P10BmG--0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w7P10BmG--0"
         }
       }
     }

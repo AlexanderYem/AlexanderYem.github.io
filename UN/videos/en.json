@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (20 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/yxvIfCIpLPI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "yxvIfCIpLPI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Yemen, Mali & other topics - Daily Press Briefing (20 Nov 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lH6iEXQEVBw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2023 UN Woman Police Officer of the Year: Honoring Dedication to Peace Operations | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fiKQuKP1Z1E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fiKQuKP1Z1E"
         }
       }
     }
