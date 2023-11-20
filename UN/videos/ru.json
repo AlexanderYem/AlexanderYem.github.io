@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Сирия: 13-я зима войны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DlmteQeJD48/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DlmteQeJD48"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Глава ЮНИСЕФ в Газе",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x2LCX7oCbys"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Как ООН доставляет помощь? Пять фактов.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tG-2_SyE9DA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tG-2_SyE9DA"
         }
       }
     }
