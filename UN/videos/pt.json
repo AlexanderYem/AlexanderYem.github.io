@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Aliando educação, tecnologia e entretenimento na defesa do meio ambiente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Oemuoavbbo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_Oemuoavbbo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Moçambique: “É preciso paz e segurança para o desenvolvimento”",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6OaoTdKGoJY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unctad: Relatório de 2023 sobre os Países Menos Desenvolvidos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DpoqqNydklo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DpoqqNydklo"
         }
       }
     }
