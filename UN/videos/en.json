@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "(EN/FR) Olympic Truce Endorsed by UN General Assembly for Paris 2024 | UNGA 78 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/baoB8G-wKzA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "baoB8G-wKzA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (21 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5K8lwMq98Aw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Food and Fuel Shortages in Gaza - UNRWA & WFP Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3TclAwIvL9w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3TclAwIvL9w"
         }
       }
     }
