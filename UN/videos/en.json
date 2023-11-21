@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (21 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXO8Lpc_Me4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vXO8Lpc_Me4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Chad, Afghanistan/Pakistan & other topics - Daily Briefing (21 Nov 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3TclAwIvL9w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "African Group Convention on International Tax: Press Conference | United Nations (16 Nov 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LiZExd-BE-0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LiZExd-BE-0"
         }
       }
     }
