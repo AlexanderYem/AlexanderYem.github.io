@@ -2,10 +2,49 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (22 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d9lrzIa4RhY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d9lrzIa4RhY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "President of General Assembly - Elimination of Violence Against Women | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/neCf7cwdTCM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "neCf7cwdTCM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Deputy Secretary-General: Elimination of Violence Against Women | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gbmPX0uzh2w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gbmPX0uzh2w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Commemoration for International Day For The Elimination of Violence Against Women | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/izY7z0jy3dM/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/izY7z0jy3dM/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "yxvIfCIpLPI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Yemen, Mali & other topics - Daily Press Briefing (20 Nov 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3YmZRJ96peU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3YmZRJ96peU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Invigorated by Africa | Maturing Democracy & Green Transition | Awake at Night | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ub9ADtFL16Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ub9ADtFL16Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (17 November 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SWiJtiLtO6U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SWiJtiLtO6U"
         }
       }
     }
