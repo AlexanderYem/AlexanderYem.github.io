@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Aliando educação, tecnologia e entretenimento na defesa do meio ambiente",
+        "title": "Iniciativas para ajudar Moçambique a assegurar a paz e estabilidade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vUjET4YxmV8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vUjET4YxmV8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Instituto Alana: “A criança é o símbolo que une todos os ODS”",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/_Oemuoavbbo/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8-psMQ5eIqI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Pico do El Niño traz risco de chuvas fortes, secas e ondas de calor, diz OMM",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6OaoTdKGoJY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6OaoTdKGoJY"
         }
       }
     }
