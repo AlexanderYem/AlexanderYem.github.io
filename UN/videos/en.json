@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNICEF Director on Children's Crisis in Palestine & Israel | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZzLkFsZ1k0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EZzLkFsZ1k0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Women Director Addresses Humanitarian Challenges in Palestine | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "izY7z0jy3dM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Learn more about UNMHA (Yemen) | The Hudaydah Agreement | United Nations | DPPA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TOqN4BJSfG4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TOqN4BJSfG4"
         }
       }
     }
