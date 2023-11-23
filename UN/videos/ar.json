@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "أصوات من غزة: المرأة الفلسطينية والنزوح",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_45tEsN8c8w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_45tEsN8c8w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أوضاع نازحين فلسطينيين وسط قطاع غزة في ظل القصف والأمطار الغزيرة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1c_rxxAYpmg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الدكتور أحمد المنظري يدين الهجوم على سيارات إسعاف أمام مستشفى الشفاء في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gQzmldxkR8w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gQzmldxkR8w"
         }
       }
     }
