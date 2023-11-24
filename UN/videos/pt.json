@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "A luta contra a discriminação das pessoas negras na Europa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U1sNOMuPA_s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U1sNOMuPA_s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Especialista brasileira quer fortalecer a agenda da educação antirracista",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKrBo4EKOMM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eKrBo4EKOMM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Derretimento do gelo na #antartida gera risco global #criseclimática #cop28",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "fctgqn4wwe0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista com a chefe da ONU em Cabo Verde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pWVC5TpvEpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pWVC5TpvEpE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Falta de água afeta um terço das crianças em todo o mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fCBh02G0QpI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fCBh02G0QpI"
         }
       }
     }
