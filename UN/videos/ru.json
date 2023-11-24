@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН в Антарктиде: мы должны положить конец эпохе ископаемого топлива",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sdeD4jzCAoA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sdeD4jzCAoA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Сирия: 13-я зима войны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5pcLGQCy-0Q"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Израиль-Газа: Генсек ООН призывает к прекращению огня",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x2LCX7oCbys/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x2LCX7oCbys"
         }
       }
     }
