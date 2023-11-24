@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP28 deve evidenciar proteção de infraestruturas de água e saneamento",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QN1UznW7I3g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QN1UznW7I3g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Iniciativas para ajudar Moçambique a assegurar a paz e estabilidade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YdCFcm2kZxU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Homenagem mundial aos funcionários da ONU mortos em Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8-psMQ5eIqI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8-psMQ5eIqI"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN General Assembly President Discusses Haiti Situation | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9R6O4BdbAuo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9R6O4BdbAuo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sorrow & Relief on the Shores of Greece | Awake at Night | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "neCf7cwdTCM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Deputy Secretary-General: Elimination of Violence Against Women | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gbmPX0uzh2w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gbmPX0uzh2w"
         }
       }
     }
