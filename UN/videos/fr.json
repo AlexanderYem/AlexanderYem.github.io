@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Amazones mexicaines : des combattantes pour éradiquer la violence à l'égard des femmes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8Kq_e-ZAFM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u8Kq_e-ZAFM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Une jeune Indonésienne lauréate du prix de la policière de l'ONU de l'année",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "moqTnwdJIf4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Réfugiés en Arménie : des enfants en état de choc",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9BqMrP97EQI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9BqMrP97EQI"
         }
       }
     }
