@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Climate crisis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fpt30GfVknk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Fpt30GfVknk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (27 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -10,19 +23,6 @@
         },
         "resourceId": {
           "videoId": "BSaHH_LDhZc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Climate crisis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fpt30GfVknk/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fpt30GfVknk"
         }
       }
     },
