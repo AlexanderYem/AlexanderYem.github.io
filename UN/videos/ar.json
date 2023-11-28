@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "يغمض عينيه كي يرى أسرته التي قُتلت",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fmgLO_Hu6Is/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fmgLO_Hu6Is"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ناشطة سودانية: تغير المناخ لا يتوقف بسبب الحروب",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8GSAvWW7xrM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "عدد الأطفال الذين قُتلوا في #غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nFcPGD61I3w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nFcPGD61I3w"
         }
       }
     }
