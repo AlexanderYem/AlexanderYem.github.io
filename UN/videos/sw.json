@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Miaka 36 ya TAMWA: 'Bang Style' ilileta mapinduzi katika usambazaji habari",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8SNI9ya-NJs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8SNI9ya-NJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afadhali hapa pana nafuu- Mkimbizi DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J5-fw0njdRM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hali ni tete, mfumo wa afya Gaza umeelemewa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VIHgisa0zCs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VIHgisa0zCs"
         }
       }
     }
