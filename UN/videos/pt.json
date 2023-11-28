@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "As Crianças de #Gaza: A História de Omar",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5r3gNlHRRH4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5r3gNlHRRH4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A luta contra a discriminação das pessoas negras na Europa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2OQ9hDsnWyw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Projeto Empoderamento Juvenil e Construção da Paz em Momçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fctgqn4wwe0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fctgqn4wwe0"
         }
       }
     }
