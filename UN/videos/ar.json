@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأمين العام حول غزة وإسرائيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-8vt5Iiz_E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e-8vt5Iiz_E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "من الأرشيف: اليوم الدولي للتضامن مع الشعب الفلسطيني",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "elPSHvI1Y_Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مسؤول أممي: أوامر إخلاء المستشفيات في غزة عقوبة بالإعدام وما يُسمى بالمنطقة الآمنة يثير القلق",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HlGK2L0BqMw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HlGK2L0BqMw"
         }
       }
     }
