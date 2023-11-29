@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "African Developments: UN Chief & African Union Commission Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETv9ymsx9a0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ETv9ymsx9a0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "One Woman's Journey to a Peacekeeping Mission: Episode 1 | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mqvZldNv0lI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Climate crisis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fpt30GfVknk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Fpt30GfVknk"
         }
       }
     }

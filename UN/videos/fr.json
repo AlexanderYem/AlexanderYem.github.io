@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Depuis l'Antarctique, le Secrétaire général de l'ONU lance un message à la COP28",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nR0qWMrACSU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nR0qWMrACSU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Amazones mexicaines : des combattantes pour éradiquer la violence à l'égard des femmes",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eDxjehLbHQs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "5 Faits sur les Nations Unies à Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/moqTnwdJIf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "moqTnwdJIf4"
         }
       }
     }
