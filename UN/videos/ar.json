@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "قطر: نود أن يُطبق القانون الدولي عادلا بمعايير واحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/raoxuYVu1Ps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "raoxuYVu1Ps"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "وزير خارجية السعودية: الهدنة لا تعفي إسرائيل من مسؤولياتها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8TnANyJnHI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z8TnANyJnHI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام حول غزة وإسرائيل",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "weTpX-hBi9U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مستشفى الشفاء في غزة: أطباء يرسمون صورة قاتمة للوضع الطبي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yolBoaqSobQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yolBoaqSobQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"أعرف رائحة وصورة الحرب وأفهم ما يعانيه أطفال غزة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/elPSHvI1Y_Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "elPSHvI1Y_Y"
         }
       }
     }
