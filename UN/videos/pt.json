@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Mundial de Combate à Aids",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e5XxlP166Js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e5XxlP166Js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP28 começa com acordo histórico sobre Fundo de Perdas e Danos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "iTaWR_N7oBY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP28 deve evidenciar proteção de infraestruturas de água e saneamento",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QN1UznW7I3g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QN1UznW7I3g"
         }
       }
     }
