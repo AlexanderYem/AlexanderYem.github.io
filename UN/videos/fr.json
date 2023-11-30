@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Déployé à Gaza, un employé de l'UNICEF témoigne du sort des enfants",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jskRHh4wiUw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jskRHh4wiUw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Depuis l'Antarctique, le Secrétaire général de l'ONU lance un message à la COP28",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_ioQlsER_hE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Crise au Moyen-Orient : l'ONU dénonce la violence et appelle à une paix négociée",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eDxjehLbHQs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eDxjehLbHQs"
         }
       }
     }
