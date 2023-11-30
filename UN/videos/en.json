@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNGA 78 President Opening Remarks to 39th Plenary Meeting of the General Assembly | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GebCqFbaTMo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GebCqFbaTMo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (29 November 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ETv9ymsx9a0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "One Woman's Journey to a Peacekeeping Mission: Episode 1 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rwpJ9gKF_Q0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rwpJ9gKF_Q0"
         }
       }
     }
