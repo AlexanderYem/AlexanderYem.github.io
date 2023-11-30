@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Конференция по климату КС-28",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VP-L8dsXQeM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VP-L8dsXQeM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Перемирие в Газе: жители севера Газы получили первую за несколько последних недель передышку",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dVz__AhKw44"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Служба новостей ООН Live Stream",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PikR1f12Yko/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PikR1f12Yko"
         }
       }
     }

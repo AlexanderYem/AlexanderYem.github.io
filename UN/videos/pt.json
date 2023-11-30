@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP28 começa com acordo histórico sobre Fundo de Perdas e Danos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1uG6Cs23txA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1uG6Cs23txA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Emergência climática na Antártida: mensagem urgente do chefe da ONU sobre o derretimento do gelo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QN1UznW7I3g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Iniciativas para ajudar Moçambique a assegurar a paz e estabilidade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vUjET4YxmV8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vUjET4YxmV8"
         }
       }
     }
