@@ -5,11 +5,24 @@
         "title": "Global Youth Leadership Summit: Advancing the Sustainable Development Goals (SDGs) | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/0E35R6UpWuM/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/0E35R6UpWuM/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "0E35R6UpWuM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Opening ceremony of the World Climate Action Summit | COP28, UN Climate Change Conference",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0O1-CwsYjY/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L0O1-CwsYjY"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5X9iBu8Wrz8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Joint Arab-Islamic Ministerial Committee Stakeout on Gaza | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jTyQ9MvVXJA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jTyQ9MvVXJA"
         }
       }
     }
