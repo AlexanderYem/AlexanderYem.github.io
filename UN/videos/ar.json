@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "مصر: نرفض خطط تصفية القضية الفلسطينية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pem_R2P9csQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pem_R2P9csQ"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "دولة الإمارات: يتعين إحياء الأمل في الحل العادل للقضية الفلسطينية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-daZXeeOk0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V-daZXeeOk0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأردن: الاحتلال والسلام نقيضان لا يجتمعان",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "_45tEsN8c8w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أوضاع نازحين فلسطينيين وسط قطاع غزة في ظل القصف والأمطار الغزيرة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0lg6J9PoqOk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0lg6J9PoqOk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام: عدد الأطفال القتلى في غزة خلال أسابيع يتخطى أي عام شملته تقاريري منذ 7 سنوات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ah0FYJN7a24/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ah0FYJN7a24"
         }
       }
     }
