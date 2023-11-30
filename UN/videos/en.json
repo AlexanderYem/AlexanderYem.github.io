@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNGA 78 President on the Climate Crisis on COP28 | Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfwfVy1L7Hs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MfwfVy1L7Hs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNGA 78 President Opening Remarks to 39th Plenary Meeting of the General Assembly | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IXI4u2EetNM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "African Developments: UN Chief & African Union Commission Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ETv9ymsx9a0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ETv9ymsx9a0"
         }
       }
     }
