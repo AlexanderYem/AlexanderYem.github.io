@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional das Pessoas com Deficiência enfatiza soluções pela igualdade",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RUoReX0TKMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RUoReX0TKMs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ajuda à Somália “em ponto de ruptura” ante previsão de mais chuvas e inundações",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1PHTKBkYHI8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1PHTKBkYHI8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Mundial de Combate à Aids",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "eKrBo4EKOMM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Derretimento do gelo na #antartida gera risco global #criseclimática #cop28",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/14KrFA3vYn4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "14KrFA3vYn4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Derretimento do gelo da Antártida pode afetar várias partes do mundo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iTaWR_N7oBY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iTaWR_N7oBY"
         }
       }
     }
