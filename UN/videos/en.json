@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (30 November 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MChyZFYBL_0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MChyZFYBL_0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Global Youth Leadership Summit: Advancing the Sustainable Development Goals (SDGs) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9ORmcURUV-8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "USA on the Middle East & Palestine Question | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5X9iBu8Wrz8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5X9iBu8Wrz8"
         }
       }
     }
