@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН Антониу Гутерриш на КС-28",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CVp3RQ4Agc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_CVp3RQ4Agc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Борьба со СПИДом в Казахстане",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J3RdV3BH9Jc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН – из Непала: таяние ледников приводит к трагедии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BFTrvdmsvUE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BFTrvdmsvUE"
         }
       }
     }

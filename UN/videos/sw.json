@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SHDEPHA+ yaishi kauli ya UNAIDS",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7xXsR5aRHSc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7xXsR5aRHSc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Hivi ndivyo zamani tulivyotunza mazingira: Mzee Ashraf Nyorano Mugenyi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HB2bzpPqib8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nuwairat Ali Juma: Shujaa wa Zanzibar mwenye umri wa miaka tisa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/njQZvVIACYk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "njQZvVIACYk"
         }
       }
     }
