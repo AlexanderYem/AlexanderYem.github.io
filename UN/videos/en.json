@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Saving Seas, One Swim at a Time | Red Sea, Hudson River | Awake at Night | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8eIu1I1Zy8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f8eIu1I1Zy8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#COP28 World Climate Action Summit Opening | United Nations Climate Change Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WYf9L7OuHsA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Slovenia on the Middle East & Palestine Question | Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ORmcURUV-8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9ORmcURUV-8"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Борьба со СПИДом в Казахстане",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOE-6SE1mSE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vOE-6SE1mSE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Конференция по климату КС-28",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BFTrvdmsvUE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Служба новостей ООН Live Stream",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dVz__AhKw44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dVz__AhKw44"
         }
       }
     }
