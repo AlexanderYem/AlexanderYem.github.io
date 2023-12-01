@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Mundial del Sida",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVdRbbMu6xU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JVdRbbMu6xU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de las Personas con Discapacidad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0hKyLBhP1bs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de los Océanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2AGwQkBr2PY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2AGwQkBr2PY"
         }
       }
     }
