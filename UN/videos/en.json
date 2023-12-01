@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (1 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1iHNk8q5GeU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1iHNk8q5GeU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Opening of G77 & China Summit | COP28 | UN Climate Change Conference",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MfwfVy1L7Hs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNGA 78 President Opening Remarks to 39th Plenary Meeting of the General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GebCqFbaTMo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GebCqFbaTMo"
         }
       }
     }
