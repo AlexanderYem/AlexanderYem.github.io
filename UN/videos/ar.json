@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المتحدث باسم اليونيسف: ألف طفل في غزة عانوا من بتر في الأطراف",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFoQu3gRVy8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PFoQu3gRVy8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مصر: نرفض خطط تصفية القضية الفلسطينية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GWlN6U5XZ3s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أصوات من غزة: المرأة الفلسطينية والنزوح",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_45tEsN8c8w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_45tEsN8c8w"
         }
       }
     }
