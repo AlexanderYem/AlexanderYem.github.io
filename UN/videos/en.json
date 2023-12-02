@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief: \"No more delays. No more foot-dragging. No more greenwashing\" | COP28",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjXxNRDePrM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QjXxNRDePrM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(EN) Ecuador's December Program for the Security Council | Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f8eIu1I1Zy8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#COP28 World Climate Action Summit Opening | United Nations Climate Change Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L0O1-CwsYjY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L0O1-CwsYjY"
         }
       }
     }
