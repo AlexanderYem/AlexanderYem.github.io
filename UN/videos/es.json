@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día de los Derechos Humanos: 75º aniversario de la Declaración Universal de los Derechos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/en5in9pcCXM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "en5in9pcCXM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Mundial del Sida",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8iss_3n6o8s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de Lucha contra la Desertificación y la Sequía",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0hKyLBhP1bs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0hKyLBhP1bs"
         }
       }
     }
