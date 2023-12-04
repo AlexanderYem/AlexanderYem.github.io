@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como a ONU mede o aquecimento global?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QxwCU-fKX5A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QxwCU-fKX5A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional das Pessoas com Deficiência enfatiza soluções pela igualdade",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U1sNOMuPA_s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Especialista brasileira quer fortalecer a agenda da educação antirracista",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eKrBo4EKOMM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eKrBo4EKOMM"
         }
       }
     }
