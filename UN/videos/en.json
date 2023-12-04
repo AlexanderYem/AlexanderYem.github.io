@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (4 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HznkDlr3oBg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HznkDlr3oBg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Youth Peacebuilders: Beyond Boundaries: Futuring Peace in Northeast Asia | United Nations | DPPA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4He8jcZdkFk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4He8jcZdkFk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Philippines, Sudan & other topics - Daily Press Briefing (4 Dec 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -80,7 +106,7 @@
     },
     {
       "snippet": {
-        "title": "UN Chief: \"We can drastically cut emissions and win the race to net zero\" | COP28",
+        "title": "UN Chief: \"We can drastically cut emissions & win the race to net zero\" | #COP28 | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/l8nJmWsJzTM/hqdefault.jpg"
@@ -93,7 +119,7 @@
     },
     {
       "snippet": {
-        "title": "UN Chief Guterres & SDG Advocate Dia Mirza Call to Urgent Climate Action | COP28 | United Nations",
+        "title": "UN Chief & SDG Advocate Dia Mirza Call to Urgent Climate Action | #COP28 | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/HRCXQ2V39po/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "HRCXQ2V39po"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief: \"No more delays. No more foot-dragging. No more greenwashing\" | COP28",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QjXxNRDePrM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QjXxNRDePrM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(EN) Ecuador's December Program for the Security Council | Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FVIPRr2wIBs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FVIPRr2wIBs"
         }
       }
     }
