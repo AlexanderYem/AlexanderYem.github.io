@@ -5,11 +5,24 @@
         "title": "HIV/AIDS: Meeting Unmet Needs in Treatment and Prevention | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/sR_EIpPpRQU/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/sR_EIpPpRQU/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "sR_EIpPpRQU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (5 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dv3zFBJk0zA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Dv3zFBJk0zA"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E-hHdt1ISrs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Secretary-General: \"There must be no room for greenwashing\" | COP28, UN Climate Change Conference",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/aJXLjyHqnYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "aJXLjyHqnYA"
         }
       }
     }
