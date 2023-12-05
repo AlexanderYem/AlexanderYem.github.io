@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU quer responder a ascensão da inteligência artificial com agilidade, afirma chefe de tecnologia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zz7dvm_WHf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zz7dvm_WHf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Como a ONU mede o aquecimento global?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5r3gNlHRRH4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "A luta contra a discriminação das pessoas negras na Europa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/U1sNOMuPA_s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "U1sNOMuPA_s"
         }
       }
     }
