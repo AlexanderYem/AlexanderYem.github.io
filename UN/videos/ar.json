@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"الوضع في قطاع غزة يتدهور ساعة بعد الأخرى\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugqjumM31XQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ugqjumM31XQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليونيسف: وقف إطلاق النار وحده هو الكفيل بإنقاذ حياة الأطفال في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z8TnANyJnHI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام حول غزة وإسرائيل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e-8vt5Iiz_E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e-8vt5Iiz_E"
         }
       }
     }
