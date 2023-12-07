@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "JULIENNE LUSENGE: Licha ya kunusurika kuuawa hajakata tamaa kutetea wanawake DR Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3xGwqJPUTY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E3xGwqJPUTY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "#Siku16: Mwanariadha Violah Cheptoo Lagat achukua hatua baada ya mwenzake kuuawa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jnLNjljmkM4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kuku wanalishwa dawa nyingi hatarishi kwa binadamu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mg3xoT4XzRs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mg3xoT4XzRs"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "(EN/AR) Arab Group & Islamic Group on the Middle East - Media Stakeout | UN Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BqzOEVbROgM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BqzOEVbROgM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (7 December 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NYKEvK6lgHw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine & Arab Group on the Situation in Gaza - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x60C_ZT-57A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x60C_ZT-57A"
         }
       }
     }
