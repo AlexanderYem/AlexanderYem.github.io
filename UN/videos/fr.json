@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Julienne Lusenge, lauréate du Prix des droits de l'homme de l'ONU 2023",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/C9aUA-If7go/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "C9aUA-If7go"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Déployé à Gaza, un employé de l'UNICEF témoigne du sort des enfants",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "oST73YS0mhk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conflit Israël-Gaza : « Il est temps que l'humanité l'emporte »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_ioQlsER_hE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_ioQlsER_hE"
         }
       }
     }

@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "دولة الإمارات تبدي خيبة الأمل لعدم اعتماد مشروع قرارها للوقف الإنساني لإطلاق النار",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8gC4AFRg-8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V8gC4AFRg-8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "لحظة التصويت في مجلس الأمن على مشروع قرار حول الوقف الإنساني لإطلاق النار",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mH4epR6wagE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mH4epR6wagE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الوضع في غزة: كلمة الأمين العام أمام مجلس الأمن الدولي (ترجمة عربية)",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "PFoQu3gRVy8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مصر: نرفض خطط تصفية القضية الفلسطينية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pem_R2P9csQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pem_R2P9csQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "دولة الإمارات: يتعين إحياء الأمل في الحل العادل للقضية الفلسطينية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/V-daZXeeOk0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "V-daZXeeOk0"
         }
       }
     }

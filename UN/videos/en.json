@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (8 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaKsLwUpMow/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XaKsLwUpMow"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Armenia/Azerbaijan, Haiti & other topics - Daily Press Briefing (8 Dec 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yXR4llpgPxc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ecuador on Transnational Organized Crime & Other Topics - Media Stakeout | UN Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0UaAW2abEe4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0UaAW2abEe4"
         }
       }
     }
