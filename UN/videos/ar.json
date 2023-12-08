@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الوضع في غزة: كلمة الأمين العام أمام مجلس الأمن الدولي (ترجمة عربية)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PHAhwZrvAqA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PHAhwZrvAqA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أنا في دبي لأحمي مستقبلي من تغير المناخ #cop28  #تغير_المناخ #ليبيا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V-daZXeeOk0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأردن: الاحتلال والسلام نقيضان لا يجتمعان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/O0u68sONeUk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "O0u68sONeUk"
         }
       }
     }
