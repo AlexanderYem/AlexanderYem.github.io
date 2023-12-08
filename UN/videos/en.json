@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "Israel/Palestine: \"The eyes of the world – and the eyes of history – are watching\" -  UN Chief",
+        "title": "Youth Climate Voices at #COP28 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vBNgrp9eOS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vBNgrp9eOS8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine Crisis: 'The eyes of the world, and the eyes of history, are watching' - UN Chief",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/WLByZ9tgfHI/hqdefault.jpg"
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "France on Gaza - Security Council Media Stakeout ( 8 December 2023)",
+        "title": "France on the Israel/Palestine Crisis | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/E5df2wI-_zo/hqdefault.jpg"
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "COP28: Arab Youth Want Climate Action | United Nations",
+        "title": "#COP28: Arab Youth Want Climate Action | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/Gv28Wu1i8sc/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Uj2eykZsH4g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(ES/EN) UN Chief on Transnational Organized Crime, Growing Challenges & New Threats | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bC8qGhfs2QA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bC8qGhfs2QA"
         }
       }
     }
