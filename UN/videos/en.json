@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP28: Arab Youth Want Climate Action | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gv28Wu1i8sc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Gv28Wu1i8sc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, South Sudan, AI & other topics - Daily Press Briefing (7 Dec 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7DiqW_bGRR0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Venezuelan Refugees, Gaza, Ukraine & other topics - Daily Briefing (6 Dec 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UuwTa6DNu8I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UuwTa6DNu8I"
         }
       }
     }
