@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP28: Jovens demandam espaço para vozes que podem salvar o planeta",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hFCJNcD0L7s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hFCJNcD0L7s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Chefe da diplomacia de Moçambique aborda crimes e emergências",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Oq5HlrcDiu4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“O Sergio é o lado bom das pessoas”, diz sobrinho sobre legado do diplomata",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fRZ18WIHt54/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fRZ18WIHt54"
         }
       }
     }
