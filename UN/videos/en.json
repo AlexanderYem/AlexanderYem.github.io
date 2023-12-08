@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Israel/Palestine: \"The eyes of the world – and the eyes of history – are watching\" -  UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WLByZ9tgfHI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WLByZ9tgfHI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "France on Gaza - Security Council Media Stakeout ( 8 December 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E5df2wI-_zo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E5df2wI-_zo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "A Painstaking Quest for Justice | Awake at Night | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "bC8qGhfs2QA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#COP28 Dialogues – Women Rise for All | Amina J. Mohammed | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/scWOx1LUP_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "scWOx1LUP_8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN CERF High-Level Pledging Event 2024: Humanitarian Aid & Emergency Relief | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/56bB3MxWU-s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "56bB3MxWU-s"
         }
       }
     }
