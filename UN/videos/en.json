@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on Human Rights Day 2023 (Dec 10) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/POylKGXCTDo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "POylKGXCTDo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(EN/AR) Arab Group & Islamic Group on the Middle East | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EEASe5wUkmk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(EN/AR) Arab Group & Islamic Group on the Middle East - Media Stakeout | UN Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BqzOEVbROgM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BqzOEVbROgM"
         }
       }
     }
