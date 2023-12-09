@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ex-relatora pede esforços na consolidação do Estado de Direito",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zl1SJMFuFyA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Zl1SJMFuFyA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens do #brasil na #cop28 destacam prioridades para combater #mudançaclimática",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "aXvt1Jisnzo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional das Pessoas com Deficiência enfatiza soluções pela igualdade",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/RUoReX0TKMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "RUoReX0TKMs"
         }
       }
     }
