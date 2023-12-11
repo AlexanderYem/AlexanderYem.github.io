@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (11 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JDjNtbm8Mw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_JDjNtbm8Mw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Civil Society Town Hall with the President of the 78th Session of the UN General Assembly",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7xzy8CB8FhY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Human Rights Prize Winner: Julienne Lusenge | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/88VBR7SGPWA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "88VBR7SGPWA"
         }
       }
     }
