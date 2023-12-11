@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غادة والي: مكافحة الفساد هي معركة الجميع",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HzveGoq6KM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6HzveGoq6KM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"يجب أن تنتهي الحرب الآن\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QPoxzoHPPRg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"الوضع في قطاع غزة يتدهور ساعة بعد الأخرى\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ugqjumM31XQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ugqjumM31XQ"
         }
       }
     }

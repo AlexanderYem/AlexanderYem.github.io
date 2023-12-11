@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "75 anos da Declaração Universal dos Direitos Humanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyYq_AQiag0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fyYq_AQiag0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Paulo Pinheiro comenta o \"equlíbrio delicado\" que orienta trabalho de relatores da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yWjbozx6TEs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU quer responder a ascensão da inteligência artificial com agilidade, afirma chefe de tecnologia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zz7dvm_WHf4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Zz7dvm_WHf4"
         }
       }
     }
