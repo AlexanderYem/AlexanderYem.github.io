@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"يجب أن تنتهي الحرب الآن\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/erQkk7XFjCg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "erQkk7XFjCg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كيف تساعد من منزلك في التصدي لتغير المناخ؟",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ugqjumM31XQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليونيسف: وقف إطلاق النار وحده هو الكفيل بإنقاذ حياة الأطفال في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GDCx9Ffta40/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GDCx9Ffta40"
         }
       }
     }

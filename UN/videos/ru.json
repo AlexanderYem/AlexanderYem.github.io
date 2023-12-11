@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "В Женеве отметили 75-летие со дня принятия Всеобщей декларации прав человека",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KjNe2V19MNM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KjNe2V19MNM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН Антониу Гутерриш на КС-28",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p5GAdfYUyOY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Обращение Генсека ООН к участникам конференции по Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J3RdV3BH9Jc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J3RdV3BH9Jc"
         }
       }
     }
