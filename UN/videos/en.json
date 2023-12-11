@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Civil Society Town Hall with the President of the 78th Session of the UN General Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVhgCMYYozg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cVhgCMYYozg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "MONUSCO on the situation in Democratic Republic of the Congo | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Gaza, COP28, South Sudan & other topics - Daily Press Briefing (11 Dec 2023) | United Nations",
+        "title": "Gaza, Mali, South Sudan & other topics - Daily Press Briefing (11 Dec 2023) | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/imcfcu2aW1E/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "88VBR7SGPWA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Human Rights Prize Winner: The 'Viasna' Human Rights Centre | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_0JeN85pEH8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_0JeN85pEH8"
         }
       }
     }
