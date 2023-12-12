@@ -2,7 +2,7 @@
   "items": [
     {
       "snippet": {
-        "title": "Emergency UN General Assembly - East Jerusalem & Palestinian Territories | United Nations",
+        "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly | United Nations (full)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/rG6zSsWNPWE/hqdefault_live.jpg"
@@ -10,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "rG6zSsWNPWE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine Humanitarian Crisis: #UNGA78 President at Emergency Session | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bf7Wfg-KFEo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bf7Wfg-KFEo"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_JDjNtbm8Mw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "MONUSCO on the situation in Democratic Republic of the Congo | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qOUWuPox0sA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qOUWuPox0sA"
         }
       }
     }
