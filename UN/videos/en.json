@@ -2,7 +2,33 @@
   "items": [
     {
       "snippet": {
-        "title": "Troika of Arab Group & Islamic Group on Palestine - Media Stakeout | UN Security Council",
+        "title": "UN News in Brief (12 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lv_tiw2Nc-0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Lv_tiw2Nc-0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza, Syria, West Africa & other topics - Daily Press Briefing (12 Dec 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHTVdGLOaDE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LHTVdGLOaDE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Arab Group & Islamic Group on Palestine - Media Stakeout | UN Security Council",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/E0k8_XowP2c/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "imcfcu2aW1E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Emergency UN General Assembly - East Jerusalem & Palestinian Territories | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rG6zSsWNPWE/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rG6zSsWNPWE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Stop ‘kicking the can down the road,’ UN chief urges phaseout of fossil fuels | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JqtqEdqQmZs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JqtqEdqQmZs"
         }
       }
     }
