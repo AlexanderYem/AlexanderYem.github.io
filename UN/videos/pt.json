@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS: Hospitais em Gaza são ‘zona de desastre humanitário’",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ymFD5hlkRR0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ymFD5hlkRR0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "75 anos da Declaração Universal dos Direitos Humanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hFCJNcD0L7s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Chefe da diplomacia de Moçambique aborda crimes e emergências",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yWjbozx6TEs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yWjbozx6TEs"
         }
       }
     }
