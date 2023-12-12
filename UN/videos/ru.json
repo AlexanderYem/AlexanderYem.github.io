@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Белорусский правозащитный центр «Весна» – лауреат Премии ООН в области прав человека",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIdjJFDzfj4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HIdjJFDzfj4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "В Женеве отметили 75-летие со дня принятия Всеобщей декларации прав человека",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FVRx4Jp3tQo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Траур в ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p5GAdfYUyOY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p5GAdfYUyOY"
         }
       }
     }

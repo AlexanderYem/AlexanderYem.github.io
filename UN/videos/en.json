@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Emergency UN General Assembly - East Jerusalem & Palestinian Territories | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rG6zSsWNPWE/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rG6zSsWNPWE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (12 December 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qOUWuPox0sA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Mali, South Sudan & other topics - Daily Press Briefing (11 Dec 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/imcfcu2aW1E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "imcfcu2aW1E"
         }
       }
     }
