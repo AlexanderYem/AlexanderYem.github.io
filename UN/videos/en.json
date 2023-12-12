@@ -15,7 +15,20 @@
     },
     {
       "snippet": {
-        "title": "Israel/Palestine Humanitarian Crisis: #UNGA78 President at Emergency Session | United Nations",
+        "title": "Israel/Palestine: UN General Assembly votes by large majority for immediate humanitarian ceasefire",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TICNFlYkhTg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TICNFlYkhTg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine Humanitarian Crisis: #UNGA78 President at Emergency Session | United Nations | ⚙️",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/bf7Wfg-KFEo/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h-bYMQRT9ik"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (11 December 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_JDjNtbm8Mw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_JDjNtbm8Mw"
         }
       }
     }
