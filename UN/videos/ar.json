@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"فكروا في أسوأ ما مررتم به وضاعفوه مليون مرة، هذا حال أطفال غزة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIOzT_VOwFs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HIOzT_VOwFs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"لم أر في حياتي شيئا مماثلا للوضع في المستشفى الأهلي العربي في غزة\".",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mH4epR6wagE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الوضع في غزة: كلمة الأمين العام أمام مجلس الأمن الدولي (ترجمة عربية)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PHAhwZrvAqA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PHAhwZrvAqA"
         }
       }
     }
