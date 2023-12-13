@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "لحظة التصويت على قرار الجمعية العامة بشأن الوقف الإنساني لإطلاق النار في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IU5jUqHhE5E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IU5jUqHhE5E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غادة والي: مكافحة الفساد هي معركة الجميع",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LKOrjc_7etI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "طفلة ليبية ناشطة في مجال المناخ تدعو قادة العالم إلى تحويل الكلمات إلى أفعال",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QPoxzoHPPRg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QPoxzoHPPRg"
         }
       }
     }
