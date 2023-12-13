@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "COP28 termina com apelo à “transição” dos combustíveis fósseis",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvaLaJ-VkhA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LvaLaJ-VkhA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OMS: Hospitais em Gaza são ‘zona de desastre humanitário’",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-YD1dQlH46U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP28: Jovens demandam espaço para vozes que podem salvar o planeta",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hFCJNcD0L7s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hFCJNcD0L7s"
         }
       }
     }
