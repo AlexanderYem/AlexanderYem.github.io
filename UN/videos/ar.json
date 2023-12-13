@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"لم أر في حياتي شيئا مماثلا للوضع في المستشفى الأهلي العربي في غزة\".",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SISkqv2xQ6Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SISkqv2xQ6Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "لحظة التصويت على قرار الجمعية العامة بشأن الوقف الإنساني لإطلاق النار في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PHAhwZrvAqA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أنا في دبي لأحمي مستقبلي من تغير المناخ #cop28  #تغير_المناخ #ليبيا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LKOrjc_7etI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LKOrjc_7etI"
         }
       }
     }
