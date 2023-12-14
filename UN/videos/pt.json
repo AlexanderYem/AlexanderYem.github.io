@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "O que aconteceu na COP28?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TnrBjL9E4Fg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TnrBjL9E4Fg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "COP28 termina com apelo à “transição” dos combustíveis fósseis",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "biSVL4pIRME"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ex-relator de direitos humanos fala sobre 75 anos da Declaração",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-YD1dQlH46U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-YD1dQlH46U"
         }
       }
     }
