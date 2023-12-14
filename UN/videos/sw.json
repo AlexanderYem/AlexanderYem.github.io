@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SOFEPADI imeniondoa kwenye utegemezi – Beatrice Tegbagbo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7w3CvKXQMiA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7w3CvKXQMiA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Asante SOFEPADI, nimejikomboa kiuchumi - Beatrice Tegbagbo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m7vuriTTXD4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "JULIENNE LUSENGE: Licha ya kunusurika kuuawa hajakata tamaa kutetea wanawake DR Congo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E3xGwqJPUTY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E3xGwqJPUTY"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Les algues peuvent remplacer les plastiques »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8QyAazQG7Lk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8QyAazQG7Lk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Julienne Lusenge, lauréate du Prix des droits de l'homme de l'ONU 2023",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HTWRVTXBnxM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comment l'ONU apporte de l'aide - 5 faits",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oST73YS0mhk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oST73YS0mhk"
         }
       }
     }
