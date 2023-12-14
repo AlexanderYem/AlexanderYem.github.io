@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Human Rights Prize Winner: The Global Coalition for the Right to a Healthy Environment",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mhI8Gu5gv3w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mhI8Gu5gv3w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Humanitarian situation in Gaza - World Food Programme | Press Conference | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TICNFlYkhTg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine Humanitarian Crisis: #UNGA78 President at Emergency Session | United Nations | ⚙️",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bf7Wfg-KFEo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bf7Wfg-KFEo"
         }
       }
     }
