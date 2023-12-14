@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly (Resumed) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkYp-95_yqw/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nkYp-95_yqw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Human Rights Prize Winner: The Global Coalition for the Right to a Healthy Environment",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KQcu5bd74rc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine: UN General Assembly votes by large majority for immediate humanitarian ceasefire",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TICNFlYkhTg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TICNFlYkhTg"
         }
       }
     }
