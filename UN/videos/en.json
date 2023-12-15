@@ -5,11 +5,24 @@
         "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly (Resumed) | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/nkYp-95_yqw/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/nkYp-95_yqw/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "nkYp-95_yqw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Human Rights Violations in Gaza & Ukraine - Interview with the Human Rights Chief | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ldi0XyGR7fg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ldi0XyGR7fg"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3o-JGR_CVZI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian situation in Gaza - World Food Programme | Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XfpPSYeD5Tw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XfpPSYeD5Tw"
         }
       }
     }
