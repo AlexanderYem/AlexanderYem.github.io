@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tuzo ya Kimataifa ya Mwalimu Nyerere kuwaenzi wadau wa Kiswahili yaja - Dkt. Damas Ndumbaro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOE6ZsmCkM0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AOE6ZsmCkM0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SOFEPADI imeniondoa kwenye utegemezi – Beatrice Tegbagbo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LEP-bTHjfV8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kituo cha afya cha Mtofaani kwa hisani ya Milele Zanzibar Foundation utekelezaji wa SDG 3",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m7vuriTTXD4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m7vuriTTXD4"
         }
       }
     }
