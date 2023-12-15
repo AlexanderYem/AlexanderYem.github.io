@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Roda de conversa celebra 75 anos da Declaração Universal dos Direitos Humanos no Rio de Janeiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-a6yb_O4Bhw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-a6yb_O4Bhw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "O que aconteceu na COP28?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dhtZwoxQTcs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia dos Direitos Humanos: Mensagem do secretário-geral da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/biSVL4pIRME/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "biSVL4pIRME"
         }
       }
     }
