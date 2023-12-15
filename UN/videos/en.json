@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (15 December 2023) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkTyZW457us/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nkTyZW457us"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "#UNGA78 President at Human Rights Prize Award Ceremony | General Assembly | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SLvIrLoJkoE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SLvIrLoJkoE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Celebrating 75 Years of the Universal Declaration of Human Rights: UN Chief's Address at #UNGA78",
         "thumbnails": {
           "high": {
@@ -28,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "UNGA78 President's First 100 Days in Office: Reflections & Vision for the Future | United Nations",
+        "title": "#UNGA78 President's First 100 Days in Office: Reflections & Vision for the Future | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/2b-9FHf24co/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "nkYp-95_yqw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Human Rights Prize Winner: The Global Coalition for the Right to a Healthy Environment",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mhI8Gu5gv3w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mhI8Gu5gv3w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Switzerland, Mozambique & Others on Joint Pledges Climate, Peace & Security | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4aBYV952CBc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4aBYV952CBc"
         }
       }
     }

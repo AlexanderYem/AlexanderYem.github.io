@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Главный правозащитник ООН - об Украине",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/n50ngdcrf8k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "n50ngdcrf8k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Белорусский правозащитный центр «Весна» – лауреат Премии ООН в области прав человека",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DlmteQeJD48"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Глава ЮНИСЕФ в Газе",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FVRx4Jp3tQo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FVRx4Jp3tQo"
         }
       }
     }
