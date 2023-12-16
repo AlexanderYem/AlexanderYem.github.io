@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Que s'est-il passé à la COP28 ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VgLmHERwmgc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VgLmHERwmgc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Les algues peuvent remplacer les plastiques »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wx4eoTjcaHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israël-Gaza : António Guterres appel à un cessez-le-feu immédiat",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HTWRVTXBnxM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HTWRVTXBnxM"
         }
       }
     }
