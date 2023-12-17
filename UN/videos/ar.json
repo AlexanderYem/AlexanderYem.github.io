@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "اليوم العالمي للغة العربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2HvX9kI48A/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I2HvX9kI48A"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مركز أردني من بين 5 فائزين بجائزة الأمم المتحدة لحقوق الإنسان لعام 2023.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6HzveGoq6KM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"يجب أن تنتهي الحرب الآن\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/erQkk7XFjCg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "erQkk7XFjCg"
         }
       }
     }
