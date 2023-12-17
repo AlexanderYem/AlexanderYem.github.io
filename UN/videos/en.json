@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly (Resumed) & other topics",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsTBwjm4WVI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lsTBwjm4WVI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Migration's Role in Sustainability & Climate Response: IOM Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SLvIrLoJkoE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Celebrating 75 Years of the Universal Declaration of Human Rights: UN Chief's Address at #UNGA78",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/skI12krGhmc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "skI12krGhmc"
         }
       }
     }
