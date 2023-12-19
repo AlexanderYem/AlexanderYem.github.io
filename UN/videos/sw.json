@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Habari potofu na za uongo ni hatari",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2JWOFo0pIE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q2JWOFo0pIE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "MONUSCO imetuepusha kutumbukia kwenye usambazaji wa habari za uongo na potofu- Wanufaika",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "S6kMJ05axGo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Tusiishie kwenye mijadala mikutanoni, tupeleke vitendo mashinani - Madina Jubilate Kimaro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ihNPd1_6YT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ihNPd1_6YT8"
         }
       }
     }
