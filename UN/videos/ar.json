@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "دقيقة صمت في مجلس الأمن حدادا على وفاة أمير دولة الكويت",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DD0cpOtMXis/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DD0cpOtMXis"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "الأمم المتحدة تحتفل باليوم العالمي اللغة العربية: لغة الشعر والفنون",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZde4VzJ674/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tZde4VzJ674"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأونروا تواصل تقديم الرعاية الصحية للنازحين في غزة في ظل مخاوف من تفشي الأوبئة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wy0Iom3hUGw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"نحتاج بشدة إلى وقف لإطلاق النار\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2oH6enBlhmE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2oH6enBlhmE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"فكروا في أسوأ ما مررتم به وضاعفوه مليون مرة، هذا حال أطفال غزة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HIOzT_VOwFs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HIOzT_VOwFs"
         }
       }
     }
