@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأونروا تواصل تقديم الرعاية الصحية للنازحين في غزة في ظل مخاوف من تفشي الأوبئة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OiOTEc2Bc1w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OiOTEc2Bc1w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"لا يجب السماح لمجموعة من المسؤولين، ممن يتمسكون بمقاعدهم بخذلان الشعب الليبي\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HIOzT_VOwFs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"لم أر في حياتي شيئا مماثلا للوضع في المستشفى الأهلي العربي في غزة\".",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SISkqv2xQ6Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SISkqv2xQ6Q"
         }
       }
     }
