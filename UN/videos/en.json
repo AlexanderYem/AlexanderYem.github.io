@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Gaza, Sudan & other topics - Daily Press Briefing (19 Dec 2023)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3JO5KRqX-Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B3JO5KRqX-Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (19 December 2023) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lsTBwjm4WVI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Humanitarian crisis in Gaza & other topics - Daily Press Briefing  (18 Dec 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sQBuZp8tVYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sQBuZp8tVYA"
         }
       }
     }
