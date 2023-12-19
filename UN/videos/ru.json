@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Выступление Верховного комиссара ООН по правам человека на заседании Совета ООН по правам человека",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GPcs9ZEYRMw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GPcs9ZEYRMw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Чем завершилась Конференция ООН по климату?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-oPkLLcida4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН в Антарктиде: мы должны положить конец эпохе ископаемого топлива",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sdeD4jzCAoA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sdeD4jzCAoA"
         }
       }
     }
