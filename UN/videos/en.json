@@ -5,11 +5,24 @@
         "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly (Resumed)",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/vjAdI81QB2E/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/vjAdI81QB2E/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "vjAdI81QB2E"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ecuador & United Arab Emirates on the Middle East | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fK5APqNhNXU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fK5APqNhNXU"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ynv16ESWrec"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Artificial Intelligence - Security Council: Communications Chief's Opening Remarks | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5Z_nm5CRzlg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5Z_nm5CRzlg"
         }
       }
     }
