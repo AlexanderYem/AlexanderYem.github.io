@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "East Jerusalem & Palestinian Territories | Emergency UN General Assembly (Resumed)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjAdI81QB2E/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vjAdI81QB2E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNAMA on the situation in Afghanistan | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KR20u2IkxSo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council, Gaza, Sudan & other topics - Daily Press Briefing (19 Dec 2023)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B3JO5KRqX-Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B3JO5KRqX-Y"
         }
       }
     }
