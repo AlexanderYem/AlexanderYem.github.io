@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"لم يعد هناك مكان في غزة يمكن للفلسطينيين التوجه إليه\" مفوض حقوق الإنسان",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0jaqYboNyI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T0jaqYboNyI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "السودان: الأمين العام يبدي قلقا بالغا إزاء اندلاع القتال بالقرب من ود مدني",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2gJYj49xG-o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "في دقيقتين: خلاصة مؤتمر الأمم المتحدة للمناخ في دبي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L4b-8g_mBB8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L4b-8g_mBB8"
         }
       }
     }
