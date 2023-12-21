@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "\"20 ألف شخص قُتلوا في غزة، ندعو للوقف الإنساني لإطلاق النار\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/duckb3DTNbI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "duckb3DTNbI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "\"إنهم يتضورون جوعا ويموتون عطشا في غزة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBaweo8i29o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EBaweo8i29o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"لم يعد هناك مكان في غزة يمكن للفلسطينيين التوجه إليه\" مفوض حقوق الإنسان",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "I2HvX9kI48A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مركز أردني من بين 5 فائزين بجائزة الأمم المتحدة لحقوق الإنسان لعام 2023.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7zOo-nZU1HQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7zOo-nZU1HQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ترحيب أممي بالإعلان عن فتح معبر كرم أبو سالم لتوصيل المساعدات إلى غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2gJYj49xG-o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2gJYj49xG-o"
         }
       }
     }
