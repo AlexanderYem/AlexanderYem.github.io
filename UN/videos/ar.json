@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تصويت مجلس الأمن على قرار حول غزة وإسرائيل (ترجمة فورية)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9G0yx04-hHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9G0yx04-hHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"20 ألف شخص قُتلوا في غزة، ندعو للوقف الإنساني لإطلاق النار\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Axes4QcSrt8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليوم العالمي للغة العربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/I2HvX9kI48A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "I2HvX9kI48A"
         }
       }
     }
