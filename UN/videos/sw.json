@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Siku ya Kimataifa ya Mpira wa Kikapu",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ibLgxCn2U-I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ibLgxCn2U-I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kwa mara ya kwanza Siku ya Kimataifa ya Mpira wa Kikapu yaadhimishwa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7w3CvKXQMiA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Asante SOFEPADI, nimejikomboa kiuchumi - Beatrice Tegbagbo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tVTSeabe0hY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tVTSeabe0hY"
         }
       }
     }
