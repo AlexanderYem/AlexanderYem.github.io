@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Syria Chemical Weapons Briefing: UNODA | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/us0sNvcahIY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "us0sNvcahIY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria in 2023: UN Special Envoy's Briefing on the Country | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NuRmxJ2scUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "It's Hard to Put into Words the Daily Struggles Faced by Afghan Families - OCHA | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vOcTVfP81nM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vOcTVfP81nM"
         }
       }
     }
