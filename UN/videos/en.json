@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "The Middle East & Palestinian Question - Security Council Meeting | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBIJWM00Aoo/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TBIJWM00Aoo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria Chemical Weapons Briefing: UNODA | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -49,19 +62,6 @@
         },
         "resourceId": {
           "videoId": "L0K4B4GZO-U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "The Middle East & Palestinian Question - Security Council Meeting | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TBIJWM00Aoo/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TBIJWM00Aoo"
         }
       }
     },
