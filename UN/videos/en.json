@@ -41,6 +41,19 @@
     },
     {
       "snippet": {
+        "title": "UN Chief Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fNottxuLya4/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fNottxuLya4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNRWA's Humanitarian Work in Gaza: Interview with Director of Communications | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4e2L8T-CmcI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "United Nations Assistance Mission in Afghanistan Briefs Press | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rEvscqf9GY8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rEvscqf9GY8"
         }
       }
     }
