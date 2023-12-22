@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "سفيرة الإمارات: قرار مجلس الأمن سيكون الفارق بين الحياة والموت لآلاف المدنيين في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0PKaUTkh2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M0PKaUTkh2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تصويت مجلس الأمن على قرار حول غزة وإسرائيل (ترجمة فورية)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tdBUxSvRz58"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"الكراهية مشاعر سلبية لكنها رائجة، ويجب التصدي لها\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Axes4QcSrt8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Axes4QcSrt8"
         }
       }
     }
