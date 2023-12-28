@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Новогоднее послание Генерального секретаря ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/36KmgGCnds0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "36KmgGCnds0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Выступление Верховного комиссара ООН по правам человека на заседании Совета ООН по правам человека",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "H49yz_59O88"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Визит Генсека ООН в Антарктику",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-oPkLLcida4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-oPkLLcida4"
         }
       }
     }
