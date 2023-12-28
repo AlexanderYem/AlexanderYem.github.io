@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensagem de final de ano da ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbgzT29AqtM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kbgzT29AqtM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Não voltaremos ao clima do Século 20”, diz diretor da OMM",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ePGEou2SUQY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Moçambicana lança rap pelos 75 anos da Declaração Universal dos Direitos Humanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SJcRW8BT-qA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SJcRW8BT-qA"
         }
       }
     }
