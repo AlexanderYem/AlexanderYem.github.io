@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mensaje de Año Nuevo 2024",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EnXcMbCdcvc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EnXcMbCdcvc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "¿Por qué migran las personas?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5zTzQ_Ac_48"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El legado de Nelson Mandela",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JhUVKtBENoI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JhUVKtBENoI"
         }
       }
     }

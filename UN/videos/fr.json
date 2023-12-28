@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Message du Secrétaire général à l’occasion de la nouvelle année 2024",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQAuCOc_n-k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FQAuCOc_n-k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malgré les 55 conflits avec des violations graves des droits humains, Volker Türk garde espoir",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dDVqwfKsEOo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Au pied de l’Everest, Guterres appelle à agir pour « éviter le pire du chaos climatique »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vnpXvYbxXks/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vnpXvYbxXks"
         }
       }
     }
