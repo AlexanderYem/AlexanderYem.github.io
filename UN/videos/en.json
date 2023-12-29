@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Israel/Palestine Crisis - Security Council, 9522nd meeting | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zGbGgQIGqBI/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zGbGgQIGqBI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief's 2024 New Year's Message | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TBIJWM00Aoo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (22 December 2023) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4Hc94GEokQU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4Hc94GEokQU"
         }
       }
     }
