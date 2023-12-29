@@ -2,7 +2,7 @@
   "items": [
     {
       "snippet": {
-        "title": "Israel/Palestine Crisis - West Bank | Security Council, 9522nd meeting | United Nations",
+        "title": "Middle East- West Bank, Lebanon, Israel & other regions | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/zGbGgQIGqBI/hqdefault.jpg"
@@ -10,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "zGbGgQIGqBI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine - Emergency Security Council Meeting | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xrWpoTcQ728/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xrWpoTcQ728"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u0JSP8RuHSI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UAE, Palestine, Egypt & Others on UN Security Council Resolution on Palestine | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zvXgsGDbdDg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zvXgsGDbdDg"
         }
       }
     }
