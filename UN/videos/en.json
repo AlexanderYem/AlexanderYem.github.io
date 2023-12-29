@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council January Presidency - Briefing by France's Permanent Representative | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IcYbmned30/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3IcYbmned30"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine - Emergency Security Council Meeting | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/xrWpoTcQ728/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/xrWpoTcQ728/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v7vQ5SEo654"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gordon Brown: Unleashing Hidden Talent | Awake at Night Series | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wYd1rz7xTbU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wYd1rz7xTbU"
         }
       }
     }
