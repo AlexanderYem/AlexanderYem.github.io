@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Retour sur une décennie de maintien de la paix de l'ONU au Mali",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_0wIFKT1PdE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_0wIFKT1PdE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Message du Secrétaire général à l’occasion de la nouvelle année 2024",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5XANPoDcQro"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Recycler des tongs et les transformer en oeuvres d'art",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dDVqwfKsEOo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dDVqwfKsEOo"
         }
       }
     }
