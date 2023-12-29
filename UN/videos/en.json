@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Middle East- West Bank, Lebanon, Israel & other regions | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zGbGgQIGqBI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zGbGgQIGqBI"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Ukraine - Emergency Security Council Meeting | United Nations",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "xrWpoTcQ728"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Middle East- West Bank, Lebanon, Israel & other regions | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zGbGgQIGqBI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zGbGgQIGqBI"
         }
       }
     },

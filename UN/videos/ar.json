@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المفوض السامي لحقوق الإنسان يدعو إلى وضع حد فوري لاستخدام الأسلحة والوسائل العسكرية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywT3hCIwtDA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ywT3hCIwtDA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأمين العام يدعو إلى جعل 2024 عاما لإعادة بناء الثقة واستعادة الأمل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "T0jaqYboNyI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "السودان: الأمين العام يبدي قلقا بالغا إزاء اندلاع القتال بالقرب من ود مدني",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MAinHTQx-6s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MAinHTQx-6s"
         }
       }
     }
