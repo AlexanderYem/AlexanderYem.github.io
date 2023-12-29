@@ -2,7 +2,20 @@
   "items": [
     {
       "snippet": {
-        "title": "صوت من غزة: لا يوجد مكان آمن في غزة",
+        "title": "الأمين العام يدعو إلى جعل 2024 عاما لإعادة بناء الثقة واستعادة الأمل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0g67GRE6aMs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0g67GRE6aMs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "أصوات من غزة: لا يوجد مكان آمن في غزة",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/0w_Hf466Rzc/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MAinHTQx-6s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "دقيقة صمت في مجلس الأمن حدادا على وفاة أمير دولة الكويت",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DD0cpOtMXis/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DD0cpOtMXis"
         }
       }
     }
