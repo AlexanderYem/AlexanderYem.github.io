@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (2 January 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYHYkW0-Rec/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jYHYkW0-Rec"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Christian Ritscher: Pursuing Justice in ISIL’s Wake | Awake at Night Podcast | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xrWpoTcQ728"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Maintenance of Peace & Security - DPPA & DPO Briefing | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2xHOtcqcJu8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2xHOtcqcJu8"
         }
       }
     }
