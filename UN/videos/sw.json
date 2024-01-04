@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "SOFEPADI ilivyomsaidia manusura wa ukatili wa kingono Ituri, nchini DRC",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNU8ZSJ3mIY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SNU8ZSJ3mIY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"Joka\" atumia kipaji chake kujikwamua kielimu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "1TR3o7ReUQQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nafurahi sana nimepiga kura yangu- Mwananchi DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hb80GW7dzgI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hb80GW7dzgI"
         }
       }
     }
