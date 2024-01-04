@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Во что обходится ООН?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ljkk02V_MHs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ljkk02V_MHs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Новогоднее послание Генерального секретаря ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VP-L8dsXQeM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Перемирие в Газе: жители севера Газы получили первую за несколько последних недель передышку",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H49yz_59O88/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H49yz_59O88"
         }
       }
     }
