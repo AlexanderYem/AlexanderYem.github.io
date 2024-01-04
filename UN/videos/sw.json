@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nimefika hapa SOFEPADI kutokana na magumu yaliyonifika",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6G2JmzntUHc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6G2JmzntUHc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "SOFEPADI ilivyomsaidia manusura wa ukatili wa kingono Ituri, nchini DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ibLgxCn2U-I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kwa mara ya kwanza Siku ya Kimataifa ya Mpira wa Kikapu yaadhimishwa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1TR3o7ReUQQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1TR3o7ReUQQ"
         }
       }
     }
