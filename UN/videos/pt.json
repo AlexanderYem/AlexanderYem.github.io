@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Quanto custa manter as Nações Unidas?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywzFZ3Qpvkw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ywzFZ3Qpvkw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensagem de Fim do Ano da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Zl1SJMFuFyA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Jovens do #brasil na #cop28 destacam prioridades para combater #mudançaclimática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ePGEou2SUQY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ePGEou2SUQY"
         }
       }
     }
