@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ميزانية الأمم المتحدة: استثمار في البشر على طريق خلق عالم أفضل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0fG0w1tPjY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j0fG0w1tPjY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "المفوض السامي لحقوق الإنسان يدعو إلى وضع حد فوري لاستخدام الأسلحة والوسائل العسكرية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EBaweo8i29o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"لم يعد هناك مكان في غزة يمكن للفلسطينيين التوجه إليه\" مفوض حقوق الإنسان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/T0jaqYboNyI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "T0jaqYboNyI"
         }
       }
     }
