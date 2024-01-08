@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (8 January 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiIXs10j_0k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tiIXs10j_0k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Cindy McCain: Help & Hope for the Hungry | Awake at Night | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9rK9pR5cDTE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary General/Iran, Gaza, Security Council & other topics - Daily Press Briefing (3 Jan 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vLdMgi1wUBU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vLdMgi1wUBU"
         }
       }
     }
