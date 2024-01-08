@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الاونروا: غزة هي المكان الأسوء على الأرض ويتم تحويلها إلى مكان غير صالح للعيش.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwT18UUWmlk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cwT18UUWmlk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ميزانية الأمم المتحدة: استثمار في البشر على طريق خلق عالم أفضل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "duckb3DTNbI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"إنهم يتضورون جوعا ويموتون عطشا في غزة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EBaweo8i29o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EBaweo8i29o"
         }
       }
     }
