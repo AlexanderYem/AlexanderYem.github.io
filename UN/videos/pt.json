@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Acnur diz que Brasil pode ser “campeão global” no acolhimento de refugiados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgHpaSkyn60/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pgHpaSkyn60"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Quanto custa manter as Nações Unidas?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UPrSLMa_jGs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ex-relatora pede esforços na consolidação do Estado de Direito",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Zl1SJMFuFyA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Zl1SJMFuFyA"
         }
       }
     }
