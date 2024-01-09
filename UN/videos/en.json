@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "2024 Model United Nations - Official Video Message from the UN Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdlFAqHPwCg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "cdlFAqHPwCg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Sigrid Kaag, Ukraine & other topics - Daily Press Briefing (8 January 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LlqtIg6pCZY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ending Attacks on Navigation in the Red Sea | Security Council | United Nations | DPPA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p1uTfxSxV9g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p1uTfxSxV9g"
         }
       }
     }
