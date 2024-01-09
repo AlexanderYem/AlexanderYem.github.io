@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Lebanon, Yemen & other topics - Daily Press Briefing (9 January 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QLESF88R7Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3QLESF88R7Y"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(EN/AR) Arab Group on New Steps on the Palestine Issue | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXM3jtFwHsQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eXM3jtFwHsQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (9 January 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "6FRYbVoRssA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (4 January 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u8yHvVQgtWU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u8yHvVQgtWU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Sudan, Ukraine & Other topics - Daily Press Briefing (4 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VQjjyYHJNVo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VQjjyYHJNVo"
         }
       }
     }
