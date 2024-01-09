@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مقاطعة كلمة البحرين حول الوضع في غزة في قاعة الجمعية العامة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GooRSLUwi50/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GooRSLUwi50"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الاونروا: غزة هي المكان الأسوأ للحياة في العالم ويتم تحويلها إلى مكان غير صالح للعيش.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9G0yx04-hHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"20 ألف شخص قُتلوا في غزة، ندعو للوقف الإنساني لإطلاق النار\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/duckb3DTNbI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "duckb3DTNbI"
         }
       }
     }

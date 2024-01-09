@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (9 January 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f3e3AKijsJE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f3e3AKijsJE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2024 Model United Nations - Official Video Message from the UN Chief",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VQjjyYHJNVo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "World Economic & Prospects Report 2024 | United Nations Dept of Economic and Social Affairs",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LlqtIg6pCZY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LlqtIg6pCZY"
         }
       }
     }
