@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maendeleo ya Akili Mnemba au Artificial Inteligence ni baraka au laana katika ufundishaji lugha?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j05qq4SJcZ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j05qq4SJcZ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Je waijua ICJ? Jipambanue....",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GQfqqS5Sa7A"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mradi wa IFAD na wadau wanusuru Wahadzabe dhidi ya mabadiliko ya tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_X7YjsacYow/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_X7YjsacYow"
         }
       }
     }
