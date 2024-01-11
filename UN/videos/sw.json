@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wadau wa kiswahili washauriwa kutumia ChatGPT",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/768Z1PkE4fg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "768Z1PkE4fg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Maendeleo ya Akili Mnemba au Artificial Inteligence ni baraka au laana katika ufundishaji lugha?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "062glpjJpC8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wahadzabe wanusuriwa na Mradi wa IFAD dhidi ya mabadiliko ya tabianchi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GQfqqS5Sa7A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GQfqqS5Sa7A"
         }
       }
     }
