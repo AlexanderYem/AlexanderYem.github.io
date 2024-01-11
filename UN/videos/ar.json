@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الجزائر تمتنع عن التصويت: لا يمكن أن نرتبط بنص يتجاهل مصرع 23 ألف شخص في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOHvC3cYZsw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jOHvC3cYZsw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "انتخاب المغرب رئيسا لمجلس حقوق الإنسان لعام 2024",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mZilm--8Z2k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "سفيرة الإمارات: قرار مجلس الأمن سيكون الفارق بين الحياة والموت لآلاف المدنيين في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M0PKaUTkh2M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M0PKaUTkh2M"
         }
       }
     }
