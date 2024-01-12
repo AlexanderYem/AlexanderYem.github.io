@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "سكان غزة يواجهون مستويات صادمة من الجوع والمرض",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHKSZkP0NDA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xHKSZkP0NDA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "منظمة الصحة العالمية اضطرت إلى إلغاء 6 بعثات لشمال غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0w_Hf466Rzc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "شون كيسي: جميع مشافي غزة منهكة بشدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fAieKMz_UAI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fAieKMz_UAI"
         }
       }
     }

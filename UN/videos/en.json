@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (12 January 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/W_Yj5_VtSb4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "W_Yj5_VtSb4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel's Oral Argument: South Africa v. Israel at UN Int'l Court of Justice Public Hearings",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/imn9daDE2dQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "imn9daDE2dQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Palestine Crisis & Int'l Peace: Security Council Meetings 9531 & 9532 | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "P0pnNz0A6tM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (10 January 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dE5PFhcAa0s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dE5PFhcAa0s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Climate Change's Impact on Peace in West Africa: A Lived Reality - UNOWAS Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wHImtg-oopQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wHImtg-oopQ"
         }
       }
     }
