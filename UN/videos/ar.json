@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "منظمة الصحة العالمية اضطرت إلى إلغاء 6 بعثات لشمال غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEQYDHkZ-LY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SEQYDHkZ-LY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الجزائر تمتنع عن التصويت: لا يمكن أن نرتبط بنص يتجاهل مصرع 23 ألف شخص في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fAieKMz_UAI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "4 من كل 5 من أكثر الأشخاص جوعا في العالم، موجودون في غزة: أمين عام الأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mZilm--8Z2k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mZilm--8Z2k"
         }
       }
     }
