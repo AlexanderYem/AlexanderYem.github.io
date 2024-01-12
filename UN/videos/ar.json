@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"الصمت على محاولة تهجير الفلسطينيين تواطؤ\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-60kbtXbI70/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-60kbtXbI70"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "سكان غزة يواجهون مستويات صادمة من الجوع والمرض",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0g67GRE6aMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أصوات من غزة: لا يوجد مكان آمن في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0w_Hf466Rzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0w_Hf466Rzc"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Bila UNHCR sijui ningekaa wapi: Olga muathirika wa vita Ukraine",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d6YX6Cnrg0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d6YX6Cnrg0s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wadau wa kiswahili washauriwa kutumia ChatGPT",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SNU8ZSJ3mIY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"Joka\" atumia kipaji chake kujikwamua kielimu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/062glpjJpC8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "062glpjJpC8"
         }
       }
     }
