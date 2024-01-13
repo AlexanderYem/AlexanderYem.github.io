@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "'Nowhere in Gaza is safe,' UNFPA Representative Warns | Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E4D7y2GK2hw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E4D7y2GK2hw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Palestine Crisis & Int'l Peace: Security Council Meetings 9531 & 9532 | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/fdas3xKXSR4/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/fdas3xKXSR4/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0Q_zTb9dfGU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza, Lebanon, Senior Personnel Appointment & other topics - Daily Press Briefing (11 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wkmQXTBw8iE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wkmQXTBw8iE"
         }
       }
     }
