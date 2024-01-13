@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"لا يمكن أن يعتمد قطاع غزة على معبر رفح فقط، يتعين فتح المعابر الأخرى",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-SaAnt-h9w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D-SaAnt-h9w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"الصمت على محاولة تهجير الفلسطينيين تواطؤ\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ywT3hCIwtDA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمين العام يدعو إلى جعل 2024 عاما لإعادة بناء الثقة واستعادة الأمل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0g67GRE6aMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0g67GRE6aMs"
         }
       }
     }
