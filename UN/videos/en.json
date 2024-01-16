@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (16 January 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xihgs5TCfbA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xihgs5TCfbA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (15 January 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "W_Yj5_VtSb4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel's Oral Argument: South Africa v. Israel at UN Int'l Court of Justice Public Hearings",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/imn9daDE2dQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "imn9daDE2dQ"
         }
       }
     }
