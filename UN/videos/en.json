@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretary General travel, Gaza & other topics - Daily Press Briefing (16 January 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRbvm5Giy_w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tRbvm5Giy_w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (16 January 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XJElc-PHTFQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (12 January 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W_Yj5_VtSb4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W_Yj5_VtSb4"
         }
       }
     }
