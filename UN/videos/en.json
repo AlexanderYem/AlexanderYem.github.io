@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza Health Situation: WHO Briefing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nAcOKdRnjRA/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nAcOKdRnjRA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OHCHR Raises Alarm Over Alabama's Nitrogen Asphyxiation Execution Method | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E4D7y2GK2hw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine Crisis & Int'l Peace: Security Council Meetings 9531 & 9532 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fdas3xKXSR4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fdas3xKXSR4"
         }
       }
     }
