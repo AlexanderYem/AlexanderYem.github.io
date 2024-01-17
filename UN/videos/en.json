@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief's travels, Gaza & other topics - Daily Press Briefing (17 January 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ErS78qD6H2k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ErS78qD6H2k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza Health Situation: WHO Briefing | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/nAcOKdRnjRA/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/nAcOKdRnjRA/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TyVXHhmHlmo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel Gaza, Trip announcement & other topics - Daily Press Briefing  (15 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FEwQwuOWdVU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FEwQwuOWdVU"
         }
       }
     }
