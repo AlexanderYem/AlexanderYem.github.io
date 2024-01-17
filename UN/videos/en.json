@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Holocaust Memorial Ceremony 2024",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/txrBGzhyYE4/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "txrBGzhyYE4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "The UN presence in Sudan is \"in a precarious situation\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tRbvm5Giy_w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (16 January 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xihgs5TCfbA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xihgs5TCfbA"
         }
       }
     }

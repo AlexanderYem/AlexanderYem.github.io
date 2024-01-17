@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Extremos no Brasil estão no radar de cientistas do clima",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lo1tf8_N2_Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lo1tf8_N2_Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sigrid Kaag fala sobre esforços para melhorar assistência em Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-a6yb_O4Bhw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "O que aconteceu na COP28?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TnrBjL9E4Fg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TnrBjL9E4Fg"
         }
       }
     }
