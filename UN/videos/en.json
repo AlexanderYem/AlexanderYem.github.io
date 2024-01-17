@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "'We Won't Progress Without Fine-Tuning Our Multilateral Toolbox’: UNGA78 President | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/61OYn-b-ULc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "61OYn-b-ULc"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Gaza Health Situation: WHO Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "nAcOKdRnjRA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "'We Won't Progress Without Fine-Tuning Our Multilateral Toolbox’: UNGA78 President | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/61OYn-b-ULc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "61OYn-b-ULc"
         }
       }
     },
