@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sigrid Kaag fala sobre esforços para melhorar assistência em Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_Aqd9dwm6s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z_Aqd9dwm6s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Guiné-Bissau precisa de “cultura de tolerância política”, afirma enviado da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TnrBjL9E4Fg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "COP28 termina com apelo à “transição” dos combustíveis fósseis",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LvaLaJ-VkhA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LvaLaJ-VkhA"
         }
       }
     }
