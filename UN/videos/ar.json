@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ما الذي رآه المسؤول بمنظمة الصحة العالمية في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9tdkMfeW_k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g9tdkMfeW_k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "كبيرة منسقي الإغاثة وإعادة الإعمار في غزة تزور العريش المصرية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uXSzmN0OCXY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مقاطعة كلمة البحرين حول الوضع في غزة في قاعة الجمعية العامة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GooRSLUwi50/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GooRSLUwi50"
         }
       }
     }
