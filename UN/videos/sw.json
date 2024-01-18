@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanazuoni wasaka majawabu ya changamoto ndani ya Afrika",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Car7hgvPrqg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Car7hgvPrqg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "FAO yawasihi wanasiasa S.Kusini kuweka maslahi ya taifa mbele kupunguza kutegemea msaada wa chakula",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hPu-VpC-6yk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN hugharimu kiasi gani?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2UD9oXOG88o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2UD9oXOG88o"
         }
       }
     }
