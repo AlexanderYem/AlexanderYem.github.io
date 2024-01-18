@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kusaka majawabu ya changamoto ndani ya Afrika, wanazuoni wakutana Umoja wa Mataifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLUOCcmBJiE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mLUOCcmBJiE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanazuoni wasaka majawabu ya changamoto ndani ya Afrika",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yyJ5xEQJzLw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza! Siku ya 93!!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hPu-VpC-6yk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hPu-VpC-6yk"
         }
       }
     }
