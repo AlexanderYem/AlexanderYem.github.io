@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Combien coûte les Nations Unies ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjA4VfIYgEQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pjA4VfIYgEQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Combien coûtent les Nations Unies ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jskRHh4wiUw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Depuis l'Antarctique, le Secrétaire général de l'ONU lance un message à la COP28",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nR0qWMrACSU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nR0qWMrACSU"
         }
       }
     }
