@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "2024 pode marcar novo recorde de temperatura",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zisakACWSEo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zisakACWSEo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Extremos no Brasil estão no radar de cientistas do clima",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cZo0oIuijDg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Roda de conversa celebra 75 anos da Declaração Universal dos Direitos Humanos no Rio de Janeiro",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-a6yb_O4Bhw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-a6yb_O4Bhw"
         }
       }
     }
