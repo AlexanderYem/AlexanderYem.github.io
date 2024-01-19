@@ -15,19 +15,6 @@
     },
     {
       "snippet": {
-        "title": "Combien coûtent les Nations Unies ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qnGX5bsmpcE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qnGX5bsmpcE"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Fuir pour vivre : Pourquoi quitter la maison ?",
         "thumbnails": {
           "high": {
@@ -127,6 +114,19 @@
         },
         "resourceId": {
           "videoId": "jskRHh4wiUw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Depuis l'Antarctique, le Secrétaire général de l'ONU lance un message à la COP28",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nR0qWMrACSU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nR0qWMrACSU"
         }
       }
     }
