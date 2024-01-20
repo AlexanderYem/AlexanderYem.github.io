@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "GAZA: Ifikie kiwango gani ndio tuseme imetosha?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sNTCLBfhryE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sNTCLBfhryE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "EmpowerU Cash+ yabadilisha maisha katika Wilaya ya Lamwo nchini Uganda",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_fAAKP2j-do"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Redio na vita dhidi ya habari potofu na za uongo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BZl5YJsKOBg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BZl5YJsKOBg"
         }
       }
     }

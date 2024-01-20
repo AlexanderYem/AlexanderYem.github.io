@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الممرضة أجرت عمليات قيصرية لـ6 نساء متوفيات في غزة: اليونيسف",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lkcVEtx65_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lkcVEtx65_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ما الذي رآه المسؤول بمنظمة الصحة العالمية في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jOHvC3cYZsw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "انتخاب المغرب رئيسا لمجلس حقوق الإنسان لعام 2024",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uXSzmN0OCXY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uXSzmN0OCXY"
         }
       }
     }
