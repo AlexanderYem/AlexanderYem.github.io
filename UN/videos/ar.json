@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الاعتراف بحق الفلسطينيين في إقامة دولتهم: أمين عام الأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wXaYtoSiKrg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wXaYtoSiKrg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الممرضة أجرت عمليات قيصرية لـ6 نساء متوفيات في غزة: اليونيسف",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SEQYDHkZ-LY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الجزائر تمتنع عن التصويت: لا يمكن أن نرتبط بنص يتجاهل مصرع 23 ألف شخص في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jOHvC3cYZsw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jOHvC3cYZsw"
         }
       }
     }
