@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "GAZA: Kinachoendelea kikome sasa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rZPBBJLVxVc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rZPBBJLVxVc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "GAZA: Ifikie kiwango gani ndio tuseme imetosha?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j05qq4SJcZ0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Je waijua ICJ? Jipambanue....",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_fAAKP2j-do/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_fAAKP2j-do"
         }
       }
     }
