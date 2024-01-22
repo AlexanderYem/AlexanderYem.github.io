@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza: Líder da ONU defende solução de dois Estados",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/43PKm4wdfbI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "43PKm4wdfbI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "2024 pode marcar novo recorde de temperatura",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "euhUGBetxJ8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "“Não voltaremos ao clima do Século 20”, diz diretor da OMM",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cZo0oIuijDg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cZo0oIuijDg"
         }
       }
     }
