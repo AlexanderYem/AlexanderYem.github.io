@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"الرفض الإسرائيلي لحل الدولتين غير مقبول\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnB5ziomSUA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XnB5ziomSUA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ارحموا السودان: خبير أممي",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-60kbtXbI70"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "سكان غزة يواجهون مستويات صادمة من الجوع والمرض",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xHKSZkP0NDA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xHKSZkP0NDA"
         }
       }
     }
