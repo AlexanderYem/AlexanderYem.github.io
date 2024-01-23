@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "Israel/Palestine Crisis - Security Council, 9534th Meeting | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GlFXrpXNoFU/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GlFXrpXNoFU"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "UN Secretary-General remarks on Israel/Palestine Crisis - Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -75,6 +62,19 @@
         },
         "resourceId": {
           "videoId": "zmVAGiWt4rw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Israel/Palestine Crisis - Security Council, 9534th Meeting | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GlFXrpXNoFU/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GlFXrpXNoFU"
         }
       }
     },
