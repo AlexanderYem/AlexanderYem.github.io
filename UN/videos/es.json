@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Energía Limpia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MF0NcU0Qgjg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MF0NcU0Qgjg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mensaje del Secretario General con motivo del nuevo año 2024",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qrCRkNQa-5Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial de la Asistencia Humanitaria",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5zTzQ_Ac_48/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5zTzQ_Ac_48"
         }
       }
     }
