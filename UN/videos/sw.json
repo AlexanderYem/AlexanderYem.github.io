@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kuelekea Siku ya kimataifa ya elimu, wakimbizi na jamii Kyangwali wazungumza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LTha3yyi1zs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LTha3yyi1zs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "GAZA: Kinachoendelea kikome sasa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "768Z1PkE4fg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Maendeleo ya Akili Mnemba au Artificial Inteligence ni baraka au laana katika ufundishaji lugha?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j05qq4SJcZ0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j05qq4SJcZ0"
         }
       }
     }
