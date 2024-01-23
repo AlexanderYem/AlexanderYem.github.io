@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wakimbizi na jamii Kyangwali waeleza uhusiano wa elimu na amani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSZ3NCNDHsE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tSZ3NCNDHsE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kuelekea Siku ya kimataifa ya elimu, wakimbizi na jamii Kyangwali wazungumza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "d6YX6Cnrg0s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wadau wa kiswahili washauriwa kutumia ChatGPT",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/768Z1PkE4fg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "768Z1PkE4fg"
         }
       }
     }
