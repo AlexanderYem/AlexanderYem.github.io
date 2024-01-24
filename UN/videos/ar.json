@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"حركة نزوح ضخمة إلى رفح وعدد كبير من الخيام على الشريط الحدودي\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vauEMy0ewk0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vauEMy0ewk0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"السلام لن يتحقق إلا عبر مسار إقامة الدولة الفلسطينية المستقلة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TJvoDo4D78s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"لا يمكن أن يعتمد قطاع غزة على معبر رفح فقط، يتعين فتح المعابر الأخرى",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D-SaAnt-h9w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D-SaAnt-h9w"
         }
       }
     }
