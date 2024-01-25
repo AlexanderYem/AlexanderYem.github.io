@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "التجارة عبر البحر الأحمر وقناة السويس",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hTPiefu_K68/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hTPiefu_K68"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"حركة نزوح ضخمة إلى رفح وعدد كبير من الخيام على الشريط الحدودي\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zvG22AIVXFU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأمم المتحدة تدعو للوقف الإنساني الفوري لإطلاق النار في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TJvoDo4D78s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TJvoDo4D78s"
         }
       }
     }
