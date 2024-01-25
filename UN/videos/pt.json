@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU celebra primeiro Dia Internacional da Energia Limpa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sP_OmUtgV3k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sP_OmUtgV3k"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Sudão passa pela maior crise de deslocamento infantil do mundo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uz7cs4zSENw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uz7cs4zSENw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: Líder da ONU defende solução de dois Estados",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "pgHpaSkyn60"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Quanto custa manter as Nações Unidas?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ywzFZ3Qpvkw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ywzFZ3Qpvkw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mensagem de Fim do Ano da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/euhUGBetxJ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "euhUGBetxJ8"
         }
       }
     }
