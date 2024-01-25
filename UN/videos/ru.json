@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Международный день чистой энергии",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lzFE71eoic/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0lzFE71eoic"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Во что обходится ООН?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vOE-6SE1mSE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Конференция по климату КС-28",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VP-L8dsXQeM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VP-L8dsXQeM"
         }
       }
     }
