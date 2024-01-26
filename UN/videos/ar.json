@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "محكمة العدل الدولية وإسرائيل",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qPeg6_MuK6U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qPeg6_MuK6U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "محكمة العدل الدولية تطالب إسرائيل بإجراءات وفق اتفاقية منع الإبادة الجماعية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lkcVEtx65_o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما الذي رآه المسؤول بمنظمة الصحة العالمية في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/g9tdkMfeW_k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "g9tdkMfeW_k"
         }
       }
     }

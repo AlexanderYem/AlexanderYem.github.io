@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Utu Gaza; Nani kakubali na nani kapinga?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bwB2CfHIQ0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6bwB2CfHIQ0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wajawazito wabebwa kwa machela Gaza Kaskazini",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "mLUOCcmBJiE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanazuoni wasaka majawabu ya changamoto ndani ya Afrika",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Car7hgvPrqg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Car7hgvPrqg"
         }
       }
     }
