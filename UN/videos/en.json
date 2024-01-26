@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "IAEA on nuclear safety: Zaporizhzhia power plant - Security Council Media Stakeout (25 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LjyZCeCAusU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LjyZCeCAusU"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Madagascar: Small scale, reliable & renewable: Clean electricity is changing lives | United Nations",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "K4_-mRWIsJ4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "IAEA on nuclear safety: Zaporizhzhia power plant - Security Council Media Stakeout (25 January 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjyZCeCAusU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LjyZCeCAusU"
         }
       }
     },
