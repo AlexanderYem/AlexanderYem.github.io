@@ -2,10 +2,36 @@
   "items": [
     {
       "snippet": {
+        "title": "Holocaust Memorial: \"Let us never be silent in the face of discrimination\" | United Nations Chief",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIWJBXtDzq8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zIWJBXtDzq8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza: Order in the case South Africa v. Israel | International Court of Justice (ICJ)  - full",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1niAwMbBC6g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1niAwMbBC6g"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Holocaust Memorial Ceremony 2024",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/txrBGzhyYE4/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/txrBGzhyYE4/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "p6ibmz-pYDM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine & other topics - Russian Foreign Minister Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OPoYPb21kAw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OPoYPb21kAw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Counter-Terrorism, Gaza, Yemen & other topics - Daily Press Briefing (24 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5NCW4y59Jtc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5NCW4y59Jtc"
         }
       }
     }
