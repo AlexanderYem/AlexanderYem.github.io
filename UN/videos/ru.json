@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Послание Генерального секретаря ООН по случаю Международного дня памяти жертв Холокоста",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u603GajBuzs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u603GajBuzs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Международный день чистой энергии",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_CVp3RQ4Agc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Борьба со СПИДом в Казахстане",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vOE-6SE1mSE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vOE-6SE1mSE"
         }
       }
     }
