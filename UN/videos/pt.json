@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU alerta sobre a propagação do ódio no Dia Internacional do Holocausto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqKkTUCyUEU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wqKkTUCyUEU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU celebra primeiro Dia Internacional da Energia Limpa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5UrethjYQRo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Acnur diz que Brasil pode ser “campeão global” no acolhimento de refugiados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pgHpaSkyn60/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pgHpaSkyn60"
         }
       }
     }
