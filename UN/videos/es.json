@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de Conmemoración en Memoria de las Víctimas del Holocausto.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dumwUR3b6b0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dumwUR3b6b0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de la Energía Limpia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yyVq4GqQsvU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Internacional de la Paz 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qrCRkNQa-5Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qrCRkNQa-5Y"
         }
       }
     }
