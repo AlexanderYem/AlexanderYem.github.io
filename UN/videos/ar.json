@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "داخل إحدى مدارس في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XC1rrmgMwFg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XC1rrmgMwFg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "محكمة العدل الدولية وإسرائيل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wXaYtoSiKrg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الممرضة أجرت عمليات قيصرية لـ6 نساء متوفيات في غزة: اليونيسف",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lkcVEtx65_o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lkcVEtx65_o"
         }
       }
     }
