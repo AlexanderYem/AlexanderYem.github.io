@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tuache chuki, tupendane",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwNKlC8WDxg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gwNKlC8WDxg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Utu Gaza; Nani kakubali na nani kapinga?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "NDal6BbVIfM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kusaka majawabu ya changamoto ndani ya Afrika, wanazuoni wakutana Umoja wa Mataifa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mLUOCcmBJiE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mLUOCcmBJiE"
         }
       }
     }
