@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Il faut accélérer l'aide humanitaire à Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FofvVHFr9GQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FofvVHFr9GQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'ONU appelle à continuer de soutenir l'UNRWA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "8QyAazQG7Lk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Julienne Lusenge, lauréate du Prix des droits de l'homme de l'ONU 2023",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/C9aUA-If7go/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "C9aUA-If7go"
         }
       }
     }
