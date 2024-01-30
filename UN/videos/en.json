@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief message on Paternity & Child Support to Children Born Out of Sexual Exploitation & Abuse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ExRKPUgjBgU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ExRKPUgjBgU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNRWA: 5 Facts about the United Nations Relief and Works Agency for Palestine Refugees",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CH5pg3lMZkw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Holocaust Memorial: \"Let us never be silent in the face of discrimination\" | United Nations Chief",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zIWJBXtDzq8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zIWJBXtDzq8"
         }
       }
     }
