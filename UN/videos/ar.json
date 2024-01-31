@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأونروا تدعم فعالية ترفيهية في رفح لتخفيف معاناة الأطفال",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hreLVc0ARM4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hreLVc0ARM4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "داخل إحدى مدارس غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JBFp8LS_Dso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الاعتراف بحق الفلسطينيين في إقامة دولتهم: أمين عام الأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wXaYtoSiKrg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wXaYtoSiKrg"
         }
       }
     }
