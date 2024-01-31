@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "No Education for Gaza Children | United Nations News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/T_sqM9OTYrs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "T_sqM9OTYrs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Myanmar, Palestine & other topics - Daily Press Briefing (31 January 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hfPf3DbBUJM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council President (France) on Palestine- Security Council Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FfLfG0r4DB4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FfLfG0r4DB4"
         }
       }
     }
