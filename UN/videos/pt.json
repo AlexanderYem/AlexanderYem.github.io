@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Travessias de Darien batem recorde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ojFSl_B-6oo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ojFSl_B-6oo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU alerta sobre a propagação do ódio no Dia Internacional do Holocausto",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DrxbBkkqPcY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Caso Africa do Sul Vs Israel na Corte Internacional de Justiça",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5UrethjYQRo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5UrethjYQRo"
         }
       }
     }

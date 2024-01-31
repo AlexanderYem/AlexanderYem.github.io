@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comment le Darfour est devenu une calamité humanitaire et une crise des droits humains",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHrnxQx83uI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VHrnxQx83uI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Il faut accélérer l'aide humanitaire à Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VgLmHERwmgc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "« Les algues peuvent remplacer les plastiques »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8QyAazQG7Lk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8QyAazQG7Lk"
         }
       }
     }
