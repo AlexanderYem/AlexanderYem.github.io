@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali : l'ONU scandalisée par des allégations d'exécutions sommaires",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8UCB-aKNK0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t8UCB-aKNK0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comment le Darfour est devenu une calamité humanitaire et une crise des droits humains",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9t4_OGbcjCU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Que s'est-il passé à la COP28 ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VgLmHERwmgc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VgLmHERwmgc"
         }
       }
     }
