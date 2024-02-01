@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ООН: на восстановление экономики Газы могут уйти десятилетия",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xU0iqi4jixM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xU0iqi4jixM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Послание Генерального секретаря ООН по случаю Международного дня памяти жертв Холокоста",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KjNe2V19MNM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Генсек ООН Антониу Гутерриш на КС-28",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_CVp3RQ4Agc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_CVp3RQ4Agc"
         }
       }
     }
