@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mali: UN Human Rights chief appalled by alleged summary executions | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BL2-l3zVJyg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BL2-l3zVJyg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Myanmar, Gaza & other topics - Daily Press Briefing (1 February 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vT3tSJyKMN8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretary-General, Gaza & other topics - Daily Press Briefing (30 January 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZGgdU8VMfno/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZGgdU8VMfno"
         }
       }
     }
