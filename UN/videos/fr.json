@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Des dizaines de milliards de dollars seront nécessaires pour reconstruire Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ciTgwPzqvo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7ciTgwPzqvo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Mali : l'ONU scandalisée par des allégations d'exécutions sommaires",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FQAuCOc_n-k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malgré les 55 conflits avec des violations graves des droits humains, Volker Türk garde espoir",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9t4_OGbcjCU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9t4_OGbcjCU"
         }
       }
     }
