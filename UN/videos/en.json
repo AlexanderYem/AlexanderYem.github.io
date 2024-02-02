@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "United States on Israel/Palestine Crisis - Security Council Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3CJcAEVRmk4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3CJcAEVRmk4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Ukraine & other topics - Daily Press Briefing (2 February 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wS9gyfiKVIE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Misery & suffering in Gaza getting worse daily: UN relief chief | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Odni5V3KNK4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Odni5V3KNK4"
         }
       }
     }
