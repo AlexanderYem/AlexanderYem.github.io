@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"17 ألف طفل في غزة منفصلين عن ذويهم\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxnN2lQROl4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pxnN2lQROl4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"نخشى مما سيأتي لاحقا (في غزة)\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "PLR3V-qerJg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محكمة العدل الدولية تطالب إسرائيل بإجراءات وفق اتفاقية منع الإبادة الجماعية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZAf2KPLAaDk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZAf2KPLAaDk"
         }
       }
     }
