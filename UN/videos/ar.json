@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الآلاف يتوجهون إلى رفح",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_QkLaHDLhE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "J_QkLaHDLhE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"17 ألف طفل في غزة منفصلين عن ذويهم\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "qPeg6_MuK6U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محكمة العدل الدولية تطالب إسرائيل بإجراءات وفق اتفاقية منع الإبادة الجماعية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PLR3V-qerJg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PLR3V-qerJg"
         }
       }
     }
