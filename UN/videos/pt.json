@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Brasil assume presidência de Comissão de Paz priorizando igualdade e inclusão",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvzhyvARIS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UvzhyvARIS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Travessias de Darien batem recorde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "97-Fax4wwcw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mais de 700 refugiados afegãos conseguiram trabalho formal no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DrxbBkkqPcY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DrxbBkkqPcY"
         }
       }
     }
