@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "يوميات طبيب في غزة.. تضميد الجراح وتخفيف المعاناة في خضم تحديات جسيمة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUGexLeIaEM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HUGexLeIaEM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الآلاف يتوجهون إلى رفح",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XC1rrmgMwFg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "محكمة العدل الدولية وإسرائيل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qPeg6_MuK6U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qPeg6_MuK6U"
         }
       }
     }
