@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Soutenir Haïti ravagée par la violence des gangs",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTYq1XJIyFQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lTYq1XJIyFQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'ONU nomme un groupe d'examen indépendant pour évaluer l'UNRWA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h5DZd-43fHc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Retour sur une décennie de maintien de la paix de l'ONU au Mali",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_0wIFKT1PdE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_0wIFKT1PdE"
         }
       }
     }
