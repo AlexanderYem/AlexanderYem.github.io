@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-MnVHdSqtHM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-MnVHdSqtHM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Brasil assume presidência de Comissão de Paz priorizando igualdade e inclusão",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "z_Aqd9dwm6s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guiné-Bissau precisa de “cultura de tolerância política”, afirma enviado da ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/97-Fax4wwcw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "97-Fax4wwcw"
         }
       }
     }
