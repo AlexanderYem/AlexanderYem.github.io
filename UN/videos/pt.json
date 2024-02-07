@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Oportunidades de trabalho em Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sBUJy1OoTc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6sBUJy1OoTc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lo1tf8_N2_Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sigrid Kaag fala sobre esforços para melhorar assistência em Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z_Aqd9dwm6s/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z_Aqd9dwm6s"
         }
       }
     }
