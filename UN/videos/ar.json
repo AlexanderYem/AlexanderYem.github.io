@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "200 مليون امرأة خضعت لانتهاك \"للختان\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jatybak8eHo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jatybak8eHo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "يوميات طبيب في غزة.. تضميد الجراح وتخفيف المعاناة في خضم تحديات جسيمة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rBqog2Svuks"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "داخل إحدى مدارس غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XC1rrmgMwFg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XC1rrmgMwFg"
         }
       }
     }
