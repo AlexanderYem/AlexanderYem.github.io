@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Famílias sudanesas deslocadas pedem apoio da comunidade internacional",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZ2LCnzchHI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "LZ2LCnzchHI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Oportunidades de trabalho em Portugal",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zisakACWSEo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Extremos no Brasil estão no radar de cientistas do clima",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lo1tf8_N2_Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lo1tf8_N2_Y"
         }
       }
     }
