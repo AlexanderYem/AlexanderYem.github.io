@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Em português, líder da ONU explica porque a Unrwa é insubstituível em Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9b8Zdi1AZFI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9b8Zdi1AZFI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Famílias sudanesas deslocadas pedem apoio da comunidade internacional",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "43PKm4wdfbI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "2024 pode marcar novo recorde de temperatura",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zisakACWSEo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zisakACWSEo"
         }
       }
     }

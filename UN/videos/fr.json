@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Priorités 2024 : António Guterres appelle à un contrat social renouvelé",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_oi_8JG43CQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_oi_8JG43CQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Soutenir Haïti ravagé par la violence des gangs",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pjA4VfIYgEQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fuir pour vivre : Pourquoi quitter la maison ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h5DZd-43fHc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h5DZd-43fHc"
         }
       }
     }
