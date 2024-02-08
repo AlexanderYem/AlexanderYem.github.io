@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غزة: محطة تحلية المياه هذه تعمل بـ15% فقط من طاقتها",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tJ3kUOuKrkU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tJ3kUOuKrkU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"أي إجراء عسكري في رفح سيفاقم الكابوس الإنساني في غزة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tlq4tHEK5v8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "السفير الفلسطيني يغالب دموعه متحدثا عن غزة أمام لجنة أممية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WoiYHRBYJpE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WoiYHRBYJpE"
         }
       }
     }
