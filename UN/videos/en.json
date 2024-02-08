@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief on his priorities for 2024 | Press Conference | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H022zmduX6c/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H022zmduX6c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan: UNHCR chief Calls for Ceasefire | United Nations",
         "thumbnails": {
           "high": {
@@ -75,19 +88,6 @@
         },
         "resourceId": {
           "videoId": "5RwAk3xx13k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on his priorities for 2024 | Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H022zmduX6c/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H022zmduX6c"
         }
       }
     },
