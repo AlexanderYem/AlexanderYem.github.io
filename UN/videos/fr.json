@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le chef de l’ONU préoccupé par la situation au Sénégal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Q2Ev8NJlHQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0Q2Ev8NJlHQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Priorités 2024 : António Guterres appelle à un contrat social renouvelé",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Zta4B-s6-tw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Combien coûtent les Nations Unies ?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pjA4VfIYgEQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pjA4VfIYgEQ"
         }
       }
     }
