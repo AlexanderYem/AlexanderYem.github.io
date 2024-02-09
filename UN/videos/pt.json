@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Alta de casos de dengue no Brasil",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4wngVpA7sU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K4wngVpA7sU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em português, líder da ONU explica porque a Unrwa é insubstituível em Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uz7cs4zSENw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza: Líder da ONU defende solução de dois Estados",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/43PKm4wdfbI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "43PKm4wdfbI"
         }
       }
     }

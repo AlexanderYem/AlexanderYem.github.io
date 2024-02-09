@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Фрагменты интервью Координатора ООН по гуманитарным вопросам в Украине Дениз Браун.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/REzIEtWRIWk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "REzIEtWRIWk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ООН: на восстановление экономики Газы могут уйти десятилетия",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HIdjJFDzfj4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "В Женеве отметили 75-летие со дня принятия Всеобщей декларации прав человека",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KjNe2V19MNM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KjNe2V19MNM"
         }
       }
     }
