@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Empowering African Fashion",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/amKoxcKSwf4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "amKoxcKSwf4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Senegal, Occupied Palestinian Territories & other topics - Daily Press Briefing (9 February 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5RwAk3xx13k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Building Peace is Humanity's Greatest Responsibility | UN Secretary-General on 2024 Priorities",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L15vz1XEkbw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L15vz1XEkbw"
         }
       }
     }
