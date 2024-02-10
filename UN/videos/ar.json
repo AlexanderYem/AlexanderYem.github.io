@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "كثافة سكانية غير مسبوقة في رفح ومخاوف من عملية عسكرية محتملة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJeI_ota9cU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZJeI_ota9cU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "اليونيفيل في لبنان: جهود لتهدئة التوتر في ظل تبادل يومي لإطلاق النار",
         "thumbnails": {
           "high": {
@@ -28,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "300 يوم من الفظائع ضد أطفال السودان",
+        "title": "فظائع 300 يوم ضد أطفال السودان",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/XVpavJwwPh4/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HUGexLeIaEM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الآلاف يتوجهون إلى رفح",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/J_QkLaHDLhE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "J_QkLaHDLhE"
         }
       }
     }
