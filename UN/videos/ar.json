@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "اليونيفيل في لبنان: جهود لتهدئة التوتر في ظل تبادل يومي لإطلاق النار",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Md0PeN_2q4c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Md0PeN_2q4c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غزة: استخدام الأعلاف من أجل البقاء والمجاعة تدق الأبواب",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "J_QkLaHDLhE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"17 ألف طفل في غزة منفصلين عن ذويهم\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pxnN2lQROl4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pxnN2lQROl4"
         }
       }
     }
