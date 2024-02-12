@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council President (Guyana) on the Democratic Republic of the Congo - Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z06fLD0GbjQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z06fLD0GbjQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "5 Facts on the State of the World's Migratory Species | United Nations Explainer",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "luTx1aWsD4c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Diary of a doctor in Gaza Healing wounds & alleviating suffering in the midst of great challenges",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4C573Q50B5w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4C573Q50B5w"
         }
       }
     }
