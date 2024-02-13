@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تحذير من أثر احتمال تنفيذ عملية عسكرية واسعة في رفح",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6NDDIeLYJ18/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6NDDIeLYJ18"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أمر مرعب: احتمال التوغل العسكري الكامل في رفح",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "I_1I6W4rWmM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "200 مليون امرأة خضعت لانتهاك \"للختان\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jatybak8eHo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jatybak8eHo"
         }
       }
     }
