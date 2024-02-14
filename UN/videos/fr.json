@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Le retrait de la MINUSMA du Mali « aurait pu se transformer en une tragédie »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FWBQFOn3uNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FWBQFOn3uNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'ONU s'inquiète de la situation au Sénégal après le report de l'élection",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "VHrnxQx83uI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Il faut accélérer l'aide humanitaire à Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FofvVHFr9GQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FofvVHFr9GQ"
         }
       }
     }
