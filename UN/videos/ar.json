@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "نازحو غزة والأونروا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y1tv97OWfuM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y1tv97OWfuM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الجوع في الضفة الغربية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KkohZpO37cU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فظائع 300 يوم ضد أطفال السودان",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XVpavJwwPh4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XVpavJwwPh4"
         }
       }
     }
