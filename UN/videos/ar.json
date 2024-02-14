@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مقتل الصحفيين في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2My043FzpY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m2My043FzpY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "أهل غزة: 4 من كل 5 من الأكثر جوعا في العالم",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "5N-XEY-aw5U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "استخدام الأعلاف للبقاء على قيد الحياة في شمال غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qzbbariZD5g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qzbbariZD5g"
         }
       }
     }
