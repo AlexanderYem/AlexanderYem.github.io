@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'ONU s'inquiète de la situation au Sénégal après le report de l'élection",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTDGmc9p64w/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TTDGmc9p64w"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rendre la mode africaine plus forte",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FofvVHFr9GQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'ONU appelle à continuer de soutenir l'UNRWA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FFlZZBlcTQQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FFlZZBlcTQQ"
         }
       }
     }
