@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الجوع في الضفة الغربية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sb7eAkXW8bM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Sb7eAkXW8bM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مقتل الصحفيين في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XVpavJwwPh4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رسالتي إلى أهل غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5N-XEY-aw5U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5N-XEY-aw5U"
         }
       }
     }
