@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في رفح: أمان مفقود وكفاح من أجل البقاء",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7GkUx9a4VJs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7GkUx9a4VJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "نازحو غزة والأونروا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Md0PeN_2q4c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غزة: استخدام الأعلاف من أجل البقاء والمجاعة تدق الأبواب",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KkohZpO37cU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KkohZpO37cU"
         }
       }
     }
