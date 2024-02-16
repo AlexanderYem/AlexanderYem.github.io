@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (15 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jjyBupkFkG8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jjyBupkFkG8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "'A Global Order That Works for Everyone': UN Chief at the Munich Security Conference 2024",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xh8sU4T6lsc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Germany, Occupied Palestinian Territory & other topics - Daily Press Briefing (14 February 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k6PiMB505tA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k6PiMB505tA"
         }
       }
     }
