@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (16 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vkbUUyPolSY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vkbUUyPolSY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Russia, Occupied Palestinian Territories & other topics - Daily Press Briefing (16 February 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2WQQMe6l14/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s2WQQMe6l14"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (15 February 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "fJQ5h7xNZ2U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Panic and Fear in Rafah | United Nations News",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e0Vca50nhH0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e0Vca50nhH0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(EN/AR) Arab Group on the Israeli military escalation in Rafah (Gaza) | Media Stakeout",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xh8sU4T6lsc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xh8sU4T6lsc"
         }
       }
     }
