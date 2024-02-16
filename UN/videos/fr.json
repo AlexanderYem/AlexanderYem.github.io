@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "L'histoire du Salvadorien qui a aidé à sauver des milliers de vies pendant l'Holocauste",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4JHYH5cUU4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H4JHYH5cUU4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Le retrait de la MINUSMA du Mali « aurait pu se transformer en une tragédie »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6s0f_eywNss"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Comment le Darfour est devenu une calamité humanitaire et une crise des droits humains",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VHrnxQx83uI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VHrnxQx83uI"
         }
       }
     }

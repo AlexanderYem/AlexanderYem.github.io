@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Alexei Navalny's Death: UN Chief Requests Full Investigation | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdTs9YIhrAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JdTs9YIhrAA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (16 February 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gFisF2CNlLU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "How are UNICEF, WHO and other UN entities funded? | United Nations Finance",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fJQ5h7xNZ2U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fJQ5h7xNZ2U"
         }
       }
     }
