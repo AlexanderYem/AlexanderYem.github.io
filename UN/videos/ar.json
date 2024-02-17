@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "مستوى موت ودمار صادم في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1YJA9wnyNA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "k1YJA9wnyNA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "في رفح: أمان مفقود وكفاح من أجل البقاء",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZJeI_ota9cU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "اليونيفيل في لبنان: جهود لتهدئة التوتر في ظل تبادل يومي لإطلاق النار",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Md0PeN_2q4c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Md0PeN_2q4c"
         }
       }
     }
