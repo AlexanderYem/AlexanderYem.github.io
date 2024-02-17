@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الناس في غزة يعتمدون على مساعدات الأونروا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kZ4Cm4IE9o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7kZ4Cm4IE9o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مستوى موت ودمار صادم في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "V9LUFBwPJ2g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كثافة سكانية غير مسبوقة في رفح ومخاوف من عملية عسكرية محتملة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZJeI_ota9cU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZJeI_ota9cU"
         }
       }
     }
