@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (19 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgEqZDBc7LY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hgEqZDBc7LY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Coordinator Warns: Israeli Operation in Rafah at This Time Would Be Disastrous | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3hJIveTAEY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "X3hJIveTAEY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza, Sigrid Kaag, Ukraine & other topics - Daily Press Briefing (19 February 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/P6NTZxE9yLc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "P6NTZxE9yLc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief Calls for Peace in Afghanistan After Special Envoys Meeting | United Nations",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "tQi9SgvSh7Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Alexei Navalny's Death: UN Chief Requests Full Investigation | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JdTs9YIhrAA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JdTs9YIhrAA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (16 February 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vkbUUyPolSY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vkbUUyPolSY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia, Occupied Palestinian Territories & other topics - Daily Press Briefing (16 February 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/s2WQQMe6l14/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "s2WQQMe6l14"
         }
       }
     }
