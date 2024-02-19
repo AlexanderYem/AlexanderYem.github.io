@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Maelfu ya watu wakimbia ghasia mashariki mwa Jamhuri ya Kidemokrasia ya Congo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XecmA5ZVs2Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XecmA5ZVs2Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dkt. Tulia Ackson akizungumzia mkutano wa Umoja wa Mabunge na Umoja wa Mataifa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zDbqn9YDqXA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "SUDAN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cMkGNiWnaLE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cMkGNiWnaLE"
         }
       }
     }
