@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ICJ Advisory Proceedings: State of Palestine Public Hearing | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpkF9Zjhj7s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tpkF9Zjhj7s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (19 February 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Q6G8elDIQyY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief Calls for Inclusive & Transparent Presidential Election in Senegal | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tQi9SgvSh7Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tQi9SgvSh7Y"
         }
       }
     }
