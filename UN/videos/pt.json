@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Projeto da ONU em Cabo Verde impulsiona agricultura local",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ub7lQlVZBws/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ub7lQlVZBws"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "EUA vetam proposta de cessar-fogo em #Gaza no Conselho de Segurança da #ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ojFSl_B-6oo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU alerta sobre a propagação do ódio no Dia Internacional do Holocausto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wqKkTUCyUEU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wqKkTUCyUEU"
         }
       }
     }
