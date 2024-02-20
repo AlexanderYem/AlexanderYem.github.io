@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (20 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWqsg94iU3g/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OWqsg94iU3g"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "United States on the Middle East & Palestine - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/m27NBwMzk2M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "m27NBwMzk2M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Security Council Votes on Gaza Cease-Fire | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "P6NTZxE9yLc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief Calls for Peace in Afghanistan After Special Envoys Meeting | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LMO0A_0fjg4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LMO0A_0fjg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "'The War Should Never Have Started' - UN Resident Coordinator on Ukraine | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FEP755gAYDM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FEP755gAYDM"
         }
       }
     }
