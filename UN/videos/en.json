@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Security Council Votes on Gaza Cease-Fire | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tGZ92XOa65U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tGZ92XOa65U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Somalia's Progress: Security Gains, Debt Relief & Challenges  | UN Security Council | UNSOM",
         "thumbnails": {
           "high": {
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "ICJ Advisory Proceedings: State of Palestine Public Hearing | United Nations",
+        "title": "Palestine Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/tpkF9Zjhj7s/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FEP755gAYDM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia on Ukraine, Navalny, Afghanistan & Gaza - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/yOYSh7HOc-Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "yOYSh7HOc-Q"
         }
       }
     }
