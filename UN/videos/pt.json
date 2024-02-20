@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "EUA vetam proposta de cessar-fogo em #Gaza no Conselho de Segurança da #ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_xfauAfZVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1_xfauAfZVo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Prefeitura do Recife recebe premiação da ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "wqKkTUCyUEU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU celebra primeiro Dia Internacional da Energia Limpa",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sP_OmUtgV3k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sP_OmUtgV3k"
         }
       }
     }
