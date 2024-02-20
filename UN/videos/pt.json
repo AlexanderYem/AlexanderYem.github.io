@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Unicef destaca desafios para inclusão de crianças migrantes nas escolas brasileiras",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtqP65ZS4gw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rtqP65ZS4gw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Projeto da ONU em Cabo Verde impulsiona agricultura local",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "UvzhyvARIS8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Travessias de Darien batem recorde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ojFSl_B-6oo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ojFSl_B-6oo"
         }
       }
     }
