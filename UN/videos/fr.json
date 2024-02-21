@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "En RDC, les combats dans le Nord-Kivu aggravent une situation humanitaire déjà désastreuse",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4HTCFT5avY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q4HTCFT5avY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "L'histoire du Salvadorien qui a aidé à sauver des milliers de vies pendant l'Holocauste",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7ciTgwPzqvo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Mali : l'ONU scandalisée par des allégations d'exécutions sommaires",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6s0f_eywNss/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6s0f_eywNss"
         }
       }
     }
