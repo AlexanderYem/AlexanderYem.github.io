@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jovens pedem voz permanente em decisões globais sobre o meio ambiente",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pQ_VsFHjRYY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pQ_VsFHjRYY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Unicef destaca desafios para inclusão de crianças migrantes nas escolas brasileiras",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "m0iLtcKQiKQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Brasil assume presidência de Comissão de Paz priorizando igualdade e inclusão",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UvzhyvARIS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UvzhyvARIS8"
         }
       }
     }
