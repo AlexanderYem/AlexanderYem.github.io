@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Second Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1B7DNmpqBU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "e1B7DNmpqBU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sudan, The Sahel, Papua New Guinea & other topics - Daily Press Briefing (20 February 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hgEqZDBc7LY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Coordinator Warns: Israeli Operation in Rafah at This Time Would Be Disastrous | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/X3hJIveTAEY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "X3hJIveTAEY"
         }
       }
     }
