@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "The Arab Group on the Israel/Palestine Crisis | UN Security Council",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PUpiI3n4Evg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PUpiI3n4Evg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza, Ukraine & other topics - Daily Press Briefing (21 February 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tGZ92XOa65U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Somalia's Progress: Security Gains, Debt Relief & Challenges  | UN Security Council | UNSOM",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M_jC9sa6vTw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M_jC9sa6vTw"
         }
       }
     }
