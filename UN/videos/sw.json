@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wanawake na wasichana wa Gaza wanafanyaje wakiwa kwenye hedhi kila mwezi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYJgPX48edc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YYJgPX48edc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Faru 21 wahamishiwa hifadhi ya Loisaba, Laikipia - Kenya",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fIihszDDhX0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "FAO yawashika mkono wasichana Afrika kuingia katika sayansi ya kilimo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NjitWF5UOyc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NjitWF5UOyc"
         }
       }
     }

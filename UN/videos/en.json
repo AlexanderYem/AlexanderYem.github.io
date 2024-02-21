@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Ukraine & other topics - Daily Press Briefing (21 February 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/1UW8ibg0CnE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "1UW8ibg0CnE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Demining Ukraine: Unveiling the Dangers of Explosives | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vpYiO_5bQrU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vpYiO_5bQrU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "MINUSCA Seeks Urgent Support Against Explosives in Central African Republic | UN Security Council",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "M_jC9sa6vTw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief Addresses Afghanistan's Challenges: Doha Press Conference | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6o3yWNOI5l4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6o3yWNOI5l4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Evacuates Nasser Hospital Patients | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x_nOZyNVkrA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x_nOZyNVkrA"
         }
       }
     }
