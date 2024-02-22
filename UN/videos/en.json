@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Fourth Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RWSH-uS-_o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "4RWSH-uS-_o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Third Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DgCF-S6G7QM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Second Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/e1B7DNmpqBU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "e1B7DNmpqBU"
         }
       }
     }
