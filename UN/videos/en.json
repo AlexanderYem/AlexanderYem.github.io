@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Security Council Members Visit Colombia | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IrwZhF9XkOk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IrwZhF9XkOk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Palestine on the situation in Gaza - Media Stakeout | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ouvsrsG54FY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Bringing order to the AI ‘Wild West’ | The Lid Is On Series | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h0lKVtFOj1c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h0lKVtFOj1c"
         }
       }
     }

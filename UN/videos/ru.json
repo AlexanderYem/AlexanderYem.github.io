@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Буча и Ирпень спустя два года после начала войны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0Yd220SAVM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "w0Yd220SAVM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Проект ПРООН по разминированию в Украине",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "r7A9AEvfmhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Главный правозащитник ООН - об Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/n50ngdcrf8k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "n50ngdcrf8k"
         }
       }
     }

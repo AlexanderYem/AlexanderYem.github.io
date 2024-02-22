@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"3 مرات استخدمت الولايات المتحدة الفيتو ضد وقف إطلاق النار\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rrn79LIZBzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Rrn79LIZBzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"الجزائر لن تتوقف إلى أن يفرض مجلس الأمن وقف إطلاق النار\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Sb7eAkXW8bM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مقتل صحفيين في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m2My043FzpY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m2My043FzpY"
         }
       }
     }
