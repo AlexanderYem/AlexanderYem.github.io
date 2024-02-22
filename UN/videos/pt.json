@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "“Essa guerra nunca deveria ter começado”, afirma funcionária da ONU sobre Ucrânia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ft-xEZAqHi0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ft-xEZAqHi0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jovens pedem voz permanente em decisões globais sobre o meio ambiente",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6sBUJy1OoTc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m0iLtcKQiKQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m0iLtcKQiKQ"
         }
       }
     }
