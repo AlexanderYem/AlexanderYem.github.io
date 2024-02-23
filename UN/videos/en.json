@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Sixth Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlOc_62IbBw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZlOc_62IbBw"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Ukraine's Foreign Affairs Minister Addresses the General Assembly | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ds8MmI4VLzc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ds8MmI4VLzc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine's Foreign Affairs Minister on Russia & Ukraine | General Assembly | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "yEv7OQopNRo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Doctors Without Borders on the Israel/Palestine Crisis - Media Stakeout | UN Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/k4JvprvzDgU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "k4JvprvzDgU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council President & Others on UN Personnel Safety in Gaza - Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p85DWDNTiHU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p85DWDNTiHU"
         }
       }
     }
