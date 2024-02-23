@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "23% das áreas agrícolas na Ucrânia podem estar minadas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_O9-q9C7wc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "d_O9-q9C7wc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Crise humanitária na Ucrânia afeta 40% da população",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9b8Zdi1AZFI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Famílias sudanesas deslocadas pedem apoio da comunidade internacional",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/LZ2LCnzchHI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "LZ2LCnzchHI"
         }
       }
     }
