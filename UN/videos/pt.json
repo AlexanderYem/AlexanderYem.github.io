@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Crise humanitária na Ucrânia afeta 40% da população",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ew2AD6bSvHw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ew2AD6bSvHw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "“Essa guerra nunca deveria ter começado”, afirma funcionária da ONU sobre Ucrânia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LZ2LCnzchHI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Oportunidades de trabalho em Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6sBUJy1OoTc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6sBUJy1OoTc"
         }
       }
     }
