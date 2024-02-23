@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Environment Assembly: Opening Plenary | UNEA-6 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GT-2KaR0XVs/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GT-2KaR0XVs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Israel/Palestine Crisis: UN Special Coordinator Calls for Humanitarian Ceasefire | Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "tVMHVuIlvjs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Fourth Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4RWSH-uS-_o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4RWSH-uS-_o"
         }
       }
     }
