@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "How can we clean up mining? | The Lid Is On Series | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t17iAKNhsrk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t17iAKNhsrk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ukraine: The Path to Peace | News Flash | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EtmYVjfRP_k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (23 February 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4T_iZ5c_C-k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4T_iZ5c_C-k"
         }
       }
     }
