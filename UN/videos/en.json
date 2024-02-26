@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief Addresses Opening of the 55th Human Rights Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ilmV0tInD94/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ilmV0tInD94"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Disarmament Conference: Address by UN Chief at High-Level Segment | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kuDzlSGqNi0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kuDzlSGqNi0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Environment Assembly: Opening Plenary | UNEA-6 | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "FhYBeQBf7Q4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Two Years Ago Today: Security Council Meeting on Ukraine | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UReytRyeayw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UReytRyeayw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine Conflict: UN Chief Advocates Peace, Charter Compliance | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nTw282rVe5c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nTw282rVe5c"
         }
       }
     }
