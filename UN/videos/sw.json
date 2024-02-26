@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Namna ngamia walivyobadili maisha ya wanajamii wa Samburu Kenya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/TMLShre5hiA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "TMLShre5hiA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wanawake ili tufanikiwe lazima tujitume: Dkt. Elizabeth Kimani",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ha3HYWmptf0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Redio bado ni chombo cha mawasiliano kilicho rafiki",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vGYloWKl1bY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vGYloWKl1bY"
         }
       }
     }
