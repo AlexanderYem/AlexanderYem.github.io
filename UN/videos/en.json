@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Seventh Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4XJFOIPL10/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "f4XJFOIPL10"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (26 February 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t17iAKNhsrk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: The Path to Peace | News Flash | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S7LCnvsdNrQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S7LCnvsdNrQ"
         }
       }
     }
