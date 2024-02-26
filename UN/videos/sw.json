@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Programu ya “Winsiga Ndumva” yaleta zawadi ya sauti kwa watoto viziwi Rwanda",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsuYnBlMy9M/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rsuYnBlMy9M"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Namna ngamia walivyobadili maisha ya wanajamii wa Samburu Kenya",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3KfrtyKDfXs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Umoja wa Mabunge Duniani, IPU na UN wajadili amani na usalama wa ulimwengu.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ha3HYWmptf0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ha3HYWmptf0"
         }
       }
     }
