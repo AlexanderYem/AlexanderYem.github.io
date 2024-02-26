@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تحذير من توسيع الحرب في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hz6wCdGeoM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "0hz6wCdGeoM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"ثلاث مرات استخدمت الولايات المتحدة الفيتو ضد وقف إطلاق النار\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y1tv97OWfuM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الجوع في الضفة الغربية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sb7eAkXW8bM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Sb7eAkXW8bM"
         }
       }
     }
