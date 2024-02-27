@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "#UNEA6: Tackling Climate Change, Biodiversity Loss & Pollution | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H7PZKrWtcvc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H7PZKrWtcvc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Launch of the Young Champions of the Earth and the new UN World Restoration Flagships (UNEA-6)",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/fLzmRpo2l9E/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/fLzmRpo2l9E/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yFRpTc7HCw4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Seventh Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f4XJFOIPL10/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f4XJFOIPL10"
         }
       }
     }
