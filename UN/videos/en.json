@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Human Rights Council Gets Underway | News Flash | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fW6rDjp1v7Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fW6rDjp1v7Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretary-General, Deputy Secretary-General, OPT & other topics - Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GT-2KaR0XVs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "What is Long COVID? : WHO's Science in 5 | World Health Organization | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/qr-Ayt1Ne24/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "qr-Ayt1Ne24"
         }
       }
     }
