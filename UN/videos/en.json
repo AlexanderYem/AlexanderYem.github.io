@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Security Council, Occupied Palestinian Territories & other topics | Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFgFNj_gB7U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BFgFNj_gB7U"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Earthquakes Humanitarian Impact in Syria: Further Action Needed | UN Security Council | OCHA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "egdmYwlZWJw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza Al Amal Hospital Update | News Flash | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rt2QPl1lm5o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rt2QPl1lm5o"
         }
       }
     }
