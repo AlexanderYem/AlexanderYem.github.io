@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Syria's Humanitarian Situation - OCHA Briefing | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/qSHgHzX7fRY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "qSHgHzX7fRY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: Daily Increase in Conflict-Induced Famine Risk - FAO | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fLzmRpo2l9E"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Eleventh Hearing: ICJ on Israeli Policies in Occupied Palestinian Territories | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NVFyNst6Fg8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NVFyNst6Fg8"
         }
       }
     }
