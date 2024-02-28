@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Appel à la solidarité avec Haïti",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XzQWIFk4dy0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XzQWIFk4dy0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "En RDC, les combats dans le Nord-Kivu aggravent une situation humanitaire déjà désastreuse",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IxL5bMQMFeY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Des dizaines de milliards de dollars seront nécessaires pour reconstruire Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7ciTgwPzqvo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7ciTgwPzqvo"
         }
       }
     }
