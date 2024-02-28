@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "High-Level Segment Opening and National Statements - Sixth Session of the UN Environment Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CZwFOE7Bdkk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "'Gaza is seeing the worst level of child malnutrition in the world': WFP | UN Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Fv1_PL5v64Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNEA6: Tackling Climate Change, Biodiversity Loss & Pollution | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/H7PZKrWtcvc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "H7PZKrWtcvc"
         }
       }
     }
