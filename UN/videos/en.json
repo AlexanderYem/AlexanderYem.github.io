@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Afghanistan: UN Human Rights Office Condemns Public Executions | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/puhUyQdfp0U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "puhUyQdfp0U"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (28 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/i9mr00nACEY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "i9mr00nACEY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Security Council briefed on Gaza hunger report | United Nations",
         "thumbnails": {
           "high": {
@@ -67,7 +93,7 @@
     },
     {
       "snippet": {
-        "title": "Syria's Humanitarian Situation - OCHA Briefing | Security Council | United Nations",
+        "title": "Humanitarian Aid in Syria: Overcoming Hostilities & Access Barriers | UN Security Council",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/qSHgHzX7fRY/hqdefault.jpg"
@@ -80,7 +106,7 @@
     },
     {
       "snippet": {
-        "title": "Gaza: Daily Increase in Conflict-Induced Famine Risk - FAO | Security Council | United Nations",
+        "title": "Conflict-Induced Famine Risk is Increasing by the Day in Gaza: FAO | UN Security Council",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/H1JctJcXEtU/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "j3HcqUOL2Y8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine on the Protection of Civilians in Armed Conflict | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MdKfV-45kSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MdKfV-45kSg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council, Occupied Palestinian Territories & other topics | Daily Press Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BFgFNj_gB7U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BFgFNj_gB7U"
         }
       }
     }
