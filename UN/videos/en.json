@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Security Council briefed on Gaza hunger report | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2EL8XvhgWA4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2EL8XvhgWA4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Artificial Intelligence (AI) for Humanity | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/GdCia9fjfSQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "GdCia9fjfSQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Northern Gaza Faces Agricultural Collapse: OCHA | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "BFgFNj_gB7U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Earthquakes Humanitarian Impact in Syria: Further Action Needed | UN Security Council | OCHA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2LF-dwqGnII/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2LF-dwqGnII"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN General Assembly President on Global Issues | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/tee2f2GGuwY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "tee2f2GGuwY"
         }
       }
     }
