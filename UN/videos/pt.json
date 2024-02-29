@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista exclusiva com a Ministra do Meio ambiente de Angola",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8yz4XH-bhs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u8yz4XH-bhs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Programa das Nações Unidas reafirma papel crucial na preservação dos oceanos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "x6SWwH_1UaI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Guterres pede que Unea-6 gere resultados históricos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dIpfSrDW8ws/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dIpfSrDW8ws"
         }
       }
     }
