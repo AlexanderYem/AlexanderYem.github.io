@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de Portugal na Unea-6: Duarte Cordeiro",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oD_t7velw8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-oD_t7velw8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso de Cabo Verde na Unea-6",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcA89J8qoKE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PcA89J8qoKE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Portugal anseia por “mensagem de esperança” na Unea-6",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3pbkMyvxBGI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3pbkMyvxBGI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Transformação Digital na Unea-6: Ferramentas tecnológicas na vanguarda do combate à crise ambiental",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "4PKPo26yeA4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Na ONU, Portugal defende “mundo onde fronteiras não se redefinem pela força”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6ZivYt12spk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6ZivYt12spk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Propostas do Brasil na Assembleia da ONU para o Meio Ambiente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eiUIWsjZjdA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eiUIWsjZjdA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Biólogo destaca importância da Assembleia das Nações Unidas para o Meio Ambiente, #UNEA6",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S5Wda3X6moI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S5Wda3X6moI"
         }
       }
     }

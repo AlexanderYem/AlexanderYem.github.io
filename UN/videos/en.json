@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate and Human Rights - President of the General Assembly at UNEA-6 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaD0Gb-TQ4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UaD0Gb-TQ4s"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Environment Assembly - Opening of High Level with National Statements | #UNEA-6 | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "i9mr00nACEY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Security Council briefed on Gaza hunger report | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2EL8XvhgWA4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2EL8XvhgWA4"
         }
       }
     }
