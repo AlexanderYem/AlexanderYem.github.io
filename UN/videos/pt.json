@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Entrevista Exclusiva com o ministro de Cabo Verde",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ds7AxCC627k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ds7AxCC627k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista exclusiva com a Ministra do Meio ambiente de Angola",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "stoIJHCffv8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Poluição causa 50 mil mortes por ano no Brasil",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/x6SWwH_1UaI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "x6SWwH_1UaI"
         }
       }
     }
