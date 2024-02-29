@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de Angola na Unea-6: Ministra Ana Paula Chantre Luna de Carvalho",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rE7CVT3fRqY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rE7CVT3fRqY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso de Portugal na Unea-6: Duarte Cordeiro",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "4xYEacysIow"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Geração de resíduos global deve chegar a 3,8 bilhões de toneladas por ano até 2050",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4PKPo26yeA4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4PKPo26yeA4"
         }
       }
     }
