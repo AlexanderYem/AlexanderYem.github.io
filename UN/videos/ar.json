@@ -1,134 +1,14 @@
 {
-  "items": [
-    {
-      "snippet": {
-        "title": "وصول القتلى في غزة إلى 30 ألفا وفق التقارير",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OM25YcwXr-g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OM25YcwXr-g"
-        }
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "errors": [
+      {
+        "message": "Internal error encountered.",
+        "domain": "global",
+        "reason": "backendError"
       }
-    },
-    {
-      "snippet": {
-        "title": "ريم السالم تنتقد ازدواجية المعايير تجاه الفلسطينيات",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/S8bKSX33Rw4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "S8bKSX33Rw4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الفقر والجوع يجبران سكان قطاع غزة على بيع وأكل النباتات البرية",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AtHwB6AOZMs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AtHwB6AOZMs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تحذير من توسيع الحرب في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0hz6wCdGeoM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0hz6wCdGeoM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"ثلاث مرات استخدمت الولايات المتحدة الفيتو ضد وقف إطلاق النار\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Rrn79LIZBzc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Rrn79LIZBzc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"سندفن شهداءنا في رفح وستعود الجزائر لمجلس الأمن لوقف إطلاق النار\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FxBgw5bch9w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FxBgw5bch9w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فيتو أمريكي ضد مشروع قرار جزائري حول غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IDLLA1Dmv4I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IDLLA1Dmv4I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فلنتحدث عن الاحتياجات الشهرية للمرأة في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dtG9AZy3KRQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dtG9AZy3KRQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"أين الأمان في رفح؟ إلي أين نذهب؟\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BphE6fueDX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BphE6fueDX4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الناس في غزة يعتمدون على مساعدات الأونروا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7kZ4Cm4IE9o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7kZ4Cm4IE9o"
-        }
-      }
-    }
-  ]
+    ],
+    "status": "INTERNAL"
+  }
 }
