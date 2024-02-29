@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'Haiti Needs Solidarity at This Crucial Moment' - UN Humanitarian Coordinator | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YctL4W7vXZ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YctL4W7vXZ4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti in Crisis: Response Plan | News Flash | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HiuUJKw1Ars"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Afghanistan: UN Human Rights Office Condemns Public Executions | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/puhUyQdfp0U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "puhUyQdfp0U"
         }
       }
     }

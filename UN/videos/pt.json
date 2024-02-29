@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Programa das Nações Unidas reafirma papel crucial na preservação dos oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bvzd71_s5T4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Bvzd71_s5T4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso de Angola na Unea-6: Ministra Ana Paula Chantre Luna de Carvalho",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Discurso de Portugal na Unea-6: Duarte Cordeiro",
+        "title": "Discurso de Portugal na Unea-6: Ministro Duarte Cordeiro",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/-oD_t7velw8/hqdefault.jpg"
@@ -28,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "Discurso de Cabo Verde na Unea-6",
+        "title": "Discurso de Cabo Verde na Unea-6: Ministro Gilberto Correia",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/PcA89J8qoKE/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dIpfSrDW8ws"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Presidente do Quênia, William Ruto, e chefe do Pnuma, Inger Andersen, chegam na Unea-6",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/4xYEacysIow/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "4xYEacysIow"
         }
       }
     }
