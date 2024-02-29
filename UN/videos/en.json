@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Environment Assembly - Opening of High Level with National Statements | #UNEA-6 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CZwFOE7Bdkk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNEP Global Waste Management Outlook 2024 | United Nations",
         "thumbnails": {
           "high": {
@@ -88,19 +101,6 @@
         },
         "resourceId": {
           "videoId": "NR8m6qL7nHo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Environment Assembly - Opening of High Level with National Statements | #UNEA-6 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CZwFOE7Bdkk"
         }
       }
     },
