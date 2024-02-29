@@ -1,13 +1,134 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "errors": [
-      {
-        "domain": "youtube.CoreErrorDomain",
-        "reason": "SERVICE_UNAVAILABLE"
+  "items": [
+    {
+      "snippet": {
+        "title": "Gaza, Haiti, Sudan, & other topics - Daily Press Briefing (29 February 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gj4PEL3ch2U/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gj4PEL3ch2U"
+        }
       }
-    ],
-    "status": "INTERNAL"
-  }
+    },
+    {
+      "snippet": {
+        "title": "Palestine on the the Middle East - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0LBObITgeY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "I0LBObITgeY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "France on the Middle East - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kq1VJLlBKUk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Kq1VJLlBKUk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Gaza Crisis: No Bounds to the Horrors Unfolding - UN Human Rights Chief | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V0Y48zd4ZJ8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V0Y48zd4ZJ8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (29 February 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkSina1vLCY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xkSina1vLCY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "'Haiti Needs Solidarity at This Crucial Moment' - UN Humanitarian Coordinator | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YctL4W7vXZ4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YctL4W7vXZ4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Haiti in Crisis: Response Plan | News Flash | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hmiM9YMVIMY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hmiM9YMVIMY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Climate and Human Rights - President of the General Assembly at UNEA-6 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaD0Gb-TQ4s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UaD0Gb-TQ4s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Environment Assembly - Opening of High Level with National Statements | #UNEA-6 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CZwFOE7Bdkk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Kenyan President at the High Level Segment of the Sixth Session of the UN Environment Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASqw7tGwn7E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ASqw7tGwn7E"
+        }
+      }
+    }
+  ]
 }
