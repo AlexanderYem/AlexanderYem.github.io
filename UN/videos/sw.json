@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNICEF Rwanda: Je wajua  kwamba watoto wanaanza kupokea chanjo zao za kawaida karibu na nyumbani?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YhqFadeJL4E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YhqFadeJL4E"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Uongozi wa jimbo la Upper Nile nchini Sudan Kusini waomba usaidizi zaidi wa ulinzi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WhYxeaql2n8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanawake na wasichana wa Gaza wanafanyaje wakiwa kwenye hedhi kila mwezi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YYJgPX48edc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YYJgPX48edc"
         }
       }
     }
