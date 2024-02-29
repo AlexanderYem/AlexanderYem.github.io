@@ -5,11 +5,24 @@
         "title": "UN Environment Assembly - Opening of High Level with National Statements | #UNEA-6 | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/CZwFOE7Bdkk/hqdefault.jpg"
           }
         },
         "resourceId": {
           "videoId": "CZwFOE7Bdkk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "President of Kenya at the High Level Segment of the Sixth Session of the UN Environment Assembly",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASqw7tGwn7E/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ASqw7tGwn7E"
         }
       }
     },
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2EL8XvhgWA4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Artificial Intelligence (AI) for Humanity | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GdCia9fjfSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GdCia9fjfSQ"
         }
       }
     }
