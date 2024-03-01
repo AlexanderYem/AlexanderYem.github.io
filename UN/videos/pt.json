@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Discurso de Moçambique: Embaixador Jeronimo Chivavi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vxI5OhoESD8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vxI5OhoESD8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Entrevista Exclusiva com o ministro de Cabo Verde",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "F1E3-eM-B_8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Unea-6: Moçambique defende celeridade na aplicação de tratados sobre o meio-ambiente",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/stoIJHCffv8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "stoIJHCffv8"
         }
       }
     }
