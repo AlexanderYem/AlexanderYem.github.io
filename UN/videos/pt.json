@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "OMS: 99% da população mundial respira ar “tóxico”",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6tAj_1Kvv1k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6tAj_1Kvv1k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Diplomacia de Portugal aborda “situações dramáticas” geradas por guerras",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "-oD_t7velw8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso de Cabo Verde na Unea-6: Ministro Gilberto Correia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PcA89J8qoKE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PcA89J8qoKE"
         }
       }
     }
