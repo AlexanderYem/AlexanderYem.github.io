@@ -2,7 +2,33 @@
   "items": [
     {
       "snippet": {
-        "title": "Discurso de Moçambique: Embaixador Jeronimo Chivavi (em inglês)",
+        "title": "Inteligência Artificial para o Clima: inovação na luta contra mudança climática",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mjf_REIr9h0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Mjf_REIr9h0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso do Brasil na Unea-6: Vice-ministro do Meio Ambiente, João Paulo Capobianco",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrVpO-jmkHI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HrVpO-jmkHI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Discurso de Moçambique na Unea-6: Embaixador Jeronimo Chivavi (em inglês)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/vxI5OhoESD8/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "3pbkMyvxBGI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Transformação Digital na Unea-6: Ferramentas tecnológicas na vanguarda do combate à crise ambiental",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gtt7m4yPPT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Gtt7m4yPPT8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ministro português do ambiente espera avanços para acordo global sobre plásticos na Unea-6",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/F1E3-eM-B_8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "F1E3-eM-B_8"
         }
       }
     }
