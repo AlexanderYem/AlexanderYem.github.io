@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal e o combate ao terrorismo em Cabo delgado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0ZipwjLET0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E0ZipwjLET0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal aposta na flexibilização de vistos estimulando livre circulação na Cplp",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u8yz4XH-bhs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Programa das Nações Unidas reafirma papel crucial na preservação dos oceanos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bvzd71_s5T4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Bvzd71_s5T4"
         }
       }
     }
