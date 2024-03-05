@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "El Niño enfraquece, mas impactos continuam",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zF3-5YW8occ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zF3-5YW8occ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Portugal e o combate ao terrorismo em Cabo delgado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ds7AxCC627k"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista exclusiva com a Ministra do Meio ambiente de Angola",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u8yz4XH-bhs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u8yz4XH-bhs"
         }
       }
     }
