@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "رغم الأهوال في غزة، قد يكون الأسوأ لم يأت بعد",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/7qOU37hTbCw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "7qOU37hTbCw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مستشفى الشفاء: كفاح لإنقاذ الأرواح بأقل القليل",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "dtG9AZy3KRQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"أين الأمان في رفح؟ إلي أين نذهب؟\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/BphE6fueDX4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "BphE6fueDX4"
         }
       }
     }
