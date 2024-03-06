@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (6 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-26OmQjWbmM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-26OmQjWbmM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Peace Operations Chief Calls for Urgent Action in Conflict-Worsened South Sudan | UN News Flash",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UjvoWURtGjs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UjvoWURtGjs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "U.S. on Afghanistan, Sudan, Gaza, & Other Topics | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "KpDH91B_5qs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Suffering in Gaza Is Indescribable, Says UNRWA Chief | General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/P7BiKiARdUI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "P7BiKiARdUI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Palestine: UN Representative Advocates Ceasefire to Fight Sexual Violence | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/AHMHP5OGumk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "AHMHP5OGumk"
         }
       }
     }
