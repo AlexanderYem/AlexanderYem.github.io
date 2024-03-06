@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"دمرونا نحن\": سكان شمال غزة يفرون من موطنهم بحثا عن لقمة خبز وشربة ماء",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrLpUoR79GQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mrLpUoR79GQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "داخل مستشفى كمال عدوان، شمال غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "FxBgw5bch9w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "فيتو أمريكي ضد مشروع قرار جزائري حول غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IDLLA1Dmv4I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IDLLA1Dmv4I"
         }
       }
     }
