@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Palestinians on the situation in Gaza - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gJaur1EWzJw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gJaur1EWzJw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Afghanistan, Lebanon, Syria & other topics - Daily Press Briefing (6 March 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3OiV1bbXDSM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Proposals for UNRWA Elimination Have Political Motives Behind Them: UNRWA Head | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pGoDdvLaGK8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pGoDdvLaGK8"
         }
       }
     }
