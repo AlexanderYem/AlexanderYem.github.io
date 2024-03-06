@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "U.S. on Afghanistan, Sudan, Gaza, & Other Topics | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9lIqKK6dcg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "V9lIqKK6dcg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "WHO reaches 3 hospitals in Northern Gaza | News Flash | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AHMHP5OGumk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Occupied Palestinian Territory, Haiti, & Other Topics - Daily Press Briefing (4 March 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rdURqZVYdyc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rdURqZVYdyc"
         }
       }
     }
