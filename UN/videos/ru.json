@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Обращение Генерального секретаря ООН по случаю Международного женского дня",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XNiVs1bL5qM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XNiVs1bL5qM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Буча и Ирпень спустя два года после начала войны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GPcs9ZEYRMw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Чем завершилась Конференция ООН по климату?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r7A9AEvfmhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r7A9AEvfmhg"
         }
       }
     }
