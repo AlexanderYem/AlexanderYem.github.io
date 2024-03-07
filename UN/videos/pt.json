@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Limitações da entrega de comida em Gaza por aviões",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmOVa29027c/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bmOVa29027c"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "El Niño enfraquece, mas impactos continuam",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "vxI5OhoESD8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Entrevista Exclusiva com o ministro de Cabo Verde",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ds7AxCC627k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ds7AxCC627k"
         }
       }
     }
