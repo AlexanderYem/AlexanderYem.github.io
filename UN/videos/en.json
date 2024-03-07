@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (7 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/snvxVwjw8Jk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "snvxVwjw8Jk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti: UN Chief Reiterates the Need for Urgent Action | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "LgxPNOBRla4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Carey Mulligan at the UN: Advocating for Women with Dementia | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pVHXi1ZbgDw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pVHXi1ZbgDw"
         }
       }
     }
