@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Mulher",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/73NLdoPMvvU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "73NLdoPMvvU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Limitações da entrega de comida em Gaza por aviões",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HrVpO-jmkHI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso de Moçambique na Unea-6: Embaixador Jeronimo Chivavi (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vxI5OhoESD8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vxI5OhoESD8"
         }
       }
     }
