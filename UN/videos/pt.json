@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia Internacional da Mulher Juíza: entrevista com a moçambicana Paula Machatine Honwana",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dENNQSlnZ1I/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dENNQSlnZ1I"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "ONU pede fortalecimento da resposta à crise de deslocados em Moçambique",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Yyghb-t-LCY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Inteligência Artificial para o Clima: inovação na luta contra mudança climática",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Mjf_REIr9h0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Mjf_REIr9h0"
         }
       }
     }
