@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU pede fortalecimento da resposta à crise de deslocados em Moçambique",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8jycLmNWsA0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8jycLmNWsA0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia Internacional da Mulher",
         "thumbnails": {
           "high": {
@@ -41,7 +54,7 @@
     },
     {
       "snippet": {
-        "title": "Portugal e o combate ao terrorismo em Cabo delgado",
+        "title": "Portugal e o combate ao terrorismo em Cabo Delgado",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/E0ZipwjLET0/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Mjf_REIr9h0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Discurso do Brasil na Unea-6: Vice-ministro do Meio Ambiente, João Paulo Capobianco  (em inglês)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HrVpO-jmkHI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HrVpO-jmkHI"
         }
       }
     }
