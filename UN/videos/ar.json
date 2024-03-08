@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "نساء غزة: صمود وتضامن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/and8u1XMBCI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "and8u1XMBCI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "توسيع المستوطنات غير القانونية بالضفة الغربية المحتلة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7qOU37hTbCw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مستشفى الشفاء: كفاح لإنقاذ الأرواح بأقل القليل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/m-3hC6dOUfA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "m-3hC6dOUfA"
         }
       }
     }
