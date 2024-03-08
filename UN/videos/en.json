@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (8 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-OgLDz0AkY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U-OgLDz0AkY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "An Afghan Woman's Story on International Women's Day | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pEFaJ7QSus/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_pEFaJ7QSus"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief's Remarks for the International Women's Day | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "snvxVwjw8Jk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haiti: UN Chief Reiterates the Need for Urgent Action | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bJZvRjo8UGo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bJZvRjo8UGo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Security Council Advocates for Afghanistan's People | News Flash | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eiTtqzdSjp0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eiTtqzdSjp0"
         }
       }
     }
