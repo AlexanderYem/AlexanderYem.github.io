@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في رمضان، تضامن مع غزة وكل من يعانون",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/uf1UMYoYwNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "uf1UMYoYwNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "نساء غزة: صمود وتضامن",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "f0x9eSKm8dE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رغم الأهوال في غزة، قد يكون الأسوأ لم يأت بعد",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7qOU37hTbCw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7qOU37hTbCw"
         }
       }
     }
