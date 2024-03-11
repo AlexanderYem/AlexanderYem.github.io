@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "CSW: ministra do Brasil discursa em nome da Cplp",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YNnMIDCCdE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2YNnMIDCCdE"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Luta pela independência econômica das mulheres está acima de interesses partidários, diz Portugal",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVNyQbonSWQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UVNyQbonSWQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Frases da semana na #onu        #gaza #meioambiente #direitoshumanos",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "wxUJbYeuBIo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Estande de moda sustentável na Unea-6 ensina sobre circularidade para o setor",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KqCwfUdB3Yc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KqCwfUdB3Yc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "OMS: 99% da população mundial respira ar “tóxico”",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6tAj_1Kvv1k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6tAj_1Kvv1k"
         }
       }
     }
