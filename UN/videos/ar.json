@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "يجب أن ندين ما يحدث في غزة مثلما نفعل مع أوكرانيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4IdvLNWCW8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "H4IdvLNWCW8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"يبدأ شهر رمضان لكن سفك الدماء مستمر في غزة\".",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hv8Ce_-L_rM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"دمرونا نحن\": سكان شمال غزة يفرون من موطنهم بحثا عن لقمة خبز وشربة ماء",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mrLpUoR79GQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mrLpUoR79GQ"
         }
       }
     }
