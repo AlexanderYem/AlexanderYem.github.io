@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "CSW: Ações de Moçambique para alcançar a equidade de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ebP_4OSW44/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-ebP_4OSW44"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "CSW: ministro de Cabo Verde destaca avanços do país na igualdade de gênero",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bmOVa29027c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "El Niño enfraquece, mas impactos continuam",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zF3-5YW8occ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zF3-5YW8occ"
         }
       }
     }
