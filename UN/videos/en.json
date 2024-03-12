@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (12 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kiGN35eLNNo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kiGN35eLNNo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Occupied West Bank : Witnessing Life & Insecurity | Security Council Briefing | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "yCpszaWNQNM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief's Call for Ramadan: Ceasefire and Hostage Release in Gaza, Peace in Sudan | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xM51Dm06XEw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xM51Dm06XEw"
         }
       }
     }
