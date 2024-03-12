@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "CSW: ministro de Cabo Verde destaca avanços do país na igualdade de gênero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/NjiyRcVJGyQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "NjiyRcVJGyQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "CSW: ministra de Angola discursa em nome da Cdaa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zF3-5YW8occ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal e o combate ao terrorismo em Cabo Delgado",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E0ZipwjLET0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E0ZipwjLET0"
         }
       }
     }
