@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "CSW: ministra de Angola discursa em nome da Cdaa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9rpPcsuNGV0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9rpPcsuNGV0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "CSW: ministra do Brasil discursa em nome da Cplp",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "E0ZipwjLET0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portugal aposta na flexibilização de vistos estimulando livre circulação na Cplp",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wxUJbYeuBIo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wxUJbYeuBIo"
         }
       }
     }
