@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Rwanda, Cambodia miongoni mwa nchi zlilizoongoza kupunguza vifo vya watoto",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/836hgtJYsyg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "836hgtJYsyg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rosie Paul na Sridevi Changali: Vinara wa ujenzi unaojali mazingira na jinsia India.",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MFJC3UreW5s"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Soko jipya lililofadhiliwa na MONUSCO lawainua wanawake mashariki mwa DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hqqb76c5fwo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Hqqb76c5fwo"
         }
       }
     }
