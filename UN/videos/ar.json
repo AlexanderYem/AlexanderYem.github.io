@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الأونروا: السكان محاصرون حرفيا في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R39-P_m4S8o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R39-P_m4S8o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "يجب أن ندين ما يحدث في غزة مثلما نفعل مع أوكرانيا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "GcVZ8JGxkHc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "دعوة أممية لوقف القتال في السودان خلال شهر رمضان المبارك",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hv8Ce_-L_rM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hv8Ce_-L_rM"
         }
       }
     }
