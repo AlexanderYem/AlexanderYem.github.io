@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Интервью с Танзилой Нарбаевой",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/F47DlCZL0vU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "F47DlCZL0vU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генеральный секретарь ООН – о Докладе о человеческом развитии за 2023–24 год",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ljkk02V_MHs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Новогоднее послание Генерального секретаря ООН",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/36KmgGCnds0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "36KmgGCnds0"
         }
       }
     }
