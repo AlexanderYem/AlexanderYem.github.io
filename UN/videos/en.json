@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (13 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uy0fXE0Icnc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Uy0fXE0Icnc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Japan & Others on Women, Peace & Security - Media Stakeout | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "kiGN35eLNNo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Occupied West Bank : Witnessing Life & Insecurity | Security Council Briefing | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/edW_59kDZAA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "edW_59kDZAA"
         }
       }
     }

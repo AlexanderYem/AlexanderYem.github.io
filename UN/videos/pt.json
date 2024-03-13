@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Mulheres da Guiné-Bissau conhecem seu potencial de liderança, diz ministra",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Inz7jwBqYus/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Inz7jwBqYus"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Índice de Desenvolvimento Humano revela aumento de desigualdade e polarização",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Ah-ACjoogAs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Mulher Juíza: entrevista com a moçambicana Paula Machatine Honwana",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dENNQSlnZ1I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dENNQSlnZ1I"
         }
       }
     }

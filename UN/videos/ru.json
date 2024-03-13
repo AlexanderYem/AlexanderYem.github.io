@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генеральный секретарь ООН – о Докладе о человеческом развитии за 2023–24 год",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHRxYAq5xAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MHRxYAq5xAA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Обращение Генерального секретаря ООН по случаю Международного женского дня",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "36KmgGCnds0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Выступление Верховного комиссара ООН по правам человека на заседании Совета ООН по правам человека",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GPcs9ZEYRMw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GPcs9ZEYRMw"
         }
       }
     }
