@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Índice de Desenvolvimento Humano revela aumento de desigualdade e polarização",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/CKRBNsmUxVo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "CKRBNsmUxVo"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "“Fome e pobreza são principais inimigos das mulheres”, afirma ministra brasileira",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2N8LV3xfE8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "j2N8LV3xfE8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "G20: Na ONU, Brasil defende cooperação internacional para enfrentar múltiplas crises globais",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "dENNQSlnZ1I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU pede fortalecimento da resposta à crise de deslocados em Moçambique",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/8jycLmNWsA0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "8jycLmNWsA0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional da Mulher",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/73NLdoPMvvU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "73NLdoPMvvU"
         }
       }
     }
