@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Como a ajuda humanitária chega a Gaza?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIh-i-eiAOc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pIh-i-eiAOc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Angola aposta em formalização do trabalho para colocar mulheres no centro da economia",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "2YNnMIDCCdE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Luta pela independência econômica das mulheres está acima de interesses partidários, diz Portugal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UVNyQbonSWQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UVNyQbonSWQ"
         }
       }
     }
