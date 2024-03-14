@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Comment l’aide humanitaire est-elle acheminée à Gaza ?",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-8vxcIIuVI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B-8vxcIIuVI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Appel à la solidarité avec Haïti",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lTYq1XJIyFQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "L'ONU nomme un groupe d'examen indépendant pour évaluer l'UNRWA",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IxL5bMQMFeY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IxL5bMQMFeY"
         }
       }
     }
