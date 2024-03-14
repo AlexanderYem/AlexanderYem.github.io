@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "فقدت 150 من أفراد عائلتها في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghng9vn2GkQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ghng9vn2GkQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الأونروا: السكان محاصرون حرفيا في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TGJ2k_vw_AM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "السودان يرحب بمناشدة وقف القتال في رمضان ولكن..",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/GcVZ8JGxkHc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "GcVZ8JGxkHc"
         }
       }
     }
