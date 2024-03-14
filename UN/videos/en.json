@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (14 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6WScc0vcDA0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6WScc0vcDA0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti, Yemen, South Sudan, & Other Topics - Daily Press Briefing (14 March 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ftoOrRseexk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (13 March 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Uy0fXE0Icnc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Uy0fXE0Icnc"
         }
       }
     }
