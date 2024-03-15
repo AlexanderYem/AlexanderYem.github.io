@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "\"كل هذا يؤدي بنا إلى المجاعة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJVt7NSEWAY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "IJVt7NSEWAY"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "\"الإنسانية خذلت أطفال ونساء غزة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb0JlE19qLc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Cb0JlE19qLc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "فقدت 150 من أفراد عائلتها في غزة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "q2bCDOYT8bs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "دول كبرى ستنضم لإنشاء ممر بحري إلى غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KKuLT7w7mVw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KKuLT7w7mVw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "في دائرة الضوء في يوم المرأة: الناشطة السودانية حنين أحمد",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/TGJ2k_vw_AM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "TGJ2k_vw_AM"
         }
       }
     }
