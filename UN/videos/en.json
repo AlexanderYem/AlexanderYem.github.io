@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Syria, Gaza, Haiti, & Other Topics - Daily Press Briefing (15 March 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/B1T28YKsrfc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "B1T28YKsrfc"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "U.S., France & Others on Ukraine: Media Stakeout | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6WScc0vcDA0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haiti, Yemen, South Sudan, & Other Topics - Daily Press Briefing (14 March 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/saMnL3OgwQU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "saMnL3OgwQU"
         }
       }
     }
