@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Vinara wa elimu kutoka Tanzania wajizatiti kuhakikisha sauti za wasichana zinasikika CSW68",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wer7Xbt4WBU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wer7Xbt4WBU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kwaheri TANZBATT-10 karibu TANZBATT-11",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gkzz9LlPhSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Nyamazisheni silaha wakati huu wa Ramadhani",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FPNwrhoTX9U/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FPNwrhoTX9U"
         }
       }
     }
