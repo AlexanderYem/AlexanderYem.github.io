@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Wasichana ni majaji watarajiwa, wafuate ndoto zao jamii ziendelee kunufaika - Hakimu Pamela Achieng",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PFywXua3hs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "-PFywXua3hs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Vinara wa elimu kutoka Tanzania wajizatiti kuhakikisha sauti za wasichana zinasikika CSW68",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JrHxoR5Y9zs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "CSW68 yafungua pazia!! Vijana wamo!!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gkzz9LlPhSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gkzz9LlPhSQ"
         }
       }
     }
