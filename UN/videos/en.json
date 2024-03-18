@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "France on the the Middle East - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/dULlGK1znIo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "dULlGK1znIo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Yemen, Ukraine, Colombia, & Other Topics   Daily Press Briefing (18 March 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B1T28YKsrfc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "U.S., France & Others on Ukraine: Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/i2tkSbRvkwc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "i2tkSbRvkwc"
         }
       }
     }
