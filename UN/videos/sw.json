@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tetea ardhi ya mwanamke - LANDESA",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1yS98J7afk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "E1yS98J7afk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Wasichana ni majaji watarajiwa, wafuate ndoto zao jamii ziendelee kunufaika - Hakimu Pamela Achieng",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KUfGi-oR2P8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Wanawake tunaweza tumedhihirisha katika usanifu majengo India: Roise na Sridevi",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JrHxoR5Y9zs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JrHxoR5Y9zs"
         }
       }
     }

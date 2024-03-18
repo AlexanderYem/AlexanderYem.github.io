@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (18 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpZ_eNBR4Io/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "SpZ_eNBR4Io"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Nuclear Disarmament Is the First Step for Peace, Says UN Chief | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3jHFoDd--QY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Earth Hour 2024 - 23 March (8:30PM - 9:30PM) - UN Chief | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p91Vj7KtBBs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p91Vj7KtBBs"
         }
       }
     }
