@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "La famine est imminente dans le nord de Gaza",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/q55lfm43By8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "q55lfm43By8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "« Le viol de guerre est le seul crime pour lequel les victimes se sentent coupables »",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0Q2Ev8NJlHQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Priorités 2024 : António Guterres appelle à un contrat social renouvelé",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_oi_8JG43CQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_oi_8JG43CQ"
         }
       }
     }
