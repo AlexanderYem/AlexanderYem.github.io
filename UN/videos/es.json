@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Día Internacional de la Eliminación de la Discriminación Racial",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPjznV_q_bQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FPjznV_q_bQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional del Novruz: paz, salud y felicidad",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JVdRbbMu6xU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Internacional de las Personas con Discapacidad",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SL8E3WV-e5A/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SL8E3WV-e5A"
         }
       }
     }
