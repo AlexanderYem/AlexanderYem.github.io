@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Recuerdo de las Víctimas de la Esclavitud y la Trata Transatlántica de Esclavos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZeNynMVHlL0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZeNynMVHlL0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Día Internacional de la Eliminación de la Discriminación Racial",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "en5in9pcCXM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Día Mundial del Sida",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/JVdRbbMu6xU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "JVdRbbMu6xU"
         }
       }
     }

@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "« Le viol de guerre est le seul crime pour lequel les victimes se sentent coupables »",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhb2lLoJiQo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vhb2lLoJiQo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Comment l’aide humanitaire est-elle acheminée à Gaza ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_oi_8JG43CQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Soutenir Haïti ravagé par la violence des gangs",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lTYq1XJIyFQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lTYq1XJIyFQ"
         }
       }
     }
