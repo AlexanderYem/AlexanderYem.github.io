@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Генсек ООН – о рекордных показателях изменения климата",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhLFv-nllj0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zhLFv-nllj0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Интервью с Танзилой Нарбаевой",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0lzFE71eoic"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Во что обходится ООН?",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ljkk02V_MHs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ljkk02V_MHs"
         }
       }
     }

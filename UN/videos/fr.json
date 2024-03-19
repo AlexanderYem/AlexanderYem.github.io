@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Célébrons ensemble la Journée de la langue française",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MRpr4otGfk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5MRpr4otGfk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "La famine est imminente dans le nord de Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j3hUR5_00O0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le chef de l’ONU préoccupé par la situation au Sénégal",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0Q2Ev8NJlHQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0Q2Ev8NJlHQ"
         }
       }
     }

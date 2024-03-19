@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ONU News: Entrevista completa com o primeiro-ministro de Portugal, António Costa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6VOH7RlRRLM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6VOH7RlRRLM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Primeiro-ministro de Portugal fala na ONU News",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "j2N8LV3xfE8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "G20: Na ONU, Brasil defende cooperação internacional para enfrentar múltiplas crises globais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/QuPy63-ggMI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "QuPy63-ggMI"
         }
       }
     }
