@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Primeiro-ministro de Portugal fala na ONU News",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/710McukczB0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "710McukczB0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Indicadores de mudanças climáticas atingiram níveis recordes em 2023, diz ONU",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "QuPy63-ggMI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "CSW: Ações de Moçambique para alcançar a equidade de gênero",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ebP_4OSW44/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-ebP_4OSW44"
         }
       }
     }
