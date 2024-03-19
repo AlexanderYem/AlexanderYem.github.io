@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Lebanon, Haiti, & Other Topics - Daily Press Briefing (19 March 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/70mWRp9KLuk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "70mWRp9KLuk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (19 March 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hMtfs5AVT1o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Chief on Food Insecurity in Gaza - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/z5e43yV85cU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "z5e43yV85cU"
         }
       }
     }
