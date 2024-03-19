@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "TEN/MET: Mtandao wa Elimu unaosongesha Malengo ya Maendeleo Endelevu, SDGs",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5fU5TV1U9A0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5fU5TV1U9A0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Tetea ardhi ya mwanamke - LANDESA",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "YMjBliqu23I"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Muhtasari wa Habari za UN",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/KUfGi-oR2P8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "KUfGi-oR2P8"
         }
       }
     }
