@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Tunatamani kuona sheria ya elimu Tanzania inaruhusu wanafunzi baada ya ujauzito kuendelea na masomo",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/tyDQgwHly0Y/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "tyDQgwHly0Y"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Muhtasari wa Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "BBMTUyDkBPo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rwanda, Cambodia miongoni mwa nchi zlilizoongoza kupunguza vifo vya watoto",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/836hgtJYsyg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "836hgtJYsyg"
         }
       }
     }
