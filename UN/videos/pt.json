@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cantora Carminho se apresenta na sede da ONU em Nova Iorque",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/YcfH26D29Js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "YcfH26D29Js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ministra de Moçambique fala do nexo entre terrorismo e tráfico de armas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Inz7jwBqYus"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Índice de Desenvolvimento Humano revela aumento de desigualdade e polarização",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CKRBNsmUxVo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CKRBNsmUxVo"
         }
       }
     }

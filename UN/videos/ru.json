@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Права человека в Беларуси",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VFF3JMO4QI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8VFF3JMO4QI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Генсек ООН – о рекордных показателях изменения климата",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "u603GajBuzs"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Международный день чистой энергии",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0lzFE71eoic/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0lzFE71eoic"
         }
       }
     }
