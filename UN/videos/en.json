@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief: Respect Ukraine's Sovereignty | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xp9SrytS-Ck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Xp9SrytS-Ck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Children in Gaza Spread Joy During Ramadan | United Nations",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "Gaza, Ukraine and Other Topics | UN Chief & European Commission Press Conference | United Nations",
+        "title": "Gaza, Ukraine & Other Topics | UN Chief & European Commission Press Conference | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/q87z8kavUJs/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U18tJGjf06c"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "France on the the Middle East - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/dULlGK1znIo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "dULlGK1znIo"
         }
       }
     }
