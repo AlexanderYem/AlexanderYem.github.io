@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Int'l Day of Racial Discrimination Elimination (21 March) - UN Chief | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/joiJhTa6vAE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "joiJhTa6vAE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Climate & Weather - Early Warning Systems: Why Invest in Them? | Explainer | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "A1E3-CNyZpg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (18 March 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SpZ_eNBR4Io/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SpZ_eNBR4Io"
         }
       }
     }
