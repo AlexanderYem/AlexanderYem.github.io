@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "День Навруз — первый день весны",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/329urAXmnbg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "329urAXmnbg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Права человека в Беларуси",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xU0iqi4jixM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Послание Генерального секретаря ООН по случаю Международного дня памяти жертв Холокоста",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u603GajBuzs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u603GajBuzs"
         }
       }
     }
