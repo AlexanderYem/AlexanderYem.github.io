@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"الإسلاموفوبيا أشد على النساء ولا ينبغي لفتاة أن تخاف بسبب حجابها\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fqgoLKgASiY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fqgoLKgASiY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"يمكن ويجب منع المجاعة الوشيكة في #غزة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ghng9vn2GkQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأونروا: السكان محاصرون حرفيا في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/R39-P_m4S8o/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "R39-P_m4S8o"
         }
       }
     }
