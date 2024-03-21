@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "DA4TI yashiriki mazungumzo ya usalama wa mtandao duniani",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9veQJYk4Pw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "U9veQJYk4Pw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ramadhani yaleta furaha katikati ya madhila Gaza",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Zzhm2DEi6wM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sarah Kamau, Mwenyekiti wa Jukwaa la watu wenye ulemavu la Jumuiya ya Madola anena",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/W8jojum9dco/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "W8jojum9dco"
         }
       }
     }
