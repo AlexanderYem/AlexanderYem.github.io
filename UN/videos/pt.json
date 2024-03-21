@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Cantora portuguesa #Carminho na #ONU",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/s81EZAPC6SY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "s81EZAPC6SY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Em dia internacional, ONU reforça importância de investir em mulheres negras",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pIh-i-eiAOc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Angola aposta em formalização do trabalho para colocar mulheres no centro da economia",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vxbk1R2lc2Q/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Vxbk1R2lc2Q"
         }
       }
     }
