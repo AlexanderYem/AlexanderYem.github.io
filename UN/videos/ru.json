@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Последствия ракетного удара по Киеву",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/71IwQMymxAA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "71IwQMymxAA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "День Навруз — первый день весны",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "REzIEtWRIWk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ООН: на восстановление экономики Газы могут уйти десятилетия",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xU0iqi4jixM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xU0iqi4jixM"
         }
       }
     }
