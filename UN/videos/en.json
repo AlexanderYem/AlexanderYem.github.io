@@ -2,10 +2,23 @@
   "items": [
     {
       "snippet": {
+        "title": "World Water Day 2024: ‘Water for Peace’ - March 22 | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8I4da5LMD2o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8I4da5LMD2o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "World Down Syndrome Day 2024: Achieving Health Equity for People with Disabilities | United Nations",
         "thumbnails": {
           "high": {
-            "url": "https://i.ytimg.com/vi/du9L8wnXSCU/hqdefault_live.jpg"
+            "url": "https://i.ytimg.com/vi/du9L8wnXSCU/hqdefault.jpg"
           }
         },
         "resourceId": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "72DrUWQiv0g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ukraine: Kyiv Faces #Attack After 40-Day Calm | News Flash | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WyqoAtE_C0w/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WyqoAtE_C0w"
         }
       }
     }
