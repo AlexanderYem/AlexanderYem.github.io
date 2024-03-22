@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haïti : les conditions alarmantes dans la capitale s'aggravent",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rQHrmizZeH4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rQHrmizZeH4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Célébrons ensemble la Journée de la langue française",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "TTDGmc9p64w"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rendre la mode africaine plus forte",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/j3hUR5_00O0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "j3hUR5_00O0"
         }
       }
     }
