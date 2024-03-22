@@ -2,6 +2,45 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal presenteia ONU com obra de tapeçaria inspirada nos oceanos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/t-uBrztimF8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "t-uBrztimF8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Dia Internacional em Memória das Vítimas da Escravatura e do Comércio Transatlântico de Escravos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1lyIk0kvxg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "h1lyIk0kvxg"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Hora do Planeta: ONU convida todas as pessoas a apagarem as luzes",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-AB8LjQj18/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "p-AB8LjQj18"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Previsão do Tempo de 2050 alerta para importância da ação climática hoje",
         "thumbnails": {
           "high": {
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "710McukczB0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Indicadores de mudanças climáticas atingiram níveis recordes em 2023, diz ONU",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/iKixDctR4s8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "iKixDctR4s8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ONU aborda desigualdades por trás de alta incidência de Aids entre jovens angolanas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mrTyLD04dW8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mrTyLD04dW8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Frases da semana na #onu #csw #empoderamentofeminino #inteligenciaartificial #gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/2wDtQ_grycw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "2wDtQ_grycw"
         }
       }
     }
