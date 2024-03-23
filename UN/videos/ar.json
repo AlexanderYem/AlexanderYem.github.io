@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في مستشفى العريش غوتيريش يلتقي مصابين فلسطينيين من #غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/lBxO-z0NOk8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "lBxO-z0NOk8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"وأنا صائم معكم في رمضان، أشعر بالقلق لأن الكثيرين في غزة لن يجدوا وجبة إفطار ملائمة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XgI7bJkTHqY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "من ابن سيناء والخوارزمي إلى ابن رشد، مساهمات المسلمين على مر القرون",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jxb1AetExBE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jxb1AetExBE"
         }
       }
     }
