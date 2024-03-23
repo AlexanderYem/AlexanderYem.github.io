@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti Crisis: A Brief Look | Explainer Video | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBXl7N49WWM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wBXl7N49WWM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "World Water Day 2024: ‘Water for Peace’ - March 22 | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0XEpOGZuhEA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "#UNGA78 adopts the first ever resolution on AI | General Assembly | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/72DrUWQiv0g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "72DrUWQiv0g"
         }
       }
     }
