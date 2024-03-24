@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief at Rafah Border Crossing into Gaza - Media Stakeout | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9P6rkk6KIg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Q9P6rkk6KIg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Uruguay: Caretaking support helps promote women’s participation in armed forces | Breaking Barriers",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Jt4BnvC72rc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russia and China Veto U.S. Ceasefire Resolution for Gaza | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D61d6eY-lJo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D61d6eY-lJo"
         }
       }
     }
