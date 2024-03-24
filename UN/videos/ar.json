@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "غزة تحتاج فيضا من الإغاثة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddmWt0Mbr7o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ddmWt0Mbr7o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "في مستشفى العريش غوتيريش يلتقي مصابين فلسطينيين من #غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "0WmaI_0BmJc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المجاعة في شمال #غزة وشيكة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XgI7bJkTHqY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XgI7bJkTHqY"
         }
       }
     }
