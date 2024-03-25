@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Последствия обстрела Киева 25 марта",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ilTR72u5RU4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ilTR72u5RU4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Последствия ракетного удара по Киеву",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rSeY6o9IQxM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Фрагменты интервью Координатора ООН по гуманитарным вопросам в Украине Дениз Браун.",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/REzIEtWRIWk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "REzIEtWRIWk"
         }
       }
     }
