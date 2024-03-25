@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"سنعود لمجلس الأمن حتى تحصل فلسطين على العضوية الكاملة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/pnRKZdQTQYA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "pnRKZdQTQYA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تصويت وتصفيق في مجلس الأمن بعد اعتماد قرار حول غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "g1LBRak0MUA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "رمضان في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IUrq-Ia5ER0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IUrq-Ia5ER0"
         }
       }
     }
