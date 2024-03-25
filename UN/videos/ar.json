@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تصويت وتصفيق في مجلس الأمن بعد اعتماد قرار حول غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/axYajpL3OIQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "axYajpL3OIQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "غزة تحتاج فيضا من الإغاثة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "IUrq-Ia5ER0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"التوازن بين مسؤوليات المرأة في العمل والمنزل لا يقع عليها وحدها\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/0WmaI_0BmJc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "0WmaI_0BmJc"
         }
       }
     }
