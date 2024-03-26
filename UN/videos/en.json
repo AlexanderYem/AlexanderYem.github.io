@@ -2,7 +2,33 @@
   "items": [
     {
       "snippet": {
-        "title": "Middle East, Occupied Palestinian territory & other topics - Daily Press Briefing (26 March 2024)",
+        "title": "Japan: Zero Waste Town - Power of Recycling | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/FY-l9Ov61vI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "FY-l9Ov61vI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN News in Brief (26 March 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyChm82hFws/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zyChm82hFws"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Palestine, Haiti, Ukraine & other topics - Daily Press Briefing (26 March 2024)",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/mYN49n1Fkl8/hqdefault.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "CaRP5TNfPbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "(RU) Russia on Kosovo - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/oSrjo3tQQeM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "oSrjo3tQQeM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Granddaughter of Martin Luther King, Jr. on Remembrance Day for Slavery Victims | Yolanda Renee King",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/YGA1HKqu6sw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "YGA1HKqu6sw"
         }
       }
     }
