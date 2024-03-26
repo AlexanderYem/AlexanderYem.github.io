@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"لسنا مستعدين ولن نكون مستعدين لعملية واسعة في #رفح\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/L93H2rm42vQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "L93H2rm42vQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "مقررة أممية تدعو لفرض عقوبات على إسرائيل \"الإبادة الجماعية في غزة، تصعيد لعملية محو الفلسطينيين\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DoNQ9h4kkiA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مجاعة وشيكة في #غزة ودعوة أممية لإدخال الإغاثة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/f-XXcVKIPQ8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "f-XXcVKIPQ8"
         }
       }
     }
