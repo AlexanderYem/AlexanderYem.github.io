@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Kituo cha malezi ya watoto nchini Kenya chatekeleza azma ya Umoja wa Mataifa",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/HB6DRUJixxM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "HB6DRUJixxM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kutoka DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "U9veQJYk4Pw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ramadhani yaleta furaha katikati ya madhila Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/E4SyqyS1sDs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "E4SyqyS1sDs"
         }
       }
     }
