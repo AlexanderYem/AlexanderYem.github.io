@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Dia do Resíduo Zero",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZtM5FwViAgk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "ZtM5FwViAgk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: Moçambique aponta violação injustificada de resolução sobre cessar-fogo",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "p-AB8LjQj18"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Previsão do Tempo de 2050 alerta para importância da ação climática hoje",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xMpqZvIoFZE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xMpqZvIoFZE"
         }
       }
     }
