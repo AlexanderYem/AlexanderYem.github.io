@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "En RDC, la situation sécuritaire et humanitaire se détériore",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTuGeru9vO4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jTuGeru9vO4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Qu'est-ce que la famine ?",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "H4JHYH5cUU4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Le retrait de la MINUSMA du Mali « aurait pu se transformer en une tragédie »",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/FWBQFOn3uNo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "FWBQFOn3uNo"
         }
       }
     }
