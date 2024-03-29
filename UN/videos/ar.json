@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "قرارات المجلس ملزمة: رئيس مجموعة الأعضاء المنتخبين بالمجلس",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBGQmG31dp8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wBGQmG31dp8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "سوء تغذية حاد بين الأطفال ومجاعة وشيكة في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HKHz0ieJdM4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مستشفيات #غزة وصلت إلى نقطة الانهيار",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/htNWomfOgJA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "htNWomfOgJA"
         }
       }
     }
