@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "في ظل شح المياه، مصنع في رفح ينتج حفاضات الأطفال بمواد محلية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/hs1xF3Hvl4Q/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "hs1xF3Hvl4Q"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "قرارات المجلس ملزمة: رئيس مجموعة الأعضاء المنتخبين بالمجلس",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "lBxO-z0NOk8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"وأنا صائم معكم في رمضان، أشعر بالقلق لأن الكثيرين في غزة لن يجدوا وجبة إفطار ملائمة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HKHz0ieJdM4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HKHz0ieJdM4"
         }
       }
     }
