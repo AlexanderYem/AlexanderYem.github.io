@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti - Ukatili ukome mara moja",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g-OhBfHiNJs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g-OhBfHiNJs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kenya: Kituo cha malezi ya watoto chatekeleza azma ya UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9XDTrDEw2MY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "DA4TI yashiriki mazungumzo ya usalama wa mtandao duniani",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EnLzWy_1_4M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EnLzWy_1_4M"
         }
       }
     }
