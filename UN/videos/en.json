@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Ghana: Women in the military break the glass ceiling | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rk2_DlRvk18/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rk2_DlRvk18"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "South Sudan: Women come together to protect their communities | Breaking barriers",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "6UInU6RAet0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Switzerland on Non-Proliferation: DPR of Korea - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-WmI1LDiNOQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-WmI1LDiNOQ"
         }
       }
     }
