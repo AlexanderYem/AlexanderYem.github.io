@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza, Lebanon, Haiti & other topics - Daily Press Briefing (1st April 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/adB-7Q809ZQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "adB-7Q809ZQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (1st April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9j-c3-4XUq0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Genocide survivor: ‘Football saved my life’ | Interview | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/vSEBb0plyLM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "vSEBb0plyLM"
         }
       }
     }
