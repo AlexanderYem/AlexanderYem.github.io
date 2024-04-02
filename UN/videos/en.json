@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (2 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zNNRyffCoDw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zNNRyffCoDw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Syria, Gaza, Lebanon & other topics - Daily Press Briefing (2 April 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "cPlxx7p7zm4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "France on Gaza - Media Stakeout | Security Council | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/22cBm6aIF9c/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "22cBm6aIF9c"
         }
       }
     }
