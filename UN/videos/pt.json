@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Haiti: Combate ao tráfico de armas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jeI8yfvJwNM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jeI8yfvJwNM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Dia do Resíduo Zero",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "h1lyIk0kvxg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Hora do Planeta: ONU convida todas as pessoas a apagarem as luzes",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/p-AB8LjQj18/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "p-AB8LjQj18"
         }
       }
     }
