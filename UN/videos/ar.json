@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "قرار مجلس الأمن حول غزة يجب أن يُطبق بدون تأخير",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DeXFTQo8t-o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DeXFTQo8t-o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "في ظل شح المياه، مصنع في رفح ينتج حفاضات الأطفال بمواد محلية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ddmWt0Mbr7o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "في مستشفى العريش غوتيريش يلتقي مصابين فلسطينيين من #غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/lBxO-z0NOk8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "lBxO-z0NOk8"
         }
       }
     }
