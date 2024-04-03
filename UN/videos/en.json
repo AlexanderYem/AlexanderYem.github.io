@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Gaza Crisis: UN Chief Urges Immediate Action After 196 Aid Workers Killed | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mq0pIlkkBj0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Mq0pIlkkBj0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (2 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OfAvwtiXhOk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sport for Development and Peace: International Day 2024 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/cPlxx7p7zm4/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "cPlxx7p7zm4"
         }
       }
     }
