@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تدمير مستشفى الشفاء ينزع قلب النظام الصحي في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3_3iYPYZ3k/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "l3_3iYPYZ3k"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الحرب في السودان بعيون مصور وثائقي: وكأنه فيلم عن الحرب العالمية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "pnRKZdQTQYA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تصويت وتصفيق في مجلس الأمن: اعتماد قرار حول غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/axYajpL3OIQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "axYajpL3OIQ"
         }
       }
     }
