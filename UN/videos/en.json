@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Mine Action (4 April): Voices from Gaza, Ukraine, Afghanistan, & South Sudan | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/bWK7hipmVbE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "bWK7hipmVbE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (3 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9j-c3-4XUq0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Transatlantic Slave Trade Reparations: UN Interview with Leading Historian | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/phUgz6rByi8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "phUgz6rByi8"
         }
       }
     }
