@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (3 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/wG4-yVEj6xM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "wG4-yVEj6xM"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Condemns Israeli Attack on an Iranian Embassy Building in Damascus | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/JwAElluELJo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "JwAElluELJo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza Crisis: UN Chief Urges Immediate Action After 196 Aid Workers Killed | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "phUgz6rByi8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haiti's Food Crisis: 5 Facts | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6PsdGuASKgA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6PsdGuASKgA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Peacekeeping: Follow British Lance Corporal Jemma Dickinson's Journey | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OfAvwtiXhOk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OfAvwtiXhOk"
         }
       }
     }
