@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "How the UN Can Help Strengthen Democracies: 5 Facts | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdjQ1cIrQIw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fdjQ1cIrQIw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: WHO Chief Urges Safety for Aid Workers After World Central Kitchen Tragedy | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "zNNRyffCoDw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Syria, Gaza, Lebanon & other topics - Daily Press Briefing (2 April 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3b8Ki-2JtAY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3b8Ki-2JtAY"
         }
       }
     }
