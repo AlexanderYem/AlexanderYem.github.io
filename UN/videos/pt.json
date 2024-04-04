@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Conflito no Sudão: por dentro da fotografia documental de Ala Kheir",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcoKuHfnfa8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DcoKuHfnfa8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Haiti: Combate ao tráfico de armas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "t-uBrztimF8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia Internacional em Memória das Vítimas da Escravatura e do Comércio Transatlântico de Escravos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/h1lyIk0kvxg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "h1lyIk0kvxg"
         }
       }
     }
