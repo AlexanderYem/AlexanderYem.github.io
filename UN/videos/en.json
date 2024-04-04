@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (4 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/32lbY8XWlIY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "32lbY8XWlIY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Myanmar, Haiti, Ukraine, & other topics - Daily Press Briefing (4 April 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bWK7hipmVbE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (3 April 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/wG4-yVEj6xM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "wG4-yVEj6xM"
         }
       }
     }

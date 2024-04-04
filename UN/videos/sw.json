@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Nangi Massawe: Tanzania tumepiga hatua kumjumuisha mwanamke katika huduma za kifedha.",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UQMzP5zlcps/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UQMzP5zlcps"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Muhtasari wa Habari za UN",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "HB6DRUJixxM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kutoka DRC",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DcrdxwhytWg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DcrdxwhytWg"
         }
       }
     }
