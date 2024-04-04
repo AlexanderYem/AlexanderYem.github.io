@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الصور تتحدث: تقييم الأضرار في #غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4tUfiyzcAU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "D4tUfiyzcAU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تدمير مستشفى الشفاء ينزع قلب النظام الصحي في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ShTnwMNxpws"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"سنعود لمجلس الأمن حتى تحصل فلسطين على العضوية الكاملة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/pnRKZdQTQYA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "pnRKZdQTQYA"
         }
       }
     }

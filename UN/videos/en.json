@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Media Stakeout: António Guterres, UN Secretary-General ahead of the six-month mark since 7 October",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ZMSiICsMQk/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8ZMSiICsMQk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (4 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "JicuUn7qpp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN Mine Action (4 April): Voices from Gaza, Ukraine, Afghanistan, & South Sudan | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/bWK7hipmVbE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "bWK7hipmVbE"
         }
       }
     }
