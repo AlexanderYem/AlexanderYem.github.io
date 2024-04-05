@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "زلزال هز قاعة مجلس الأمن أثناء اجتماع حول غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMgbhBdVnWI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EMgbhBdVnWI"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "تقارير عن استخدام الذكاء الصناعي في قصف غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/xV45wjTRgSQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "xV45wjTRgSQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الصور تتحدث: تقييم الأضرار في #غزة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "L93H2rm42vQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "مقررة أممية: الإبادة الجماعية في غزة، تصعيد لعملية محو الفلسطينيين من أرضهم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/32w1boit82Y/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "32w1boit82Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الأونروا شريان حياة للكرامة والأمل",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ShTnwMNxpws/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ShTnwMNxpws"
         }
       }
     }
