@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "كلمة السعودية حول غزة، نيابة عن المجموعة العربية أمام مجلس الأمن",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpUJQkz02_0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "fpUJQkz02_0"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "غزة: سوء التغذية الحاد ليس موتا هادئا أو غير مؤلم",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsaqkR8UsKM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "rsaqkR8UsKM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "زلزال هز قاعة مجلس الأمن أثناء اجتماع حول غزة",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "wBGQmG31dp8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "سوء تغذية حاد بين الأطفال ومجاعة وشيكة في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-qpDe8o8kA/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7-qpDe8o8kA"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"لسنا مستعدين ولن نكون مستعدين لعملية واسعة في #رفح\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/L93H2rm42vQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "L93H2rm42vQ"
         }
       }
     }
