@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "'You're Making the Floor Shake': Earthquake Strikes During Gaza Debate at Security Council | UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eg-7sQXzSXM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eg-7sQXzSXM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Chief on Israel/Palestine Crisis - Media Stakeout | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "hfhJK8VLLh4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan Conflict: Inside Ala Kheir's Documentary Photography | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/PMSKqllWw7E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "PMSKqllWw7E"
         }
       }
     }
