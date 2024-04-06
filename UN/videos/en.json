@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Israel-Palestine Crisis: Interview with Palestinian Photographer Motaz Azaia | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c-pKkxSSy0s/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c-pKkxSSy0s"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "UN Human Rights Council Votes on Resolution Urging Arms Embargo on Israel | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHW5R-OvlhQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "RHW5R-OvlhQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (5 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "cPlxx7p7zm4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Where are Haiti’s gangs getting their weapons? | The Lid is On Series | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hz2uIDPreGE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hz2uIDPreGE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Children: 23,000 Blocked Aid Incidents Risk Children's Futures | UNICEF Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/uK0mdkPjP2I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "uK0mdkPjP2I"
         }
       }
     }
