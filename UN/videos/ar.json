@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "طلب عضوية فلسطين بالأمم المتحدة يُحال إلى لجنة مجلس الأمن المعنية",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/AM3dhLtPgeg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "AM3dhLtPgeg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"سكان غزة يستقبلون العيد بين أنقاض منازلهم\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xV45wjTRgSQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الصور تتحدث: تقييم الأضرار في #غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/D4tUfiyzcAU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "D4tUfiyzcAU"
         }
       }
     }
