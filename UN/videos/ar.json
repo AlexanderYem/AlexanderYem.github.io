@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"سكان غزة يستقبلون العيد بين أنقاض منازلهم\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ymm7vS1kpfw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Ymm7vS1kpfw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"الانسحاب الإسرائيلي من خان يونس قد يحسن الوضع لكنه قد يكون استعدادا للتوغل في رفح\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D4tUfiyzcAU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تدمير مستشفى الشفاء ينزع قلب النظام الصحي في غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/l3_3iYPYZ3k/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "l3_3iYPYZ3k"
         }
       }
     }
