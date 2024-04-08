@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (8 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZyNAQ62Rjo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "BZyNAQ62Rjo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ecuador/Mexico, Ukraine, Gaza & other topics - Daily Press Briefing (8 April 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "uv3nUV-ImcQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Where are Haiti’s gangs getting their weapons? | The Lid is On Series | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/hz2uIDPreGE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "hz2uIDPreGE"
         }
       }
     }
