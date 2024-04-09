@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Pedido palestino de adesão à ONU segue para comitê especializado",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwyRgnT7EKo/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "QwyRgnT7EKo"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Gaza: \"O hospital Al Shifa se tornou literalmente um cemitério\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "B8KRY9h5sAo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conselho de Segurança aprova resolução por cessar-fogo em Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/65JBhNbsXzg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "65JBhNbsXzg"
         }
       }
     }
