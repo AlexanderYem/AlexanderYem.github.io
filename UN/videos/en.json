@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (9 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/edifCY2ud38/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "edifCY2ud38"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "(ES) Colombia on the Country - Media Stakeout | Security Council | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Hxrq0WvjZKI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malta on New Security Council Members Admission - Media Stakeout | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/IinLv0-mU_E/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "IinLv0-mU_E"
         }
       }
     }
