@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المسلمون في #غزة و #السودان لن يتمكنوا من الاحتفال بالعيد كما ينبغي",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ICOqqM9sFg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3ICOqqM9sFg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "طلب عضوية فلسطين بالأمم المتحدة يُحال إلى لجنة مجلس الأمن المعنية",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "EMgbhBdVnWI"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "تقارير عن استخدام الذكاء الصناعي في قصف غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/xV45wjTRgSQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "xV45wjTRgSQ"
         }
       }
     }
