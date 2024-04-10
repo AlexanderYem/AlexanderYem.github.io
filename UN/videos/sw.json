@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Eid Mubarak yenye machungu!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6GuyuKulp4/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "v6GuyuKulp4"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "KWIBUKA30: Dunia bado inajifunza kwa Rwanda - Alice Nderitu",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "bQqRKnlvevc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Paulina Ngurumwa:  Mwanamke anahusika katika uzalishaji wa uchumi ambao hanufaiki nao",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/sIir6fpi2xo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "sIir6fpi2xo"
         }
       }
     }

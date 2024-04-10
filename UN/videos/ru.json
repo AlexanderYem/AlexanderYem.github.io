@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Казахстан и ООН",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/DL_vVGonCuA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "DL_vVGonCuA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Последствия обстрела Киева 25 марта",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "w0Yd220SAVM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Проект ПРООН по разминированию в Украине",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rSeY6o9IQxM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rSeY6o9IQxM"
         }
       }
     }
