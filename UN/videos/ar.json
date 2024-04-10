@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"أطراف الحرب في السودان تستخدم أجساد النساء كسلاح\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6qyscl2DZw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "y6qyscl2DZw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"فقدنا بوصلتنا الأخلاقية تجاه #غزة\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fzLXBA5omM8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "كلمة السعودية حول غزة، نيابة عن المجموعة العربية أمام مجلس الأمن",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fpUJQkz02_0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fpUJQkz02_0"
         }
       }
     }
