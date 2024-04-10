@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"فقدنا بوصلتنا الأخلاقية تجاه #غزة\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/nap_6Q8AlS8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "nap_6Q8AlS8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "توثيق الانتهاكات في غزة لضمان المساءلة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "fpUJQkz02_0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غزة: سوء التغذية الحاد ليس موتا هادئا أو غير مؤلم",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rsaqkR8UsKM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rsaqkR8UsKM"
         }
       }
     }
