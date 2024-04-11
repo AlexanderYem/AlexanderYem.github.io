@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "طفلة تعيش بجروحها بدون علاج في غزة: واحدة من كثيرين",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFKTIkH7EWI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XFKTIkH7EWI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"أطراف الحرب في السودان تستخدم أجساد النساء كسلاح\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xBshPwTcbBw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "معتز عزايزة: الصحافة في غزة هي المهنة الأكثر خطورة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/fzLXBA5omM8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "fzLXBA5omM8"
         }
       }
     }
