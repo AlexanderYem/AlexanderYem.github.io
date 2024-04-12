@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Russian Attacks on Ukrainian Cities Have Become a Destructive Pattern | UN Security Council Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/u3Ya0fw5vXw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "u3Ya0fw5vXw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (11 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "9yL8ic4Ozdo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan: Over 25 Million People in Humanitarian Crisis as Conflict Nears One Year | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/mEnbzSW-FWE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "mEnbzSW-FWE"
         }
       }
     }
