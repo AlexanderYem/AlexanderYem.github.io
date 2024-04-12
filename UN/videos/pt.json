@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Porque o plástico não é tão fantástico",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/5LlpOgr_2Nk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "5LlpOgr_2Nk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Pedido da #Palestina de adesão à #ONU segue para comitê especializado",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "M5mrQnc4h9M"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Secretário-geral da #ONU visita palestinos feridos pela guerra em #Gaza",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/B8KRY9h5sAo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "B8KRY9h5sAo"
         }
       }
     }
