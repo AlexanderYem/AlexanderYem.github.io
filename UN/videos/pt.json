@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Frases da semana na #onu - #gaza #ucrania #espaço",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/MzrrGfvMHBE/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "MzrrGfvMHBE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Porque o plástico não é tão fantástico",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "g_JFM9-wUxE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conselho de Segurança da #onu aprova cessar-fogo em #Gaza - #diplomacia #notíciasinternacionais",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/M5mrQnc4h9M/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "M5mrQnc4h9M"
         }
       }
     }
