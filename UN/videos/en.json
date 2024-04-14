@@ -2,19 +2,6 @@
   "items": [
     {
       "snippet": {
-        "title": "The 1994 Genocide Against the Tutsi in Rwanda: 30th Anniversary | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/K1KnyuvtrKc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "K1KnyuvtrKc"
-        }
-      }
-    },
-    {
-      "snippet": {
         "title": "Anquan Boldin: Super Bowl Champion Advocates for Racial Justice | United Nations",
         "thumbnails": {
           "high": {
@@ -23,6 +10,19 @@
         },
         "resourceId": {
           "videoId": "yUkIWZFCon4"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "The 1994 Genocide Against the Tutsi in Rwanda: 30th Anniversary | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1KnyuvtrKc/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "K1KnyuvtrKc"
         }
       }
     },
