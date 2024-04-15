@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "\"إنها حرب ضد الشعب السوداني\"",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/8sl7LypvbqU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "8sl7LypvbqU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "الجزائر: تطورات الشرق الأوسط يجب ألا تغطي على ما يحدث في غزة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "AM3dhLtPgeg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"سكان غزة يستقبلون العيد بين أنقاض منازلهم\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ymm7vS1kpfw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "Ymm7vS1kpfw"
         }
       }
     }
