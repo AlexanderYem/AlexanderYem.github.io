@@ -2,7 +2,46 @@
   "items": [
     {
       "snippet": {
-        "title": "(Full) Security Council on The Middle East | United Nations",
+        "title": "Middle East at Risk of Devastating Full-Scale Conflict: UN Chief | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3O7OmLatQk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "M3O7OmLatQk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Malta on Middle East Escalation Risks - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdjPfKnWAjk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "kdjPfKnWAjk"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Russia on Middle East, Escalation Risks - Media Stakeout | Security Council | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/R2Fk91vVhV8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "R2Fk91vVhV8"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "(Full Meeting) Escalation Risks in the Middle East | Security Council | United Nations",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/9YjY7AZAAkA/hqdefault.jpg"
@@ -88,45 +127,6 @@
         },
         "resourceId": {
           "videoId": "RN_qdL_v8qM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Russian Attacks on Ukrainian Cities Have Become a Destructive Pattern | UN Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/u3Ya0fw5vXw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "u3Ya0fw5vXw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (11 April 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eYqhOUFp1E4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eYqhOUFp1E4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Youth Forum 2024 (Opening) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/1wgAcey0DSM/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "1wgAcey0DSM"
         }
       }
     }
