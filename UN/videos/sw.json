@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Utajiri lukuki, lakini hohehahe!",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/eG0tYM17Nhg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "eG0tYM17Nhg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Ushirikiano kati ya Zanzibar na mashirika ya Umoja wa Mataifa ni wa chanda na pete",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "v6GuyuKulp4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "KWIBUKA30: Dunia bado inajifunza kwa Rwanda - Alice Nderitu",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/SGNdY0uO5qo/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "SGNdY0uO5qo"
         }
       }
     }

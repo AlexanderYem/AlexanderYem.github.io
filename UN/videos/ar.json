@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "شابة تونسية لمجلس الأمن: الفلسطينيون ليسوا مجرد أرقام",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJw7_sxRyJQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "WJw7_sxRyJQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "وزير السياحة السعودي: القطاع السياحي في المملكة ينمو بنسبة 55% واهتمامنا ينصب على استدامته بيئيا",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "nap_6Q8AlS8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "توثيق الانتهاكات في غزة لضمان المساءلة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gHpuLQR2kUc/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gHpuLQR2kUc"
         }
       }
     }
