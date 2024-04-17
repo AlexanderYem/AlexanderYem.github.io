@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وزير السياحة السعودي: القطاع السياحي في المملكة ينمو بنسبة 55% واهتمامنا ينصب على استدامته بيئيا",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VXywK0MTynk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VXywK0MTynk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"أصوات نساء اليمن غائبة عن طاولة صنع القرارات\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "gHpuLQR2kUc"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "المسلمون في #غزة و #السودان لن يتمكنوا من الاحتفال بالعيد كما ينبغي",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3ICOqqM9sFg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3ICOqqM9sFg"
         }
       }
     }
