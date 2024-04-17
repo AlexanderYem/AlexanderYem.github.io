@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Africanas são 130 vezes mais propensas a morrer durante a gravidez do que europeias e americanas",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8sY_lvvxSs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Y8sY_lvvxSs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Sonia Guajajara comenta preparação para COP30",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "jeI8yfvJwNM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Dia do Resíduo Zero",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZtM5FwViAgk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "ZtM5FwViAgk"
         }
       }
     }
