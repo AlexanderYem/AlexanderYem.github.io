@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Эдуард Яунгард и Екатерина Евай из Ямало-Ненецкого автономного округа РФ",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vaZLjFxzxUs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "vaZLjFxzxUs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Казахстан и ООН",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XNiVs1bL5qM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Буча и Ирпень спустя два года после начала войны",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0Yd220SAVM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "w0Yd220SAVM"
         }
       }
     }
