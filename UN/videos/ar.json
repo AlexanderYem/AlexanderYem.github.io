@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "الجزائر: الأونروا يجب أن تبقى ما بقي هناك لاجئون فلسطينيون",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrDWVYQOAyU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "OrDWVYQOAyU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "شابة تونسية لمجلس الأمن: الفلسطينيون ليسوا مجرد أرقام",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "y6qyscl2DZw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "\"فقدنا بوصلتنا الأخلاقية تجاه #غزة\"",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/nap_6Q8AlS8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "nap_6Q8AlS8"
         }
       }
     }
