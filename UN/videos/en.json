@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN Chief's Address to Finance Ministers' Climate Action Coalition | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/O2oMKRVOhxk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "O2oMKRVOhxk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Rosemary DiCarlo (DPPA) on maintenance of international peace and security - Security Council",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "SoUbJ6jvfZg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "WHO Patient Transfers",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-kejYGk1K1g/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-kejYGk1K1g"
         }
       }
     }
