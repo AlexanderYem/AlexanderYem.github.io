@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Sonia Guajajara comenta preparação para COP30",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VAXzAzXKDRY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VAXzAzXKDRY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Discurso da ministra Sonia Guajajara no Fórum Permanente das Nações Unidas sobre Questões Indígenas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ZtM5FwViAgk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Gaza: Moçambique aponta violação injustificada de resolução sobre cessar-fogo",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/9k4rp3RZDT8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "9k4rp3RZDT8"
         }
       }
     }
