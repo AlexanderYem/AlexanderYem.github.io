@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Admission of new members - Security Council Meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_C4-uuVVgWg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_C4-uuVVgWg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Palestine UN membership",
         "thumbnails": {
           "high": {
@@ -36,19 +49,6 @@
         },
         "resourceId": {
           "videoId": "mIrQ_Daor8o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Admission of new members - Security Council Meeting",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/_C4-uuVVgWg/hqdefault_live.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "_C4-uuVVgWg"
         }
       }
     },
