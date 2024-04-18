@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Malta on the situation in the Middle East including the Palestinian question | SC Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTCqBd6kI90/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jTCqBd6kI90"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UNRWA on the Middle East | Security Council Briefing",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "rfMJIz6eoek"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Malta on Maintenance of International Peace and Security-  Media Stakeout | UN Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7VUsNJ9AqfY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7VUsNJ9AqfY"
         }
       }
     }
