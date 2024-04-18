@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "التصويت على مشروع قرار جزائري يوصي بقبول فلسطين عضوا في الأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/sLD9Jj48_mk/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "sLD9Jj48_mk"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"الشرق الأوسط على حافة الهاوية\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "3bniaeDhdCY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "طفلة تعيش بجروحها بدون علاج في غزة: واحدة من كثيرين",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XFKTIkH7EWI/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XFKTIkH7EWI"
         }
       }
     }
