@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Middle East, Occupied Palestinian Territories, UNRWA & other topics - Daily Press Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/mIrQ_Daor8o/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "mIrQ_Daor8o"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Middle East, including the Palestinian question - Security Council Meeting",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "XQfo6PSWAG4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Youth rally at the UN to make the world a safer place",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/CDkarclHg48/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "CDkarclHg48"
         }
       }
     }
