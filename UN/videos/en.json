@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Middle East, including the Palestinian question - Security Council Meeting",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/_C4-uuVVgWg/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "_C4-uuVVgWg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Malta on the situation in the Middle East including the Palestinian question | SC Media Stakeout",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "CDkarclHg48"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Sudan's year of conflict - 5 critical facts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/rfMJIz6eoek/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "rfMJIz6eoek"
         }
       }
     }
