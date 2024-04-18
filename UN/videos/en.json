@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Palestine UN membership",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYHuzAf1fWs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "UYHuzAf1fWs"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Spain on the situation in the Middle East including the Palestinian question | SC Media Stakeout",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/o49PhYEheAY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "o49PhYEheAY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Middle East, Occupied Palestinian Territories, UNRWA & other topics - Daily Press Briefing",
         "thumbnails": {
           "high": {
@@ -15,7 +41,7 @@
     },
     {
       "snippet": {
-        "title": "Middle East, including the Palestinian question - Security Council Meeting",
+        "title": "Admission of new members - Security Council Meeting",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/_C4-uuVVgWg/hqdefault_live.jpg"
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "KxIg_BYElso"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine, Security Council, Ukraine  & other topics - Daily Press Briefing (17 April 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/NTlWX9tADzw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "NTlWX9tADzw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Population Report - 5 Facts",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/XQfo6PSWAG4/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "XQfo6PSWAG4"
         }
       }
     }
