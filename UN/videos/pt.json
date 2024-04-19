@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "50 anos da Revolução dos Cravos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/3WLLY13YjEU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "3WLLY13YjEU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Africanas são 130 vezes mais propensas a morrer durante a gravidez do que europeias e americanas",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "DcoKuHfnfa8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Haiti: Combate ao tráfico de armas",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/jeI8yfvJwNM/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "jeI8yfvJwNM"
         }
       }
     }
