@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Portuguesa enfatiza importância do Fórum da Juventude",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu-T2kdqiAw/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "gu-T2kdqiAw"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "50 anos da Revolução dos Cravos",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "xpyPtRIq4p0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Conflito no Sudão: por dentro da fotografia documental de Ala Kheir",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/DcoKuHfnfa8/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "DcoKuHfnfa8"
         }
       }
     }
