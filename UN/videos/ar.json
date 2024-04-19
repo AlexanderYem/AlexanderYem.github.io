@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "ما الذي يتطلبه حصول #فلسطين على عضوية الأمم المتحدة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BJlOJiE1js/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "6BJlOJiE1js"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "التصويت على مشروع قرار جزائري يوصي بقبول فلسطين عضوا في الأمم المتحدة",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ijMuD5Eyj0o"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "إطلاق نار على سيارات اليونيسف في #غزة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/3bniaeDhdCY/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "3bniaeDhdCY"
         }
       }
     }

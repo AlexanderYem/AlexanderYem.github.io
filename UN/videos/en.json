@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Israel/Iran, Gaza & other topics - Daily Press Briefing (19 April 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbaDDN5DvSg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zbaDDN5DvSg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Volker Türk in DRC",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "O2oMKRVOhxk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Rosemary DiCarlo (DPPA) on maintenance of international peace and security - Security Council",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/HkJv03F7Q3I/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "HkJv03F7Q3I"
         }
       }
     }
