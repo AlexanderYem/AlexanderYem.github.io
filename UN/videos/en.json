@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNRWA, Occupied Palestinian Territory & other topics - Daily Press Briefing (22 April)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vn8ew3I7RMA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Vn8ew3I7RMA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (22 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "KYpiXqCFk7U"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Israel/Iran, Gaza & other topics - Daily Press Briefing (19 April 2024)",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/zbaDDN5DvSg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "zbaDDN5DvSg"
         }
       }
     }
