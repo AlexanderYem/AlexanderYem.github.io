@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNMIK on Kosovo - Security Council Briefing",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/EFtorWkO0HQ/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "EFtorWkO0HQ"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Shakespeare at the UN: In Celebration of English Language Day 2024 at the United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "_C4-uuVVgWg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Palestine UN membership",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UYHuzAf1fWs/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UYHuzAf1fWs"
         }
       }
     }
