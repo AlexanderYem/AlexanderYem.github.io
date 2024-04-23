@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Climate, Plastic Pollution & other topics - Daily Press Briefing (23 April 2024)",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXhnPG-6tUs/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "PXhnPG-6tUs"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN News in Brief (23 April 2024) | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "59m8mQrhS7g"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Happy Spanish Language Day - April 23 | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/7AR9-gj8E78/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "7AR9-gj8E78"
         }
       }
     }
