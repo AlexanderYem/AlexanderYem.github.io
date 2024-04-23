@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UN News in Brief (23 April 2024) | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8_FoKHB7d8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "g8_FoKHB7d8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "UN Peacekeeping Matters: An Interview with Outgoing UN Military Adviser | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "7AR9-gj8E78"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Kosovo: Urgent Implementation of EU-Facilitated Agreements Needed | UN Security Council Briefing",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/EFtorWkO0HQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "EFtorWkO0HQ"
         }
       }
     }
