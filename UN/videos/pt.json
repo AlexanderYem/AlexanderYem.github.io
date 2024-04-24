@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "José Ramos-Horta participa na celebração dos 50 anos da Revolução dos Cravos",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/KCAzuEtGbSI/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "KCAzuEtGbSI"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Secretário de Estado dos Negócios Estrangeiros de Portugal fala sobre o 25 de abril",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "D0qnpDP9_fY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Frases da semana na #onu - #gaza #ucrania #espaço",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/MzrrGfvMHBE/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "MzrrGfvMHBE"
         }
       }
     }
