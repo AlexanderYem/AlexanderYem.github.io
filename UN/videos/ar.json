@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "المظاهرات في الولايات المتحدة وحرية التعبير",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bxte93Yr1ck/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Bxte93Yr1ck"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "فرصة منع المجاعة في السودان متاحة الآن",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "WJw7_sxRyJQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "وزير السياحة السعودي: القطاع السياحي في المملكة ينمو بنسبة 55% واهتمامنا ينصب على استدامته بيئيا",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VXywK0MTynk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VXywK0MTynk"
         }
       }
     }
