@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Secretário de Estado dos Negócios Estrangeiros de Portugal fala sobre o 25 de abril",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/XcEgr_C-1I8/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "XcEgr_C-1I8"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Debate na ONU: Legado da Revolução dos Cravos nas nações de língua portuguesa",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "MzrrGfvMHBE"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Porque o plástico não é tão fantástico",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/5LlpOgr_2Nk/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "5LlpOgr_2Nk"
         }
       }
     }
