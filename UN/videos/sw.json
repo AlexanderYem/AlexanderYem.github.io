@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Jinsi mabadiliko ya tabianchi yanavyoathiri watu wa jamii za asili Kenya",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/2h32mvKXycA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "2h32mvKXycA"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Muhtasari wa Habari za UN",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/9muYbG-bPAg/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "9muYbG-bPAg"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Jamii za asili Kenya na mapambano dhidi ya athari za mabadiliko ya tabianchi",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "syhy8qHScn0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Vijana wanaweza kuvumbua teknolojia ya kusongesha SDGs",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/-UGNM4Iygl0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "-UGNM4Iygl0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Utajiri lukuki, lakini hohehahe!",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/eG0tYM17Nhg/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "eG0tYM17Nhg"
         }
       }
     }
