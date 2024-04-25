@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "بلغة الإشارة، شاب فلسطيني ينقل للعالم محنة مجتمع الصم في غزة",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/Azd70m_4oOM/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "Azd70m_4oOM"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "تهديد صامت في #غزة: أطنان النفايات",
         "thumbnails": {
           "high": {
@@ -15,7 +28,7 @@
     },
     {
       "snippet": {
-        "title": "المظاهرات في الولايات المتحدة وحرية التعبير",
+        "title": "مظاهرات الطلاب في الولايات المتحدة وحرية التعبير",
         "thumbnails": {
           "high": {
             "url": "https://i.ytimg.com/vi/Bxte93Yr1ck/hqdefault.jpg"
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "ziyTol6m4QU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "الجزائر: الأونروا يجب أن تبقى ما بقي هناك لاجئون فلسطينيون",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/OrDWVYQOAyU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "OrDWVYQOAyU"
         }
       }
     }
