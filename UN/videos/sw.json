@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "Jamii za asili Kenya na mapambano dhidi ya athari za mabadiliko ya tabianchi",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/zJkx68hni14/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "zJkx68hni14"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "OLLE MJENGWA: Kijana una nafasi kubwa katika vita dhidi ya mabadiliko ya tabianchi",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "eG0tYM17Nhg"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Ushirikiano kati ya Zanzibar na mashirika ya Umoja wa Mataifa ni wa chanda na pete",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/UbC7RH5mrpw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "UbC7RH5mrpw"
         }
       }
     }
