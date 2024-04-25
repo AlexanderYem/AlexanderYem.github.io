@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "تهديد صامت في #غزة: أطنان النفايات",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_yXB4CHQmY/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "c_yXB4CHQmY"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "المظاهرات في الولايات المتحدة وحرية التعبير",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "OrDWVYQOAyU"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "شابة تونسية لمجلس الأمن: الفلسطينيون ليسوا مجرد أرقام",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/WJw7_sxRyJQ/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "WJw7_sxRyJQ"
         }
       }
     }
