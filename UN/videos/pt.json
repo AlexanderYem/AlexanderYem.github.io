@@ -2,6 +2,32 @@
   "items": [
     {
       "snippet": {
+        "title": "Portugal defende política de forte cooperação com a lusofonia",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/locNW4-ngwU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "locNW4-ngwU"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Evento em São Paulo aborda os desafios globais na regulação do mundo digital",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/jzp4BbV7RM0/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "jzp4BbV7RM0"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Liderança jovem indígena no Fórum Permanente das Nações Unidas sobre Questões Indígenas",
         "thumbnails": {
           "high": {
@@ -101,32 +127,6 @@
         },
         "resourceId": {
           "videoId": "jH10Pes00cQ"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "Portuguesa enfatiza importância do Fórum da Juventude",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/gu-T2kdqiAw/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "gu-T2kdqiAw"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "50 anos da Revolução dos Cravos",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/r3sx_5vQyj0/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "r3sx_5vQyj0"
         }
       }
     }
