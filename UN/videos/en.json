@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "UNEP Chief Speaks on Global Plastic Pollution Treaty | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRV7jPxf6eU/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "VRV7jPxf6eU"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Young Pro Snowboarder Bea Kim Advocates for Climate Action | United Nations",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "72DTvzRiVwM"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UN News in Brief (25 April 2024) | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/q6MBErbwGec/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "q6MBErbwGec"
         }
       }
     }
