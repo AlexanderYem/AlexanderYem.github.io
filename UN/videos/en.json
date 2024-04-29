@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "2024 International Jazz Day | United Nations",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/outjLO4gBVE/hqdefault_live.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "outjLO4gBVE"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "Kenya, South Sudan, Somalia, & other topics - Daily Press Briefing (29 April 2024)",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Wj_C4j7ivMk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "UNEP Chief Speaks on Global Plastic Pollution Treaty | United Nations",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/VRV7jPxf6eU/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "VRV7jPxf6eU"
         }
       }
     }
