@@ -2,6 +2,19 @@
   "items": [
     {
       "snippet": {
+        "title": "وثق آثار الحرب في غزة وفقد ساقيه، زميلنا عبد الله يستكمل رحلة العلاج",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3oZ8Ad39cA/hqdefault.jpg"
+          }
+        },
+        "resourceId": {
+          "videoId": "z3oZ8Ad39cA"
+        }
+      }
+    },
+    {
+      "snippet": {
         "title": "\"أكثر من 10 آلاف امرأة لقيت مصرعها في غزة بسبب الحرب\"",
         "thumbnails": {
           "high": {
@@ -114,19 +127,6 @@
         },
         "resourceId": {
           "videoId": "Qi5_7IIFCd4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ما الذي يتطلبه حصول #فلسطين على عضوية الأمم المتحدة",
-        "thumbnails": {
-          "high": {
-            "url": "https://i.ytimg.com/vi/6BJlOJiE1js/hqdefault.jpg"
-          }
-        },
-        "resourceId": {
-          "videoId": "6BJlOJiE1js"
         }
       }
     }
